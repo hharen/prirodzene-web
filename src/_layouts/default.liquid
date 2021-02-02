@@ -5,6 +5,7 @@
   </head>
   <body class="{{ page.layout }} {{ page.page_class }}">
     {% render "navbar", metadata: site.metadata, page: page %}
+    {% render "header", metadata: site.metadata %}
 
     <main>
       {{ content }}
