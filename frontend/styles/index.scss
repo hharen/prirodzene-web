@@ -19,8 +19,17 @@ body {
   font-size: 18px;
 }
 
+main {
+  max-width: 80rem;
+}
+
 .post main {
   margin: 4rem;
+}
+
+.post img {
+  display: inline-block;
+  max-height: 500px;
 }
 
 h1, h2, h3 {
@@ -60,17 +69,6 @@ nav a:hover {
 footer {
   background-color: $green;
 }
-
-main {
-  max-width: 80rem;
-}
-
-// @layer components {
-//   .topic {
-//     @apply min-w-30;
-//   }
-// }
-
 
 .topic {
   position: relative;

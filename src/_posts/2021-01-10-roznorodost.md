@@ -17,8 +17,13 @@ zhoršený zrak, zvýšený tlak či nízky cukor, skolióza alebo tenisový lak
 alebo normu „bežného človeka“. Je to prirodzené, keďže nie je možné učiť sa o nekonečnom množstve anatomických variácií. Na našu rôznorodosť však nesmieme zabúdať.
 <br>
 <br>
-<div class='ludske-telo'>
+<div class='ludske-telo mb-8'>
 Anatomické ilustrácie, ktoré môžete nájsť na našom webe predstavujú len niektoré z množstva prirodzených variácií a týkajú sa dospelých alebo starších dospievajúcich ľudí.
 Chceli by sme zdôrazniť, že ak sa vaše telo nepodobá ani jednej z našich ilustrácií, je to úplne v poriadku. Naše telá sa líšia vzhľadom, líšia sa v spôsoboch, akým nám dávajú najavo, keď niečo nie je v poriadku, líšime sa v prežívaní emócií a všetky telá si vyžadujú jedinečný typ starostlivosti. Ak vám naše definície a opisy pomôžu, budeme radi. Nezabúdajte však, že vy
 poznáte svoje telo najlepšie a ani odborné informácie nezahrňujú všetky možnosti. 
+</div>
+
+<div class="flex flex-wrap justify-around">
+<img src="/images/roznorodost-1.jpg" alt="Rôznorodí ľudia">
+<img src="/images/roznorodost-2.jpg" alt="Rôznorodé zadky">
 </div>
