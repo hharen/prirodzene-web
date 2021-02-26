@@ -34,12 +34,29 @@ h1, footer {
   text-align: center;
 }
 
+nav {
+  margin-right: 50px;
+  font-size: 1.3rem;
+  font-variant: small-caps;
+  display: flex;
+  justify-content: flex-end;
+  align-items: stretch;
+}
+
+nav a {
+  padding: 8px 10px;
+}
+
+nav a:hover {
+  background-color: $green;
+  color: white;
+}
+
 footer {
   background-color: $green;
 }
 
 main {
-  margin: 4rem auto;
   max-width: 80rem;
 }
 
