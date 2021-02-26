@@ -8,7 +8,7 @@ $body-background: #fafafa;
 $body-color: #000;
 
 $green: #72C9B6;
-$pink:#DBB1FD;
+$violet: #DBB1FD;
 $yellow: #E1C86C;
 $orange: #E69174;
 
@@ -16,6 +16,11 @@ body {
   background: $body-background;
   color: $body-color;
   font-family: 'Josefin Sans', sans-serif;
+  font-size: 18px;
+}
+
+.post main {
+  margin: 4rem;
 }
 
 h1, h2, h3 {
@@ -94,5 +99,11 @@ main {
 
 .middle {
   bottom: 10%!important;
+}
+
+.ludske-telo {
+  color: white;
+  background-color: $violet;
+  padding: 2rem 2.5rem;
 }
 
