@@ -5,7 +5,7 @@ date:   2021-01-21 23:09:31 +0100
 categories: updates
 ---
 
-#Rôznorodosť
+# Rôznorodosť
 Základy ľudskej anatómie sú súčasťou učiva už na základnej škole. Cieľom týchto hodín je naučiť nás skladbu ľudského tela a funkcie jednotlivých sústav a orgánov. Je nepochybne dôležité mať všeobecné chápanie fungovania ľudského organizmu. V našom tradičnom vzdelávacom systéme sa však často zabúda na jeden dôležitý fakt.
 
 Naše telá sa líšia.
