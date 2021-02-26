@@ -7,10 +7,27 @@
 $body-background: #fafafa;
 $body-color: #000;
 
+$green: #72C9B6;
+$pink:#DBB1FD;
+$yellow: #E1C86C;
+$orange: #E69174;
+
 body {
   background: $body-background;
   color: $body-color;
-  font-family: sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2em;
 }
 
 h1, footer {
@@ -30,14 +47,31 @@ main {
 
 
 .topic {
-  // min-width: 200px;
-  // max-width: 400px;
+  position: relative;
   width: 300px;
   text-align: center;
   text-transform: uppercase;
-  margin: 0.5em 1em;
+  margin: 1em;
+  box-shadow: 5px 5px 8px #E1C86C;
+  border-radius: 5px;
 }
 
 .topic img {
-  margin-bottom: 1em;
+  border-radius: 5px;
 }
+
+.topic h3 {
+  position: absolute;
+  bottom: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(256,256,256,0.7);
+  padding: 0.5em 2em;
+  font-size: 1.4em;
+  border-radius: 5px;
+}
+
+.middle {
+  bottom: 10%!important;
+}
+

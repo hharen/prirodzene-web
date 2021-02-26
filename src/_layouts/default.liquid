@@ -2,10 +2,14 @@
 <html lang="en">
   <head>
     {% render "head", metadata: site.metadata, title: page.title %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;600&display=swap" rel="stylesheet">
+
+
+
   </head>
   <body class="{{ page.layout }} {{ page.page_class }}">
     {% render "navbar", metadata: site.metadata, page: page %}
-    {% render "header", metadata: site.metadata %}
 
     <main>
       {{ content }}
