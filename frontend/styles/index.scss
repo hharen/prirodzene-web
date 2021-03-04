@@ -11,6 +11,7 @@ $green: #72C9B6;
 $violet: #DBB1FD;
 $yellow: #E1C86C;
 $orange: #E69174;
+$grey: #DBDBDB;
 
 body {
   background: $body-background;
@@ -20,7 +21,8 @@ body {
 }
 
 main {
-  max-width: 80rem;
+  max-width: 60rem;
+  margin: 0 auto;
 }
 
 .post main {
@@ -66,6 +68,10 @@ nav a:hover {
   color: white;
 }
 
+p {
+  margin-bottom: 0.5em;
+}
+
 footer {
   background-color: $green;
 }
@@ -99,9 +105,24 @@ footer {
   bottom: 10%!important;
 }
 
+.important-text {
+  text-align: center;
+  margin: 1.5em 0;
+  font-weight: bold;
+}
+
+.notes {
+  background-color: $grey;
+  padding: 2rem 2.5rem;
+  margin: 1em 0;
+}
+
 .ludske-telo {
   color: white;
   background-color: $violet;
   padding: 2rem 2.5rem;
+  margin: 1em 0;
 }
+
+
 

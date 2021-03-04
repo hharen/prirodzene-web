@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Posts
+title: 'Články'
 permalink: /clanky
 ---
 
@@ -11,5 +11,3 @@ permalink: /clanky
     </li>
   {% endfor %}
 </ul>
-
-If you have a lot of posts, you may want to consider adding [pagination](https://www.bridgetownrb.com/docs/content/pagination)!
