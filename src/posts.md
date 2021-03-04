@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Posts
-permalink: /posts/
+permalink: /clanky
 ---
 
 <ul>
