@@ -1,8 +1,8 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
-@import 'navigation', 'header';
-
+@import "/navigation";
+@import "/header";
 
 $body-background: #fafafa;
 $body-color: #000;
