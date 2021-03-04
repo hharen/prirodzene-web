@@ -1,7 +1,7 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
-@import 'navigation', 'header';
+@import 'navigation', 'header', 'posts';
 
 
 $body-background: #fafafa;
@@ -21,15 +21,6 @@ body {
 
 main {
   max-width: 80rem;
-}
-
-.post main {
-  margin: 4rem;
-}
-
-.post img {
-  display: inline-block;
-  max-height: 500px;
 }
 
 h1, h2, h3 {
