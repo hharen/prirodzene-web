@@ -1,17 +1,128 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import "/navigation";
+@import "/header";
+
 $body-background: #fafafa;
-$body-color: #444;
+$body-color: #000;
+
+$green: #72C9B6;
+$violet: #DBB1FD;
+$yellow: #E1C86C;
+$orange: #E69174;
+$grey: #DBDBDB;
 
 body {
   background: $body-background;
   color: $body-color;
-  font-family: sans-serif;
-}
-
-h1, nav, footer {
-  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 18px;
+  margin: 0 auto;
 }
 
 main {
-  margin: 4rem auto;
-  max-width: 60rem;
+  // max-width: 100rem;
 }
+
+.post main {
+  margin: 4rem;
+}
+
+.post img {
+  display: inline-block;
+  max-height: 500px;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h1, footer {
+  text-align: center;
+}
+
+nav {
+  margin-right: 50px;
+  font-size: 1.3rem;
+  font-variant: small-caps;
+  display: flex;
+  justify-content: flex-end;
+  align-items: stretch;
+}
+
+nav a {
+  padding: 8px 10px;
+}
+
+nav a:hover {
+  background-color: $green;
+  color: white;
+}
+
+p {
+  margin-bottom: 0.5em;
+}
+
+footer {
+  background-color: $green;
+}
+
+.topic {
+  position: relative;
+  width: 300px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 1em;
+  box-shadow: 5px 5px 8px #E1C86C;
+  border-radius: 5px;
+}
+
+.topic img {
+  border-radius: 5px;
+}
+
+.topic h3 {
+  position: absolute;
+  bottom: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(256,256,256,0.7);
+  padding: 0.5em 2em;
+  font-size: 1.4em;
+  border-radius: 5px;
+}
+
+.middle {
+  bottom: 10%!important;
+}
+
+.important-text {
+  text-align: center;
+  margin: 1.5em 0;
+  font-weight: bold;
+}
+
+.notes {
+  background-color: $grey;
+  padding: 2rem 2.5rem;
+  margin: 1em 0;
+}
+
+.ludske-telo {
+  color: white;
+  background-color: $violet;
+  padding: 2rem 2.5rem;
+  margin: 1em 0;
+}
+
+
+
