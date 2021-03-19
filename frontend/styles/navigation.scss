@@ -1,7 +1,36 @@
+$green: #72C9B6;
+
 nav {
   text-align: right;
 }
 
 nav a {
   text-decoration: none;
+  padding: 8px 10px;
+}
+
+.nav-main {
+  margin-right: 50px;
+  font-size: 1.3rem;
+  font-variant: small-caps;
+  display: flex;
+  justify-content: flex-end;
+  align-items: stretch;
+}
+
+nav a:hover {
+  background-color: $green;
+  color: white;
+}
+
+.nav-second {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  width: 100%;
+}
+
+.nav-second a {
+  flex: 1;
+  text-align: center;
 }

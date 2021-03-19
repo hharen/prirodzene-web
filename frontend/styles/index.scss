@@ -50,24 +50,6 @@ h1, footer {
   text-align: center;
 }
 
-nav {
-  margin-right: 50px;
-  font-size: 1.3rem;
-  font-variant: small-caps;
-  display: flex;
-  justify-content: flex-end;
-  align-items: stretch;
-}
-
-nav a {
-  padding: 8px 10px;
-}
-
-nav a:hover {
-  background-color: $green;
-  color: white;
-}
-
 p {
   margin-bottom: 0.5em;
 }
@@ -124,5 +106,20 @@ footer {
   margin: 1em 0;
 }
 
+// Colours
+.f-telo {
+  background-color: $violet;
+}
 
+.f-sex {
+  background-color: $green;
+}
+
+.f-zdravie {
+  background-color: $yellow;
+}
+
+.f-vztahy {
+  background-color: $orange;
+}
 
