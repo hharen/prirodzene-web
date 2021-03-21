@@ -36,20 +36,20 @@ i: 0
   </div>
 </section>
 
-<section>
-  <h2>Ľudské telo</h2>
-  <ul>
-    {% for post in site.posts  %}
-      {% if post.topic == 'Ľudské telo' %}
+<section class="py-8 px-4">
+  <h2 class="text-center">Ľudské telo</h2>
+  {% for post in site.posts  %}
+    {% if post.topic == 'Ľudské telo' %}
       {% capture times_if %}{% increment times_if %}{% endcapture %}
       {% if times_if < '3' %}
-        <li>
+        <h3 class="f-telo p-4">
           <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
+        </h3>
+        <p>{{ post.excerpt }}</p>
+        <p class='mb-8'><a href="{{ post.url }}" class=''>Čítať ďalej</a></p>
       {% endif %}
-      {% endif %}
-    {% endfor %}
-  </ul>
+    {% endif %}
+  {% endfor %}
 </section>
 
 
