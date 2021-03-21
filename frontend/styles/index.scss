@@ -1,9 +1,11 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+@import "/colors";
 @import "/navigation";
 @import "/header";
-@import "/colors";
+@import "/buttons";
+
 
 body {
   background: $body-background;
@@ -17,7 +19,7 @@ main {
   // max-width: 100rem;
 }
 
-.post main {
+.post main, .posts {
   margin: 4rem;
 }
 
