@@ -3,15 +3,7 @@
 @import "tailwindcss/utilities";
 @import "/navigation";
 @import "/header";
-
-$body-background: #fafafa;
-$body-color: #000;
-
-$green: #72C9B6;
-$violet: #DBB1FD;
-$yellow: #E1C86C;
-$orange: #E69174;
-$grey: #DBDBDB;
+@import "/colors";
 
 body {
   background: $body-background;
