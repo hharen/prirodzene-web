@@ -1,6 +1,7 @@
 ---
 title: Prirodzene
 layout: home
+i: 0
 ---
 
 <div class="mx-8 md:mx-32 my-20 text-3xl text-center">
@@ -33,6 +34,22 @@ layout: home
       <h3 class="middle">Vzťahy a ľudské správanie</h3>
     </div>
   </div>
+</section>
+
+<section>
+  <h2>Ľudské telo</h2>
+  <ul>
+    {% for post in site.posts  %}
+      {% if post.topic == 'Ľudské telo' %}
+      {% capture times_if %}{% increment times_if %}{% endcapture %}
+      {% if times_if < '3' %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
 </section>
 
 
