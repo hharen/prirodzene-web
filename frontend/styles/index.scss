@@ -15,11 +15,11 @@ body {
   margin: 0 auto;
 }
 
-main {
+main .page {
   // max-width: 100rem;
 }
 
-.post main, .posts {
+.page main, .post main, .posts {
   margin: 4rem;
 }
 
@@ -50,6 +50,14 @@ p {
 
 footer {
   background-color: $green;
+}
+
+a {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: square;
 }
 
 .topic {
