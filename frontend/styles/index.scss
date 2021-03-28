@@ -108,6 +108,13 @@ ul {
   margin: 1em 0;
 }
 
+// Images
+.team-img {
+  display: inline-block;
+  margin: 1em 0 3em;
+  max-width: 500px;
+}
+
 // Colours
 .f-telo {
   background-color: $violet;
