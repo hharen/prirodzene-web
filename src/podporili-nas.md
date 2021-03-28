@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Podporili nás'
-metadescpription: 'V rámci projektu Prirodzene nás podporili rôzne spoločnosti aj súkromné osoby.'
+meta: 'V rámci projektu Prirodzene nás podporili rôzne spoločnosti aj súkromné osoby.'
 permalink: /podporili-nas/
 ---
 
