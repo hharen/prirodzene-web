@@ -103,9 +103,7 @@ ul {
   margin: 1em 0;
 }
 
-.ludske-telo {
-  color: white;
-  background-color: $violet;
+.topic-bar {
   padding: 2rem 2.5rem;
   margin: 1em 0;
 }
@@ -119,10 +117,12 @@ ul {
 
 // Colours
 .f-telo {
+  color: white;
   background-color: $violet;
 }
 
 .f-sex {
+  color: white;
   background-color: $green;
 }
 

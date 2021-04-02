@@ -9,7 +9,7 @@ nav a, .social-links a {
   padding: 8px 10px;
 }
 
-.nav-main, .nav-main span {
+.nav-main {
   margin-right: 50px;
   font-size: 1.3rem;
   font-variant: small-caps;
@@ -33,4 +33,8 @@ nav a:hover, .social-links a:hover {
 .nav-second a {
   flex: 1;
   text-align: center;
+}
+
+a.dropdown-item {
+  text-align: left;
 }
