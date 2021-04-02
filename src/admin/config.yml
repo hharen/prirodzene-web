@@ -35,6 +35,23 @@ collections:
           - { label: 'Sex a sexualita', value: 'sex' }
           - { label: 'Sexuálne zdravie', value: 'zdravie' }
           - { label: 'Vzťahy a ľudské správanie', value: 'vztahy' }
+      - label: Subtopic
+        name: subtopic 
+        widget: select
+        options: 
+          - { label: 'Anatómia', value: 'anatomia' }
+          - { label: 'Vývin človeka', value: 'vyvin' }
+          - { label: 'Sexuálna orientácia', value: 'orientacia' }
+          - { label: 'Rodová identita', value: 'identita' }
+          - { label: 'Sex pozitivita', value: 'pozitivita' }
+          - { label: 'Sex', value: 'sex-subtopic' }
+          - { label: 'Sexualita v médiách', value: 'sexualita-subtopic' }
+          - { label: 'Zdravotné problémy', value: 'problemy' }
+          - { label: 'Pohlavne prenostné infekcie', value: 'infekcie' }
+          - { label: 'Bariéry', value: 'bariery' }
+          - { label: 'Vzorce vzťahov', value: 'vzorce' }
+          - { label: 'Komunikácia', value: 'komunikacia' }
+          - { label: 'Súhlas', value: 'suhlas' }
       - { label: Publish Date, name: date, widget: datetime }
       - { label: Body, name: body, widget: markdown }
   - name: pages
