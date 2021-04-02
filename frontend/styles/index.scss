@@ -1,17 +1,12 @@
+@import "~bulma/bulma";
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+@import "/colors";
 @import "/navigation";
 @import "/header";
+@import "/buttons";
 
-$body-background: #fafafa;
-$body-color: #000;
-
-$green: #72C9B6;
-$violet: #DBB1FD;
-$yellow: #E1C86C;
-$orange: #E69174;
-$grey: #DBDBDB;
 
 body {
   background: $body-background;
@@ -21,11 +16,11 @@ body {
   margin: 0 auto;
 }
 
-main {
+main .page {
   // max-width: 100rem;
 }
 
-.post main {
+.page main, .post main, .posts {
   margin: 4rem;
 }
 
@@ -40,6 +35,7 @@ h1, h2, h3 {
 
 h1 {
   font-size: 3em;
+  margin-bottom: 0.5em;
 }
 
 h2 {
@@ -50,30 +46,20 @@ h1, footer {
   text-align: center;
 }
 
-nav {
-  margin-right: 50px;
-  font-size: 1.3rem;
-  font-variant: small-caps;
-  display: flex;
-  justify-content: flex-end;
-  align-items: stretch;
-}
-
-nav a {
-  padding: 8px 10px;
-}
-
-nav a:hover {
-  background-color: $green;
-  color: white;
-}
-
 p {
   margin-bottom: 0.5em;
 }
 
 footer {
   background-color: $green;
+}
+
+p a {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: square;
 }
 
 .topic {
@@ -124,5 +110,27 @@ footer {
   margin: 1em 0;
 }
 
+// Images
+.team-img {
+  display: inline-block;
+  margin: 1em 0 3em;
+  max-width: 500px;
+}
 
+// Colours
+.f-telo {
+  background-color: $violet;
+}
+
+.f-sex {
+  background-color: $green;
+}
+
+.f-zdravie {
+  background-color: $yellow;
+}
+
+.f-vztahy {
+  background-color: $orange;
+}
 

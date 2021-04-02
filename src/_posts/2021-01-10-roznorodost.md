@@ -6,7 +6,8 @@ date:   2021-01-10 23:09:31 +0100
 subtopic: 'Anatómia'
 ---
 
-Základy ľudskej anatómie sú súčasťou učiva už na základnej škole. Cieľom týchto hodín je naučiť nás skladbu ľudského tela a funkcie jednotlivých sústav a orgánov. Je nepochybne dôležité mať všeobecné chápanie fungovania ľudského organizmu. V našom tradičnom vzdelávacom systéme sa však často zabúda na jeden dôležitý fakt.
+Základy ľudskej anatómie sú súčasťou učiva už na základnej škole. Cieľom týchto hodín je naučiť nás skladbu ľudského tela a funkcie jednotlivých sústav a orgánov. Je nepochybne dôležité mať všeobecné chápanie fungovania ľudského organizmu. V našom tradičnom vzdelávacom systéme sa však často zabúda na jeden dôležitý fakt.  
+
 <p class="important-text">Naše telá sa líšia.</p>
 Samozrejme, väčšinu z nás spájajú s istou časťou populácie rovnaké alebo podobné telesné charakteristiky, či už vonkajšie alebo vnútorné. Avšak, rovnako, ako nás niektoré črty spájajú, iné nás od seba odlišujú. Každému z nás sa v živote prihodili alebo prihodia nejaké zdravotné komplikácie či problémy, napríklad menší či väčší úraz, vrodené problémy či postihnutie,
 zhoršený zrak, zvýšený tlak či nízky cukor, skolióza alebo tenisový lakeť. Rovnako existujú aj výzorové odlišnosti ako farba a pigmentácia pleti, štruktúra vlasov, váha, výška, znamienka, strie a mnohé iné. Niektoré naše odlišnosti nám robia radosť, iné nám spôsobujú problémy, ktoré sa dajú riešiť, a niektoré sú trvalé a musíme sa s nimi naučiť žiť. Na hodinách biológie sa však učíme anatómiu z kresieb alebo fotografií, ktoré majú predstavovať priemer

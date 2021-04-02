@@ -1,0 +1,18 @@
+@import "/colors";
+
+.btn {
+  @apply py-2 px-4 rounded;
+  text-decoration: none!important;
+}
+
+.btn-violet {
+  border: 1px solid $violet;
+  color: $violet;
+}
+
+.btn-violet:hover {
+  background-color: $violet;
+  color: #fff;
+}
+
+
