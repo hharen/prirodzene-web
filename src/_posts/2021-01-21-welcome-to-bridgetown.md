@@ -1,9 +1,9 @@
 ---
 layout: post
-topic: 'Identita jednotlivca'
-title:  "Your FFirst Post on Bridgetown"
-date:   2021-01-21 23:09:31 +0100
-subtopic: updates
+title: Your FFirst Post on Bridgetown
+topic: vztahy
+subtopic: vzorce
+date: 2021-01-21 23:09:31 +0100
 ---
 
 # Test

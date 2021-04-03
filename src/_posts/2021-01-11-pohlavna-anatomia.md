@@ -1,9 +1,9 @@
 ---
 layout: post
-topic: 'Ľudské telo'
-title: 'Pohlavná anatómia'
-date:   2021-01-10 23:09:31 +0100
-subtopic: 'Anatómia'
+title: Pohlavná anatómia
+topic: telo
+subtopic: anatomia
+date: 2021-01-10 23:09:31 +0100
 ---
 
 Pohlavie človeka, na rozdiel od rodu, súvisí s našimi biologickými charakteristikami. Cicavce sú najčastejšie rozdelené medzi samcov a samice. Pri ľuďoch tieto pomenovania často zamieňame s pojmami „muž a žena“, avšak, mužské a ženské črty súvisia predovšetkým s rodom človeka. Samčie a samičie črty súvisia s biologickým pohlavím. Môžeme ho definovať na základe nasledujúcich faktorov:
