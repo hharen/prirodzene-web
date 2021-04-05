@@ -46,7 +46,7 @@ i: 0
 
 
   {% for post in site.posts  %}
-    {% if post.topic == 'Ľudské telo' %}
+    {% if post.topic == 'telo' %}
       {% capture times_if %}{% increment times_if %}{% endcapture %}
       {% if times_if < '2' %}
         <h3 class="f-telo p-4">
