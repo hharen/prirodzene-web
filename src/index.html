@@ -38,10 +38,11 @@ i: 0
 
 <section class="posts py-8 px-4">
   <h2 class="text-center">Ľudské telo</h2>
+  {% assign telo-post = site.posts[4] %}
   <h3 class="f-telo p-4">
-  <a href="{{ site.posts[4].url }}">{{ site.posts[4].title}}</a>
+  <a href="{{ telo-post.url }}">{{ telo-post.title}}</a>
   </h3>
-  <p>{{ site.posts[4].excerpt }}</p>
+  <p>{{ telo-post.excerpt }}</p>
   <p class='mb-8'><a href="{{ post.url }}" class="btn btn-violet">Čítať ďalej</a></p>
 
 
