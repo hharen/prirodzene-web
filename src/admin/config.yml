@@ -73,6 +73,6 @@ collections:
         fields:
           - { label: Title, name: title, widget: hidden, default: About }
           - { label: Layout, name: layout, widget: hidden, default: page }
-          - { label: Permalink, name: permalink, widget: string, default: '/about/' }
+          - { label: Permalink, name: permalink, widget: string }
           - { label: Metadescription, name: metadescription, widget: markdown }
           - { label: Body, name: body, widget: markdown }
