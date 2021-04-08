@@ -11,7 +11,7 @@ backend:
 local_backend: true # Enable the CMS locally
 
 media_folder: src/images/uploads # location of where we want images uploaded via the CMS put
-public_folder: src/images/uploads 
+public_folder: /images/uploads 
 
 collections:
   - name: blog # collection name
@@ -53,6 +53,7 @@ collections:
           - { label: 'Komunikácia', value: 'komunikacia' }
           - { label: 'Súhlas', value: 'suhlas' }
       - { label: Publish Date, name: date, widget: datetime }
+      - { label: Metadescription, name: metadescription, widget: markdown }
       - { label: Body, name: body, widget: markdown }
   - name: pages
     label: Pages
@@ -72,4 +73,5 @@ collections:
           - { label: Title, name: title, widget: hidden, default: About }
           - { label: Layout, name: layout, widget: hidden, default: page }
           - { label: Permalink, name: permalink, widget: string, default: '/about/' }
+          - { label: Metadescription, name: metadescription, widget: markdown }
           - { label: Body, name: body, widget: markdown }
