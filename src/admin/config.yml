@@ -26,6 +26,7 @@ collections:
     fields: # Fields for the collection
       - { label: Layout, name: layout, widget: hidden, default: post }
       - { label: Title, name: title, widget: string }
+      - { label: Slug, name: slug, widget: string }
       - label: Topic
         name: topic 
         widget: select
