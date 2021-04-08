@@ -72,6 +72,10 @@ ul {
   border-radius: 5px;
 }
 
+.topic:hover {
+  filter: grayscale(0.4);
+}
+
 .topic img {
   border-radius: 5px;
 }
@@ -119,6 +123,10 @@ ul {
 .f-telo {
   color: white;
   background-color: $violet;
+}
+
+.f-identita {
+  border: 1px solid black;
 }
 
 .f-sex {
