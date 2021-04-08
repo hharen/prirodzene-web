@@ -1,9 +1,9 @@
 ---
 layout: post
-topic: 'Ľudské telo'
-title: 'Anatómia intersex ľudí'
-date:   2021-01-10 23:09:31 +0100
-subtopic: 'Anatómia'
+title: Anatómia intersex ľudí
+topic: telo
+subtopic: anatomia
+date: 2021-01-10 23:09:31 +0100
 ---
 
 Ako sme už spomenuli, ľudia, ktorí nemajú všetky biologicky mužské alebo všetky biologicky ženské atribúty sa volajú intersex. Takýto ľudia môžu mať napríklad samčie chromozómy, ale samičie pohlavné ústrojenstvo. Môže sa im líšiť vnútorné a vonkajšie pohlavné ústrojenstvo aj hormóny a ich receptory. Je veľké množstvo kombinácií samčích a samičích charakteristík, ktoré intersex ľudia môžu mať. Z tohto dôvodu sa hovorí, že aj biologické pohlavie existuje na spektre, pričom väčšina ľudí je na opačných koncoch tohto spektra a intersex ľudia sa nachádzajú na rôznych pozíciách medzi opačnými koncami.   

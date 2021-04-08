@@ -3,6 +3,45 @@ layout: default
 ---
 
 <h1>{{ page.title }}</h1>
-<p class="text-center text-xl font-medium px-10 py-8 mb-8 ludske-telo">{{ page.topic }} - {{ page.subtopic }}</p>
+<p class="text-center text-xl font-medium px-10 py-8 mb-8 topic-bar f-{{ page.topic}}">
+{% assign topic = page.topic %} {% case topic %}
+{% when 'telo' %}
+Ľudské telo 
+{% when 'identita' %}
+Identita jednotlivca
+{% when 'sex' %}
+Sex a sexualita 
+{% when 'zdravie' %}
+Sexuálne zdravie
+{% when 'vztahy' %}
+Vzťahy a ľudské správanie
+{% endcase %}
+ - 
+{% assign subtopic = page.subtopic %} {% case subtopic %}
+{% when 'anatomia' %}
+Anatómia
+{% when 'vyvin' %}
+Vývin človeka
+{% when 'orientacia' %}
+Sexuálna orientácia
+{% when 'identita' %}
+Rodová identita
+{% when 'pozitivita' %}
+Sex pozitivita
+{% when 'sex-subtopic' %}
+Sex
+{% when 'problemy' %}
+Zdravotné problémy
+{% when 'infekcie' %}
+Pohlavne prenostné infekcie
+{% when 'bariery' %}
+Bariéry
+{% when 'vzorce' %}
+Vzorce vzťahov
+{% when 'komunikacia' %}
+Komunikácia
+{% when 'suhlas' %}
+Súhlas
+{% endcase %}</p>
 
 {{ content }}
