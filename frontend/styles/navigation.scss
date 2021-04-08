@@ -18,7 +18,7 @@ nav a, .social-links a {
   align-items: stretch;
 }
 
-nav a:hover, .social-links a:hover {
+nav a:hover, nav span:hover, .social-links a:hover {
   background-color: $green;
   color: white;
 }
