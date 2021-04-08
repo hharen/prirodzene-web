@@ -10,11 +10,11 @@ permalink: /partneri
 [Sei Online](https://seionline.ch/en/){:target="_blank"}    
 
 
-Barbora Blašková 
-Daniela Bődová
-Dušan  Sládečka
-Lucia Plaváková    
-Marie Stracenská    
+Barbora Blašková  
+Daniela Bődová  
+Dušan  Sládečka  
+Lucia Plaváková     
+Marie Stracenská     
 Monika Očková    
 Richard Fekete    
 Silvia Brišáková    
