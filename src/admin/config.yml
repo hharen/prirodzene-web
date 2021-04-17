@@ -44,15 +44,13 @@ collections:
           - { label: 'Vývin človeka', value: 'vyvin' }
           - { label: 'Sexuálna orientácia', value: 'orientacia' }
           - { label: 'Rodová identita', value: 'identita' }
-          - { label: 'Sex pozitivita', value: 'pozitivita' }
+          - { label: 'Sexualita a spoločnosť', value: 'spolocnost' }
           - { label: 'Sex', value: 'sex-subtopic' }
-          - { label: 'Sexualita v médiách', value: 'sexualita-subtopic' }
           - { label: 'Zdravotné problémy', value: 'problemy' }
           - { label: 'Pohlavne prenostné infekcie', value: 'infekcie' }
-          - { label: 'Bariéry', value: 'bariery' }
-          - { label: 'Vzorce vzťahov', value: 'vzorce' }
+          - { label: 'Antikoncepcia a bariéry', value: 'bariery' }
+          - { label: 'Vzťahy', value: 'vztahy' }
           - { label: 'Komunikácia', value: 'komunikacia' }
-          - { label: 'Súhlas', value: 'suhlas' }
       - { label: Publish Date, name: date, widget: datetime }
       - { label: Metadescription, name: metadescription, widget: markdown }
       - { label: Body, name: body, widget: markdown }
