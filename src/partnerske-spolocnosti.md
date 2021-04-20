@@ -4,6 +4,7 @@ title: 'Partnerské spoločnosti'
 metadescpription: 'V rámci projektu Prirodzene spolupracujeme s nasledujúcimi spoločnosťami.'
 permalink: /partnerske-spolocnosti/
 ---
+
 ## Sokratov inštitút
 Sokratov inštitút vznikol z presvedčenia, že vzdelávať sa dá prakticky a pre reálny život. Vzdelaní, rozhľadení a nadšení ľudia dokážu meniť svoje obce a mestá. Sokratov inštitút organizuje ročný praktický vzdelávací program pre študentov a absolventov vysokých škôl rôznych odborov. Svojich študentov a absolventov sieťuje a vedie k sociálnemu líderstvu, aby sa stali vzorom a hybnou silou pre zmeny na Slovensku. Pre širokú verejnosť vydáva vzdelávacie publikácie, videá a organizuje verejné prednášky, diskusie a festival Showcrates.
 

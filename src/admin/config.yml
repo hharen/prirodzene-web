@@ -11,7 +11,7 @@ backend:
 local_backend: true # Enable the CMS locally
 
 media_folder: src/images/uploads # location of where we want images uploaded via the CMS put
-public_folder: src/images/uploads 
+public_folder: /images/uploads 
 
 collections:
   - name: blog # collection name
@@ -26,6 +26,7 @@ collections:
     fields: # Fields for the collection
       - { label: Layout, name: layout, widget: hidden, default: post }
       - { label: Title, name: title, widget: string }
+      - { label: Slug, name: slug, widget: string }
       - label: Topic
         name: topic 
         widget: select
@@ -43,16 +44,15 @@ collections:
           - { label: 'Vývin človeka', value: 'vyvin' }
           - { label: 'Sexuálna orientácia', value: 'orientacia' }
           - { label: 'Rodová identita', value: 'identita' }
-          - { label: 'Sex pozitivita', value: 'pozitivita' }
+          - { label: 'Sexualita a spoločnosť', value: 'spolocnost' }
           - { label: 'Sex', value: 'sex-subtopic' }
-          - { label: 'Sexualita v médiách', value: 'sexualita-subtopic' }
           - { label: 'Zdravotné problémy', value: 'problemy' }
           - { label: 'Pohlavne prenostné infekcie', value: 'infekcie' }
-          - { label: 'Bariéry', value: 'bariery' }
-          - { label: 'Vzorce vzťahov', value: 'vzorce' }
+          - { label: 'Antikoncepcia a bariéry', value: 'bariery' }
+          - { label: 'Vzťahy', value: 'vztahy' }
           - { label: 'Komunikácia', value: 'komunikacia' }
-          - { label: 'Súhlas', value: 'suhlas' }
       - { label: Publish Date, name: date, widget: datetime }
+      - { label: Metadescription, name: metadescription, widget: markdown }
       - { label: Body, name: body, widget: markdown }
   - name: pages
     label: Pages
@@ -71,5 +71,6 @@ collections:
         fields:
           - { label: Title, name: title, widget: hidden, default: About }
           - { label: Layout, name: layout, widget: hidden, default: page }
-          - { label: Permalink, name: permalink, widget: string, default: '/about/' }
+          - { label: Permalink, name: permalink, widget: string }
+          - { label: Metadescription, name: metadescription, widget: markdown }
           - { label: Body, name: body, widget: markdown }
