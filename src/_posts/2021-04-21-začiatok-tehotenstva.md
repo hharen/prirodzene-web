@@ -21,7 +21,11 @@ Tehotenstvo začína oplodnením vajíčka spermiou. K oplodneniu môže dôjs�
 * alternatívne spôsoby oplodnenia, napríklad umelé oplodnenie, pri ktorom boli spermie zavedené do pošvy a vajíčko bolo oplodnené vo vajíčkovode;
 * umelé oplodnenie, alebo tzv. in vitro fertilizácia (oplodnenie mimo tela), pri ktorom boli po predchádzajúcej hormonálnej stimulácii odobraté vajíčka, ktoré boli oplodnené spermiami a následne bolo embryo vložené do maternice.
 
+
+
 K otehotneniu vedie niekoľko krokov:
+
+
 
 ### 1. Tvorba spermií a vajíčok
 
@@ -29,16 +33,30 @@ K otehotneniu vedie niekoľko krokov:
 
 Ľudia s vulvou sa narodia s 1 – 2 miliónmi nezrelých vajíčok uložených vo vaječníkoch, pričom približne 400 z nich dozrie v období medzi prvou menštruáciou a **menopauzou**. Nezrelé vajíčka sú uložené v malých vačkoch naplnených tekutinou, ktoré nazývame **folikuly**. Raz za mesiac **podmozgová žľaza** vylúči folikulostimulačný hormón (FSH), ktorý podnieti dozrievanie niekoľkých folikulov. 
 
+
+
 ### 2. Ovulácia
 
 Iba jeden z dozrievajúcich folikulov dozrie úplne, ostatné folikuly telo vstrebe. V ojedinelých prípadoch dozrie viac než 1 vajíčko, čo môže viesť k narodeniu dvojvaječných dvojčiat. Dozretý folikul praskne počas procesu, ktorému hovoríme ovulácia a následne prejde stenou vaječníka. Po ovulácii sa folikul mení na žlté teliesko, ktoré produkuje zvýšenú hladinu progesterónu. Estrogén spôsobí, že sliznica maternice rastie. Progesterón spôsobí, že sliznica v maternici sa zmení tak, že dokáže prijať a vyživiť embryo. Vajíčko je schopné oplodnenia 12 hodín po ovulácii. 
+
+
 
 ### 3. Oplodnenie
 
 Oplodnenie prebieha vo vajíčkovode. Na to, aby k nemu došlo, sa musí stretnúť niekoľko faktorov. Patria sem: tvorba dozretého vajíčka, správne načasovanie menštruačného cyklu s pohlavným stykom, prostredie vo vajíčkovode vhodné pre oplodnenie, plodnosť spermií a schopnosť spermií oplodniť vajíčko. Z miliónov spermií, ktoré sú pri ejakulácii vylúčené, sa k vajíčkovodom dostane najviac niekoľko stoviek. Spermie sú schopné prežiť v maternici alebo vo vajíčkovodoch až 5 dní. Keď sa spermie dostanú až k vajíčku, obklopia ho a snažia sa preniknúť do jeho steny a oplodniť ho. Keď sa „hlavička“ spermie dotkne vajíčka, spermia vylúči enzýmy, vďaka ktorým je schopná preniknúť cez stenu vajíčka. Po tom, ako spermia oplodní vajíčko, nastane chemická reakcia, ktorá zabráni ostatným spermiám oplodniť ho. Keď vajíčko vstrebe spermiu, dôjde k tvorbe zygoty – bunky, ktorá obsahuje 46 chromozómov, 23 pochádza zo spermie a 23 z vajíčka. 
 
-### **4. Zahniezdenie vajíčka**
+
+
+### 4. Zahniezdenie vajíčka
 
 Kým oplodnené vajíčko putuje do maternice, stane sa z neho zhluk približne 100 buniek, ktorému hovoríme blastocysta. Tento proces trvá približne 5 – 7 dní od oplodnenia. Z buniek, ktoré sa vyvíjajú v blastocyste, sa neskôr stane plod a z vonkajšej steny blastocysty sa stane placenta. Keď sa blastocysta dostane do maternice, zahniezdi sa v jej stene. Sliznica maternice zhrubne a krčok maternice sa pokryje hustým hlienom, ktorý bude krčok uzatvárať až do konca tehotenstva. Počas nasledujúcich týždňov a mesiacov nastane exponenciálny rast buniek a embryo sa bude zväčšovať. Dôjde k bunkovej diferenciácii a bunky sa postupne špecializujú. Približne 6 dní po ovulácií, hneď od momentu zahniezdenia, sa v tele začne produkovať hCG hormón, ktorý bežný tehotenský test dokáže zachytiť v moči. Tehotenský test teda môže byť pozitívny ešte pred meškajúcou menštruáciou. 
 
+
+
 <div class='f-telo box-post'> We doing okienka now. </div>
+
+<!--StartFragment-->
+
+<div class="flex flex-wrap justify-around"> <img src="/images/roznorodost-1.jpg" alt="Rôznorodí ľudia"> <img src="/images/roznorodost-2.jpg" alt="Rôznorodé zadky"> </div>
+
+<!--EndFragment-->
