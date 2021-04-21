@@ -122,11 +122,20 @@ ul {
   margin: 1em 0;
 }
 
+.list-of-articles ul {
+  margin-left: 3em;
+}
+
 // Images
 .team-img {
   display: inline-block;
   margin: 1em 0 3em;
   max-width: 500px;
+}
+
+.main-photo-articles {
+  max-width: 500px;
+  margin: 0 2em 1em;
 }
 
 // Colours
@@ -152,3 +161,7 @@ ul {
   background-color: $orange;
 }
 
+.box-clanok {
+  padding: 1em;
+  margin: 1em 0;
+}
