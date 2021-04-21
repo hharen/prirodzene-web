@@ -1,6 +1,10 @@
+---
+layout: page
+title: 'Invitation'
+permalink: /invitation/
+---
+
 <h2>You have been invited</h2>
 
-<p>You have been invited to create a user on {{ .SiteURL }}. Follow this link to accept the invite:</p>
-<p><a href="{{ .SiteURL }}/admin/#invite_token={{ .Token }}">Accept the invite</a></p>
-
-email-change.html
+<p>You have been invited to create a user on {{ site.url }}. Follow this link to accept the invite:</p>
+<p><a href="{{ page.url }}/admin/#invite_token={{ token }}">Accept the invite</a></p>
