@@ -41,6 +41,4 @@ Oplodnenie prebieha vo vajíčkovode. Na to, aby k nemu došlo, sa musí stretn
 
 Kým oplodnené vajíčko putuje do maternice, stane sa z neho zhluk približne 100 buniek, ktorému hovoríme blastocysta. Tento proces trvá približne 5 – 7 dní od oplodnenia. Z buniek, ktoré sa vyvíjajú v blastocyste, sa neskôr stane plod a z vonkajšej steny blastocysty sa stane placenta. Keď sa blastocysta dostane do maternice, zahniezdi sa v jej stene. Sliznica maternice zhrubne a krčok maternice sa pokryje hustým hlienom, ktorý bude krčok uzatvárať až do konca tehotenstva. Počas nasledujúcich týždňov a mesiacov nastane exponenciálny rast buniek a embryo sa bude zväčšovať. Dôjde k bunkovej diferenciácii a bunky sa postupne špecializujú. Približne 6 dní po ovulácií, hneď od momentu zahniezdenia, sa v tele začne produkovať hCG hormón, ktorý bežný tehotenský test dokáže zachytiť v moči. Tehotenský test teda môže byť pozitívny ešte pred meškajúcou menštruáciou. 
 
-
-
 <div class='f-telo box-post'> We doing okienka now. </div>
