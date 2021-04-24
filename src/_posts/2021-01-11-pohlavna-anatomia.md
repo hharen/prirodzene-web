@@ -34,11 +34,10 @@ Samotná prítomnosť hormónov v tele nezaručuje, že hormóny sa prejavia. Pr
 
 ## 4. Vnútorné pohlavné orgány
 
-Sem patria napríklad semenníky, semenovody, [vajíčkovody, maternica, vaječníky](https://pensive-newton-39aa56.netlify.app/anatomia-cloveka-s-vulvou/) atď. 
+Sem patria napríklad [semenníky, semenovody,](https://pensive-newton-39aa56.netlify.app/vnutorne-pohlavne-ustrojenstvo-cloveka-s-penisom/)[ vajíčkovody, maternica, vaječníky](https://pensive-newton-39aa56.netlify.app/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/) atď. 
 
 ## 5. Vonkajšie pohlavné orgány
 
 Sem zaraďujeme napríklad penis, vulvu, miešok či vaginálny otvor. 
-
 
 Väčšina ľudí patrí do jednej z typických dvoch skupín. To znamená, že väčšina ľudí, ktorí majú XX chromozómy majú biologicky ženské vnútorné a vonkajšie orgány, ich primárnym hormónom je estrogén a majú funkčné hormonálne receptory. Zároveň väčšina ľudí, ktorí majú XY chromozómy majú biologicky mužské vnútorné a vonkajšie orgány, ich primárnym hormónom je testosterón a majú funkčné hormonálne receptory. Ľudia, ktorí nemajú všetky biologicky mužské alebo všetky biologicky ženské atribúty sa volajú [intersex](https://pensive-newton-39aa56.netlify.app/anatomia-intersex-ludi/).
