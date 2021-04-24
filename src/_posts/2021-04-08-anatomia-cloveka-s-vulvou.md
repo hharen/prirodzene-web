@@ -42,7 +42,7 @@ Táto časť sa hovorovo nazýva „venušin pahorok“. Je to mierne vyvýšen�
 
 ### **Vonkajšia časť klitorisu/ dráždca**
 
-Táto časť sa nazýva aj žaluď klitorisu, keďže klitoris je homológny orgán penisu. Jeho vonkajšia časť obsahuje desaťtisíce nervových zakončení. Je to najcitlivejšia časť klitorisu, v dôsledku čoho môže jej stimulácia spôsobovať intenzívne sexuálne potešenie. 
+Táto časť sa nazýva aj žaluď [klitorisu](https://pensive-newton-39aa56.netlify.app/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/), keďže klitoris je homológny orgán [penisu](https://pensive-newton-39aa56.netlify.app/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-penisom/). Jeho vonkajšia časť obsahuje desaťtisíce nervových zakončení. Je to najcitlivejšia časť klitorisu, v dôsledku čoho môže jej stimulácia spôsobovať intenzívne sexuálne potešenie. 
 
 ### **Predkožka klitorisu**
 
@@ -62,7 +62,7 @@ Predsieň je hladká povrchová plocha medzi vnútornými pyskami. Pošvový otv
 
 ### **Pošvový otvor**
 
-Pošvový/ vaginálny otvor je otvor pošvovej trubice a má niekoľko funkcií. Slúži na vylučovanie tekutiny nazývanej výtok a menštruačnej krvi. Vaginálnym otvorom vychádza aj dieťa pri pôrode. Vaginálny otvor môže byť sexuálne stimulovaný a penetrovaný prstami, sexuálnymi pomôckami alebo penisom. 
+Pošvový/ vaginálny otvor je otvor pošvovej trubice a má niekoľko funkcií. Slúži na vylučovanie tekutiny nazývanej [výtok](https://pensive-newton-39aa56.netlify.app/hygiena-a-cistota-u-ludi-s-vulvou/) a menštruačnej krvi. Vaginálnym otvorom vychádza aj dieťa pri pôrode. Vaginálny otvor môže byť sexuálne stimulovaný a penetrovaný prstami, sexuálnymi pomôckami alebo penisom. 
 
 ### **Vonkajší otvor močovej rúry**
 
