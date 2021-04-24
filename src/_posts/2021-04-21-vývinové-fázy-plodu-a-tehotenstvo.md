@@ -23,7 +23,7 @@ references: >-
 
   Weathering the Wait.” What To Expect. N.p., n.d. Web. 4 Feb. 2017.
 ---
-<div class='f-telo box-post'>
+<div class='notes'>
 
 Poznámka na začiatok:
 
