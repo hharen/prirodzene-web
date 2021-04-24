@@ -55,18 +55,11 @@ Každý človek by mal poznať svoje genitálie. Je dôležité sledovať si svo
 
 Predísť niektorým problémom môže človek aj vďaka správnej starostlivosti o svoju vulvu. Preto je ideálne dodržiavať nasledovné zásady. 
 
-1.V žiadnom prípade by sa vagína nemala vyplachovať zvnútra.
-
-2. Vulva by sa mala umývať každý deň, ale vždy len čistou vodou. Dôležité je umyť vulvu aj rukou, aby sa odstránil všetok zaschnutý výtok, ktorý sa môže usádzať v záhyboch a spôsobiť infekciu či drobné ranky. Je však potrebné vyhnúť sa agresívnemu treniu.  
-
-3. V oblasti vulvy sa neodporúča používať žiadne mydlá, sprchové gély či parfumy. 
-
-4. Po vylúčení stolice je potrebné sa utierať smerom ku konečníku (spredu dozadu), aby sa predišlo zaneseniu baktérií do vagíny. 
-
-5. Nosiť voľnú bavlnenú spodnú bielizeň. Vulva sa cez deň potí a preto je vzdušné oblečenie dobrým spôsobom, ako sa dá predísť kultivácií baktérií. 
-
-6. Používať menštruačné produkty, ktoré sú šetrné k vaginálnej mikroflóre. Neodporúča sa používať parfumované vložky či tampóny. Menštruačný kalíšok alebo disk by mal byť vyrobený z lekárskeho silikónu. 
-
-7. Praktizovať chránené sexuálne aktivity, vrátane vaginálneho, orálneho aj análneho sexu, či akýchkoľvek iných sexuálnych praktík, pri ktorých dochádza k styku s genitáliami. Vyhnúť sa bezprostrednej kombinácii análneho a vaginálneho sexu, bez výmeny prezervatívu alebo umytia penisu/pomôcky/rúk.
-
-8. Vymočiť sa po sexuálnom styku a opláchnuť vulvu čistou vodou. Týmto krokom sa dá predísť zápalu močových ciest.
+* V žiadnom prípade by sa vagína nemala vyplachovať zvnútra.
+* Vulva by sa mala umývať každý deň, ale vždy len čistou vodou. Dôležité je umyť vulvu aj rukou, aby sa odstránil všetok zaschnutý výtok, ktorý sa môže usádzať v záhyboch a spôsobiť infekciu či drobné ranky. Je však potrebné vyhnúť sa agresívnemu treniu.  
+* V oblasti vulvy sa neodporúča používať žiadne mydlá, sprchové gély či parfumy. 
+* Po vylúčení stolice je potrebné sa utierať smerom ku konečníku (spredu dozadu), aby sa predišlo zaneseniu baktérií do vagíny. 
+* Nosiť voľnú bavlnenú spodnú bielizeň. Vulva sa cez deň potí a preto je vzdušné oblečenie dobrým spôsobom, ako sa dá predísť kultivácií baktérií. 
+* Používať menštruačné produkty, ktoré sú šetrné k vaginálnej mikroflóre. Neodporúča sa používať parfumované vložky či tampóny. Menštruačný kalíšok alebo disk by mal byť vyrobený z lekárskeho silikónu. 
+* Praktizovať chránené sexuálne aktivity, vrátane vaginálneho, orálneho aj análneho sexu, či akýchkoľvek iných sexuálnych praktík, pri ktorých dochádza k styku s genitáliami. Vyhnúť sa bezprostrednej kombinácii análneho a vaginálneho sexu, bez výmeny prezervatívu alebo umytia penisu/pomôcky/rúk.
+* Vymočiť sa po sexuálnom styku a opláchnuť vulvu čistou vodou. Týmto krokom sa dá predísť zápalu močových ciest.
