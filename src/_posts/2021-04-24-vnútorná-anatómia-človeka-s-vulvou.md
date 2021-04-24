@@ -66,11 +66,11 @@ Každý mesiac v jednom folikule dozrie vajíčko, ktoré počas ovulácie putuj
 Vagína je svalovo-väzivová trubica, ktorá je vstupom/výstupom pohlavného ústrojenstva. Predná stena pošvy je dlhá asi 7 cm, zadná okolo 9 cm. Vnútornú stranu stien vagíny pokrýva vlhká sliznica podobná sliznici v ústach alebo v tráviacom trakte. Steny vagíny tvoria mnohé záhyby usporiadané do stĺpcov, hovoríme im „rugae“. Zabezpečujú, že vagína dokáže do istej miery prispôsobovať svoju dĺžku. Cez pošvu sa vylučuje tekutina, ktorej hovoríme výtok, menštruačná krv a takisto cez ňu prechádza bábätko počas vaginálneho pôrodu. Počas rôznych sexuálnych aktivít môžeme vagínu penetrovať prstami, sexuálnymi pomôckami alebo penisom. Vagína slúži aj na prijatie spermií pri snahe otehotnieť.  
 
 <div class="flex flex-wrap justify-around">
-<img src="/images/uploads/6.vagina.jpg" alt="Vaginálny kanál, močová trubica a klitoris">
+<img src="/images/uploads/6-vagina.jpg" alt="Vaginálny kanál, močová trubica a klitoris">
 </div>
 
 <div class="flex flex-wrap justify-around">
-<img src="/images/uploads/7zlazy.jpg" alt="Vulva zdola so žľazami">
+<img src="/images/uploads/7-zlazy.jpg" alt="Vulva zdola so žľazami">
 </div>
 
 ## **Bod G**
