@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Vonkajšia anatómia človeka s penisom
-slug: vonkajsia-anatomia-cloveka-s-penisom
+title: Vonkajšie pohlavné ústrojenstvo človeka s penisom
+slug: vonkajsie-pohlavne-ustrojenstvo-cloveka-s-penisom
 topic: telo
 subtopic: anatomia
 date: 2021-04-24T18:17:24.391Z
@@ -83,7 +83,7 @@ Perineum alebo hrádza u ľudí s penisom je oblasť medzi mieškom a konečník
 
 Análny otvor je vývod hrubého čreva, slúži na vylučovanie stolice. Penetráciou konečníka je možné stimulovať prostatu, čo môže spôsobovať sexuálny pôžitok. V okolí análneho otvoru rastie ochlpenie. Análny otvor nie je súčasťou reprodukčného systému.  
 
-### Ako vyzerá penis a miešok?
+### **Ako vyzerá penis a miešok?**
 
 Vzhľad penisov a mieškov je veľmi rôznorodý. Hormóny, ktoré sa v oblasti genitálií nachádzajú, ovplyvňujú pigmentáciu kože. Z tohto dôvodu je penis, miešok aj okolie genitálií väčšinou tmavšie, než zvyšok kože. Koža obklopujúca penis a miešok môže byť béžová, hnedá až tmavohnedá. Žaluď je väčšinou ružový až červený a obyčajne je širší, než telo penisu. Koža na penise je hladká. Dĺžka aj hrúbka penisu sa líši od človeka k človeku. Penis v nestoporenom stave je zväčšia [](https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13010)[6 – 12 cm](https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13010) dlhý, penis v stoporenom stave je väčšinou [](https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13010)[10 – 16 cm](https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13010) dlhý. Približne [10 %](https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13010) ľudí má penis dlhší alebo kratší, než spomenutý priemer. Hrúbka penisu sa tiež výrazne líši od človeka k človeku. Niektoré penisy pri erekcii stvrdnú a výrazne sa predĺžia, iné sa predĺžia len mierne a niektoré vôbec. Penis môže byť viac či menej zakrivený do ktorejkoľvek strany. Všetky variácie sú zdravé a sú úplne v poriadku. Tvar ani dĺžka penisu nie sú ovplyvnené sexuálnou aktivitou! Vzhľad penisu sa môže počas života meniť vplyvom hormonálnych zmien, nie však na základe intenzity alebo frekvencie sexuálnej aktivity. 
 
