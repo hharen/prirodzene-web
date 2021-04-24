@@ -35,10 +35,13 @@ Sex-pozitívne myslenie pochádza z [hnutia za sex-pozitivitu](https://feminist
 
 O hnutí za sex-pozitivitu existuje aj mnoho mylných predstáv a názorov. V snahe vyhnúť sa šíreniu týchto domnienok ponúkame zoznam myšlienok, ktoré sex-pozitivita NEZAHŔŇA, napriek tomu, že sú s ňou často mylne spájané.
 
-*  Všetci by mali chcieť mať sex.
-*  Sex-pozitívny človek musí mať veľa sexu.
-*  Ľudia by nemali mať vo svojom sexuálnom živote osobné hranice, napríklad v súvislosti s typom aktivít, ktoré chcú skúsiť a podobne. 
-*  Ľudia, ktorí myslia sex-pozitívne, nemôžu mať zložitý, neistý či rozpačitý vzťah ku svojej sexualite alebo k svojmu telu.
+– Všetci by mali chcieť mať sex.
+
+– Sex-pozitívny človek musí mať veľa sexu.
+
+– Ľudia by nemali mať vo svojom sexuálnom živote osobné hranice, napríklad v súvislosti s typom aktivít, ktoré chcú skúsiť a podobne. 
+
+– Ľudia, ktorí myslia sex-pozitívne, nemôžu mať zložitý, neistý či rozpačitý vzťah ku svojej sexualite alebo k svojmu telu.
 
 </div>    
 
