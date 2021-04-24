@@ -34,6 +34,6 @@ Takmer [80%](https://research-management.mq.edu.au/ws/portalfiles/portal/1000016
 
 <div class='f-telo box-post'>
 
-„Normalizačné“ operácie a nútené „reparatívne terapie“ vykonávané na intersex ľuďoch bez ich súhlasu hrubo porušujú niekoľko ľudských práv intersex ľudí, vrátane práv intersex detí. Z tohto dôvodu je nehumánne takéto zákroky vykonávať v prípadoch, kedy to nie je zo zdravotných dôvodov nevytuhnuté. Každý intersex človek by mal mať možnosť v dospelosti sa rozhodnúť, či a aké estetické zákroky chce podstúpiť. Je dôležité, aby intersex ľudia mali rovnaký prístup k zdravotnej starostlivosti, k pracovným pozíciám, príležitostiam či akýmkoľvek iným aspektom života, ako všetci ostatní.
+"Normalizačné" operácie a nútené „reparatívne terapie“ vykonávané na intersex ľuďoch bez ich súhlasu hrubo porušujú niekoľko ľudských práv intersex ľudí, vrátane práv intersex detí. Z tohto dôvodu je nehumánne takéto zákroky vykonávať v prípadoch, kedy to nie je zo zdravotných dôvodov nevytuhnuté. Každý intersex človek by mal mať možnosť v dospelosti sa rozhodnúť, či a aké estetické zákroky chce podstúpiť. Je dôležité, aby intersex ľudia mali rovnaký prístup k zdravotnej starostlivosti, k pracovným pozíciám, príležitostiam či akýmkoľvek iným aspektom života, ako všetci ostatní.
 
 </div>
