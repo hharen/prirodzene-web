@@ -21,27 +21,31 @@ references: >-
 ---
 Je dôležité dbať o správnu hygienu v oblasti našich genitálií. V prvom rade si však treba povedať, že vagína je orgán, ktorý sa čistí sám! Vaginálny výtok je spôsob, akým sa vagína zbavuje škodlivých baktérií, hlienu a odumretých buniek. Výtok slúži na lubrikáciu sliznice vagíny, zaisťuje jej ochranu pred drobnými ranami a pred infekciami. Zároveň pomáha udržiavať zdravú vaginálnu mikroflóru a optimálne pH. Výtok sa väčšinou začne produkovať v období puberty a môže mať rôznu farbu aj konzistenciu v závislosti od menštruačného cyklu a iných hormonálnych zmien. Bežný a zdravý výtok je priesvitný až biely, môže mať jemne kyslastý zápach a konzistenciu podobnú bielku vajíčka, pričom jeho množstvo sa tiež môže meniť počas cyklu. Pred sexuálnymi aktivitami, počas aj po nich sa tiež môže konzistencia, zápach aj množstvo výtoku meniť. Iné typy výtoku zahrňujú:
 
-* mierne ružový alebo hnedý výtok:
+#### Mierne ružový alebo hnedý výtok:
 
-  * je bežný pred menštruáciou aj po nej, vtedy môže mať jemne železitý zápach;
-  * môže sa vyskytnúť bezprostredne po penetrácii v dôsledku jemných raniek na stenách vagíny;
-* výtok, ktorý obsahuje krv:
+* je bežný pred menštruáciou aj po nej, vtedy môže mať jemne železitý zápach;
+* môže sa vyskytnúť bezprostredne po penetrácii v dôsledku jemných raniek na stenách vagíny.
 
-  * môže aj nemusí byť znakom niekoľkých problémov ako napríklad ektropium (ranka) krčka maternice, spontánny potrat a iné;
-  * môže nastať v období tehotenstva;
-* hrudkovitý biely výtok:
+#### Výtok, ktorý obsahuje krv:
 
-  * môže, ale nemusí predstavovať problém;
-  * je častým znakom kvasinkovej infekcie, predovšetkým ak je spojený so zvláštnym zápachom alebo so svrbením;
-* sivastý výtok:
+* môže aj nemusí byť znakom niekoľkých problémov ako napríklad ektropium (ranka) krčka maternice, spontánny potrat a iné;
+* môže nastať v období tehotenstva.
 
-  * je väčšinou znakom bakteriálnej vaginózy;
-  * môže byť spôsobený zmenou mydla, toaletného papiera, aviváže atď.;
-  * môže mať zápach pripomínajúci ryby, najmä po sexuálnom styku
-* mierne žltý alebo zelený výtok:
+#### Hrudkovitý biely výtok:
 
-  * je často spojený s nepríjemným zápachom, so svrbením alebo štípaním, s pocitom suchosti vo vnútri alebo v okolí vagíny;
-  * často je symptómom pohlavne prenosnej trichomoniázy.
+* môže, ale nemusí predstavovať problém;
+* je častým znakom kvasinkovej infekcie, predovšetkým ak je spojený so zvláštnym zápachom alebo so svrbením.
+
+#### Sivastý výtok:
+
+* je väčšinou znakom bakteriálnej vaginózy;
+* môže byť spôsobený zmenou mydla, toaletného papiera, aviváže atď.;
+* môže mať zápach pripomínajúci ryby, najmä po sexuálnom styku.
+
+#### Mierne žltý alebo zelený výtok:
+
+* je často spojený s nepríjemným zápachom, so svrbením alebo štípaním, s pocitom suchosti vo vnútri alebo v okolí vagíny;
+* často je symptómom pohlavne prenosnej trichomoniázy.
 
 <div class='f-telo box-post'>
 
