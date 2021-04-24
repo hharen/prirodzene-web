@@ -20,8 +20,6 @@ references: >-
 ---
 Všetky články na Prirodzene Webe sú písané v duchu sex-pozitívneho myslenia. 
 
-
-
 Sex-pozitívne myslenie pochádza z [hnutia za sex-pozitivitu](https://feministcampus.org/campaigns/sex-positivity/) (angl. sex-positivity movement) a zahŕňa nasledovné myšlienky.
 
 * Sexualita a konsenzuálny sex je zdravá súčasť života človeka.
@@ -44,8 +42,6 @@ O hnutí za sex-pozitivitu existuje aj mnoho mylných predstáv a názorov. V�
 
 
 
-
-
 [Sex-pozitívne myslenie](https://www.goodreads.com/book/show/55301696-sex-ed) prvýkrát pomenoval Wilhelm Reich v roku 1920 a hnutie za sex-pozitivitu začalo v Spojených štátoch amerických v 60-tych rokoch minulého storočia, počas revolúcie v rozmýšľaní o sexualite a antikoncepcii, viac-menej v tandeme s feministickými hnutiami, ako aj s hnutiami za ľudské práva a za práva LGBT+ komunity. Počas poslednej dekády sa hnutie za sex-pozitivitu snaží hlavne o zmenu prístupu k sexuálnemu vzdelávaniu. Hlavným cieľom je prestať spájať sex a sexualitu primárne s hanbou a so strachom a začať klásť dôraz na potešenie a bezpečie pri sexe. Hnutie za sex-pozitivitu sa snaží o to, aby spoločnosť smerovala k sexuálnej liberácii, ktorá by mala zahŕňať nasledujúce koncepty a istoty:
 
 * zrovnoprávnenie ľudí inej než heterosexuálnej orientácie a inej než cisrodovej identity;
@@ -58,8 +54,6 @@ O hnutí za sex-pozitivitu existuje aj mnoho mylných predstáv a názorov. V�
 * právne definovaný sexuálny súhlas;
 * právne definované znásilnenie ako sex bez súhlasu;
 * a podobne.
-
-
 
 
 
