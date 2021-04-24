@@ -1,19 +1,40 @@
 ---
 layout: post
-title: Anatómia človeka s vulvou
+title: Vonkajšia anatómia človeka s vulvou
+slug: vonkajsia-anatomia-cloveka-s-vulvou
 topic: telo
 subtopic: anatomia
 date: 2021-04-08T07:59:45.687Z
 metadescription: Vonkajšia časť pohlavného ústrojenstva človeka s vulvou sa
-  nazýva vulva. Pojem „ohanbie“ označuje viditeľnú časť pohlavných orgánov, bez
-  ohľadu na pohlavie človeka. Častejšie je však používaný v spojitosti s vulvou,
-  než s penisom a mieškom.
+  nazýva vulva. Vzhľad vuliev je veľmi rôznorodý a mení sa v závislosti od veku,
+  hormonálnych zmien aj sexuálneho vzrušenia.
+references: >-
+  Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit
+  organization. University of California, Santa Barbara . Accessed January 1,
+  2021. https://sexinfoonline.com/. 
+
+
+  Brochmann, Nina, and Ellen Støkken Dahl. The Wonder Down Under. Hodder &amp; Stoughton, 2018. 
+
+
+  Gowda, Arvind U, Nikki Chopra, and Marwan Khalifeh. “Indications, Techniques and Complications of Labiaplasty.” Eplasty. Open Science Company, LLC, August 18, 2015. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544281/. 
+
+
+  “Labiaplasty: Rising in Popularity.” Wesley Anne Brady, M.D. |. Women’s Wellness Institute of Dallas, August 12, 2019. https://womenswellnessinstitute.com/labiaplasty-fastest-growing-cosmetic-surgery/. 
+
+
+  Mráz, Peter, and Kamil Belej. Anatómia Ľudského Tela 2. Slovak Academic Press, 2016. 
+
+
+  Rare, Ruby. Sex Ed:A Guide for Adults. London, UK: Bloomsbury, 2020.
 ---
 Vonkajšia časť pohlavného ústrojenstva človeka s vulvou sa nazýva vulva. Pojem „ohanbie“ označuje viditeľnú časť pohlavných orgánov, bez ohľadu na pohlavie človeka. Častejšie je však používaný v spojitosti s vulvou, než s penisom a mieškom. 
 
-![Srdce s rukami](/images/uploads/identita.jpeg)
+<div class="flex flex-wrap justify-around">
+<img src="/images/uploads/vulva.jpg" alt="Vulva s anotáciami">
+</div>
 
-## Vulva sa skladá z nasledujúcich častí:
+Vulva sa skladá z nasledujúcich častí:
 
 ### Vrch ohanbia
 
@@ -55,8 +76,7 @@ Perineum alebo hrádza u ľudí s vulvou je oblasť medzi pošvovým otvorom a
 
 Análny otvor je vývod hrubého čreva, slúži na vylučovanie stolice. V okolí análneho otvoru rastie ochlpenie. Análny otvor nie je súčasťou reprodukčného systému.  
 
-<div class='notes'>
-<h3>Ako vyzerá vulva?</h3>  
+#### Ako vyzerá vulva?
 
 Vzhľad vuliev je veľmi rôznorodý a mení sa v závislosti od veku, hormonálnych zmien aj sexuálneho vzrušenia. Hormóny, ktoré sa v oblasti genitálií nachádzajú, ovplyvňujú pigmentáciu kože. Z tohto dôvodu je oblasť vulvy väčšinou tmavšia, než zvyšok kože. Vnútorné pysky môžu mať rôznu farbu od tmavohnedej, cez bordovú, fialovú až po ružovú. Ich veľkosť sa tiež líši od človeka k človeku, niektoré sú ukryté medzi vonkajšími pyskami a sú takmer neviditeľné, niektoré je vidieť iba počas vzrušenia, iné sú dlhé a viac viditeľné než vonkajšie pysky. Vnútorné pysky sú často asymetrické, jedna strana môže byť výrazne dlhšia než tá druhá. Aj dĺžka, tvar a farba vonkajších pyskov a žaluďa klitorisu sa líšia. Žaluď môže byť úplne zakrytý predkožkou ale aj takmer úplne odokrytý. Počas sexuálneho vzrušenia dochádza k erekcii klitorisu. Klitoris sa vtedy zväčší a žaluď môže byť viac viditeľný.  
 
@@ -64,10 +84,16 @@ Tvar, dĺžka ani farba pyskov, žalude a predkožky klitorisu nie je dlhodobo 
 
 Ochlpenie rastie väčšinou na vrchu ohanbia, na vonkajších pyskoch, v záhyboch medzi stehnami a pyskami, na vnútorných stehnách a v okolí análneho otvoru. Farba aj štruktúra ochlpenia môže byť rôzna. Chlpy môžu byť riedke, jemné alebo tvrdšie, ryšavé, tmavohnedé, blonďavé, podobne ako vlasy.   
 
-Všetky tieto variácie sú zdravé. Vplyvom nerealistického a nezdravého zobrazovania ľudských tiel v médiách alebo v porne, čoraz viac ľudí trápi vzhľad ich genitálií. Labioplastika (chirurgické zmenšenie vnútorných pyskov) je v posledných rokoch najrýchlejšie rastúca plastická operácia! Zotavovanie sa po labioplastike môže byť celkom náročné, malé pysky obsahujú riedke tkanivo, ktoré veľmi ľahko opuchne. Existuje iba veľmi málo ozajstných medicínskych indikácií na takýto zákrok, ako napríklad oprava pyskov po pôrode, alebo prípady, keď sú pysky nezvyčajne veľké a vadia pri bežných činnostiach. Toto je však extrémne zriedkavé. Tiež je veľmi rozšírená operácia, ktorej cieľom je vyblednutie kože v okolí genitálií a análneho otvoru, opäť z estetických dôvodov. Vzhľad vulvy sa prirodzene mení počas puberty, pôrodu či menopauzy. Sú to zdravé telesné a hormonálne zmeny, ktoré neudávajú hodnotu človeka, ani mu neuberajú z krásy či z príťažlivosti. Okrem toho, každá operácia so sebou nesie riziko menších ale aj veľkých komplikácií, v tomto prípade napr. rôzne zápaly či zníženú alebo zvýšenú citlivosť genitálií. Labioplastika by preto mala byť striktne vyhradená iba pre medicínsky indikované prípady. Ak by ste si chceli pozrieť rôzne variácie vuliev, navštívte sekciu Odporúčania.    
+<div class='notes'>
+
+Všetky tieto variácie sú zdravé. Vplyvom nerealistického a nezdravého zobrazovania ľudských tiel v médiách alebo v porne, čoraz viac ľudí trápi vzhľad ich genitálií. Labioplastika (chirurgické zmenšenie vnútorných pyskov) je v posledných rokoch [najrýchlejšie rastúca plastická operácia](https://womenswellnessinstitute.com/labiaplasty-fastest-growing-cosmetic-surgery/)! Zotavovanie sa po labioplastike môže byť celkom náročné, malé pysky obsahujú riedke tkanivo, ktoré veľmi ľahko opuchne. Existuje iba veľmi málo ozajstných medicínskych indikácií na takýto zákrok, ako napríklad oprava pyskov po pôrode, alebo prípady, keď sú pysky nezvyčajne veľké a vadia pri bežných činnostiach. Toto je však extrémne zriedkavé. Tiež je veľmi rozšírená operácia, ktorej cieľom je vyblednutie kože v okolí genitálií a análneho otvoru, opäť z estetických dôvodov. Vzhľad vulvy sa prirodzene mení počas puberty, pôrodu či menopauzy. Sú to zdravé telesné a hormonálne zmeny, ktoré neudávajú hodnotu človeka, ani mu neuberajú z krásy či z príťažlivosti. Okrem toho, každá operácia so sebou nesie riziko menších ale aj veľkých komplikácií, v tomto prípade napr. rôzne zápaly či zníženú alebo zvýšenú citlivosť genitálií. Labioplastika by preto mala byť striktne vyhradená iba pre medicínsky indikované prípady. Ak si chcete pozrieť rôzne variácie vuliev, navštívte sekciu [Odporúčame](https://pensive-newton-39aa56.netlify.app/odporucame/).    
 
 </div>
 
-obrázok 3- vulva diversity 1
+<div class="flex flex-wrap justify-around">
+<img src="/images/uploads/vulva-diversity-1.jpg" alt="Rôzne vulvy zospodu">
+</div>
 
-obrázok 4- vulva diversity 2
+<div class="flex flex-wrap justify-around">
+<img src="/images/uploads/vulva-diversity-2.jpg" alt="Rôzne vulvy spredu">
+</div>
