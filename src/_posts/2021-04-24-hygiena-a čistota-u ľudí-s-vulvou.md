@@ -55,7 +55,7 @@ Každý človek by mal poznať svoje genitálie. Je dôležité sledovať si svo
 
 Predísť niektorým problémom môže človek aj vďaka správnej starostlivosti o svoju vulvu. Preto je ideálne dodržiavať nasledovné zásady. 
 
-1. V žiadnom prípade by sa vagína nemala vyplachovať zvnútra.
+1.V žiadnom prípade by sa vagína nemala vyplachovať zvnútra.
 
 2. Vulva by sa mala umývať každý deň, ale vždy len čistou vodou. Dôležité je umyť vulvu aj rukou, aby sa odstránil všetok zaschnutý výtok, ktorý sa môže usádzať v záhyboch a spôsobiť infekciu či drobné ranky. Je však potrebné vyhnúť sa agresívnemu treniu.  
 
