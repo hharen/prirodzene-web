@@ -59,13 +59,13 @@ Prostata je žľaza vo veľkosti gaštanu, nachádza sa pod močovým mechúrom 
 
 Semenovody sú dve dlhé trubice, ktoré vedú z nadsemenníkov do panvovej dutiny a prechádzajú za močový mechúr. Ich úlohou je preprava spermií. Sú chránené tenkou vrstvou svalstva, ktorá sa počas ejakulácie sťahuje. Hovoríme tomu peristaltický pohyb. Napomáha pohybu spermií smerom k močovej rúre.
 
-### Dĺžka penisu, veľkosť mieška a kvalita spermií
+### **Dĺžka penisu, veľkosť mieška a kvalita spermií**
 
 Bez ohľadu na to, čo sa hovorí, hodnota človeka nemá nič spoločné s jeho pohlavným ústrojenstvom. Existuje množstvo falošných teórií o tom, že kvalita alebo množstvo spermií, veľkosť mieška či dĺžka penisu sú atribúty, ktoré sú spojené s charakterom a osobnosťou človeka. Veľa ľudí používa „malý penis“ ako urážku, naopak „mať veľké vajcia“ sa považuje za znak odvahy, sily alebo fyzickej zdatnosti. Nič z tohto nie je pravda. Rôzny výzor genitálií je úplne bežnou súčasťou biologickej variácie a nemá nič spoločné s povahovými črtami človeka. Tiež existujú nezmyselné teórie, podľa ktorých sa človeku pri častej masturbácii „minú“ spermie alebo sa mu poškodí plodnosť. Vzhľad penisu je tiež často spájaný so sexuálnou aktivitou. Kvôli týmto škodlivým stereotypom sa čoraz viac ľudí snaží o zväčšenie svojho penisu. Sú dostupné rôzne tabletky, tinktúry a krémy, ktoré sľubujú zväčšenie penisu. Okrem toho existuje dokonca vákuová pumpa na penis, ktorá vytvára tlak v penise a umelo ho tak zväčšuje. Predávajú sa aj rôzne „predlžovače“, ktoré sú zaťažené závažím a majú za úlohu penis natiahnuť. Všetky tieto metódy sú nesmierne nebezpečné a môžu spôsobiť vážne poranenia či dokonca úplne znefunkčniť penis!. 
 
 Zákrok, ktorý je tiež často vykonávaný z estetických dôvodov sa volá obriezka. Veľa ľudí s penisom podstúpi obriezku v detstve. Vo viacerých krajinách je to rutinný zákrok, pretože v minulosti sa vykonával prevenčne z hygienických dôvodov. Obmedzený prístup k čistej vode a k celkovej hygiene často spôsoboval rôzne infekcie či zvýšené riziko prenosu pohlavne prenosných infekcií, keďže žaluď sa pod predkožkou musí dôkladne umývať. V dnešnej dobe je však tento zákrok nepotrebný a vykonáva sa predovšetkým z dôvodu tradície. Okrem toho sa obriezka podstupuje aj z náboženských dôvodov. 
 
-<div class='notes'>
+<div class='f-telo box-post'>
 
 Obriezka u detí vykonávaná bez zdravotnej indikácie je zásahom do práv dieťaťa. Preto by sa obriezka v detstve mala vykonávať len v situáciách, keď je to zdravotne nevyhnutné. 
 
