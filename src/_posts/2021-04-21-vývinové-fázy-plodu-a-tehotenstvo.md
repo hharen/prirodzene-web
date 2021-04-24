@@ -45,6 +45,8 @@ Je dôležité uvedomiť si, že zmeny počas tehotenstva vysvetľujeme tak, ako
 
 Počas prvého trimestra začnú prvé zmeny v tele matky. Prvé, čo si matka môže všimnúť, je vynechanie menštruácie. Vtedy je vhodné urobiť si tehotenský test a navštíviť gynekológa/gynekologičku. Prvý ultrazvuk môže byť vykonaný medzi 6. až 8. týždňom tehotenstva. Po prvej vynechanej menštruácii môžu začať emocionálne symptómy, ako časté výkyvy nálad a telesné zmeny, ako celková telesná únava alebo ranné nevoľnosti a zvracanie. Nevoľnosť je spôsobená predovšetkým vysokou hladinou hCG hormónu. Tieto symptómy sa vyskytujú približne u 85 % tehotných ľudí. Ďalšie zmeny môžu zahrňovať častý hlad, zvláštne a nezvyčajné chute, zvýšená citlivosť čuchu, zvýšená citlivosť či bolestivosť prsníkov, zmeny v túžbe po sexuálnych aktivitách, časté močenie, akné či bolesti hlavy. Počas prvého trimestra môže dôjsť k miernemu nárastu hmotnosti. Všetky tieto symptómy môžu aj nemusia pokračovať počas celého obdobia tehotenstva. Je dôležité dbať na dostatočnú a zdravú výživu, vyhýbať sa alkoholu, cigaretám, drogám, niektorým liekom a veľa oddychovať. 
 
+<br> 
+
 ### Plod
 
 * **1. – 6. týždeň**: Dôjde k oplodneniu vajíčka a k jeho zahniezdeniu v sliznici maternice. Plod sa začne vyvíjať. V tejto fáze má plod podobu malej „guličky“, je to zhluk buniek, ktorých počet exponenciálne rastie.
@@ -53,13 +55,17 @@ Počas prvého trimestra začnú prvé zmeny v tele matky. Prvé, čo si matka 
 * **9. týždeň**: Vyvíjajú sa kosti a je možné spozorovať ohyby v lakťoch. Ďalej sa vyvíjajú viečka, uši, prsty na nohách. Objavujú sa prvé svaly. Vyvíja sa pupočník, ktorý bude po zvyšok tehotenstva komunikačnou tepnou medzi plodom a matkou. Plod je zhruba 2 až 3 cm dlhý. 
 * **10. týždeň**: Hlava je viac okrúhla. Začne sa vyvíjať krk, okraje očných viečok sa zrastú. Sú viditeľné prvé pohyby plodu. Ten teraz meria asi 3 – 4 cm a váži 5 g. 
 * **11. týždeň**: Hlava plodu zaberá približne polovicu celej svojej dĺžky. V pečeni sa začnú tvoriť červené krvinky. Začnú sa vyvíjať vonkajšie genitálie aj kĺbové spojenia. Vyvíjajú sa prvé zárodky zmyslov. Plod má asi 4,5 až 6,5 cm a váži asi 8 g. Približne v tomto období sa končí kritická fáza vývoja a riziko vzniku vývojových chýb sa zmenší.
-* **12. týždeň**: Rolu výživy plodu a zásobovanie kyslíkom plne preberá placenta a nahrádza tak žlté teliesko. Tráviaci systém plodu dokáže vstrebávať glukózu, vyvíjajú sa hlasivky, dúhovka, chuťové bunky, vlasové folikuly, začnú rásť nechty na prstoch na rukách, začína pracovať imunitný systém, hypofýza produkuje hormóny. Plod sa začína pohybovať, zatína dlane, otvára ústa. Plod meria asi 6 – 7 cm a váži 8 – 14 g
+* **12. týždeň**: Rolu výživy plodu a zásobovanie kyslíkom plne preberá placenta a nahrádza tak žlté teliesko. Tráviaci systém plodu dokáže vstrebávať glukózu, vyvíjajú sa hlasivky, dúhovka, chuťové bunky, vlasové folikuly, začnú rásť nechty na prstoch na rukách, začína pracovať imunitný systém, hypofýza produkuje hormóny. Plod sa začína pohybovať, zatína dlane, otvára ústa. Plod meria asi 6 – 7 cm a váži 8 – 14 g.
+
+<br> 
 
 ## 2. trimester: 13. – 26. týždeň
 
 ### Matka
 
 Mnoho telesných symptómov z prvého semestra odznie, niektoré pretrvajú. Symptómy zahrňujú časté močenie, zrýchlený tlkot srdca počas bežných aktivít a mierne pálenie či pichanie pri srdci. Okolo dvadsiateho týždňa sa podbrušie začne zaokrúhľovať, matka môže pociťovať prvé „kopanie“, teda pohyby dieťaťa. Tiež môžu nastať prvé nepravidelné falošné kontrakcie, ktorým hovoríme Braxton-Hicks kontrakcie. Svaly maternice sa v dôsledku produkcie oxytocínu sťahujú a postupne sa tak pripravujú na pôrod. Intenzita aj frekvencia týchto kontrakcií sa môže časom zvyšovať. 
+
+<br> 
 
 ### Plod
 
@@ -74,11 +80,15 @@ Mnoho telesných symptómov z prvého semestra odznie, niektoré pretrvajú. Sy
 * **24. – 25. týždeň**: Plod pravidelne spí a zobúdza sa, začína sa vyvíjať reflex ľakania sa, otvárajú sa nosné dierky, nervy okolo úst citlivejú, pupočník je už silný a pružný. Pokračuje vývin pľúc a formujú sa dýchacie cesty. Plod váži asi 500 – 700 g a je 21 – 22 cm dlhé. Dieťa by malo pri predčasnom pôrode prvýkrát šancu prežiť mimo maternice. 
 * **26. týždeň**: Plod intenzívne saje, napríklad palec na ruke či na nohe. Pri zvukovej stimulácii sa dieťaťu zrýchľuje pulz. V ústach sa vyvíjajú nervové zakončenia, pľúca aj nervový systém dozrievajú, dieťa je schopné odpovedať na dotyk. Meria asi 23 cm a váži 910 g.
 
+<br> 
+
 ## 3. trimester: 27. – 40. týždeň
 
 ### Matka
 
 Tretí trimester býva pre matku fyzicky aj psychicky náročný. Kvôli rastúcemu bruchu sa môže cítiť nepríjemne a nepohodlne. Braxton-Hicks kontrakcie pretrvávajú a väčšinou sa k nim pridajú aj bolesti chrbta. Ďalšie symptómy zahrňujú napuchnuté nohy a chodidlá, hemoroidy, nespavosť, únavu, výkyvy nálad, pálenie pri srdci. Takisto sa môžu začať nalievať prsia, z ktorých môže vytekať colostrum, tzv. prvé mlieko. Vzhľad bradaviek a dvorcov sa mení. Počas tohto obdobia môže matka výrazne pribrať na váhe, väčšinou približne okolo 12 kg. Po pôrode alebo počas tehotenstva sa veľmi často objavia strie, natiahnutá alebo ovisnutá koža, zmeny v pigmentácii kože atď. Tretí trimester ako aj tehotenstvo sa končí pôrodom.
+
+<br> 
 
 ### Plod
 
