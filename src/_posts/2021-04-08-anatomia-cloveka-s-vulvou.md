@@ -31,48 +31,48 @@ references: >-
 Vonkajšia časť pohlavného ústrojenstva človeka s vulvou sa nazýva vulva. Pojem „ohanbie“ označuje viditeľnú časť pohlavných orgánov, bez ohľadu na pohlavie človeka. Častejšie je však používaný v spojitosti s vulvou, než s penisom a mieškom. 
 
 <div class="flex flex-wrap justify-around">
-<img src="/images/uploads/2vulva.jpg" alt="Vulva s anotáciami">
+<img src="/images/uploads/2-vulva.jpg" alt="Vulva s anotáciami">
 </div>
 
 Vulva sa skladá z nasledujúcich častí:
 
-### Vrch ohanbia
+### **Vrch ohanbia**
 
 Táto časť sa hovorovo nazýva „venušin pahorok“. Je to mierne vyvýšená časť kože, pod ktorou je vrstva tukového tkaniva. Pod ním sa nachádza lonová kosť, ktorá je vďaka tukovému tkanivu chránená. Počas puberty tu väčšinou začne rásť výrazné ochlpenie. 
 
-### Vonkajšia časť klitorisu/ dráždca
+### **Vonkajšia časť klitorisu/ dráždca**
 
 Táto časť sa nazýva aj žaluď klitorisu, keďže klitoris je homológny orgán penisu. Jeho vonkajšia časť obsahuje desaťtisíce nervových zakončení. Je to najcitlivejšia časť klitorisu, v dôsledku čoho môže jej stimulácia spôsobovať intenzívne sexuálne potešenie. 
 
-### Predkožka klitorisu
+### **Predkožka klitorisu**
 
 Je to tkanivo, ktoré spája horný koniec vnútorných pyskov ohanbia a slúži na ochranu žaluďa klitorisu. Predkožka klitorisu môže zakrývať celý žaluď alebo len jeho časť. 
 
-### Vonkajšie pysky ohanbia
+### **Vonkajšie pysky ohanbia**
 
 Nazývajú sa aj „veľké pysky ohanbia“, toto pomenovanie je však zavádzajúce. Vonkajšie pysky totiž vôbec nemusia byť väčšie než vnútorné pysky. Sú to dva kožné záhyby, ktoré sa skladajú z tukového tkaniva, z množstva nervových zakončení a z erektilných buniek. To znamená, že pri sexuálnom vzrušení sa naplnia krvou a zväčšia sa. Ich stimulácia môže spôsobovať sexuálny pôžitok. Majú ochrannú funkciu a rastie na nich ochlpenie. 
 
-### Vnútorné pysky ohanbia
+### **Vnútorné pysky ohanbia**
 
 Nazývané aj „malé pysky ohanbia“, ich veľkosť, dĺžka a tvar však môže byť veľmi rozličná. Sú to dva kožné valy, ktoré neobsahujú tukové tkanivo a nerastie na nich ochlpenie. Obsahujú však erektilné tkanivo, preto sa pri sexuálnom vzrušení naplnia krvou a zväčšia sa. Ich stimulácia môže spôsobovať sexuálny pôžitok. Môžu mať hladkú ale aj vráskovitú štruktúru. Ich funkcia je predovšetkým ochranná. 
 
-### Predsieň
+### **Predsieň**
 
 Predsieň je hladká povrchová plocha medzi vnútornými pyskami. Pošvový otvor a otvor močovej rúry sú súčasťou predsiene. 
 
-### Pošvový otvor
+### **Pošvový otvor**
 
 Pošvový/ vaginálny otvor je otvor pošvovej trubice a má niekoľko funkcií. Slúži na vylučovanie tekutiny nazývanej výtok a menštruačnej krvi. Vaginálnym otvorom vychádza aj dieťa pri pôrode. Vaginálny otvor môže byť sexuálne stimulovaný a penetrovaný prstami, sexuálnymi pomôckami alebo penisom. 
 
-### Vonkajší otvor močovej rúry
+### **Vonkajší otvor močovej rúry**
 
 Ústie močovej trubice sa nachádza medzi žaluďom klitorisu a pošvovým otvorom. Otvor močovej trubice slúži primárne na únik moču z tela. U niektorých ľudí s vulvou však počas istých sexuálnych aktivít nastáva jav, ktorému hovoríme „squirting“. Vtedy sa cez otvor močovej trubice uvoľňuje tekutina, ktorá môže obsahovať tekutiny vytvorené v Skeneho žľaze aj moč. 
 
-### Perineum
+### **Perineum**
 
 Perineum alebo hrádza u ľudí s vulvou je oblasť medzi pošvovým otvorom a konečníkom. Táto oblasť je bez chĺpkov a môže byť sexuálne stimulovaná. 
 
-### Análny otvor
+### **Análny otvor**
 
 Análny otvor je vývod hrubého čreva, slúži na vylučovanie stolice. V okolí análneho otvoru rastie ochlpenie. Análny otvor nie je súčasťou reprodukčného systému.  
 
@@ -89,9 +89,9 @@ Ochlpenie rastie väčšinou na vrchu ohanbia, na vonkajších pyskoch, v záhy
 Vplyvom nerealistického a nezdravého zobrazovania ľudských tiel v médiách alebo v porne, čoraz viac ľudí trápi vzhľad ich genitálií. Labioplastika (chirurgické zmenšenie vnútorných pyskov) je v posledných rokoch [najrýchlejšie rastúca plastická operácia](https://womenswellnessinstitute.com/labiaplasty-fastest-growing-cosmetic-surgery/)! Zotavovanie sa po labioplastike môže byť celkom náročné, malé pysky obsahujú riedke tkanivo, ktoré veľmi ľahko opuchne. Existuje iba veľmi málo ozajstných medicínskych indikácií na takýto zákrok, ako napríklad oprava pyskov po pôrode, alebo prípady, keď sú pysky nezvyčajne veľké a vadia pri bežných činnostiach. Toto je však extrémne zriedkavé. Tiež je veľmi rozšírená operácia, ktorej cieľom je vyblednutie kože v okolí genitálií a análneho otvoru, opäť z estetických dôvodov. Vzhľad vulvy sa prirodzene mení počas puberty, pôrodu či menopauzy. Sú to zdravé telesné a hormonálne zmeny, ktoré neudávajú hodnotu človeka, ani mu neuberajú z krásy či z príťažlivosti. Okrem toho, každá operácia so sebou nesie riziko menších ale aj veľkých komplikácií, v tomto prípade napr. rôzne zápaly či zníženú alebo zvýšenú citlivosť genitálií. Labioplastika by preto mala byť striktne vyhradená iba pre medicínsky indikované prípady. Ak si chcete pozrieť rôzne variácie vuliev, navštívte sekciu [Odporúčame](https://pensive-newton-39aa56.netlify.app/odporucame/).    
 
 <div class="flex flex-wrap justify-around">
-<img src="/images/uploads/3.vulva-diversity-1.jpg" alt="Rôzne vulvy zospodu">
+<img src="/images/uploads/3-vulva-diversity-1.jpg" alt="Rôzne vulvy zospodu">
 </div>
 
 <div class="flex flex-wrap justify-around">
-<img src="/images/uploads/4.vulva-diversity-2.jpg" alt="Rôzne vulvy spredu">
+<img src="/images/uploads/4-vulva-diversity-2.jpg" alt="Rôzne vulvy spredu">
 </div>
