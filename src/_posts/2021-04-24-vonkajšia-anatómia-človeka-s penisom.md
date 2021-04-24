@@ -28,7 +28,7 @@ Vonkajšia časť pohlavného ústrojenstva človeka s penisom sa nazýva penis 
 </div>
 
 <div class="flex flex-wrap justify-around">
-<img src="/images/uploads/penis2.jpg" alt="Stoporený penis s anotáciami">
+<img src="/images/uploads/penis-2.jpg" alt="Stoporený penis s anotáciami">
 </div>
 
 <div class="flex flex-wrap justify-around">
