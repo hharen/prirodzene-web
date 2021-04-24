@@ -26,7 +26,7 @@ references: >-
 Vnútorné pohlavné ústrojenstvo človeka s vulvou sa skladá z nasledujúcich častí:
 
 <div class="flex flex-wrap justify-around">
-<img src="/images/uploads/5.maternica.jpg" alt="Vnútorné pohlavné ústrojenstvo človeka s vulvou">
+<img src="/images/uploads/5-maternica.jpg" alt="Vnútorné pohlavné ústrojenstvo človeka s vulvou">
 </div>
 
 ## **Dno maternice** 
@@ -103,8 +103,10 @@ Klitoris je erektilný orgán, ktorého veľkosť sa pohybuje medzi 7 až 13 cm.
 <img src="/images/uploads/klitoris.jpg" alt="Klitoris">
 </div>
 
+
+
 <div class="flex flex-wrap justify-around">
-<img src="/images/uploads/klitoris.jpg" alt="Klitoris">
+<img src="/images/uploads/homologia.jpg" alt="Homológia penisu a klitorisu">
 </div>
 
 ### Crus clitoris
