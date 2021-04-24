@@ -9,6 +9,19 @@ metadescription: Tehotenstvo trvá približne 40 týždňov od prvého dňa posl
   menštruácie. Táto doba je rozdelená do 3 trimestrov. Prvý trimester trvá od 1.
   do 12. týždňa tehotenstva, druhý trimester trvá od 13. do 26. týždňa a tretí
   trimester trvá od 27. do 40. týždňa.
+references: >-
+  Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit
+  organization. University of California, Santa Barbara . Accessed January 1,
+  2021. https://sexinfoonline.com/.
+
+
+  Redakcia. “Tehotenstvo, Počatie, Plánovanie Bábätka.” Promama. Accessed March 20, 2021. https://www.promama.sk/tehotenstvo/vyhladavanie?kategorie=41.
+
+
+  “Tehotenstvo Po Týždňoch.” Babyweb.sk, 2009. https://www.babyweb.sk/tehotenstvo-po-tyzdnoch-13.
+
+
+  Weathering the Wait.” What To Expect. N.p., n.d. Web. 4 Feb. 2017.
 ---
 <div class='f-telo box-post'>
 
@@ -75,11 +88,3 @@ Tretí trimester býva pre matku fyzicky aj psychicky náročný. Kvôli rastúc
 * **33. – 35. týždeň**: Orgány dozrievajú, rastie množstvo podkožného tuku, farba pokožky sa mení, rastie mozog aj hlava, pľúcne tkanivo aj tráviaca sústava dozrieva, imunitný systém sa rýchlo vyvíja. Väčšina detí narodených v tomto období prežije bez väčších komplikácií. Plod meria asi 30 – 33 cm a váži asi 2 – 2,5 kg.
 * **36. – 38. týždeň**: Plod v tomto období väčšinou zaujme svoju definitívnu polohu, priestor v maternici je tesný. Rastú vlasy, koža je elastická a nie je priesvitná. V črevách je nahromadená prvá stolica. Dieťa meria asi 35 cm a váži 2,5 – 3 kg. 
 * **39. – 40. týždeň**: Dieťa je pripravené narodiť sa. Mozgové cievy a nervové bunky sú úplne vyvinuté. Dieťa už nepokrýva vernix caseosa. Kosti rastú, mliečne žľazy aj pohlavné orgány sa dočasne zväčšia. Dieťa meria 36 – 38 cm, celková dĺžka od hlavy po chodidlá je 48 – 50 cm. Vážiť môže 3 a viac kg.
-
-
-
-<div class='notes'>
-
-bla bla notes
-
-</div>
