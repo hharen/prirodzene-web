@@ -20,6 +20,8 @@ references: >-
 ---
 Všetky články na Prirodzene Webe sú písané v duchu sex-pozitívneho myslenia. 
 
+
+
 Sex-pozitívne myslenie pochádza z [hnutia za sex-pozitivitu](https://feministcampus.org/campaigns/sex-positivity/) (angl. sex-positivity movement) a zahŕňa nasledovné myšlienky.
 
 * Sexualita a konsenzuálny sex je zdravá súčasť života človeka.
@@ -31,12 +33,18 @@ Sex-pozitívne myslenie pochádza z [hnutia za sex-pozitivitu](https://feminist
 * Každý človek má právo na telesnú autonómiu a môže sa rozhodovať, čo sa bude z jeho/jej telom diať.
 * Sexuálne aktivity by mali prinášať potešenie alebo pôžitok každému, kto sa na nich zúčastňuje. 
 
+
+
 O hnutí za sex-pozitivitu existuje aj mnoho mylných predstáv a názorov. V snahe vyhnúť sa šíreniu týchto domnienok ponúkame zoznam myšlienok, ktoré sex-pozitivita NEZAHŔŇA, napriek tomu, že sú s ňou často mylne spájané.
 
 *  Všetci by mali chcieť mať sex.
 *  Sex-pozitívny človek musí mať veľa sexu.
 *  Ľudia by nemali mať vo svojom sexuálnom živote osobné hranice, napríklad v súvislosti s typom aktivít, ktoré chcú skúsiť a podobne. 
 *  Ľudia, ktorí myslia sex-pozitívne, nemôžu mať zložitý, neistý či rozpačitý vzťah ku svojej sexualite alebo k svojmu telu.
+
+
+
+
 
 [Sex-pozitívne myslenie](https://www.goodreads.com/book/show/55301696-sex-ed) prvýkrát pomenoval Wilhelm Reich v roku 1920 a hnutie za sex-pozitivitu začalo v Spojených štátoch amerických v 60-tych rokoch minulého storočia, počas revolúcie v rozmýšľaní o sexualite a antikoncepcii, viac-menej v tandeme s feministickými hnutiami, ako aj s hnutiami za ľudské práva a za práva LGBT+ komunity. Počas poslednej dekády sa hnutie za sex-pozitivitu snaží hlavne o zmenu prístupu k sexuálnemu vzdelávaniu. Hlavným cieľom je prestať spájať sex a sexualitu primárne s hanbou a so strachom a začať klásť dôraz na potešenie a bezpečie pri sexe. Hnutie za sex-pozitivitu sa snaží o to, aby spoločnosť smerovala k sexuálnej liberácii, ktorá by mala zahŕňať nasledujúce koncepty a istoty:
 
@@ -50,6 +58,8 @@ O hnutí za sex-pozitivitu existuje aj mnoho mylných predstáv a názorov. V�
 * právne definovaný sexuálny súhlas;
 * právne definované znásilnenie ako sex bez súhlasu;
 * a podobne.
+
+
 
 
 
