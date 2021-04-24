@@ -59,11 +59,11 @@ Uzdička alebo frenulum je prúžok kože na spodnej strane penisu, kde sa spáj
 
 Telo penisu má tvar cylindra a spája žaluď s koreňom. Skladá sa z troch častí: 2 karvenózne telesá (Corpora Cavernosa) a 1 špongiózne teleso (Corpus Spongiosum). Penis je väčšinou mäkký a jemne pružný, pri erekcii sa však naplní krvou a stvrdne. 
 
-##### Karvenózne telesá
+#### Karvenózne telesá
 
 Kavernózne telesá (Corpora Cavernosa) sú 2 časti na oboch stranách penisu, ktoré sa pri erekcii naplnia krvou. Sú to valce silne obalené väzivom, ktorému hovoríme tunica albuginea. 
 
-##### Špongiózne teleso
+#### Špongiózne teleso
 
 Špongiózne/hubovité teleso, alebo Corpus Spongiosum sa nachádza v strede penisu a tiež má valcovitý tvar. Pri erekcii sa môže naplniť krvou ale výrazne menej než kavernózne telesá. Špongiózne teleso sa skladá z rovnakého tkaniva, ako žaluď. Okrem toho obklopuje močovú rúru. Špongiózne teleso je mierne viditeľné na spodnej časti penisu, nachádza sa pod dlhým prúžkom kože, ktorý prechádza od uzdičky cez telo penisu až po koreň. 
 
