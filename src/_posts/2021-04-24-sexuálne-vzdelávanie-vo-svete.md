@@ -58,19 +58,19 @@ references: >-
 ---
 Cieľom [sexuálneho vzdelávania](https://www.plannedparenthood.org/learn/for-educators/what-sex-education) je poskytnúť ľuďom informácie a zručnosti, ktoré im umožnia robiť zdravé rozhodnutia o sexe a sexualite. Spôsobov, akými sa po svete vyučuje sexuálna výchova je mnoho, no nie všetky sú dostatočne zmapované. Najrozsiahlejší výskum v tejto oblasti je v USA, kde je sexuálna výchova dlhoročnou témou. V jednotlivých štátoch USA sa vyučujú rozdielne programy a neexistuje tam jednotný názor na to, ktorý model je ideálny na dosiahnutie cieľa sexuálneho vzdelávania. Niektoré štáty USA, ale aj napr. Európskej únie, sa zhodujú na tom, že najlepší prístup je tzv. komplexné sexuálne vzdelávanie. Existujú však aj mnohé iné typy programov, ktoré sa vyučujú najmä v USA.
 
-#### Výchova k rodičovstvu
+### Výchova k rodičovstvu
 
 Dôraz je na životnom smerovaní k svadbe, následnej reprodukcii a výchove detí. Tieto programy často považujú rozmnožovanie za primárny cieľ sexu a sexuálny život podmieňujú silnou citovou väzbou, ktorou má byť láska v manželstve. Jednou zo základných hodnôt týchto programov je monogamný vzťah.
 
-#### Výchova k abstinencii 
+### Výchova k abstinencii
 
 Takéto programy zdôrazňujú morálne implikácie sexuálneho styku. Učia ľudí, že jedinou morálne správnou cestou je úplne sa vyhnúť sexuálnym aktivitám, prípadne počkať do svadby. Tieto morálne hodnoty sú často podložené myšlienkami náboženstiev, napríklad kresťanstva či islamu. Osnovy predpokladajú, že ak všetci ľudia počkajú so sexom do svadby a budú mať sex iba s 1 človekom, pohlavne prenosné infekcie (PPI) sa nebudú prenášať, pričom antikoncepčné metódy v manželstve nie sú potrebné. 
 
-#### Výchova zameraná na zdravotné riziká sexu 
+### Výchova zameraná na zdravotné riziká sexu
 
 Dôraz je najmä na prevencii šírenia PPI. Takéto programy sú zámerné na odborné výklady o biológií vírusov a chorôb, často obsahujú rôzne explicitné fotografie možných dôsledkov nákazy PPI.
 
-#### Výchova o rozmnožovaní a populačnom raste 
+### Výchova o rozmnožovaní a populačnom raste
 
 Tieto programy hovoria najmä o rôznych pozitívnych a negatívnych dopadoch ľudskej reprodukcie na spoločnosť, ekonomiku či životné prostredie. Sex vidia ako nástroj na dosiahnutie populačného rastu.
 
@@ -90,8 +90,8 @@ KSV je založené na princípe sex-pozitivity a je intersekcionálne. Okrem toh
 
 Veríme, že sexuálne vzdelávanie je nevyhnutné. Podľa štúdií má [31 % mužov a 43 % žien](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3008577/#R9) nejaký typ sexuálnej dysfunkcie, pričom iba [štvrtina ](https://www.nature.com/articles/ijir20097)týchto ľudí vyhľadá lekársku pomoc. Približne [7 z 10 žien](https://www.europarl.europa.eu/doceo/document/A-7-2013-0426_SK.html) sa počas svojho života stane obeťou fyzického a/alebo sexuálneho násilia. Len v roku 2018 na Slovensku porodilo [1262](http://www.nczisk.sk/Statisticke_vystupy/Tematicke_statisticke_vystupy/Gynekologia_Porodnictvo_Potraty/Porodnictvo/Pages/default.aspx) dievčat vo veku 10 – 17 rokov a mladé dievčatá vo veku 14 – 19 rokov podstúpili [5,4 % ](http://www.nczisk.sk/Statisticke_vystupy/Tematicke_statisticke_vystupy/Gynekologia_Porodnictvo_Potraty/Potraty/Pages/default.aspx)zo všetkých umelých prerušení tehotenstva v roku 2019. V tomto istom roku bolo na Slovensku diagnostikovaných [1762](http://www.nczisk.sk/Statisticke_vystupy/Tematicke_statisticke_vystupy/Pohlavne_choroby/Pages/default.aspx) prípadov nakazenia sa PPI. Takmer [70 %](https://academic.oup.com/cid/article/66/5/735/4356865) prípadov PPI je však bezpríznakových, pričom väčšina z nich nie je diagnostikovaných, takže nie sú zahrnuté v spomenutej štatistike. [Výskumy](https://www.europarl.europa.eu/doceo/document/A-7-2013-0426_SK.html) dokazujú, že vyššie miery pôrodov a interrupcií dospievajúcich matiek, ako aj zvýšená miera šírenia pohlavne prenosných infekcií súvisia s nesprávnou alebo nedostatočnou sexuálnou výchovou.
 
-[<div class='f-sex box-post'>](https://www.advocatesforyouth.org/wp-content/uploads/storage/advfy/documents/cse-myths-and-facts.pdf)
+<div class='f-sex box-post'>
 
 [Komplexné sexuálne vzdelávanie preukázateľne zvyšuje šancu, že mladí ľudia nezačnú žiť aktívny sexuálny život, kým naň nebudú dostatočne zrelí a pripravení, a zároveň je vyššia pravdepodobnosť, že sa pri sexuálnych aktivitách budú adekvátne chrániť. KSV vedie ľudí k hodnotám ako vzájomný rešpekt, tolerancia, rovnosť, empatia a vzájomná pomoc.](https://www.advocatesforyouth.org/wp-content/uploads/storage/advfy/documents/cse-myths-and-facts.pdf)
 
-[</div>](https://www.advocatesforyouth.org/wp-content/uploads/storage/advfy/documents/cse-myths-and-facts.pdf)
+</div>
