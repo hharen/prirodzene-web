@@ -20,6 +20,8 @@ references: >-
 ---
 Všetky články na Prirodzene Webe sú písané v duchu sex-pozitívneho myslenia. 
 
+<br> 
+
 Sex-pozitívne myslenie pochádza z [hnutia za sex-pozitivitu](https://feministcampus.org/campaigns/sex-positivity/) (angl. sex-positivity movement) a zahŕňa nasledovné myšlienky.
 
 * Sexualita a konsenzuálny sex je zdravá súčasť života človeka.
@@ -35,11 +37,19 @@ Sex-pozitívne myslenie pochádza z [hnutia za sex-pozitivitu](https://feminist
 
 O hnutí za sex-pozitivitu existuje aj mnoho mylných predstáv a názorov. V snahe vyhnúť sa šíreniu týchto domnienok ponúkame zoznam myšlienok, ktoré sex-pozitivita NEZAHŔŇA, napriek tomu, že sú s ňou často mylne spájané.
 
+<br> 
+
 – Všetci by mali chcieť mať sex.
+
+<br> 
 
 – Sex-pozitívny človek musí mať veľa sexu.
 
+<br> 
+
 – Ľudia by nemali mať vo svojom sexuálnom živote osobné hranice, napríklad v súvislosti s typom aktivít, ktoré chcú skúsiť a podobne. 
+
+<br> 
 
 – Ľudia, ktorí myslia sex-pozitívne, nemôžu mať zložitý, neistý či rozpačitý vzťah ku svojej sexualite alebo k svojmu telu.
 
@@ -58,6 +68,6 @@ O hnutí za sex-pozitivitu existuje aj mnoho mylných predstáv a názorov. V�
 * právne definované znásilnenie ako sex bez súhlasu;
 * a podobne.
 
-\    
+<br>     
 
 Hnutie za sex-pozitivitu ako aj koncept sexuálnej liberácie sú vo veľkej miere intersekcionálne. Intersekcionalita je vzájomný vzťah medzi sociálnymi kategóriami, ktoré sa uplatňujú na jednotlivca alebo skupinu. Príslušnosť k jednotlivým kategóriám vytvára jedinečný a komplexný systém navzájom prepojených systémov diskriminácie alebo znevýhodnenia. Medzi takéto kategórie zaraďujeme napríklad farbu pleti, národnosť, sexuálnu orientáciu, pohlavie, rodovú identitu, zdravotný stav, sociálnu vrstvu, náboženstvo, vek, vzhľad, vzdelanie, etnicitu, kultúrnu príslušnosť, občianstvo, materinský jazyk a podobne. Pri snahe o sexuálnu liberáciu spoločnosti je nevyhnutné brať do úvahy, akým spôsobom môžu spomínané faktory ovplyvňovať ľudí. Môže to napríklad znamenať, že pričom diskrimináciu na základe sexuálnej orientácie pociťuje drvivá väčšina homosexuálnych ľudí, homosexuálni ľudia rómskej etnicity/so zdravotným znevýhodneným/pochádzajúci z náročnej ekonomickej situácie (atď.) budú túto diskrimináciu pociťovať viac, keďže sa prekrýva s ich postavením v iných diskriminačných schémach a systémoch.
