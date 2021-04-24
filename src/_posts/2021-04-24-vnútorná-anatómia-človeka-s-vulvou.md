@@ -89,9 +89,9 @@ Bartholiniho žľazy sú umiestnené vpravo a vľavo od pošvového otvoru. Sú 
 
 Vagína je pružný orgán a svaly v jej okolí sú výnimočne silné. Počas bežných aktivít je vagína stiahnutá. Človek môže tieto svaly niekedy zámerne uvoľniť, napríklad pri zavádzaní tampónu alebo menštruačného kalíšku. Vagína sa dokáže výrazne roztiahnuť počas pôrodu a následne sa vrátiť takmer do pôvodného stavu. Pri sexuálnom vzrušení dochádza k vaginálnej lubrikácii, vagína sa roztiahne a maternica sa mierne posunie smerom dohora. To znamená, že vo vagíne je viac miesta a môže dôjsť k penetrácií. Penetrácia by nikdy nemala byť bolestivá! Lubrikačný gél je praktická pomôcka, ktorá môže predísť bolestivej penetrácii. Ak je však penetrácia bolestivá aj po použití lubrikačného gélu, nie je to v poriadku. Často to znamená, že človek s vagínou nie je dostatočne vzrušený, v dôsledku čoho svaly v okolí vagíny nie sú dostatočne uvoľnené. Ak je vagína počas penetrácie nezvyčajne úzka a/alebo je penetrácia bolestivá, je to indikácia problému, ktorý by mal byť konzultovaný s lekárom. 
 
-<div class='notes'>
+<div class='f-telo box-post'>
 
-Rovnako, ako sexuálna aktivita nemôže ovplyvniť vzhľad vulvy, penetrácia nemôže dlhodobo ovplyvniť ani tesnosť vagíny. Vagína je pružná a po sexuálnom styku sa vráti do svojej pôvodnej formy. Tvrdiť, že vagína sa „vyťahá“ po sexuálnom styku je rovnako absurdné ako tvrdiť, že penis sa môže po penetrácii „zúžiť“ alebo „vyšúchať“.  
+Rovnako, ako sexuálna aktivita nemôže ovplyvniť vzhľad vulvy, penetrácia nemôže dlhodobo ovplyvniť ani tesnosť vagíny. Vagína je pružná a po sexuálnom styku sa vráti do svojej pôvodnej formy. Tvrdiť, že vagína sa „vyťahá“ po sexuálnom styku je rovnako absurdné ako tvrdiť, že penis sa môže po penetrácii „zúžiť“ alebo „vyšúchať“. 
 
 </div>
 
@@ -102,8 +102,6 @@ Klitoris je erektilný orgán, ktorého veľkosť sa pohybuje medzi 7 až 13 cm.
 <div class="flex flex-wrap justify-around">
 <img src="/images/uploads/klitoris.jpg" alt="Klitoris">
 </div>
-
-
 
 <div class="flex flex-wrap justify-around">
 <img src="/images/uploads/homologia.jpg" alt="Homológia penisu a klitorisu">
@@ -132,5 +130,5 @@ Dodnes existujú krajiny, v ktorých sú ženy trestané, ak pri prvom sexuáln
 </div>
 
 <div class="flex flex-wrap justify-around">
-<img src="/images/uploads/hymens.jpg" alt="Rôzne hymeny">
+<img src="/images/uploads/hymnes.jpg" alt="Rôzne hymeny">
 </div>
