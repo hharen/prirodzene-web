@@ -90,8 +90,5 @@ Vplyvom nerealistického a nezdravého zobrazovania ľudských tiel v médiác
 
 <div class="flex flex-wrap justify-around">
 <img src="/images/uploads/3-vulva-diversity-1.jpg" alt="Rôzne vulvy zospodu">
-</div>
-
-<div class="flex flex-wrap justify-around">
 <img src="/images/uploads/4-vulva-diversity-2.jpg" alt="Rôzne vulvy spredu">
 </div>
