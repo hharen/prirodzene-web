@@ -9,22 +9,28 @@ metadescription: Pojem „menštruačný cyklus“ označuje automatické, perio
   fyziologické a hormonálne zmeny v tele človeka s vulvou, ktoré sú pod
   kontrolou reprodukčného hormonálneho systému. Cyklus väčšinou trvá 24 – 42
   dní, najbežnejšie približne 28 dní.
-references: |-
-  “Phases of Menstrual Cycle.” Menstrupedia. Accessed March 20, 2021.
+references: >-
+  Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit
+  organization. University of California, Santa Barbara . Accessed January 1,
+  2021. https://sexinfoonline.com/. 
 
-  https://menstrupedia.com/articles/physiology/cycle-phases
+
+  Brochmann, Nina, and Ellen Støkken Dahl. The Wonder Down Under. Hodder &amp; Stoughton, 2018. 
+
+
+  “Phases of Menstrual Cycle.” Menstrupedia. Accessed March 20, 2021. https://menstrupedia.com/articles/physiology/cycle-phases
 ---
 <div class='notes'>
 
-SLOVNÍK <br>
+SLOVNÍK <br> <br>
 
-podmozgová žľaza – štruktúra veľkosti hrášku nachádzajúca sa na báze mozgu, ktorá zohráva úlohu v regulácii funkcií ostatných žliaz v organizme; uvoľňuje hormóny, ktoré ovplyvňujú funkcie jednotlivých orgánov <br>
+**podmozgová žľaza** – štruktúra veľkosti hrášku nachádzajúca sa na báze mozgu, ktorá zohráva úlohu v regulácii funkcií ostatných žliaz v organizme; uvoľňuje hormóny, ktoré ovplyvňujú funkcie jednotlivých orgánov <br>
 
-LH a FSH – puberta sa začne produkciou GnRH hormónu, ktorý odovzdá signál podmozgovej žľaze, aby začala produkovať LH a FSH hormóny; tie majú na základe biologického pohlavia rozličnú úlohu v tele človeka <br>
+**LH a FSH** – puberta sa začne produkciou GnRH hormónu, ktorý odovzdá signál podmozgovej žľaze, aby začala produkovať LH a FSH hormóny; tie majú na základe biologického pohlavia rozličnú úlohu v tele človeka <br>
 
-folikul – guľovitý „vačok“, ktorý obsahuje vajíčko <br>
+**folikul** – guľovitý „vačok“, ktorý obsahuje vajíčko <br>
 
-endometrium – sliznica maternice, najvnútornejšia časť maternicovej steny <br>
+**endometrium** – sliznica maternice, najvnútornejšia časť maternicovej steny <br>
 
 </div>
 
@@ -34,15 +40,15 @@ Pojem „menštruačný cyklus“ označuje automatické, periodické, fyziologi
 
 ### 1. Menštruačná fáza
 
-Túto fázu hovorovo nazývame aj menzes, krámy alebo perióda. Začína prvým dňom samotnej menštruácie, ktorá zväčša trvá 3 – 7 dní (ale môže trvať aj dlhšie). Počas nej dochádza k odlúčeniu nekrotickej časti endometria. Telo sa ho zbavuje pomocou menštruačnej tekutiny, ktorá okrem neho obsahuje krv aj výtok. V maternici dochádza ku kontrakciám, kedy sa svaly v okolí maternice sťahujú a zbavujú sa tak endometria. Bežné množstvo vylúčenej tekutiny je 10 – 80 ml.
+Túto fázu hovorovo nazývame aj menzes, krámy alebo perióda. Začína prvým dňom samotnej menštruácie, ktorá zväčša trvá 3 – 7 dní (ale môže trvať aj dlhšie). Počas nej dochádza k odlúčeniu nekrotickej časti [endometria](https://pensive-newton-39aa56.netlify.app/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/). Telo sa ho zbavuje pomocou menštruačnej tekutiny, ktorá okrem neho obsahuje krv aj [výtok](https://pensive-newton-39aa56.netlify.app/hygiena-a-cistota-u-ludi-s-vulvou/). V maternici dochádza ku kontrakciám, kedy sa svaly v okolí maternice sťahujú a zbavujú sa tak endometria. Bežné množstvo vylúčenej tekutiny je 10 – 80 ml. <br>
 
 ### 2. Folikulárna fáza
 
-Jej súčasťou je aj menštruačná fáza, začína prvým dňom menštruácie a končí tesne pred ovuláciou (zväčšia teda trvá od 1. do 13. dňa cyklu). Podmozgová žľaza vypustí hormón, ktorý stimuluje rast vajíčok vo vaječníkoch. Následne dochádza k dozretiu 1 folikulu. Dozretý folikul začne produkovať hormón, vďaka ktorému sa vyvinie nová vrstva endometria. 
+Jej súčasťou je aj menštruačná fáza, začína prvým dňom menštruácie a končí tesne pred ovuláciou (zväčšia teda trvá od 1. do 13. dňa cyklu). Podmozgová žľaza vypustí hormón, ktorý stimuluje rast vajíčok vo vaječníkoch. Následne dochádza k dozretiu 1 folikulu. Dozretý folikul začne produkovať hormón, vďaka ktorému sa vyvinie nová vrstva endometria. <br>
 
 ### 3. Ovulácia
 
-K ovulácii väčšinou dochádza okolo 14. dňa cyklu, teda v jeho polovici. Môže to však by aj skôr alebo neskôr. V prípade, že menštruačná fáza trvá nezvyčajne dlho, môže sa dokonca prekrývať s ovuláciou. Počas ovulácie dôjde k sekrécii hormónu v podmozgovej žľaze, ktorý dá signál jednému z 2 vaječníkov, aby uvoľnil dozreté vajíčko do vajíčkovodov.
+K ovulácii väčšinou dochádza okolo 14. dňa cyklu, teda v jeho polovici. Môže to však by aj skôr alebo neskôr. V prípade, že menštruačná fáza trvá nezvyčajne dlho, môže sa dokonca prekrývať s ovuláciou. Počas ovulácie dôjde k sekrécii hormónu v podmozgovej žľaze, ktorý dá signál jednému z 2 [vaječníkov](https://pensive-newton-39aa56.netlify.app/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/), aby uvoľnil dozreté vajíčko do [vajíčkovodov](https://pensive-newton-39aa56.netlify.app/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/). <br>
 
 ### 4. Luteálna fáza 
 
