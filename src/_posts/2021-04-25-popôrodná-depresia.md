@@ -69,7 +69,7 @@ Napriek tomu je dôležité si uvedomiť, že tehotenstvo a pôrod sú psychick
 
 <br>
 
-• Zdravé návyky, ktoré ste dodržovali počas tehotenstva, dodržujte aj po pôrode. <br>
+• [Zdravé návyky](https://pensive-newton-39aa56.netlify.app/zdrave-navyky-pocas-tehotenstva/), ktoré ste dodržovali počas tehotenstva, dodržujte aj po pôrode. <br>
 
 • Nemajte príliš vysoké očakávania na seba ani na svoje dieťa. <br>
 
