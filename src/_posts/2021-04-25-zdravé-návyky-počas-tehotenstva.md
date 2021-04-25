@@ -10,7 +10,9 @@ metadescription: "Počas tehotenstva je nevyhnutné príkladne sa starať o svo
   ktorými je dobré sa v období tehotenstva riadiť:"
 references: \-
 ---
-Počas tehotenstva je nevyhnutné príkladne sa starať o svoje telo, keďže správanie matky ovplyvňuje aj vývin plodu. Toto je niekoľko zásad, ktorými je dobré sa v období tehotenstva riadiť: 
+#### Počas tehotenstva je nevyhnutné príkladne sa starať o svoje telo, keďže správanie matky ovplyvňuje aj vývin plodu. Toto je niekoľko zásad, ktorými je dobré sa v období tehotenstva riadiť: 
+
+<br>
 
 * Základom sú pravidelné návštevy a prehliadky u lekára/ky. Keď človek zistí, že je tehotný, mal by navštíviť lekára/ku a to približne v siedmom týždni tehotenstva. Počas celého obdobia je potrebné absolvovať odporúčané vyšetrenia, ultrazvuky, konzultácie atď. Všetky pochybnosti či komplikácie je vždy najlepšie konzultovať s odborníkmi/odborníčkami. 
 * Starať sa o svoje psychické zdravie. Rovnako, ako je potrebné konzultovať všetky fyzické a telesné zmeny, tehotný človek by sa mal obrátiť na lekárov/ky aj v prípade, že sa necíti dobre psychicky/duševne. Návšteva psychológa/ičky či psychiatra/ičky môže výrazne napomôcť k potrebnej duševnej pohode počas tehotenstva aj mimo neho. 
