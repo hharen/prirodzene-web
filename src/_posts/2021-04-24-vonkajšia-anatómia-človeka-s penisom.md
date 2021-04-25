@@ -24,14 +24,10 @@ references: >-
 Vonkajšia časť pohlavného ústrojenstva človeka s penisom sa nazýva penis a miešok. 
 
 <div class="flex flex-wrap justify-around">
-<img src="/images/uploads/penis-1.jpg" alt="Penis s anotáciami">
-</div>
+<img src="/images/uploads/penis_1.jpg" alt="Penis s anotáciami">
 
-<div class="flex flex-wrap justify-around">
 <img src="/images/uploads/penis-2.jpg" alt="Stoporený penis s anotáciami">
-</div>
 
-<div class="flex flex-wrap justify-around">
 <img src="/images/uploads/penis-zdola.jpg" alt="Pohľad na penis s anotáciami">
 </div>
 
@@ -95,8 +91,6 @@ Výrazné ochlpenie rastie väčšinou medzi genitáliami a podbruškom, na ste
 
 <div class="flex flex-wrap justify-around">
 <img src="/images/uploads/penis-diversity.jpg" alt="Rôzne penisy">
-</div>
 
-<div class="flex flex-wrap justify-around">
-<img src="/images/uploads/penis-diversity-2.jpg" alt="Rôzne stoporené penisy">
+<img src="/images/uploads/penis_diversity-2.jpg" alt="Rôzne stoporené penisy">
 </div>
