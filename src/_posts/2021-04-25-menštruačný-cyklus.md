@@ -9,7 +9,10 @@ metadescription: Pojem „menštruačný cyklus“ označuje automatické, perio
   fyziologické a hormonálne zmeny v tele človeka s vulvou, ktoré sú pod
   kontrolou reprodukčného hormonálneho systému. Cyklus väčšinou trvá 24 – 42
   dní, najbežnejšie približne 28 dní.
-references: \-
+references: |-
+  “Phases of Menstrual Cycle.” Menstrupedia. Accessed March 20, 2021.
+
+  https://menstrupedia.com/articles/physiology/cycle-phases
 ---
 <div class='notes'>
 
