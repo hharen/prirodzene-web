@@ -20,6 +20,9 @@ references: >-
   Brochmann, Nina, and Ellen Støkken Dahl. The Wonder Down Under. Hodder &amp; Stoughton, 2018. 
 
 
+  Mandal, Dr. Ananya. “Semen Physiology.” News Medical Life Science, February 27, 2019. https://www.news-medical.net/health/Semen-Physiology.aspx. 
+
+
   Mráz, Peter, and Kamil Belej. Anatómia Ľudského Tela 2. Slovak Academic Press, 2016. 
 
 
@@ -37,7 +40,7 @@ Močová rúra je obklopená špongióznym telesom. Slúži na vývod moču z m
 
 ## Semenníky
 
-Semenníky sú oválne párové orgány. V predpubertálnom veku sú uložené vo vnútri tela, počas puberty „spadnú“ do mieška. Semenníky produkujú testosterón a spermie. Počas ejakulácie sa spermie pohybujú cez semenovody smerom do močovej rúry, odkiaľ je ejakulát vylúčený. Spermie sa začnú produkovať v období puberty. Štruktúra semenníkov je zložená zo semenotvorných kanálikov. Sú to početné, tenké, nahusto stočené kanáliky, v ktorých prebieha spermatogenéza – tvorba spermií. 
+Semenníky sú oválne párové orgány. V predpubertálnom veku sú uložené vo vnútri tela, počas puberty „spadnú“ do mieška. Semenníky produkujú testosterón a spermie. Počas ejakulácie sa spermie pohybujú cez semenovody smerom do močovej rúry, odkiaľ je ejakulát vylúčený. Spermie sa začnú produkovať v období puberty. Štruktúra semenníkov je zložená zo semenotvorných kanálikov. Sú to početné, tenké, nahusto stočené kanáliky, v ktorých prebieha [spermatogenéza – tvorba spermií](https://pensive-newton-39aa56.netlify.app/tvorba-ejakulatu/). 
 
 ## Nadsemenníky
 
@@ -45,7 +48,7 @@ Nadsemenníky sú párové orgány uložené v miešku a spojené so zadnou str
 
 ## Semenné mechúriky
 
-Sú to dve malé žľazy, ktorá sa nachádzajú vedľa konečnej časti semenovodov. Produkujú zásaditú tekutinu, ktorá je bohatá na fruktózu, ktorú spermie potrebujú k pohybu. Táto tekutina dodáva ejakulátu lepkavú hrudkovitú štruktúru. Vďaka lepkavosti sa následne spermie jednoduchšie udržia vo vagíne. Tekutina vytvorená v semenných mechúrikoch tvorí približne 60 % ejakulátu. 
+Sú to dve malé žľazy, ktorá sa nachádzajú vedľa konečnej časti semenovodov. Produkujú zásaditú tekutinu, ktorá je bohatá na fruktózu, ktorú spermie potrebujú k pohybu. Táto tekutina dodáva ejakulátu lepkavú hrudkovitú štruktúru. Vďaka lepkavosti sa následne spermie jednoduchšie udržia vo vagíne. Tekutina vytvorená v semenných mechúrikoch tvorí približne [46 – 80 %](https://www.news-medical.net/health/Semen-Physiology.aspx) ejakulátu. 
 
 ## Cowperove žľazy
 
@@ -53,7 +56,7 @@ Cowperove žľazy sú umiestnené popri oboch stranách močovej rúry pod prost
 
 ## Prostata/ Predstojnica
 
-Prostata je žľaza vo veľkosti gaštanu, nachádza sa pod močovým mechúrom a pred hrubým črevom. Prechádza ňou močová rúra. Prostata produkuje zásaditú tekutinu, ktorá konzistenciou pripomína mlieko. Táto tekutina vytvára ideálne prostredie pre spermie a tvorí približne 20 – 30 % ejakulátu. Súčasťou tejto žľazy sú tiež svaly, ktoré pomáhajú ejakulátu opustiť telo. Starnutím sa prostata zväčšuje, čo môže spôsobiť rôzne problémy. 
+Prostata je žľaza vo veľkosti gaštanu, nachádza sa pod močovým mechúrom a pred hrubým črevom. Prechádza ňou močová rúra. Prostata produkuje zásaditú tekutinu, ktorá konzistenciou pripomína mlieko. Táto tekutina vytvára ideálne prostredie pre spermie a tvorí približne [13 – 33 %](https://www.news-medical.net/health/Semen-Physiology.aspx) ejakulátu. Súčasťou tejto žľazy sú tiež svaly, ktoré pomáhajú ejakulátu opustiť telo. Starnutím sa prostata zväčšuje, čo môže spôsobiť rôzne problémy. 
 
 ## Semenovody
 
