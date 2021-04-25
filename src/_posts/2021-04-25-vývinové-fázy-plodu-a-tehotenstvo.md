@@ -10,27 +10,20 @@ metadescription: Tehotenstvo bežne trvá približne 40 týždňov a býva rozde
   určitými kľúčovými zmenami. Tretí trimester a aj samotné tehotenstvo sa končí
   pôrodom.
 references: >-
-  https://www.cosmopolitan.com/sex-love/a17887712/best-pregnancy-tracker-app/
+  Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit
+  organization. University of California, Santa Barbara. Accessed January 1,
+  2021. https://sexinfoonline.com/. 
 
 
-  Redakcia. “Tehotenstvo, Počatie, Plánovanie Bábätka.” Promama. Accessed March 20, 2021. 
+  Redakcia. “Tehotenstvo, Počatie, Plánovanie Bábätka.” Promama. Accessed March 20, 2021. https://www.promama.sk/tehotenstvo/vyhladavanie?kategorie=41. 
 
 
-  https://www.promama.sk/tehotenstvo/vyhladavanie?kategorie=41
+  “Tehotenstvo Po Týždňoch.” Babyweb.sk, 2009. https://www.babyweb.sk/tehotenstvo-po-tyzdnoch-13. 
 
 
-  “Tehotenstvo Po Týždňoch.” Babyweb.sk, 2009.
-
-
-  https://www.babyweb.sk/tehotenstvo-po-tyzdnoch-13
-
-
-  Yakıştıran, Betül, Tuncay Yüce, and Feride Söylemez. “First Trimester Bleeding and Pregnancy Outcomes: Case-Control Study.” IJWHR. International Journal of Women’s Health and Reproduction Sciences, January 2016.
-
-
-  http://www.ijwhr.net/pdf/pdf_IJWHR_133.pdf
+  Yakıştıran, Betül, Tuncay Yüce, and Feride Söylemez. “First Trimester Bleeding and Pregnancy Outcomes: Case-Control Study.” IJWHR. International Journal of Women’s Health and Reproduction Sciences, January 2016. http://www.ijwhr.net/pdf/pdf_IJWHR_133.pdf.
 ---
-<div class='f-telo box-post'>
+<div class='notes'>
 
 Poznámka na začiatok:
 
@@ -40,11 +33,7 @@ V nasledujúcom texte používame pojem „matka“ vo veľmi úzkom zmysle za
 
 Tehotenstvo trvá približne 40 týždňov od prvého dňa poslednej menštruácie. Táto doba je rozdelená do 3 trimestrov. Prvý trimester trvá od 1. do 12. týždňa tehotenstva, druhý trimester trvá od 13. do 26. týždňa a tretí trimester trvá od 27. do 40. týždňa. 
 
-<div class='f-telo box-post'>
-
-Je dôležité uvedomiť si, že v nasledujúcom texte vysvetľujeme zmeny počas tehotenstva tak, ako sa dejú pri „priemernom“ tehotenstve. Rozdielne trvanie jednotlivých vývojových fáz je však úplne prirodzené. Existujú rôzne aplikácie, ktoré vám môžu pomôcť detailne sledovať zmeny v tehotenstve. Zmeny a všetky otázky je zároveň potrebné konzultovať s medicínskymi špecialistami a špecialistkami.
-
-</div>
+V nasledujúcom texte vysvetľujeme zmeny počas tehotenstva tak, ako sa dejú pri „priemernom“ tehotenstve. Rozdielne trvanie jednotlivých vývojových fáz je však úplne prirodzené. Existujú rôzne [aplikácie](https://www.cosmopolitan.com/sex-love/a17887712/best-pregnancy-tracker-app/), ktoré vám môžu pomôcť detailne sledovať zmeny v tehotenstve. Zmeny a všetky otázky je zároveň potrebné konzultovať s medicínskymi špecialistami a špecialistkami.
 
 <br>
 
@@ -55,6 +44,8 @@ Je dôležité uvedomiť si, že v nasledujúcom texte vysvetľujeme zmeny poč
 #### Matka
 
 Počas prvého trimestra začnú prvé zmeny v tele matky. Prvé, čo si matka môže všimnúť, je vynechanie menštruácie. Vtedy je vhodné urobiť si tehotenský test a navštíviť gynekológa/gynekologičku. Prvý ultrazvuk môže byť vykonaný medzi 6. až 8. týždňom tehotenstva. Po prvej vynechanej menštruácii môžu začať emocionálne symptómy, ako časté výkyvy nálad a telesné zmeny, ako celková telesná únava alebo ranné nevoľnosti a zvracanie. Nevoľnosť je spôsobená predovšetkým vysokou hladinou hCG hormónu. Tieto symptómy sa vyskytujú približne u 85 % tehotných ľudí. Ďalšie zmeny môžu zahŕať častý hlad, zvláštne a nezvyčajné chute, zvýšená citlivosť čuchu, zvýšená citlivosť či bolestivosť prsníkov, zmeny v túžbe po sexuálnych aktivitách, časté močenie, akné či bolesti hlavy. Počas prvého trimestra môže dôjsť k miernemu nárastu hmotnosti. Všetky tieto symptómy môžu aj nemusia pokračovať počas celého obdobia tehotenstva. Je dôležité dbať na dostatočnú a zdravú výživu, vyhýbať sa alkoholu, cigaretám, drogám, niektorým liekom a veľa oddychovať. 
+
+<br>
 
 #### Plod
 
@@ -75,6 +66,8 @@ Počas prvého trimestra začnú prvé zmeny v tele matky. Prvé, čo si matka 
 #### Matka
 
 Mnoho telesných symptómov z prvého semestra odznie, niektoré pretrvajú. Symptómy zahŕňajú časté močenie, zrýchlený tlkot srdca počas bežných aktivít a mierne pálenie či pichanie pri srdci. Okolo dvadsiateho týždňa sa podbrušie začne zaokrúhľovať, matka môže pociťovať prvé „kopanie“, teda pohyby dieťaťa. Tiež môžu nastať prvé nepravidelné falošné kontrakcie, ktorým hovoríme Braxton-Hicks kontrakcie. Svaly maternice sa v dôsledku produkcie oxytocínu sťahujú a postupne sa tak pripravujú na pôrod. Intenzita aj frekvencia týchto kontrakcií sa môže časom zvyšovať. 
+
+<br>
 
 #### Plod
 
@@ -98,6 +91,8 @@ Mnoho telesných symptómov z prvého semestra odznie, niektoré pretrvajú. Sy
 #### Matka
 
 Tretí trimester býva pre matku fyzicky aj psychicky náročný. Kvôli rastúcemu bruchu sa môže cítiť nepríjemne a nepohodlne. Braxton-Hicks kontrakcie pretrvávajú a väčšinou sa k nim pridajú aj bolesti chrbta. Ďalšie symptómy zahŕňajú napuchnuté nohy a chodidlá, hemoroidy, nespavosť, únavu, výkyvy nálad, pálenie pri srdci. Takisto sa môžu začať nalievať prsia, z ktorých môže vytekať colostrum, tzv. prvé mlieko. Vzhľad bradaviek a dvorcov sa mení. Počas tohto obdobia môže matka výrazne pribrať na váhe, väčšinou približne okolo 12 kg. Po pôrode alebo počas tehotenstva sa veľmi často objavia strie, natiahnutá alebo ovisnutá koža, zmeny v pigmentácii kože atď. Tretí trimester ako aj tehotenstvo sa končí pôrodom.
+
+<br>
 
 #### Plod
 
