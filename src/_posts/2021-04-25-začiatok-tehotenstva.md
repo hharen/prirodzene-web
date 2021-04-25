@@ -15,7 +15,7 @@ Prvým krokom k zrodu ľudského života je otehotnenie. Jedným z dôležitýc
 
 <br>
 
-Tehotenstvo začína oplodnením vajíčka spermiou. K oplodneniu môže dôjsť niekoľkými spôsobmi:
+#### Tehotenstvo začína oplodnením vajíčka spermiou. K oplodneniu môže dôjsť niekoľkými spôsobmi:
 
 * nechránená vaginálno-penilná penetrácia, pri ktorej došlo k ejakulácií semena vo vnútri vagíny;
 * iné sexuálne aktivity, pri ktorých sa spermie dostali do vagíny, napríklad prostredníctvom predejakulátu;
