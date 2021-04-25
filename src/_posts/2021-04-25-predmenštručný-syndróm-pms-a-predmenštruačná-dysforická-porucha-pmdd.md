@@ -9,7 +9,25 @@ metadescription: Predmenštruačný syndróm pravidelne ovplyvňuje približne 7
   ľudí s vulvou, pričom aspoň raz v živote niektoré z jeho príznakov zažije až
   90 % žien. Presné faktory, ktoré PMS spôsobujú, nie sú zistené.
   Predmenštruačná dysforická porucha je najhoršia forma PMS.
-references: \-
+references: >-
+  England, Charlotte. “One in Five Men Have Erectile Dysfunction. 90% of Women
+  Experience PMS. Guess Which One Researchers Study More?” The Independent.
+  Independent Digital News and Media, August 19, 2016.
+
+
+  https://www.independent.co.uk/news/science/pms-erectile-dysfunction-studies-penis-problems-period-pre-menstrual-pains-science-disparity-a7198681.html
+
+
+  Steiner, M. “Premenstrual Syndrome and Premenstrual Dysphoric Disorder: Guidelines for Management.” Journal of psychiatry &amp; neuroscience : JPN. U.S. National Library of Medicine, November 2000.
+
+
+  https://www.ncbi.nlm.nih.gov/pubmed/11109297
+
+
+  Winer, Sharon A, and Andrea J Rapkin. “Premenstrual Disorders: Prevalence, Etiology and Impact.” ResearchGate . The Journal of reproductive medicine, May 2006.
+
+
+  https://www.researchgate.net/publication/7049158_Premenstrual_disorders_Prevalence_etiology_and_impact
 ---
 **Predmenštruačný syndróm** pravidelne ovplyvňuje približne [75 %](https://www.ncbi.nlm.nih.gov/pubmed/11109297.) ľudí s vulvou, pričom aspoň raz v živote niektoré z jeho príznakov zažije až [90 %](https://www.researchgate.net/publication/7049158_Premenstrual_disorders_Prevalence_etiology_and_impact) žien. Presné faktory, ktoré PMS spôsobujú, nie sú zistené. Avšak, najčastejšie sa spája s hormonálnymi zmenami v tele človeka tesne pred menštruačnou fázou, kedy hladiny estrogénu a progesterónu výrazne klesnú. PMS je stav organizmu niekoľko dní pred začiatkom menštruácie a zahŕňa nasledujúce symptómy:
 
