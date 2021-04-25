@@ -24,13 +24,13 @@ references: >-
 
 SLOVNÍK <br> <br>
 
-**podmozgová žľaza** – štruktúra veľkosti hrášku nachádzajúca sa na báze mozgu, ktorá zohráva úlohu v regulácii funkcií ostatných žliaz v organizme; uvoľňuje hormóny, ktoré ovplyvňujú funkcie jednotlivých orgánov <br>
+<strong>podmozgová žľaza</strong> – štruktúra veľkosti hrášku nachádzajúca sa na báze mozgu, ktorá zohráva úlohu v regulácii funkcií ostatných žliaz v organizme; uvoľňuje hormóny, ktoré ovplyvňujú funkcie jednotlivých orgánov <br>
 
-**LH a FSH** – puberta sa začne produkciou GnRH hormónu, ktorý odovzdá signál podmozgovej žľaze, aby začala produkovať LH a FSH hormóny; tie majú na základe biologického pohlavia rozličnú úlohu v tele človeka <br>
+<strong>LH a FSH</strong> – puberta sa začne produkciou GnRH hormónu, ktorý odovzdá signál podmozgovej žľaze, aby začala produkovať LH a FSH hormóny; tie majú na základe biologického pohlavia rozličnú úlohu v tele človeka <br>
 
-**folikul** – guľovitý „vačok“, ktorý obsahuje vajíčko <br>
+<strong>folikul</strong> – guľovitý „vačok“, ktorý obsahuje vajíčko <br>
 
-**endometrium** – sliznica maternice, najvnútornejšia časť maternicovej steny <br>
+<strong>endometrium</strong> – sliznica maternice, najvnútornejšia časť maternicovej steny <br>
 
 </div>
 
