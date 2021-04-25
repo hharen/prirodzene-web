@@ -35,7 +35,7 @@ Je dôležité uvedomiť si, že v nasledujúcom texte vysvetľujeme zmeny poč
 
 #### Matka
 
-Počas prvého trimestra začnú prvé zmeny v tele matky. Prvé, čo si matka môže všimnúť, je vynechanie menštruácie. Vtedy je vhodné urobiť si tehotenský test a navštíviť gynekológa/gynekologičku. Prvý ultrazvuk môže byť vykonaný medzi 6. až 8. týždňom tehotenstva. Po prvej vynechanej menštruácii môžu začať emocionálne symptómy, ako časté výkyvy nálad a telesné zmeny, ako celková telesná únava alebo ranné nevoľnosti a zvracanie. Nevoľnosť je spôsobená predovšetkým vysokou hladinou hCG hormónu. Tieto symptómy sa vyskytujú približne u 85 % tehotných ľudí. Ďalšie zmeny môžu zahrňovať častý hlad, zvláštne a nezvyčajné chute, zvýšená citlivosť čuchu, zvýšená citlivosť či bolestivosť prsníkov, zmeny v túžbe po sexuálnych aktivitách, časté močenie, akné či bolesti hlavy. Počas prvého trimestra môže dôjsť k miernemu nárastu hmotnosti. Všetky tieto symptómy môžu aj nemusia pokračovať počas celého obdobia tehotenstva. Je dôležité dbať na dostatočnú a zdravú výživu, vyhýbať sa alkoholu, cigaretám, drogám, niektorým liekom a veľa oddychovať. 
+Počas prvého trimestra začnú prvé zmeny v tele matky. Prvé, čo si matka môže všimnúť, je vynechanie menštruácie. Vtedy je vhodné urobiť si tehotenský test a navštíviť gynekológa/gynekologičku. Prvý ultrazvuk môže byť vykonaný medzi 6. až 8. týždňom tehotenstva. Po prvej vynechanej menštruácii môžu začať emocionálne symptómy, ako časté výkyvy nálad a telesné zmeny, ako celková telesná únava alebo ranné nevoľnosti a zvracanie. Nevoľnosť je spôsobená predovšetkým vysokou hladinou hCG hormónu. Tieto symptómy sa vyskytujú približne u 85 % tehotných ľudí. Ďalšie zmeny môžu zahŕať častý hlad, zvláštne a nezvyčajné chute, zvýšená citlivosť čuchu, zvýšená citlivosť či bolestivosť prsníkov, zmeny v túžbe po sexuálnych aktivitách, časté močenie, akné či bolesti hlavy. Počas prvého trimestra môže dôjsť k miernemu nárastu hmotnosti. Všetky tieto symptómy môžu aj nemusia pokračovať počas celého obdobia tehotenstva. Je dôležité dbať na dostatočnú a zdravú výživu, vyhýbať sa alkoholu, cigaretám, drogám, niektorým liekom a veľa oddychovať. 
 
 #### Plod
 
@@ -55,7 +55,7 @@ Počas prvého trimestra začnú prvé zmeny v tele matky. Prvé, čo si matka 
 
 #### Matka
 
-Mnoho telesných symptómov z prvého semestra odznie, niektoré pretrvajú. Symptómy zahrňujú časté močenie, zrýchlený tlkot srdca počas bežných aktivít a mierne pálenie či pichanie pri srdci. Okolo dvadsiateho týždňa sa podbrušie začne zaokrúhľovať, matka môže pociťovať prvé „kopanie“, teda pohyby dieťaťa. Tiež môžu nastať prvé nepravidelné falošné kontrakcie, ktorým hovoríme Braxton-Hicks kontrakcie. Svaly maternice sa v dôsledku produkcie oxytocínu sťahujú a postupne sa tak pripravujú na pôrod. Intenzita aj frekvencia týchto kontrakcií sa môže časom zvyšovať. 
+Mnoho telesných symptómov z prvého semestra odznie, niektoré pretrvajú. Symptómy zahŕňajú časté močenie, zrýchlený tlkot srdca počas bežných aktivít a mierne pálenie či pichanie pri srdci. Okolo dvadsiateho týždňa sa podbrušie začne zaokrúhľovať, matka môže pociťovať prvé „kopanie“, teda pohyby dieťaťa. Tiež môžu nastať prvé nepravidelné falošné kontrakcie, ktorým hovoríme Braxton-Hicks kontrakcie. Svaly maternice sa v dôsledku produkcie oxytocínu sťahujú a postupne sa tak pripravujú na pôrod. Intenzita aj frekvencia týchto kontrakcií sa môže časom zvyšovať. 
 
 #### Plod
 
@@ -78,7 +78,7 @@ Mnoho telesných symptómov z prvého semestra odznie, niektoré pretrvajú. Sy
 
 #### Matka
 
-Tretí trimester býva pre matku fyzicky aj psychicky náročný. Kvôli rastúcemu bruchu sa môže cítiť nepríjemne a nepohodlne. Braxton-Hicks kontrakcie pretrvávajú a väčšinou sa k nim pridajú aj bolesti chrbta. Ďalšie symptómy zahrňujú napuchnuté nohy a chodidlá, hemoroidy, nespavosť, únavu, výkyvy nálad, pálenie pri srdci. Takisto sa môžu začať nalievať prsia, z ktorých môže vytekať colostrum, tzv. prvé mlieko. Vzhľad bradaviek a dvorcov sa mení. Počas tohto obdobia môže matka výrazne pribrať na váhe, väčšinou približne okolo 12 kg. Po pôrode alebo počas tehotenstva sa veľmi často objavia strie, natiahnutá alebo ovisnutá koža, zmeny v pigmentácii kože atď. Tretí trimester ako aj tehotenstvo sa končí pôrodom.
+Tretí trimester býva pre matku fyzicky aj psychicky náročný. Kvôli rastúcemu bruchu sa môže cítiť nepríjemne a nepohodlne. Braxton-Hicks kontrakcie pretrvávajú a väčšinou sa k nim pridajú aj bolesti chrbta. Ďalšie symptómy zahŕňajú napuchnuté nohy a chodidlá, hemoroidy, nespavosť, únavu, výkyvy nálad, pálenie pri srdci. Takisto sa môžu začať nalievať prsia, z ktorých môže vytekať colostrum, tzv. prvé mlieko. Vzhľad bradaviek a dvorcov sa mení. Počas tohto obdobia môže matka výrazne pribrať na váhe, väčšinou približne okolo 12 kg. Po pôrode alebo počas tehotenstva sa veľmi často objavia strie, natiahnutá alebo ovisnutá koža, zmeny v pigmentácii kože atď. Tretí trimester ako aj tehotenstvo sa končí pôrodom.
 
 #### Plod
 
