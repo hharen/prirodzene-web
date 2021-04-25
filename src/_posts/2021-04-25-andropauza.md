@@ -10,7 +10,12 @@ metadescription: Andropauza je proces, ktorý sprevádzajú zmeny hormonálnych
   sú také rapídne a výrazné ako u ľudí s biologicky ženským pohlavím, ale dejú
   sa. Andropauza sa prejavuje poklesom hladiny testosterónu u mužov, ktorí majú
   nad 50 rokov.
-references: \-
+references: >-
+  Krans, Brian, and Graham M.D. Rogers. “What Is Male Menopause?” Healthline,
+  September 16, 2018.
+
+
+  https://www.healthline.com/health/menopause/male
 ---
 **Andropauza** je proces, ktorý sprevádzajú zmeny hormonálnych hladín u ľudí s biologicky mužským pohlavím vplyvom starnutia. Tieto zmeny nie sú také rapídne a výrazné ako u ľudí s biologicky ženským pohlavím, ale dejú sa. Andropauza sa prejavuje poklesom hladiny testosterónu u mužov, ktorí majú nad 50 rokov. Andropauza je často spojená s hypogonadizmom, čo je porucha funkcie pohlavných žliaz, ktorej výsledkom je nedostatočná tvorba testosterónu. Testosterón okrem plodnosti zohráva rolu aj v mnohých iných telesných faktoroch, ako zmeny v puberte, fyzická a mentálna energia, svalová hmota či schopnosť reagovať na stresové situácie /*tzv. reakcia „útok alebo útek“*/. 
 
