@@ -45,7 +45,7 @@ Interrupcia väčšinou nie je pre tehotnú osobu jednoduchým rozhodnutím. Nap
 
 ### Dôvody, prečo ženy podstupujú UPT
 
-#### Najčastejší dôvod, prečo ženy podstupujú interrupciu, je ich [socioekonomická situácia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5957082/). Iné dôvody, prečo si ženy vyberajú UPT zahŕňajú:
+#### Najčastejší dôvod, prečo ženy podstupujú interrupciu, je ich **[socioekonomická situácia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5957082/)**. Iné dôvody, prečo si ženy vyberajú UPT zahŕňajú:
 
 * chcú mať deti neskôr alebo nikdy;
 * nechcú ďalšie dieťa;
