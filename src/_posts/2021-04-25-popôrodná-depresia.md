@@ -9,9 +9,14 @@ metadescription: Po skončení tehotenstva je nutné sa pripraviť na niekoľko
   zmien, ktoré môžu u tehotnej osoby nastať. Jednou z nich býva aj popôrodná
   depresia (PPD). PPD je zložitá kombinácia telesých, emocionálnych, psychických
   a behaviorálnych zmien.
-references: \-
+references: >-
+  Smith, Michael W. “Postpartum Depression: Symptoms, Causes, Risks, Types,
+  Tests, Professional and Self-Care.” WebMD. WebMD, August 4, 2020.
+
+
+  https://www.webmd.com/depression/guide/postpartum-depression
 ---
-Popôrodná depresia (PPD) je zložitá kombinácia telesných, emocionálnych, psychických a behaviorálnych zmien, ktoré môžu nastať u matky po pôrode.
+**Popôrodná depresia** (PPD) je zložitá kombinácia telesných, emocionálnych, psychických a behaviorálnych zmien, ktoré môžu nastať u matky po pôrode.
 
 <br>
 
