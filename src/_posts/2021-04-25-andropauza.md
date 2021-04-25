@@ -10,18 +10,15 @@ metadescription: Andropauza je proces, ktorý sprevádzajú zmeny hormonálnych
   sú také rapídne a výrazné ako u ľudí s biologicky ženským pohlavím, ale dejú
   sa. Andropauza sa prejavuje poklesom hladiny testosterónu u mužov, ktorí majú
   nad 50 rokov.
-references: >-
-  Krans, Brian, and Graham M.D. Rogers. “What Is Male Menopause?” Healthline,
-  September 16, 2018.
-
-
+references: Krans, Brian, and Graham M.D. Rogers. “What Is Male Menopause?”
+  Healthline, September 16, 2018.
   https://www.healthline.com/health/menopause/male
 ---
-**Andropauza** je proces, ktorý sprevádzajú zmeny hormonálnych hladín u ľudí s biologicky mužským pohlavím vplyvom starnutia. Tieto zmeny nie sú také rapídne a výrazné ako u ľudí s biologicky ženským pohlavím, ale dejú sa. Andropauza sa prejavuje poklesom hladiny testosterónu u mužov, ktorí majú nad 50 rokov. Andropauza je často spojená s hypogonadizmom, čo je porucha funkcie pohlavných žliaz, ktorej výsledkom je nedostatočná tvorba testosterónu. Testosterón okrem plodnosti zohráva rolu aj v mnohých iných telesných faktoroch, ako zmeny v puberte, fyzická a mentálna energia, svalová hmota či schopnosť reagovať na stresové situácie /*tzv. reakcia „útok alebo útek“*/. 
+**Andropauza** je proces, ktorý sprevádzajú zmeny hormonálnych hladín u ľudí s biologicky mužským pohlavím vplyvom starnutia. Tieto zmeny nie sú také rapídne a výrazné ako u ľudí s biologicky ženským pohlavím, ale dejú sa. Andropauza sa prejavuje poklesom hladiny testosterónu u mužov, ktorí majú nad 50 rokov. Andropauza je často spojená s hypogonadizmom, čo je porucha funkcie pohlavných žliaz, ktorej výsledkom je nedostatočná tvorba testosterónu. Testosterón okrem plodnosti zohráva rolu aj v mnohých iných telesných faktoroch, ako zmeny v puberte, fyzická a mentálna energia, svalová hmota či schopnosť reagovať na stresové situácie (*tzv. reakcia „útok alebo útek“)*. 
 
 Na rozdiel od menopauzy u žien, andropauza sa neobjaví u všetkých ľudí mužského pohlavia a neznamená úplné zastavenie funkcionality reprodukčného systému. Hladina testosterónu však vekom postupne klesá približne o 1 % každý rok po dovŕšení 30. roku života. 
 
-#### Znížené hladiny testosterónu sa môžu prejavovať niekoľkými spôsobmi, ako napríklad:
+##### **Znížené hladiny testosterónu sa môžu prejavovať niekoľkými spôsobmi, ako napríklad:**
 
 * emocionálne zmeny ako únava a málo energie, depresia a smútok, znížená motivácia, znížené sebavedomie;
 * problémy so sústredením;
