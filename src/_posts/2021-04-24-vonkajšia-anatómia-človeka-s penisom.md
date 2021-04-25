@@ -92,10 +92,15 @@ Okolo korunky žaluďu a na povrchu miešku sa môžu objavovať malé biele bo
 Výrazné ochlpenie rastie väčšinou medzi genitáliami a podbruškom, na stehnách, na dolnej časti penisu, na miešku aj v okolí análneho otvoru. Farba aj štruktúra chlpov môže byť rôzna, môžu byť riedke, jemné alebo tvrdšie, ryšavé, tmavohnedé, blonďavé, podobne ako vlasy. Všetky tieto variácie sú zdravé.
 
 <div class="flex flex-wrap justify-around">
-<img src="/images/uploads/penis-diversity.jpg" alt="Rôzne penisy">\
+
+<img src="/images/uploads/penis-diversity.jpg" alt="Rôzne penisy">
+
 </div>
 
+<br>
 
+<div class="flex flex-wrap justify-around">
 
-<div class="flex flex-wrap justify-around"><img src="/images/uploads/penis_diversity-2.jpg" alt="Rôzne stoporené penisy">
+<img src="/images/uploads/penis_diversity-2.jpg" alt="Rôzne stoporené penisy">
+
 </div>
