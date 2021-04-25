@@ -9,21 +9,8 @@ metadescription: Umelé prerušenie tehotenstva (UPT) znamená, že tehotná oso
   zo zdravotných, ekonomických či osobných dôvodov rozhodne zámerne ukončiť
   svoje tehotenstvo. UPT na Slovensku z roka na rok klesajú.
 references: >-
-  Medical Center, Stanford University. “Which Fertilized Eggs Will Become
-  Healthy Human Fetuses? Researchers Predict with 93% Accuracy.” ScienceDaily.
-  ScienceDaily, October 4, 2010.
-
-
-  https://www.sciencedaily.com/releases/2010/10/101003205930.htm
-
-
-  Agenor, Angena, and Sohinee Bhattacharya. “Infertility and Miscarriage: Common Pathways in ...” World Health Organization, July 2015.
-
-
-  https://www.researchgate.net/publication/280694588_Infertility_and_Miscarriage_Common_Pathways_in_Manifestation_and_Management.
-
-
-  “Potraty v Slovenskej Republike 2019.” Slovensky. Národné centrum zdravotníckych informácií. Accessed March 20, 2021.
+  “Potraty v Slovenskej Republike 2019.” Slovensky. Národné centrum
+  zdravotníckych informácií. Accessed March 20, 2021.
 
 
   http://www.nczisk.sk/Aktuality/Pages/Potraty-v-Slovenskej-republike-2019.aspx
