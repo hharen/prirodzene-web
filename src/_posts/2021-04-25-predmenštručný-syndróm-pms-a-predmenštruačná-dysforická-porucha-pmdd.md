@@ -39,7 +39,9 @@ Predmenštruačný syndróm pravidelne ovplyvňuje približne [75 %](https://www
 * úzkosť;
 * podráždenosť;
 * bolesť pŕs alebo brucha;
-* a mnohé iné. <br>
+* a mnohé iné. 
+
+<br>
 
 Neexistujú žiadne štúdie, ktoré by s istotou dokazovali príčiny vzniku PMS ani jeho rizikové faktory. Jeden z dôvodov nezistených príčin PMS je nedostatok výskumu. Napriek tomu, že PMS ovplyvňuje 90 % ľudí s vulvou, je o ňom [5-krát menej](https://www.independent.co.uk/news/science/pms-erectile-dysfunction-studies-penis-problems-period-pre-menstrual-pains-science-disparity-a7198681.html) štúdií, než o erektilnej dysfunkcii, ktorá zasahuje 19 % ľudí s penisom. Zistenie skutočných faktorov, ktoré spôsobujú PMS, by mohlo zvýšiť kvalitu životov miliónov ľudí s vulvou po celom svete.
 
@@ -59,6 +61,8 @@ Predmenštruačná dysforická porucha – PMDD je, zjednodušene, najhoršia fo
 * panické záchvaty;
 * bolestivé a opuchnuté prsia;
 * bolesti hlavy, svalov, brucha a kŕče;
-* nafúknutie. <br>
+* nafúknutie. 
+
+<br>
 
 Podobne ako pri PMS, presné príčiny PMDD nie sú jasné. Je to však porucha, ktorá si vyžaduje komplexnú liečbu, ktorá môže zahŕňať antidepresíva, lieky na spanie, lieky proti bolesti, lieky, ktoré upravujú hormonálne hladiny a iné. Najčastejšie sa predpisujú kombinované antikoncepčné tabletky v kontinuálnom užívaní, čiže človek nemenštruuje vôbec. Druhou voľbou sú antidepresíva, ktoré sa berú 10 až 14 dní do mesiaca.
