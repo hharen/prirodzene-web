@@ -33,19 +33,13 @@ Pojem „menštruačný cyklus“ označuje automatické, periodické, fyziologi
 
 Túto fázu hovorovo nazývame aj menzes, krámy alebo perióda. Začína prvým dňom samotnej menštruácie, ktorá zväčša trvá 3 – 7 dní (ale môže trvať aj dlhšie). Počas nej dochádza k odlúčeniu nekrotickej časti endometria. Telo sa ho zbavuje pomocou menštruačnej tekutiny, ktorá okrem neho obsahuje krv aj výtok. V maternici dochádza ku kontrakciám, kedy sa svaly v okolí maternice sťahujú a zbavujú sa tak endometria. Bežné množstvo vylúčenej tekutiny je 10 – 80 ml.
 
-<br>
-
 ### 2. Folikulárna fáza
 
 Jej súčasťou je aj menštruačná fáza, začína prvým dňom menštruácie a končí tesne pred ovuláciou (zväčšia teda trvá od 1. do 13. dňa cyklu). Podmozgová žľaza vypustí hormón, ktorý stimuluje rast vajíčok vo vaječníkoch. Následne dochádza k dozretiu 1 folikulu. Dozretý folikul začne produkovať hormón, vďaka ktorému sa vyvinie nová vrstva endometria. 
 
-<br>
-
 ### 3. Ovulácia
 
 K ovulácii väčšinou dochádza okolo 14. dňa cyklu, teda v jeho polovici. Môže to však by aj skôr alebo neskôr. V prípade, že menštruačná fáza trvá nezvyčajne dlho, môže sa dokonca prekrývať s ovuláciou. Počas ovulácie dôjde k sekrécii hormónu v podmozgovej žľaze, ktorý dá signál jednému z 2 vaječníkov, aby uvoľnil dozreté vajíčko do vajíčkovodov.
-
-<br>
 
 ### 4. Luteálna fáza 
 
