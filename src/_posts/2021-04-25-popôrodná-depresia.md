@@ -10,11 +10,15 @@ metadescription: Po skončení tehotenstva je nutné sa pripraviť na niekoľko
   depresia (PPD). PPD je zložitá kombinácia telesých, emocionálnych, psychických
   a behaviorálnych zmien.
 references: >-
-  Smith, Michael W. “Postpartum Depression: Symptoms, Causes, Risks, Types,
-  Tests, Professional and Self-Care.” WebMD. WebMD, August 4, 2020.
+  Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit
+  organization. University of California, Santa Barbara . Accessed January 1,
+  2021. https://sexinfoonline.com/postpartum-depression/.
 
 
-  https://www.webmd.com/depression/guide/postpartum-depression
+  Smith, Michael W. “Postpartum Depression: Symptoms, Causes, Risks, Types, Tests, Professional and Self-Care.” WebMD. WebMD, August 4, 2020. https://www.webmd.com/depression/guide/postpartum-depression.
+
+
+  Winer, Sharon A, and Andrea J Rapkin. “Premenstrual Disorders: Prevalence, Etiology and Impact.” ResearchGate . The Journal of reproductive medicine, May 2006. https://www.researchgate.net/publication/7049158_Premenstrual_disorders_Prevalence_etiology_and_impact.
 ---
 **Popôrodná depresia** (PPD) je zložitá kombinácia telesných, emocionálnych, psychických a behaviorálnych zmien, ktoré môžu nastať u matky po pôrode.
 
@@ -38,7 +42,7 @@ Presné príčiny PPD nedokážeme určiť a nikto vám nevie prisľúbiť, že
 * nízky vek matky;
 * negatívny prístup k tehotenstvu, napr. v prípade, že bolo neplánované;
 * matky, ktoré už v minulosti porodili, majú vyššiu šancu dostať PPD;
-* predmenštruačná dysforická porucha;
+* [predmenštruačná dysforická porucha](https://pensive-newton-39aa56.netlify.app/predmenstruacny-syndrom-pms-a-predmenstruacna-dysforicka-porucha-pmdd/);
 * nedostatočná podpora okolia;
 * bývanie osamote;
 * konflikt v manželstve alebo vo vzťahu.
@@ -53,13 +57,15 @@ Ak popôrodná depresia zostane neliečená, môže tiež dôjsť k dlhodobej s
 
 <br>
 
+### Na čo je potrebné sa pripraviť?
+
 <div class='f-telo box-post'>
 
-Na čo je potrebné sa pripraviť?
+Otehotnieť by mala len osoba, ktoré je na to pripravená, preto je dôležité vyhnúť sa nechcenému tehotenstvu a chrániť sa počas sexuálneho styku. Plánované tehotenstvo sa zvláda jednoduchšie a je pri ňom menšia šanca, že matku postihnú psychické problémy. 
 
-<br>
+</div>
 
-Otehotnieť by mala len osoba, ktoré je na to pripravená, preto je dôležité vyhnúť sa nechcenému tehotenstvu a chrániť sa počas sexuálneho styku. Plánované tehotenstvo sa zvláda jednoduchšie a je pri ňom menšia šanca, že matku postihnú psychické problémy. Napriek tomu je dôležité si uvedomiť, že tehotenstvo a pôrod sú psychicky aj fyzicky náročné obdobia života. Aby ste si tieto obdobia uľahčili v najväčšej možnej miere, držte sa nasledujúcich rád.
+Napriek tomu je dôležité si uvedomiť, že tehotenstvo a pôrod sú psychicky aj fyzicky náročné obdobia života. Aby ste si tieto obdobia uľahčili v najväčšej možnej miere, držte sa nasledujúcich rád.
 
 <br>
 
@@ -74,5 +80,3 @@ Otehotnieť by mala len osoba, ktoré je na to pripravená, preto je dôležité
 • Nesnažte sa to zvládnuť sám/sama. O starostlivosť o dieťa sa deľte s druhým rodičom, s parterom/kou, s rodinou, s priateľmi, prípadne s opatrovateľkou/om alebo využite služby pôrodnice, jaslí či podporných centier pre matky. <br>
 
 • Doprajte si čo najviac oddychu a spánku. <br>
-
-</div>
