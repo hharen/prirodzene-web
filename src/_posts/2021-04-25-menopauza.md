@@ -19,8 +19,6 @@ references: "Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo
 
 #### Príznaky menopauzy zahŕňajú:
 
-<br>
-
 * návaly horúčavy sprevádzané zvýšenou intenzitou tlkotu srdca a potenia;
 * bolesti hlavy;
 * únava;
@@ -29,9 +27,7 @@ references: "Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo
 * výkyvy nálad;
 * emocionálne príznaky ako smútok, podráždenosť, strata motivácie, stres, agresia, úzkosť, neschopnosť sústrediť sa, atď. 
 
-<br>
-
-Tieto príznaky sú spôsobené nedostatkom estrogénu. Väčšina z bežných symptómov vymizne po pár rokoch, existujú však spôsoby, akými sa dajú príznaky zmierniť. 
+<br> Tieto príznaky sú spôsobené nedostatkom estrogénu. Väčšina z bežných symptómov vymizne po pár rokoch, existujú však spôsoby, akými sa dajú príznaky zmierniť. 
 
 #### Odporúča sa:
 
