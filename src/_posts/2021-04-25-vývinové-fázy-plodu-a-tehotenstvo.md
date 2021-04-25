@@ -27,7 +27,11 @@ Je dôležité uvedomiť si, že v nasledujúcom texte vysvetľujeme zmeny poč
 
 </div>
 
-### 1. trimester: 1. – 12. týždeň
+<br>
+
+### **1. trimester: 1. – 12. týždeň**
+
+<br>
 
 #### Matka
 
@@ -43,7 +47,11 @@ Počas prvého trimestra začnú prvé zmeny v tele matky. Prvé, čo si matka 
 * **11. týždeň**: Hlava plodu zaberá približne polovicu celej svojej dĺžky. V pečeni sa začnú tvoriť červené krvinky. Začnú sa vyvíjať vonkajšie genitálie aj kĺbové spojenia. Vyvíjajú sa prvé zárodky zmyslov. Plod má asi 4,5 až 6,5 cm a váži asi 8 g. Približne v tomto období sa končí kritická fáza vývoja a riziko vzniku vývojových chýb sa zmenší.
 * **12. týždeň**: Rolu výživy plodu a zásobovanie kyslíkom plne preberá placenta a nahrádza tak žlté teliesko. Tráviaci systém plodu dokáže vstrebávať glukózu, vyvíjajú sa hlasivky, dúhovka, chuťové bunky, vlasové folikuly, začnú rásť nechty na prstoch na rukách, začína pracovať imunitný systém, hypofýza produkuje hormóny. Plod sa začína pohybovať, zatína dlane, otvára ústa. Plod meria asi 6 – 7 cm a váži 8 – 14 g.
 
-### 2. trimester: 13. – 26. týždeň
+<br>
+
+### **2. trimester: 13. – 26. týždeň**
+
+<br>
 
 #### Matka
 
@@ -62,7 +70,11 @@ Mnoho telesných symptómov z prvého semestra odznie, niektoré pretrvajú. Sy
 * **24. – 25. týždeň**: Plod pravidelne spí a zobúdza sa, začína sa vyvíjať reflex ľakania sa, otvárajú sa nosné dierky, nervy okolo úst citlivejú, pupočník je už silný a pružný. Pokračuje vývin pľúc a formujú sa dýchacie cesty. Plod váži asi 500 – 700 g a je 21 – 22 cm dlhé. Dieťa by malo pri predčasnom pôrode prvýkrát šancu prežiť mimo maternice. 
 * **26. týždeň**: Plod intenzívne saje, napríklad palec na ruke či na nohe. Pri zvukovej stimulácii sa dieťaťu zrýchľuje pulz. V ústach sa vyvíjajú nervové zakončenia, pľúca aj nervový systém dozrievajú, dieťa je schopné odpovedať na dotyk. Meria asi 23 cm a váži 910 g.
 
-### 3. trimester: 27. – 40. týždeň
+<br>
+
+### **3. trimester: 27. – 40. týždeň**
+
+<br>
 
 #### Matka
 
