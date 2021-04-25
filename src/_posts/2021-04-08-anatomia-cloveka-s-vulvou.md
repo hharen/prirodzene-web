@@ -34,6 +34,8 @@ Vonkajšia časť pohlavného ústrojenstva človeka s vulvou sa nazýva vulva.
 <img src="/images/uploads/2-vulva.jpg" alt="Vulva s anotáciami">
 </div>
 
+<br>
+
 Vulva sa skladá z nasledujúcich častí:
 
 ### **Vrch ohanbia**
