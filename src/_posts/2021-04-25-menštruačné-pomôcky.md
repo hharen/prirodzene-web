@@ -10,7 +10,12 @@ metadescription: Ľudia, ktorí mávajú menštruáciu, musia väčšinou počas
   menštruačnej tekutiny. Existujú mnohé typy menštruačných potrieb, pričom
   všetky majú rôzne výhody aj nevýhody, rôznu cenu aj dostupnosť. Každému z nás
   vyhovujú iné pomôcky.
-references: \-
+references: >-
+  “Čo Je Syndróm Toxického Šoku (STŠ)?” Čo je syndróm toxického šoku (TSS)?
+  Tampax. Accessed March 20, 2021.
+
+
+  https://www.tampax.eu/sk/co-je-syndrom-toxickeho-soku-tss/
 ---
 Ľudia, ktorí mávajú menštruáciu, musia väčšinou počas tejto fázy cyklu používať menštruačné pomôcky. Slúžia na absorpciu alebo zbieranie menštruačnej tekutiny. Existujú mnohé typy menštruačných potrieb, pričom všetky majú rôzne výhody aj nevýhody, rôznu cenu aj dostupnosť. Každému z nás vyhovujú iné pomôcky. 
 
