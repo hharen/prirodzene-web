@@ -32,6 +32,24 @@ references: >-
 
 
   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5957082/
+
+
+  “Aktuálne Informácie Týkajúce Sa Liekov s Obsahom Mifepristonu.” ŠÚKL. Štátny ústav pre kontrolu liečiv, January 9, 2013. 
+
+
+  https://www.sukl.sk/hlavna-stranka/slovenska-verzia/media/tlacove-spravy/aktualne-informacie-tykajuce-sa-liekov-s-obsahom-mifepristonu?page_id=3260
+
+
+  Hrubá, Zuzana. “Potratové Tabletky Sú Dostupné v 22 Krajinách Európskej Únie. Slovenky Sa k Nim Nedostanú - VZdravotníctve.sk.” Webnoviny.sk. vZdravotníctve.sk, June 24, 2020.
+
+
+  https://www.webnoviny.sk/vzdravotnictve/potratove-tabletky-su-dostupne-v-22-krajinach-europskej-unie-slovenky-sa-k-nim-nedostanu/
+
+
+  Kajanovičová , Lucia. “Interrupcia – Umelé Prerušenie Tehotenstva Na Slovensku.” Slovenský pacient, August 14, 2020. 
+
+
+  https://slovenskypacient.sk/interrupcia-na-slovensku-cena-zo-zdravotnych-dovodov/
 ---
 Umelé prerušenie tehotenstva (UPT) znamená, že tehotná osoba sa zo zdravotných, ekonomických či osobných dôvodov rozhodne zámerne ukončiť svoje tehotenstvo. UPT na Slovensku z roka na rok [klesajú](http://www.nczisk.sk/Aktuality/Pages/Potraty-v-Slovenskej-republike-2019.aspx). V roku 2019 sa ich počet medziročne znížil o 200 potratov, z 6024 v roku 2018 na 5 824 v roku 2019. Od roku 2009 ich počet klesol 1,7-násobne a oproti roku 1997 až 3,6-násobne. Na Slovensku je UPT možné do dvanásteho týždňa tehotenstva, na základe genetickej indikácie do 24. týždňa. V prípade, že je ohrozené zdravie matky alebo plod nie je schopný života je UPT možné až do konca tehotenstva.
 
