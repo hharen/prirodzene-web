@@ -86,6 +86,8 @@ Vagína je svalovo-väzivová trubica, ktorá je vstupom/výstupom pohlavného �
 <img src="/images/uploads/7-zlazy.jpg" alt="Vulva zdola so žľazami">
 </div>
 
+<br>
+
 ## **Bod G**
 
 Bod G nie je v skutočnosti bod, je to súčasť hornej vaginálnej steny. Močová trubica, ktorá sa nachádza nad vagínou, je obklopená erektilným tkanivom. Jeho štruktúra je na dotyk podobná dužine grapefruitu alebo špongii. Dolná časť tohto tkaniva (pod dolnou stenou močovej rúry) je súčasťou hornej steny vagíny. Stimulácia tohto tkaniva môže byť na pocit príjemná a môže pri nej dôjsť k javu, ktorému hovoríme „squirting“. 
@@ -123,6 +125,8 @@ Klitoris je erektilný orgán, ktorého veľkosť sa pohybuje medzi 7 až 13 cm.
 <img src="/images/uploads/homologia.jpg" alt="Homológia penisu a klitorisu">
 </div>
 
+<br>
+
 ### Crus clitoris
 
 Crus („nohy“) sú vnútorné orgány klitorisu, nachádzajú sa v blízkosti bulbus. Sú súčasťou tela klitorisu, ktoré je zložené z erektilného tkaniva. Crus obklopujú vagínu aj močovú rúru z oboch strán. Sú homológom koreňa penisu.
@@ -133,9 +137,7 @@ Telo klitorisu tvorí špongiózne/ hubovité teleso rozdelené na dve časti. 
 
 ### Bulbus vestibuli
 
-Bulb je časť klitorisu v tvare cibuľky, je to párový orgán. Bulbus sa nachádzajú pod vnútornými pyskami a obklopujú vagínz oboch strán. 
-
-<br>
+Bulb je časť klitorisu v tvare cibuľky, je to párový orgán. Bulbus sa nachádzajú pod vnútornými pyskami a obklopujú vagínz oboch strán. <br>
 
 ## Hymen
 
