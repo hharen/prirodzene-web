@@ -31,7 +31,7 @@ references: >-
 Vnútorné pohlavné ústrojenstvo človeka s penisom sa skladá z nasledujúcich častí:
 
 <div class="flex flex-wrap justify-around">
-<img src="/images/uploads/internal-male.jpg" alt="Vnútorné pohlavné ústrojenstvo človeka s penisom">
+<img src="/images/uploads/internal_male.jpg" alt="Vnútorné pohlavné ústrojenstvo človeka s penisom">
 </div>
 
 ## Močová rúra
