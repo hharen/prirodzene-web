@@ -27,7 +27,7 @@ Presné príčiny PPD nedokážeme určiť a nikto vám nevie prisľúbiť, že
 
 <br>
 
-#### Špecifické rizikové faktory, ktoré zvyšujú pravdepodobnosť vyvinutia PPD, zahrňujú:
+#### Špecifické rizikové faktory, ktoré zvyšujú pravdepodobnosť vyvinutia PPD, zahŕňajú:
 
 * predošlé skúsenosti s depresiou;
 * nízky vek matky;
