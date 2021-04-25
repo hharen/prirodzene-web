@@ -31,6 +31,8 @@ Vonkajšia časť pohlavného ústrojenstva človeka s penisom sa nazýva penis 
 <img src="/images/uploads/penis-zdola.jpg" alt="Pohľad na penis s anotáciami">
 </div>
 
+<br>
+
 ## Penis
 
 Penis je pohlavný orgán, ktorý slúži na vylučovanie moču a môže slúžiť na reprodukciu. Obsahuje množstvo nervových zakončení a rôzne typy stimulácie penisu môžu spôsobovať sexuálny pôžitok. Je obklopený kožou, ktorá je v hornej časti prevažne hladká a nerastie na nej ochlpenie. Koža smerom ku koreňu penisu môže byť o niečo hrubšia a môžu na nej rásť chlpy. Penis sa skladá z nasledujúcich častí:
@@ -93,7 +95,7 @@ Výrazné ochlpenie rastie väčšinou medzi genitáliami a podbruškom, na ste
 <img src="/images/uploads/penis-diversity.jpg" alt="Rôzne penisy">\
 </div>
 
-<br>
+
 
 <div class="flex flex-wrap justify-around"><img src="/images/uploads/penis_diversity-2.jpg" alt="Rôzne stoporené penisy">
 </div>
