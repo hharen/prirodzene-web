@@ -48,7 +48,7 @@ Táto časť sa nazýva aj žaluď [klitorisu](https://pensive-newton-39aa56.net
 
 ### **Predkožka klitorisu**
 
-Je to tkanivo, ktoré spája horný koniec vnútorných pyskov ohanbia a slúži na ochranu žaluďa klitorisu. Predkožka klitorisu môže zakrývať celý žaluď alebo len jeho časť. 
+Je to tkanivo, ktoré spája horný koniec vnútorných pyskov ohanbia a slúži na ochranu žaluďa [klitorisu](https://pensive-newton-39aa56.netlify.app/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/). Predkožka klitorisu môže zakrývať celý žaluď alebo len jeho časť. 
 
 ### **Vonkajšie pysky ohanbia**
 
@@ -64,11 +64,11 @@ Predsieň je hladká povrchová plocha medzi vnútornými pyskami. Pošvový otv
 
 ### **Pošvový otvor**
 
-Pošvový/ vaginálny otvor je otvor pošvovej trubice a má niekoľko funkcií. Slúži na vylučovanie tekutiny nazývanej [výtok](https://pensive-newton-39aa56.netlify.app/hygiena-a-cistota-u-ludi-s-vulvou/) a menštruačnej krvi. Vaginálnym otvorom vychádza aj dieťa pri pôrode. Vaginálny otvor môže byť sexuálne stimulovaný a penetrovaný prstami, sexuálnymi pomôckami alebo penisom. 
+Pošvový/ vaginálny otvor je otvor pošvovej trubice a má niekoľko funkcií. Slúži na vylučovanie tekutiny nazývanej [výtok](https://pensive-newton-39aa56.netlify.app/hygiena-a-cistota-u-ludi-s-vulvou/) a [menštruačnej krvi](https://pensive-newton-39aa56.netlify.app/menstruacny-cyklus/). Vaginálnym otvorom vychádza aj dieťa pri [pôrode](https://pensive-newton-39aa56.netlify.app/porod/). Vaginálny otvor môže byť sexuálne stimulovaný a penetrovaný prstami, sexuálnymi pomôckami alebo penisom. 
 
 ### **Vonkajší otvor močovej rúry**
 
-Ústie močovej trubice sa nachádza medzi žaluďom klitorisu a pošvovým otvorom. Otvor močovej trubice slúži primárne na únik moču z tela. U niektorých ľudí s vulvou však počas istých sexuálnych aktivít nastáva jav, ktorému hovoríme „squirting“. Vtedy sa cez otvor močovej trubice uvoľňuje tekutina, ktorá môže obsahovať tekutiny vytvorené v Skeneho žľaze aj moč. 
+Ústie močovej trubice sa nachádza medzi žaluďom klitorisu a pošvovým otvorom. Otvor močovej trubice slúži primárne na únik moču z tela. U niektorých ľudí s vulvou však počas istých sexuálnych aktivít nastáva jav, ktorému hovoríme „squirting“. Vtedy sa cez otvor močovej trubice uvoľňuje tekutina, ktorá môže obsahovať tekutiny vytvorené v [Skeneho žľaze](https://pensive-newton-39aa56.netlify.app/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/) aj moč. 
 
 ### **Perineum**
 
