@@ -45,7 +45,7 @@ Interrupcia väčšinou nie je pre tehotnú osobu jednoduchým rozhodnutím. Nap
 
 ### Dôvody, prečo ženy podstupujú UPT
 
-#### Najčastejší dôvod, prečo ženy podstupujú interrupciu, je ich [socioekonomická situácia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5957082/). Iné dôvody, prečo si ženy vyberajú UPT zahrňujú:
+#### Najčastejší dôvod, prečo ženy podstupujú interrupciu, je ich [socioekonomická situácia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5957082/). Iné dôvody, prečo si ženy vyberajú UPT zahŕňajú:
 
 * chcú mať deti neskôr alebo nikdy;
 * nechcú ďalšie dieťa;
@@ -97,7 +97,7 @@ Vykonáva sa od 6. do 12. týždňa tehotenstva. Výkon sa realizuje v celkovej 
 
 ### Riziká
 
-Riziká komplikácii pri/po interrupcii sa zvyšujú v neskorších fázach tehotenstva. Väčšinou je to bezpečný zákrok bez výrazných komplikácií, tie však, ako pri akomkoľvek zákroku, môžu nastať. Komplikácie sú veľmi ojedinelé a zahrňujú:
+Riziká komplikácii pri/po interrupcii sa zvyšujú v neskorších fázach tehotenstva. Väčšinou je to bezpečný zákrok bez výrazných komplikácií, tie však, ako pri akomkoľvek zákroku, môžu nastať. Komplikácie sú veľmi ojedinelé a zahŕňajú:
 
 * poškodenie či poranenie maternice alebo krčka maternice (pri chirurgickej interrupcii),
 * infekcia maternice,
