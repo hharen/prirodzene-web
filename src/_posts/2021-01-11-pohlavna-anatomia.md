@@ -5,9 +5,9 @@ slug: pohlavna-anatomia
 topic: telo
 subtopic: anatomia
 date: 2021-01-10 23:09:31 +0100
-metadescription: Pohlavie človeka, na rozdiel od rodu, súvisí s našimi
-  biologickými charakteristikami. Môžeme ho definovať na základe piatich
-  biologických faktorov.
+metadescription: <https://pensive-newton-39aa56.netlify.app/muz-a-zena-vs-samec-a-samica/>Pohlavie
+  človeka, na rozdiel od rodu, súvisí s našimi biologickými charakteristikami.
+  Môžeme ho definovať na základe piatich biologických faktorov.
 references: >-
   Bailar, Schuyler. “What Is Biological Sex?” pinkmantaray, December 15, 2020.
   https://pinkmantaray.com/sexed.
@@ -18,7 +18,7 @@ references: >-
 
   Jones, T. Jones, and W. Leonard. Health and Wellbeing of People with Intersex Variations. Melbourne, Victora: Department of Health and Human Services, 2019. <https://research-management.mq.edu.au/ws/portalfiles/portal/100001677/Health_and_wellbeing_of_people_with_intersex_variations.pdf>.
 ---
-Pohlavie človeka, na rozdiel od rodu, súvisí s našimi biologickými charakteristikami. Cicavce sú najčastejšie rozdelené medzi samcov a samice. Pri ľuďoch tieto pomenovania často zamieňame s pojmami „muž a žena“, avšak, mužské a ženské črty súvisia predovšetkým s rodom človeka. Samčie a samičie črty súvisia s biologickým pohlavím. Môžeme ho definovať na základe nasledujúcich faktorov:
+Pohlavie človeka, na rozdiel od rodu, súvisí s našimi biologickými charakteristikami. Cicavce sú najčastejšie rozdelené medzi [samcov a samice.](https://pensive-newton-39aa56.netlify.app/muz-a-zena-vs-samec-a-samica/) Pri ľuďoch tieto pomenovania často zamieňame s pojmami [„muž a žena“](https://pensive-newton-39aa56.netlify.app/muz-a-zena-vs-samec-a-samica/), avšak, mužské a ženské črty súvisia predovšetkým s rodom človeka. Samčie a samičie črty súvisia s biologickým pohlavím. Môžeme ho definovať na základe nasledujúcich faktorov:
 
 ## 1. Pohlavné chromozómy
 
