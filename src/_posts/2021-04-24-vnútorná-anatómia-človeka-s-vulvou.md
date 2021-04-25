@@ -33,33 +33,49 @@ Vnútorné pohlavné ústrojenstvo človeka s vulvou sa skladá z nasledujúcich
 
 Dno maternice alebo fundus je široká zakrivená oblasť, v ktorej sa vajíčkovody spájajú s maternicou. 
 
+<br>
+
 ## **Maternica**
 
 Maternica je dutý svalnatý orgán v tvare obrátenej hrušky. Nachádza sa za močovým mechúrom, ktorý kvôli prehľadnosti nie je na obrázku nakreslený. V prípade prítomnosti spermie vo vajíčkovode môže dôjsť k oplodneniu vajíčka, ktoré sa následne uhniezdi v maternici. Tá potom zabezpečuje ideálne prostredie pre vývin plodu počas celého tehotenstva. Maternica dospelého človeka s vulvou je zhruba 6 – 8 cm dlhá, 4 – 5 cm široká a 2,5 – 3 cm hrubá. 
+
+<br>
 
 ## Sliznica maternica/ Endometrium
 
 Endometrium je najvnútornejšia časť maternicovej steny. Počas menštruácie sa povrchové vrstvy tejto sliznice odlučujú a následne sú spolu s menštruačnou krvou vylúčené z tela. Na začiatku tehotenstva sa do sliznice zachytáva oplodnené vajíčko. V ranej fáze tehotenstva poskytuje potrebnú výživu pre plod a to až do doby, kedy túto funkciu prevezme placenta.
 
+<br>
+
 ## Myometrium
 
 Myometrium je stredná vrstva maternicovej steny. Je to svalová hmota zložená z husto zabalených hladkých vlákien, čo znamená, že ich nemôžeme ovládať vôľou.
+
+<br>
 
 ## Perimetrium
 
 Perimetrium je vonkajšia vrstva maternicovej steny. Je to tenká vrstva tkaniva, ktoré obklopuje maternicu. Funkcia perimetria je ochranná, znižuje trenie a zabraňuje povrchovému poškodeniu maternice. 
 
+<br>
+
 ## Krčok maternice
 
 Krčok je ústie maternice. Je naplnený hlienom a zároveň prepúšťa menštruačnú krv. Cez pošvu je v kontakte s vonkajším prostredím a preto je viac vystavený vplyvom, ktoré ho môžu poškodiť, napr. HPV vírusom a inými pohlavne prenosnými infekciami alebo ochoreniami.
+
+<br>
 
 ## Vaječníky 
 
 Vaječníky sú párové pohlavné žľazy vo veľkosti mandle (u plodnej osoby je to cca. 3 cm), ktoré produkujú pohlavné hormóny estrogén a progesterón. Vaječníky produkujú vajíčka. Tie vznikajú počas vnútromaternicového vývinu a postupne  prirodzene odumierajú, počas života sa už nové netvoria. Toto je rozdiel oproti spermiám, ktoré sa tvoria počas celého života. Vo vaječníku novorodenca sa nachádza asi 400 000 nezrelých vajíčok, z ktorých v čase pohlavnej zrelosti dozrie asi 400.
 
+<br>
+
 ## Vajíčkovod
 
 Každý mesiac v jednom folikule dozrie vajíčko, ktoré počas ovulácie putuje z vaječníka cez vajíčkovod do maternice. Vajíčkovod je vystlaný epitelom a v jeho strede sa nachádza svalová vrstva. Vajíčko sa dokáže pohybovať vďaka kontrakciám svalstva a rias v okolí vajíčkovodov. Tomuto hovoríme peristaltický pohyb. Oplodnenie nastáva vo vajíčkovode a oplodnené vajíčko putuje do maternice, kde sa uchytí.  Chronické infekcie ako napr. chlamýdia, môžu spôsobiť zrasty vo vajíčkovodoch a ich následnú nepriechodnosť. Toto môže viesť k neplodnosti, keďže vajíčko a spermia sa fyzicky nemôžu stretnúť.
+
+<br>
 
 ## Pošva/Vagína
 
@@ -67,9 +83,6 @@ Vagína je svalovo-väzivová trubica, ktorá je vstupom/výstupom pohlavného �
 
 <div class="flex flex-wrap justify-around">
 <img src="/images/uploads/6-vagina.jpg" alt="Vaginálny kanál, močová trubica a klitoris">
-</div>
-
-<div class="flex flex-wrap justify-around">
 <img src="/images/uploads/7-zlazy.jpg" alt="Vulva zdola so žľazami">
 </div>
 
@@ -77,13 +90,19 @@ Vagína je svalovo-väzivová trubica, ktorá je vstupom/výstupom pohlavného �
 
 Bod G nie je v skutočnosti bod, je to súčasť hornej vaginálnej steny. Močová trubica, ktorá sa nachádza nad vagínou, je obklopená erektilným tkanivom. Jeho štruktúra je na dotyk podobná dužine grapefruitu alebo špongii. Dolná časť tohto tkaniva (pod dolnou stenou močovej rúry) je súčasťou hornej steny vagíny. Stimulácia tohto tkaniva môže byť na pocit príjemná a môže pri nej dôjsť k javu, ktorému hovoríme „squirting“. 
 
+<br>
+
 ## Skeneho žľazy
 
 Skeneho žľazy sa nachádzajú na hornej vaginálnej stene, iba pár milimetrov od ústia močovej rúry. Sú považované za homológny orgán prostaty. Tieto žľazy produkujú tekutinu, ktorá slúži na lubrikáciu močovej rúry. Sú veľmi citlivé a počas sexuálnej stimulácie produkujú hlienovitú tekutinu. Niektorí ľudia s vulvou počas sexuálnej stimulácie ejakulujú túto tekutinu zmiešanú s močom smerom von z močovej rúry. Tomuto javu hovoríme „squirting“. 
 
+<br>
+
 ## Bartholiniho žľazy
 
 Bartholiniho žľazy sú umiestnené vpravo a vľavo od pošvového otvoru. Sú veľké približne ako hrášok. Ich funkciou je vylučovať hlien, ktorý slúži ako lubrikácia počas sexuálnych aktivít. 
+
+<br>
 
 ### **Aká široká alebo úzka je vagína?**
 
@@ -101,9 +120,6 @@ Klitoris je erektilný orgán, ktorého veľkosť sa pohybuje medzi 7 až 13 cm.
 
 <div class="flex flex-wrap justify-around">
 <img src="/images/uploads/klitoris.jpg" alt="Klitoris">
-</div>
-
-<div class="flex flex-wrap justify-around">
 <img src="/images/uploads/homologia.jpg" alt="Homológia penisu a klitorisu">
 </div>
 
@@ -118,6 +134,8 @@ Telo klitorisu tvorí špongiózne/ hubovité teleso rozdelené na dve časti. 
 ### Bulbus vestibuli
 
 Bulb je časť klitorisu v tvare cibuľky, je to párový orgán. Bulbus sa nachádzajú pod vnútornými pyskami a obklopujú vagínz oboch strán. 
+
+<br>
 
 ## Hymen
 
