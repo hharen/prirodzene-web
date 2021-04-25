@@ -9,7 +9,26 @@ metadescription: Tehotenstvo bežne trvá približne 40 týždňov a býva rozde
   tri tzv. trimestre. Počas týchto troch trimestrov prechádzajú matka aj plod
   určitými kľúčovými zmenami. Tretí trimester a aj samotné tehotenstvo sa končí
   pôrodom.
-references: https://www.cosmopolitan.com/sex-love/a17887712/best-pregnancy-tracker-app/
+references: >-
+  https://www.cosmopolitan.com/sex-love/a17887712/best-pregnancy-tracker-app/
+
+
+  Redakcia. “Tehotenstvo, Počatie, Plánovanie Bábätka.” Promama. Accessed March 20, 2021. 
+
+
+  https://www.promama.sk/tehotenstvo/vyhladavanie?kategorie=41
+
+
+  “Tehotenstvo Po Týždňoch.” Babyweb.sk, 2009.
+
+
+  https://www.babyweb.sk/tehotenstvo-po-tyzdnoch-13
+
+
+  Yakıştıran, Betül, Tuncay Yüce, and Feride Söylemez. “First Trimester Bleeding and Pregnancy Outcomes: Case-Control Study.” IJWHR. International Journal of Women’s Health and Reproduction Sciences, January 2016.
+
+
+  http://www.ijwhr.net/pdf/pdf_IJWHR_133.pdf
 ---
 <div class='f-telo box-post'>
 
