@@ -31,7 +31,7 @@ V nasledujúcom texte používame pojem „matka“ vo veľmi úzkom zmysle za
 
 </div>
 
-Tehotenstvo trvá približne 40 týždňov od prvého dňa poslednej menštruácie. Táto doba je rozdelená do 3 trimestrov. Prvý trimester trvá od 1. do 12. týždňa tehotenstva, druhý trimester trvá od 13. do 26. týždňa a tretí trimester trvá od 27. do 40. týždňa. 
+Tehotenstvo trvá približne 40 týždňov od prvého dňa poslednej [menštruácie](/menstruacny-cyklus/). Táto doba je rozdelená do 3 trimestrov. Prvý trimester trvá od 1. do 12. týždňa tehotenstva, druhý trimester trvá od 13. do 26. týždňa a tretí trimester trvá od 27. do 40. týždňa. 
 
 V nasledujúcom texte vysvetľujeme zmeny počas tehotenstva tak, ako sa dejú pri „priemernom“ tehotenstve. Rozdielne trvanie jednotlivých vývojových fáz je však úplne prirodzené. Existujú rôzne [aplikácie](https://www.cosmopolitan.com/sex-love/a17887712/best-pregnancy-tracker-app/), ktoré vám môžu pomôcť detailne sledovať zmeny v tehotenstve. Zmeny a všetky otázky je zároveň potrebné konzultovať s medicínskymi špecialistami a špecialistkami.
 
@@ -43,13 +43,13 @@ V nasledujúcom texte vysvetľujeme zmeny počas tehotenstva tak, ako sa dejú 
 
 #### Matka
 
-Počas prvého trimestra začnú prvé zmeny v tele matky. Prvé, čo si matka môže všimnúť, je vynechanie menštruácie. Vtedy je vhodné urobiť si tehotenský test a navštíviť gynekológa/gynekologičku. Prvý ultrazvuk môže byť vykonaný medzi 6. až 8. týždňom tehotenstva. Po prvej vynechanej menštruácii môžu začať emocionálne symptómy, ako časté výkyvy nálad a telesné zmeny, ako celková telesná únava alebo ranné nevoľnosti a zvracanie. Nevoľnosť je spôsobená predovšetkým vysokou hladinou hCG hormónu. Tieto symptómy sa vyskytujú približne u 85 % tehotných ľudí. Ďalšie zmeny môžu zahŕať častý hlad, zvláštne a nezvyčajné chute, zvýšená citlivosť čuchu, zvýšená citlivosť či bolestivosť prsníkov, zmeny v túžbe po sexuálnych aktivitách, časté močenie, akné či bolesti hlavy. Počas prvého trimestra môže dôjsť k miernemu nárastu hmotnosti. Všetky tieto symptómy môžu aj nemusia pokračovať počas celého obdobia tehotenstva. Je dôležité dbať na dostatočnú a zdravú výživu, vyhýbať sa alkoholu, cigaretám, drogám, niektorým liekom a veľa oddychovať. 
+Počas prvého trimestra začnú prvé zmeny v tele matky. Prvé, čo si matka môže všimnúť, je vynechanie menštruácie. Vtedy je vhodné urobiť si tehotenský test a navštíviť gynekológa/gynekologičku. Prvý ultrazvuk môže byť vykonaný medzi 6. až 8. týždňom tehotenstva. Po prvej vynechanej menštruácii môžu začať emocionálne symptómy, ako časté výkyvy nálad a telesné zmeny, ako celková telesná únava alebo ranné nevoľnosti a zvracanie. Nevoľnosť je spôsobená predovšetkým vysokou hladinou hCG hormónu. Tieto symptómy sa vyskytujú približne u 85 % tehotných ľudí. Ďalšie zmeny môžu zahŕať častý hlad, zvláštne a nezvyčajné chute, zvýšená citlivosť čuchu, zvýšená citlivosť či bolestivosť [prsníkov](/prsia/), zmeny v túžbe po sexuálnych aktivitách, časté močenie, akné či bolesti hlavy. Počas prvého trimestra môže dôjsť k miernemu nárastu hmotnosti. Všetky tieto symptómy môžu aj nemusia pokračovať počas celého obdobia tehotenstva. Je dôležité dbať na dostatočnú a zdravú výživu, vyhýbať sa alkoholu, cigaretám, drogám, niektorým liekom a veľa oddychovať. 
 
 <br>
 
 #### Plod
 
-* **1. – 6. týždeň**: Dôjde k oplodneniu vajíčka a k jeho zahniezdeniu v sliznici maternice. Plod sa začne vyvíjať. V tejto fáze má plod podobu malej „guličky“, je to zhluk buniek, ktorých počet exponenciálne rastie.
+* **1. – 6. týždeň**: Dôjde k [oplodneniu vajíčka a k jeho zahniezdeniu](/zaciatok-tehotenstva/) v sliznici [maternice](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/). Plod sa začne vyvíjať. V tejto fáze má plod podobu malej „guličky“, je to zhluk buniek, ktorých počet exponenciálne rastie.
 * **7. týždeň**: Začne sa vyvíjať mozog a tvár plodu. Je možné spozorovať nosné dierky a začnú sa vyvíjať aj očné šošovky. Plod je približne 4 až 8 mm dlhý. Dĺžka plodu sa až do konca tehotenstva počíta od temena po zadoček. 
 * **8. týždeň**: Začnú sa vyvíjať končatiny, vrátane prstov a začne sa spevňovať trup. Plod má už vytvorené základy všetkých orgánov a je 1,5 až 2 cm dlhý.
 * **9. týždeň**: Vyvíjajú sa kosti a je možné spozorovať ohyby v lakťoch. Ďalej sa vyvíjajú viečka, uši, prsty na nohách. Objavujú sa prvé svaly. Vyvíja sa pupočník, ktorý bude po zvyšok tehotenstva komunikačnou tepnou medzi plodom a matkou. Plod je zhruba 2 až 3 cm dlhý. 
@@ -78,7 +78,7 @@ Mnoho telesných symptómov z prvého semestra odznie, niektoré pretrvajú. Sy
 * **17. – 18. týždeň**: Prsty sú vyvinuté a plod nimi hýbe, pokožka je tenká, začne sa ukladať podkožný tuk. Rastú mihalnice a obočie, vzniká slepé črevo, vyvinie sa sluch. Pľúca rastú a vyvíjajú sa v nich pľúcne vaky, vyvíjajú sa brušká prstov, v črevách sa hromadí prvá stolica. Plod meria asi 12,5 – 14 cm a váži asi 150 g.
 * **19. týždeň**: Plod je obklopený tzv. vernix caseosa, čo je maz na povrchu tela plodu, ktorý pomáha predchádzať popraskaniu a zvráskaveniu kože. Trávenie začína produkovať žalúdočné šťavy, ktoré pomáhajú pri vstrebávaní plodovej vody. Plod dokáže udržať hlavu vzpriamene a aktívne sa hýbe. 
 * **20. – 21. týždeň**: Plod je v strede prenatálneho vývoja, meria 14 – 16 cm, váži 255 g a rapídne priberá na váhe. Koža je pevnejšia, vyvíja sa centrálna nervová sústava aj zmysly. 
-* **22. – 23. týždeň**: Mozog rastie, tvoria sa potné žľazy, dúhovka sa zafarbuje, v ďasnách sú pripravené zárodky prvých zubov, sluch je pomerne dobre vyvinutý, tvoria sa chuťové bunky na jazyku. Plod s biologicky ženským pohlavím má vyvinutú maternicu, vaječníky aj vajíčka. Ak je plod biologicky mužského pohlavia, semenníky zostúpili do brušnej dutiny. Plod meria okolo 20 cm a váži asi 350 g.
+* **22. – 23. týždeň**: Mozog rastie, tvoria sa potné žľazy, dúhovka sa zafarbuje, v ďasnách sú pripravené zárodky prvých zubov, sluch je pomerne dobre vyvinutý, tvoria sa chuťové bunky na jazyku. Plod s [biologicky ženským pohlavím](/pohlavna-anatomia/) má vyvinutú [maternicu, vaječníky aj vajíčka](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/). Ak je plod [biologicky mužského pohlavia](/pohlavna-anatomia/), [semenníky ](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-penisom/)zostúpili do brušnej dutiny. Plod meria okolo 20 cm a váži asi 350 g.
 * **24. – 25. týždeň**: Plod pravidelne spí a zobúdza sa, začína sa vyvíjať reflex ľakania sa, otvárajú sa nosné dierky, nervy okolo úst citlivejú, pupočník je už silný a pružný. Pokračuje vývin pľúc a formujú sa dýchacie cesty. Plod váži asi 500 – 700 g a je 21 – 22 cm dlhé. Dieťa by malo pri predčasnom pôrode prvýkrát šancu prežiť mimo maternice. 
 * **26. týždeň**: Plod intenzívne saje, napríklad palec na ruke či na nohe. Pri zvukovej stimulácii sa dieťaťu zrýchľuje pulz. V ústach sa vyvíjajú nervové zakončenia, pľúca aj nervový systém dozrievajú, dieťa je schopné odpovedať na dotyk. Meria asi 23 cm a váži 910 g.
 
@@ -90,7 +90,7 @@ Mnoho telesných symptómov z prvého semestra odznie, niektoré pretrvajú. Sy
 
 #### Matka
 
-Tretí trimester býva pre matku fyzicky aj psychicky náročný. Kvôli rastúcemu bruchu sa môže cítiť nepríjemne a nepohodlne. Braxton-Hicks kontrakcie pretrvávajú a väčšinou sa k nim pridajú aj bolesti chrbta. Ďalšie symptómy zahŕňajú napuchnuté nohy a chodidlá, hemoroidy, nespavosť, únavu, výkyvy nálad, pálenie pri srdci. Takisto sa môžu začať nalievať prsia, z ktorých môže vytekať colostrum, tzv. prvé mlieko. Vzhľad bradaviek a dvorcov sa mení. Počas tohto obdobia môže matka výrazne pribrať na váhe, väčšinou približne okolo 12 kg. Po pôrode alebo počas tehotenstva sa veľmi často objavia strie, natiahnutá alebo ovisnutá koža, zmeny v pigmentácii kože atď. Tretí trimester ako aj tehotenstvo sa končí pôrodom.
+Tretí trimester býva pre matku fyzicky aj psychicky náročný. Kvôli rastúcemu bruchu sa môže cítiť nepríjemne a nepohodlne. Braxton-Hicks kontrakcie pretrvávajú a väčšinou sa k nim pridajú aj bolesti chrbta. Ďalšie symptómy zahŕňajú napuchnuté nohy a chodidlá, hemoroidy, nespavosť, únavu, výkyvy nálad, pálenie pri srdci. Takisto sa môžu začať nalievať prsia, z ktorých môže vytekať colostrum, tzv. prvé mlieko. Vzhľad bradaviek a dvorcov sa mení. Počas tohto obdobia môže matka výrazne pribrať na váhe, väčšinou približne okolo 12 kg. Po pôrode alebo počas tehotenstva sa veľmi často objavia strie, natiahnutá alebo ovisnutá koža, zmeny v pigmentácii kože atď. Tretí trimester ako aj tehotenstvo sa končí [pôrodom](/porod/).
 
 <br>
 
