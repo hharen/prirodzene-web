@@ -28,7 +28,7 @@ references: >-
 
   Rare, Ruby. Sex Ed:A Guide for Adults. London, UK: Bloomsbury, 2020.
 ---
-Vnútorné pohlavné ústrojenstvo človeka s penisom sa skladá z nasledujúcich častí:
+Vnútorné pohlavné ústrojenstvo človeka s [penisom](/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-penisom/) sa skladá z nasledujúcich častí:
 
 <div class="flex flex-wrap justify-around">
 <img src="/images/uploads/internal_male.jpg" alt="Vnútorné pohlavné ústrojenstvo človeka s penisom">
@@ -36,11 +36,11 @@ Vnútorné pohlavné ústrojenstvo človeka s penisom sa skladá z nasledujúci
 
 ## Močová rúra
 
-Močová rúra je obklopená špongióznym telesom. Slúži na vývod moču z močového mechúru a na vylúčenie ejakulátu, ktorý sa tvorí v prostate, v semenných mechúrikoch a v semenníkoch. Na močovej trubici je aj zvierač, ktorý zabraňuje ejakulátu a moču opustiť telo naraz.
+Močová rúra je obklopená špongióznym telesom. Slúži na vývod moču z močového mechúru a na vylúčenie ejakulátu, ktorý sa tvorí v prostate, v semenných mechúrikoch a v semenníkoch. Na močovej trubici je aj zvierač, ktorý zabraňuje [ejakulátu](/tvorba-ejakulatu/) a moču opustiť telo naraz.
 
 ## Semenníky
 
-Semenníky sú oválne párové orgány. V predpubertálnom veku sú uložené vo vnútri tela, počas puberty „spadnú“ do mieška. Semenníky produkujú testosterón a spermie. Počas ejakulácie sa spermie pohybujú cez semenovody smerom do močovej rúry, odkiaľ je ejakulát vylúčený. Spermie sa začnú produkovať v období puberty. Štruktúra semenníkov je zložená zo semenotvorných kanálikov. Sú to početné, tenké, nahusto stočené kanáliky, v ktorých prebieha [spermatogenéza – tvorba spermií](https://pensive-newton-39aa56.netlify.app/tvorba-ejakulatu/). 
+Semenníky sú oválne párové orgány. V predpubertálnom veku sú uložené vo vnútri tela, počas [puberty](/puberta/) „spadnú“ do mieška. Semenníky produkujú testosterón a spermie. Počas ejakulácie sa spermie pohybujú cez semenovody smerom do močovej rúry, odkiaľ je ejakulát vylúčený. Spermie sa začnú produkovať v období puberty. Štruktúra semenníkov je zložená zo semenotvorných kanálikov. Sú to početné, tenké, nahusto stočené kanáliky, v ktorých prebieha [spermatogenéza – tvorba spermií](https://pensive-newton-39aa56.netlify.app/tvorba-ejakulatu/). 
 
 ## Nadsemenníky
 
@@ -48,7 +48,7 @@ Nadsemenníky sú párové orgány uložené v miešku a spojené so zadnou str
 
 ## Semenné mechúriky
 
-Sú to dve malé žľazy, ktorá sa nachádzajú vedľa konečnej časti semenovodov. Produkujú zásaditú tekutinu, ktorá je bohatá na fruktózu, ktorú spermie potrebujú k pohybu. Táto tekutina dodáva ejakulátu lepkavú hrudkovitú štruktúru. Vďaka lepkavosti sa následne spermie jednoduchšie udržia vo vagíne. Tekutina vytvorená v semenných mechúrikoch tvorí približne [46 – 80 %](https://www.news-medical.net/health/Semen-Physiology.aspx) ejakulátu. 
+Sú to dve malé žľazy, ktorá sa nachádzajú vedľa konečnej časti semenovodov. Produkujú zásaditú tekutinu, ktorá je bohatá na fruktózu, ktorú spermie potrebujú k pohybu. Táto tekutina dodáva ejakulátu lepkavú hrudkovitú štruktúru. Vďaka lepkavosti sa následne spermie jednoduchšie udržia vo [vagíne](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/). Tekutina vytvorená v semenných mechúrikoch tvorí približne [46 – 80 %](https://www.news-medical.net/health/Semen-Physiology.aspx) ejakulátu. 
 
 ## Cowperove žľazy
 
@@ -64,12 +64,12 @@ Semenovody sú dve dlhé trubice, ktoré vedú z nadsemenníkov do panvovej dut
 
 ### **Dĺžka penisu, veľkosť mieška a kvalita spermií**
 
-Bez ohľadu na to, čo sa hovorí, hodnota človeka nemá nič spoločné s jeho pohlavným ústrojenstvom. Existuje množstvo falošných teórií o tom, že kvalita alebo množstvo spermií, veľkosť mieška či dĺžka penisu sú atribúty, ktoré sú spojené s charakterom a osobnosťou človeka. Veľa ľudí používa „malý penis“ ako urážku, naopak „mať veľké vajcia“ sa považuje za znak odvahy, sily alebo fyzickej zdatnosti. Nič z tohto nie je pravda. Rôzny výzor genitálií je úplne bežnou súčasťou biologickej variácie a nemá nič spoločné s povahovými črtami človeka. Tiež existujú nezmyselné teórie, podľa ktorých sa človeku pri častej masturbácii „minú“ spermie alebo sa mu poškodí plodnosť. Vzhľad penisu je tiež často spájaný so sexuálnou aktivitou. Kvôli týmto škodlivým stereotypom sa čoraz viac ľudí snaží o zväčšenie svojho penisu. Sú dostupné rôzne tabletky, tinktúry a krémy, ktoré sľubujú zväčšenie penisu. Okrem toho existuje dokonca vákuová pumpa na penis, ktorá vytvára tlak v penise a umelo ho tak zväčšuje. Predávajú sa aj rôzne „predlžovače“, ktoré sú zaťažené závažím a majú za úlohu penis natiahnuť. Všetky tieto metódy sú nesmierne nebezpečné a môžu spôsobiť vážne poranenia či dokonca úplne znefunkčniť penis!. 
+Bez ohľadu na to, čo sa hovorí, hodnota človeka nemá nič spoločné s jeho pohlavným ústrojenstvom. Existuje množstvo falošných teórií o tom, že kvalita alebo množstvo spermií, veľkosť mieška či dĺžka penisu sú atribúty, ktoré sú spojené s charakterom a osobnosťou človeka. Veľa ľudí používa „malý penis“ ako urážku, naopak „mať veľké vajcia“ sa považuje za znak odvahy, sily alebo fyzickej zdatnosti. Nič z tohto nie je pravda. **Rôzny výzor genitálií je úplne bežnou súčasťou biologickej [variácie](/roznorodost/) a nemá nič spoločné s povahovými črtami človeka.** Tiež existujú nezmyselné teórie, podľa ktorých sa človeku pri častej masturbácii „minú“ spermie alebo sa mu poškodí plodnosť. Vzhľad penisu je tiež často spájaný so sexuálnou aktivitou. Kvôli týmto škodlivým stereotypom sa čoraz viac ľudí snaží o zväčšenie svojho penisu. Sú dostupné rôzne tabletky, tinktúry a krémy, ktoré sľubujú zväčšenie penisu. Okrem toho existuje dokonca vákuová pumpa na penis, ktorá vytvára tlak v penise a umelo ho tak zväčšuje. Predávajú sa aj rôzne „predlžovače“, ktoré sú zaťažené závažím a majú za úlohu penis natiahnuť. Všetky tieto metódy sú nesmierne nebezpečné a môžu spôsobiť vážne poranenia či dokonca úplne znefunkčniť penis!. 
 
 Zákrok, ktorý je tiež často vykonávaný z estetických dôvodov sa volá obriezka. Veľa ľudí s penisom podstúpi obriezku v detstve. Vo viacerých krajinách je to rutinný zákrok, pretože v minulosti sa vykonával prevenčne z hygienických dôvodov. Obmedzený prístup k čistej vode a k celkovej hygiene často spôsoboval rôzne infekcie či zvýšené riziko prenosu pohlavne prenosných infekcií, keďže žaluď sa pod predkožkou musí dôkladne umývať. V dnešnej dobe je však tento zákrok nepotrebný a vykonáva sa predovšetkým z dôvodu tradície. Okrem toho sa obriezka podstupuje aj z náboženských dôvodov. 
 
 <div class='f-telo box-post'>
 
-Obriezka u detí vykonávaná bez zdravotnej indikácie je zásahom do práv dieťaťa. Preto by sa obriezka v detstve mala vykonávať len v situáciách, keď je to zdravotne nevyhnutné. 
+Obriezka u detí vykonávaná bez zdravotnej indikácie je <a href="https://jme.bmj.com/content/30/3/259" target="_blank">zásahom do práv dieťaťa</a>. Preto by sa obriezka v detstve mala vykonávať len v situáciách, keď je to zdravotne nevyhnutné. 
 
 </div>
