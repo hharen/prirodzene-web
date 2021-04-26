@@ -93,11 +93,11 @@ Oba lieky boli na Slovensku riadne registrované v roku 2012. Boli viazané na 
 
 Rozlišujeme dva typy chirurgickej interrupcie:
 
-##### 1. Včasná interrupcia – miniinterrupcia
+##### **1. Včasná interrupcia – miniinterrupcia**
 
 Vykonáva sa do 6. až 8. týždňa tehotenstva. Ak žena ešte v minulosti nerodila, môže sa vykonať do 45 dní od prvého dňa poslednej [menštruácie](/menstruacny-cyklus/), ak žena už rodila vaginálnym [pôrodom](/porod/), miniinterrupcia sa môže vykonávať až do 55 dní od prvého dňa poslednej menštruácie. Zákrok sa vykonáva v anestézii špeciálnym sacím zariadením, ktoré vysaje plod z [maternice](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/) . Zákrok trvá približne 15 minút, zotavovanie sa trvá približne 2 až 3 hodiny. Pri tomto type zákroku nie je nutná hospitalizácia. <br>
 
-##### 2. Klasická interrupcia – dilatácia a kyretáž
+##### **2. Klasická interrupcia – dilatácia a kyretáž**
 
 Vykonáva sa od 6. do 12. týždňa tehotenstva. Výkon sa realizuje v celkovej anestézii a trvá asi 10 minút. Najprv sa pomocou dilatátorov spriechodní krčok maternice a následne sa pomocou kyrety zoškrabuje plod z vnútornej vrstvy maternice. Lekár/ka potom kanylou vysaje plod z tela. Zákrok sa väčšinou vykonáva ako jednodňová chirurgia. Zotavovanie sa väčšinou netrvá viac než pár dní. 
 
