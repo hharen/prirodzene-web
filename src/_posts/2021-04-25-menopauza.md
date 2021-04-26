@@ -5,10 +5,10 @@ slug: menopauza
 topic: telo
 subtopic: vyvin
 date: 2021-04-25T15:00:21.359Z
-metadescription: Menopauza je pojem, ktorý označuje neprítomnosť menštruácie po
-  dobu viac ako 12 mesiacov. Bežný nástup menopauzy je okolo veku 52 rokov.
-  Dochádza vtedy k fyziologickému zlyhaniu vaječníkov, ktoré je spôsobené
-  starnutím.
+metadescription: "[/menstruacny-cyklus/](/menstruacny-cyklus/)Menopauza je
+  pojem, ktorý označuje neprítomnosť menštruácie po dobu viac ako 12 mesiacov.
+  Bežný nástup menopauzy je okolo veku 52 rokov. Dochádza vtedy k fyziologickému
+  zlyhaniu vaječníkov, ktoré je spôsobené starnutím."
 references: "Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo
   Online: nonprofit organization. University of California, Santa Barbara .
   Accessed January 1, 2021. https://sexinfoonline.com/menopause/."
