@@ -20,7 +20,7 @@ references: >-
 
   Winer, Sharon A, and Andrea J Rapkin. “Premenstrual Disorders: Prevalence, Etiology and Impact.” ResearchGate . The Journal of reproductive medicine, May 2006. https://www.researchgate.net/publication/7049158_Premenstrual_disorders_Prevalence_etiology_and_impact.
 ---
-**Popôrodná depresia** (PPD) je zložitá kombinácia telesných, emocionálnych, psychických a behaviorálnych zmien, ktoré môžu nastať u matky po pôrode.
+**Popôrodná depresia** (PPD) je zložitá kombinácia telesných, emocionálnych, psychických a behaviorálnych zmien, ktoré môžu nastať u matky po [pôrode](/porod/).
 
 <br>
 
@@ -32,7 +32,7 @@ Symptómy PPD nie sú vždy jednoducho rozoznateľné. Väčšina matiek po pôr
 
 ### Príčiny a rizikové faktory
 
-Presné príčiny PPD nedokážeme určiť a nikto vám nevie prisľúbiť, že sa s PPD nestretnete. Mnohé chemické, sociálne a fyziologické zmeny, ktoré u matky nastávajú počas tehotenstva a po ňom sú však považované za spúšťače PPD. Dôležitú rolu hrajú hormonálne levely u matky. Počas tehotenstva sa hladiny estrogénu a progesterónu zvýšia desaťnásobne, pričom do troch dní po pôrode rapídne klesnú takmer na rovnaké hladiny ako pred tehotenstvom. Pri dojčení je relatívny nedostatok estrogénu a prevaha gestagénu. Hladiny hormónov produkovaných štítnou žľazou môžu tiež klesnúť, čo spôsobí únavu, malátnosť a smútok. Nedostatok spánku spôsobí, že matku môžu podráždiť drobnosti a cíti sa ochromená. Tehotenstvo je veľká životná zmena a matky, predovšetkým prvorodičky, často pociťujú úzkosť a strach z materstva. V neposlednom rade sa matky stretávajú s enormným spoločenským tlakom. Mnoho ľudí im chce radiť alebo ich poučovať v tom, ako majú svoje deti vychovávať, očakáva sa od nich, že sa budú starať aj o svoj vzhľad, pričom na domácnosť aj na dieťa sú často samy. Všetko tieto faktory sú stresové a v bežnom živote by tiež zaznamenali riziko vyvinutia depresívnej poruchy. 
+Presné príčiny PPD nedokážeme určiť a nikto vám nevie prisľúbiť, že sa s PPD nestretnete. Mnohé chemické, sociálne a fyziologické zmeny, ktoré u matky nastávajú počas [tehotenstva](/vyvinove-fazy-plodu-a-tehotenstvo/) a po ňom sú však považované za spúšťače PPD. Dôležitú rolu hrajú hormonálne levely u matky. Počas tehotenstva sa hladiny estrogénu a progesterónu zvýšia desaťnásobne, pričom do troch dní po pôrode rapídne klesnú takmer na rovnaké hladiny ako pred tehotenstvom. Pri dojčení je relatívny nedostatok estrogénu a prevaha gestagénu. Hladiny hormónov produkovaných štítnou žľazou môžu tiež klesnúť, čo spôsobí únavu, malátnosť a smútok. Nedostatok spánku spôsobí, že matku môžu podráždiť drobnosti a cíti sa ochromená. Tehotenstvo je veľká životná zmena a matky, predovšetkým prvorodičky, často pociťujú úzkosť a strach z materstva. V neposlednom rade sa matky stretávajú s enormným spoločenským tlakom. Mnoho ľudí im chce radiť alebo ich poučovať v tom, ako majú svoje deti vychovávať, očakáva sa od nich, že sa budú starať aj o svoj vzhľad, pričom na domácnosť aj na dieťa sú často samy. Všetko tieto faktory sú stresové a v bežnom živote by tiež zaznamenali riziko vyvinutia depresívnej poruchy. 
 
 <br>
 
@@ -42,7 +42,7 @@ Presné príčiny PPD nedokážeme určiť a nikto vám nevie prisľúbiť, že
 * nízky vek matky;
 * negatívny prístup k tehotenstvu, napr. v prípade, že bolo neplánované;
 * matky, ktoré už v minulosti porodili, majú vyššiu šancu dostať PPD;
-* [predmenštruačná dysforická porucha](https://pensive-newton-39aa56.netlify.app/predmenstruacny-syndrom-pms-a-predmenstruacna-dysforicka-porucha-pmdd/);
+* [predmenštruačná dysforická porucha](/predmenstruacny-syndrom-pms-a-predmenstruacna-dysforicka-porucha-pmdd/);
 * nedostatočná podpora okolia;
 * bývanie osamote;
 * konflikt v manželstve alebo vo vzťahu.
@@ -69,7 +69,7 @@ Napriek tomu je dôležité si uvedomiť, že tehotenstvo a pôrod sú psychick
 
 <br>
 
-• [Zdravé návyky](https://pensive-newton-39aa56.netlify.app/zdrave-navyky-pocas-tehotenstva/), ktoré ste dodržovali počas tehotenstva, dodržujte aj po pôrode. <br>
+• [Zdravé návyky](/zdrave-navyky-pocas-tehotenstva/), ktoré ste dodržovali počas tehotenstva, dodržujte aj po pôrode. <br>
 
 • Nemajte príliš vysoké očakávania na seba ani na svoje dieťa. <br>
 
