@@ -14,7 +14,7 @@ references: Krans, Brian, and Graham M.D. Rogers. “What Is Male Menopause?”
   Healthline, September 16, 2018.
   https://www.healthline.com/health/menopause/male
 ---
-**Andropauza** je proces, ktorý sprevádzajú zmeny hormonálnych hladín u ľudí s biologicky mužským pohlavím vplyvom starnutia. Tieto zmeny nie sú také rapídne a výrazné ako u ľudí s biologicky ženským pohlavím, ale dejú sa. Andropauza sa prejavuje poklesom hladiny testosterónu u mužov, ktorí majú nad 50 rokov. Andropauza je často spojená s hypogonadizmom, čo je porucha funkcie pohlavných žliaz, ktorej výsledkom je nedostatočná tvorba testosterónu. Testosterón okrem plodnosti zohráva rolu aj v mnohých iných telesných faktoroch, ako zmeny v puberte, fyzická a mentálna energia, svalová hmota či schopnosť reagovať na stresové situácie (*tzv. reakcia „útok alebo útek“)*. 
+**Andropauza** je proces, ktorý sprevádzajú zmeny hormonálnych hladín u ľudí s [biologicky mužským pohlavím](/pohlavna-anatomia/) vplyvom starnutia. Tieto zmeny nie sú také [rapídne](/menopauza/) a výrazné ako u ľudí s biologicky ženským pohlavím, ale dejú sa. Andropauza sa prejavuje poklesom hladiny testosterónu u mužov, ktorí majú nad 50 rokov. Andropauza je často spojená s hypogonadizmom, čo je porucha funkcie pohlavných žliaz, ktorej výsledkom je nedostatočná tvorba testosterónu. Testosterón okrem plodnosti zohráva rolu aj v mnohých iných telesných faktoroch, ako zmeny v puberte, fyzická a mentálna energia, svalová hmota či schopnosť reagovať na stresové situácie (*tzv. reakcia „útok alebo útek“)*. 
 
 Na rozdiel od menopauzy u žien, andropauza sa neobjaví u všetkých ľudí mužského pohlavia a neznamená úplné zastavenie funkcionality reprodukčného systému. Hladina testosterónu však vekom postupne klesá približne o 1 % každý rok po dovŕšení 30. roku života. 
 
@@ -26,11 +26,11 @@ Na rozdiel od menopauzy u žien, andropauza sa neobjaví u všetkých ľudí mu
 * pribratie na váhe;
 * nižšie percento svalovej hmoty;
 * fyzická slabosť;
-* rast pŕs (alebo gynekomastia) – prsné žľazy môžu narásť a zaobliť sa;
+* rast [pŕs](/prsia/) (alebo gynekomastia) – prsné žľazy môžu narásť a zaobliť sa;
 * osteoporóza – rednutie kostí;
 * erektilná dysfunkcia;
 * znížené libido/sexuálna túžba;
-* zmenšenie semenníkov;
+* zmenšenie [semenníkov](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-penisom/);
 * zmeny v štruktúre vlasov a chlpov, predovšetkým ich rednutie;
 * neplodnosť. 
 
