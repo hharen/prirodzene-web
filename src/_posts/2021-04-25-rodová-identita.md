@@ -5,10 +5,10 @@ slug: rodova-identita
 topic: identita
 subtopic: identita
 date: 2021-04-25T21:05:29.656Z
-metadescription: "**Rod** súvisí s našimi rolami v spoločnosti, s naším
-  správaním a s našou identitou. **Rodová identita** je schopnosť človeka
-  vnútorne a individuálne pociťovať rod, ktorý môže, ale nemusí, zodpovedať
-  pohlaviu, s ktorým sa človek narodil."
+metadescription: Rod súvisí s našimi rolami v spoločnosti, s naším správaním a s
+  našou identitou. Rodová identita je schopnosť človeka vnútorne a individuálne
+  pociťovať rod, ktorý môže, ale nemusí, zodpovedať pohlaviu, s ktorým sa človek
+  narodil.
 references: >-
   “Children and Gender Identity: Supporting Your Child.” Mayo Clinic. Mayo
   Foundation for Medical Education and Research, January 16, 2021.
@@ -23,7 +23,7 @@ references: >-
 
   “VŠEOBECNÉ OTÁZKY O SEXUÁLNEJ ORIENTÁCIÍ A RODOVEJ IDENTITE.” inPoradňa. Accessed April 3, 2021. https://inporadna.sk/otazky-a-odpovede.html#FAQSection1.
 ---
-Pri téme rodovej identity je nevyhnutné rozlišovať pojmy [pohlavie](https://pensive-newton-39aa56.netlify.app/pohlavna-anatomia/), [rod](https://pensive-newton-39aa56.netlify.app/muz-a-zena-vs-samec-a-samica/) a rodová identita. [Biologické pohlavie ](https://pensive-newton-39aa56.netlify.app/pohlavna-anatomia/)(angl. biological sex) je súhrn piatich biologických atribútov: pohlavné chromozómy, hormóny, hormónová expresia/hormonálne receptory, vnútorné pohlavné orgány a vonkajšie pohlavné. Väčšina ľudí má biologicky ženské alebo mužské pohlavie, ale nie všetci. [Intersex](https://pensive-newton-39aa56.netlify.app/anatomia-intersex-ludi/) ľudia nespadajú ani do jednej z binárnych pohlavných kategórií. **Rod** (angl. gender) súvisí s našimi rolami v spoločnosti, s naším správaním a s našou identitou. Ovplyvňuje, ako vnímame samých seba a ostatných, naše správanie, ako aj rozdelenie moci a zdrojov v spoločnosti. To, ako jednotlivci a skupiny chápu, prežívajú a vyjadrujú rod, je rôzne. **Rodová identita** je schopnosť človeka vnútorne a individuálne pociťovať rod, ktorý môže, ale nemusí, zodpovedať pohlaviu, s ktorým sa človek narodil. Patrí sem vnímanie vlastného tela a rodové prejavy ako obliekanie, rečový prejav alebo vystupovanie jednotlivca. Medzi rôzne rodové identity patria napríklad:
+Pri téme rodovej identity je nevyhnutné rozlišovať pojmy [pohlavie](/pohlavna-anatomia/), [rod](/muz-a-zena-vs-samec-a-samica/) a rodová identita. [Biologické pohlavie ](/pohlavna-anatomia/)(angl. biological sex) je súhrn piatich biologických atribútov: pohlavné chromozómy, hormóny, hormónová expresia/hormonálne receptory, vnútorné pohlavné orgány a vonkajšie pohlavné. Väčšina ľudí má biologicky ženské alebo mužské pohlavie, ale nie všetci. [Intersex](/anatomia-intersex-ludi/) ľudia nespadajú ani do jednej z binárnych pohlavných kategórií. **Rod** (angl. gender) súvisí s našimi rolami v spoločnosti, s naším správaním a s našou identitou. Ovplyvňuje, ako vnímame samých seba a ostatných, naše správanie, ako aj rozdelenie moci a zdrojov v spoločnosti. To, ako jednotlivci a skupiny chápu, prežívajú a vyjadrujú rod, je rôzne. **Rodová identita** je schopnosť človeka vnútorne a individuálne pociťovať rod, ktorý môže, ale nemusí, zodpovedať pohlaviu, s ktorým sa človek narodil. Patrí sem vnímanie vlastného tela a rodové prejavy ako obliekanie, rečový prejav alebo vystupovanie jednotlivca. Medzi rôzne rodové identity patria napríklad:
 
 * **cisrodová** – ľudia, ktorých biologické pohlavie sa zhoduje s ich rodom;
 * **transrodová** – ľudia, ktorých biologické pohlavie a rodová identita sa nezhodujú (napr. ľudia, ktorí majú mužské biologické pohlavie, ale sú ženami, alebo ľudia, ktorí majú ženské biologické pohlavie, ale sú mužmi);
