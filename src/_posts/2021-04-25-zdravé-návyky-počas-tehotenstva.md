@@ -13,7 +13,7 @@ references: "Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo
   Accessed January 1, 2021.
   https://sexinfoonline.com/tips-for-a-healthy-pregnancy/"
 ---
-Počas [tehotenstva](https://pensive-newton-39aa56.netlify.app/vyvinove-fazy-plodu-a-tehotenstvo/) je nevyhnutné **príkladne sa starať o svoje telo**, keďže správanie matky ovplyvňuje aj vývin plodu. Toto je niekoľko zásad, ktorými je dobré sa v období tehotenstva riadiť: 
+Počas [tehotenstva](/vyvinove-fazy-plodu-a-tehotenstvo/) je nevyhnutné **príkladne sa starať o svoje telo**, keďže správanie matky ovplyvňuje aj vývin plodu. Toto je niekoľko zásad, ktorými je dobré sa v období tehotenstva riadiť: 
 
 <br>
 
