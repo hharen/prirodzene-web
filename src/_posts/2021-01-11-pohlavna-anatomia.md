@@ -5,9 +5,9 @@ slug: pohlavna-anatomia
 topic: telo
 subtopic: anatomia
 date: 2021-01-10 23:09:31 +0100
-metadescription: <https://pensive-newton-39aa56.netlify.app/muz-a-zena-vs-samec-a-samica/>Pohlavie
-  človeka, na rozdiel od rodu, súvisí s našimi biologickými charakteristikami.
-  Môžeme ho definovať na základe piatich biologických faktorov.
+metadescription: Pohlavie človeka, na rozdiel od rodu, súvisí s našimi
+  biologickými charakteristikami. Môžeme ho definovať na základe piatich
+  biologických faktorov.
 references: >-
   Bailar, Schuyler. “What Is Biological Sex?” pinkmantaray, December 15, 2020.
   https://pinkmantaray.com/sexed.
@@ -18,11 +18,11 @@ references: >-
 
   Jones, T. Jones, and W. Leonard. Health and Wellbeing of People with Intersex Variations. Melbourne, Victora: Department of Health and Human Services, 2019. <https://research-management.mq.edu.au/ws/portalfiles/portal/100001677/Health_and_wellbeing_of_people_with_intersex_variations.pdf>.
 ---
-Pohlavie človeka, na rozdiel od rodu, súvisí s našimi biologickými charakteristikami. Cicavce sú najčastejšie rozdelené medzi [samcov a samice.](https://pensive-newton-39aa56.netlify.app/muz-a-zena-vs-samec-a-samica/) Pri ľuďoch tieto pomenovania často zamieňame s pojmami [„muž a žena“](https://pensive-newton-39aa56.netlify.app/muz-a-zena-vs-samec-a-samica/), avšak, mužské a ženské črty súvisia predovšetkým s rodom človeka. Samčie a samičie črty súvisia s biologickým pohlavím. Môžeme ho definovať na základe nasledujúcich faktorov:
+Pohlavie človeka, na rozdiel od rodu, súvisí s našimi biologickými charakteristikami. Cicavce sú najčastejšie rozdelené medzi [samcov a samice.](/muz-a-zena-vs-samec-a-samica/) Pri ľuďoch tieto pomenovania často zamieňame s pojmami [„muž a žena“](/muz-a-zena-vs-samec-a-samica/), avšak, mužské a ženské črty súvisia predovšetkým s rodom človeka. Samčie a samičie črty súvisia s biologickým pohlavím. Môžeme ho definovať na základe nasledujúcich faktorov:
 
 ## 1. Pohlavné chromozómy
 
-Väčšina ľudí má XX pohlavné chromozómy (biologicky ženské pohlavie) alebo XY chromozómy (biologicky mužské pohlavie). Takisto však existujú ľudia, ktorí majú inú kombináciu pohlavných chromozómov, napríklad XXY, XXX, XYY, alebo X. Takýmto kombináciám sa hovorí chromozómové anomálie. Ľudia, ktorí nemajú XX alebo XY pohlavné chromozómy sa volajú [intersex](https://pensive-newton-39aa56.netlify.app/anatomia-intersex-ludi/) ľudia („inter“- medzi, „sex“-pohlavie). 
+Väčšina ľudí má XX pohlavné chromozómy (biologicky ženské pohlavie) alebo XY chromozómy (biologicky mužské pohlavie). Takisto však existujú ľudia, ktorí majú inú kombináciu pohlavných chromozómov, napríklad XXY, XXX, XYY, alebo X. Takýmto kombináciám sa hovorí chromozómové anomálie. Ľudia, ktorí nemajú XX alebo XY pohlavné chromozómy sa volajú [intersex](/anatomia-intersex-ludi/) ľudia („inter“- medzi, „sex“-pohlavie). 
 
 ## 2. Hormóny
 
@@ -34,10 +34,10 @@ Samotná prítomnosť hormónov v tele nezaručuje, že hormóny sa prejavia. Pr
 
 ## 4. Vnútorné pohlavné orgány
 
-Sem patria napríklad [semenníky, semenovody,](https://pensive-newton-39aa56.netlify.app/vnutorne-pohlavne-ustrojenstvo-cloveka-s-penisom/)[ vajíčkovody, maternica, vaječníky](https://pensive-newton-39aa56.netlify.app/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/) atď. 
+Sem patria napríklad [semenníky, semenovody,](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-penisom/)[ vajíčkovody, maternica, vaječníky](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/) atď. 
 
 ## 5. Vonkajšie pohlavné orgány
 
-Sem zaraďujeme napríklad penis, vulvu, miešok či vaginálny otvor. 
+Sem zaraďujeme napríklad [penis](/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-penisom/), [vulvu](/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-vulvou/), [miešok](/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-penisom/) či [vaginálny otvor](/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-vulvou/). 
 
-Väčšina ľudí patrí do jednej z typických dvoch skupín. To znamená, že väčšina ľudí, ktorí majú XX chromozómy majú biologicky ženské vnútorné a vonkajšie orgány, ich primárnym hormónom je estrogén a majú funkčné hormonálne receptory. Zároveň väčšina ľudí, ktorí majú XY chromozómy majú biologicky mužské vnútorné a vonkajšie orgány, ich primárnym hormónom je testosterón a majú funkčné hormonálne receptory. Ľudia, ktorí nemajú všetky biologicky mužské alebo všetky biologicky ženské atribúty sa volajú [intersex](https://pensive-newton-39aa56.netlify.app/anatomia-intersex-ludi/).
+Väčšina ľudí patrí do jednej z typických dvoch skupín. To znamená, že väčšina ľudí, ktorí majú XX chromozómy majú biologicky ženské vnútorné a vonkajšie orgány, ich primárnym hormónom je estrogén a majú funkčné hormonálne receptory. Zároveň väčšina ľudí, ktorí majú XY chromozómy majú biologicky mužské vnútorné a vonkajšie orgány, ich primárnym hormónom je testosterón a majú funkčné hormonálne receptory. Ľudia, ktorí nemajú všetky biologicky mužské alebo všetky biologicky ženské atribúty sa volajú [intersex](/anatomia-intersex-ludi/).
