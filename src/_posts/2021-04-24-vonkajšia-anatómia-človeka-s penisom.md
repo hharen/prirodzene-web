@@ -43,11 +43,11 @@ Penis je pohlavný orgán, ktorý slúži na vylučovanie moču a môže slúž
 
 ### Predkožka
 
-Predkožka je tenká vrstva kože, ktorá úplne pokrýva žaluď v nestoporenom stave. Predkožka môže byť stiahnutá pod korunku žaluďa. Počas erekcie býva predkožka stiahnutá. Mnoho ľudí podstúpi chirurgický zákrok, pri ktorom sa predkožka odstráni. Tomuto zákroku hovoríme obriezka.
+Predkožka je tenká vrstva kože, ktorá úplne pokrýva žaluď v nestoporenom stave. Predkožka môže byť stiahnutá pod korunku žaluďa. Počas erekcie býva predkožka stiahnutá. Mnoho ľudí podstúpi chirurgický zákrok, pri ktorom sa predkožka odstráni. Tomuto zákroku hovoríme **obriezka**.
 
 ### Otvor močovej trubice
 
-Otvor močovej trubice slúži primárne na únik moču a ejakulátu z tela. Je to malá dierka na špičke žaluďa. Keďže predkožka nie je uzavretá, nie je potrebné ju pri močení stiahnuť.
+Otvor močovej trubice slúži primárne na únik moču a [ejakulátu](/tvorba-ejakulatu/) z tela. Je to malá dierka na špičke žaluďa. Keďže predkožka nie je uzavretá, nie je potrebné ju pri močení stiahnuť.
 
 ### Uzdička
 
@@ -55,7 +55,7 @@ Uzdička alebo frenulum je prúžok kože na spodnej strane penisu, kde sa spáj
 
 ### Telo penisu
 
-Telo penisu má tvar cylindra a spája žaluď s koreňom. Skladá sa z troch častí: 2 karvenózne telesá (Corpora Cavernosa) a 1 špongiózne teleso (Corpus Spongiosum). Penis je väčšinou mäkký a jemne pružný, pri erekcii sa však naplní krvou a stvrdne. 
+Telo penisu má tvar cylindra a spája žaluď s koreňom. Skladá sa z troch častí: 2 karvenózne telesá (*Corpora Cavernosa*) a 1 špongiózne teleso (*Corpus Spongiosum*). Penis je väčšinou mäkký a jemne pružný, pri erekcii sa však naplní krvou a stvrdne. 
 
 #### Karvenózne telesá
 
@@ -83,11 +83,11 @@ Análny otvor je vývod hrubého čreva, slúži na vylučovanie stolice. Penetr
 
 ### **Ako vyzerá penis a miešok?**
 
-Vzhľad penisov a mieškov je veľmi rôznorodý. Hormóny, ktoré sa v oblasti genitálií nachádzajú, ovplyvňujú pigmentáciu kože. Z tohto dôvodu je penis, miešok aj okolie genitálií väčšinou tmavšie, než zvyšok kože. Koža obklopujúca penis a miešok môže byť béžová, hnedá až tmavohnedá. Žaluď je väčšinou ružový až červený a obyčajne je širší, než telo penisu. Koža na penise je hladká. Dĺžka aj hrúbka penisu sa líši od človeka k človeku. Penis v nestoporenom stave je zväčšia [](https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13010)[6 – 12 cm](https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13010) dlhý, penis v stoporenom stave je väčšinou [](https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13010)[10 – 16 cm](https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13010) dlhý. Približne [10 %](https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13010) ľudí má penis dlhší alebo kratší, než spomenutý priemer. Hrúbka penisu sa tiež výrazne líši od človeka k človeku. Niektoré penisy pri erekcii stvrdnú a výrazne sa predĺžia, iné sa predĺžia len mierne a niektoré vôbec. Penis môže byť viac či menej zakrivený do ktorejkoľvek strany. Všetky variácie sú zdravé a sú úplne v poriadku. Tvar ani dĺžka penisu nie sú ovplyvnené sexuálnou aktivitou! Vzhľad penisu sa môže počas života meniť vplyvom hormonálnych zmien, nie však na základe intenzity alebo frekvencie sexuálnej aktivity. 
+Vzhľad penisov a mieškov je veľmi [rôznorodý](/roznorodost/). Hormóny, ktoré sa v oblasti genitálií nachádzajú, ovplyvňujú pigmentáciu kože. Z tohto dôvodu je penis, miešok aj okolie genitálií väčšinou tmavšie, než zvyšok kože. Koža obklopujúca penis a miešok môže byť béžová, hnedá až tmavohnedá. Žaluď je väčšinou ružový až červený a obyčajne je širší, než telo penisu. Koža na penise je hladká. Dĺžka aj hrúbka penisu sa líši od človeka k človeku. Penis v nestoporenom stave je zväčšia [](https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13010)[6 – 12 cm](https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13010) dlhý, penis v stoporenom stave je väčšinou [](https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13010)[10 – 16 cm](https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13010) dlhý. Približne [10 %](https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13010) ľudí má penis dlhší alebo kratší, než spomenutý priemer. Hrúbka penisu sa tiež výrazne líši od človeka k človeku. Niektoré penisy pri erekcii stvrdnú a výrazne sa predĺžia, iné sa predĺžia len mierne a niektoré vôbec. Penis môže byť viac či menej zakrivený do ktorejkoľvek strany. Všetky variácie sú zdravé a sú úplne v poriadku. **Tvar ani dĺžka penisu nie sú ovplyvnené sexuálnou aktivitou!** Vzhľad penisu sa môže počas života meniť vplyvom hormonálnych zmien, nie však na základe intenzity alebo frekvencie sexuálnej aktivity. 
 
 Dĺžka a veľkosť mieška je tiež individuálna. Jedna strana mieška je často výrazne dlhšia, keďže asymetria semenníkov pomáha pri cirkulácii krvi. Miešok je väčšinou vráskovitý a má veľmi jemnú kožu. 
 
-Okolo korunky žaluďu a na povrchu miešku sa môžu objavovať malé biele bodky. Hovoríme im hirsuties papillaris genitalis, alebo bradavkovitá ježatosť penisu. Sú to drobné tukové uzlíky, ktoré sú súčasťou nervových zakončení. Vznikajú prirodzene, výrazné môžu byť hlavne v období puberty a nijak nesúvisia so sexuálnym životom človeka. Nie sú to vyrážky a je veľmi nebezpečné snažiť sa ich vytláčať alebo ich natierať akýmikoľvek prípravkami. 
+Okolo korunky žaluďu a na povrchu miešku sa môžu objavovať malé biele bodky. Hovoríme im *hirsuties papillaris genitalis*, alebo bradavkovitá ježatosť penisu. Sú to drobné tukové uzlíky, ktoré sú súčasťou nervových zakončení. Vznikajú prirodzene, výrazné môžu byť hlavne v období puberty a nijak nesúvisia so sexuálnym životom človeka. Nie sú to vyrážky a je veľmi nebezpečné snažiť sa ich vytláčať alebo ich natierať akýmikoľvek prípravkami. 
 
 Výrazné ochlpenie rastie väčšinou medzi genitáliami a podbruškom, na stehnách, na dolnej časti penisu, na miešku aj v okolí análneho otvoru. Farba aj štruktúra chlpov môže byť rôzna, môžu byť riedke, jemné alebo tvrdšie, ryšavé, tmavohnedé, blonďavé, podobne ako vlasy. Všetky tieto variácie sú zdravé.
 
