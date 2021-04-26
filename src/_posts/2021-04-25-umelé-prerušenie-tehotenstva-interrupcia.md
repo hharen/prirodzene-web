@@ -37,7 +37,7 @@ references: >-
 
   “UN Human Rights Committee Asserts That Access to Abortion and Prevention of Maternal Mortality Are Human Rights.” Center for Reproductive Rights, October 31, 2018. https://reproductiverights.org/press-room/un-human-rights-committee-asserts-access-abortion-and-prevention-maternal-mortality-are.
 ---
-Umelé prerušenie tehotenstva (UPT) znamená, že tehotná osoba sa zo zdravotných, ekonomických či osobných dôvodov rozhodne zámerne ukončiť svoje tehotenstvo. UPT na Slovensku z roka na rok klesajú. V roku 2019 sa ich počet medziročne [znížil](http://www.nczisk.sk/Aktuality/Pages/Potraty-v-Slovenskej-republike-2019.aspx) o 200 potratov, z 6024 v roku 2018 na 5 824 v roku 2019. Od roku 2009 ich počet [klesol](http://www.nczisk.sk/Aktuality/Pages/Potraty-v-Slovenskej-republike-2019.aspx) 1,7-násobne a oproti roku 1997 až 3,6-násobne. Na Slovensku je UPT možné do dvanásteho týždňa tehotenstva, na základe genetickej indikácie do 24. týždňa. V prípade, že je ohrozené zdravie matky alebo plod nie je schopný života je UPT možné až do konca tehotenstva.
+Umelé prerušenie tehotenstva (UPT) znamená, že tehotná osoba sa zo zdravotných, ekonomických či osobných dôvodov rozhodne zámerne ukončiť svoje tehotenstvo. UPT na Slovensku z roka na rok klesajú. V roku 2019 sa ich počet medziročne [znížil](http://www.nczisk.sk/Aktuality/Pages/Potraty-v-Slovenskej-republike-2019.aspx) o 200 potratov, z 6024 v roku 2018 na 5 824 v roku 2019. Od roku 2009 ich počet [klesol](http://www.nczisk.sk/Aktuality/Pages/Potraty-v-Slovenskej-republike-2019.aspx) 1,7-násobne a oproti roku 1997 až 3,6-násobne. Na Slovensku je UPT možné do dvanásteho týždňa tehotenstva, na základe genetickej indikácie do 24. týždňa. V prípade, že je ohrozené zdravie matky alebo plod nie je schopný života je UPT možné až do konca [tehotenstva](/vyvinove-fazy-plodu-a-tehotenstvo/).
 
 <div class='f-telo box-post'>
 
@@ -95,7 +95,7 @@ Rozlišujeme dva typy chirurgickej interrupcie:
 
 ##### 1. Včasná interrupcia – miniinterrupcia
 
-Vykonáva sa do 6. až 8. týždňa tehotenstva. Ak žena ešte v minulosti nerodila, môže sa vykonať do 45 dní od prvého dňa poslednej menštruácie, ak žena už rodila vaginálnym pôrodom, miniinterrupcia sa môže vykonávať až do 55 dní od prvého dňa poslednej menštruácie. Zákrok sa vykonáva v anestézii špeciálnym sacím zariadením, ktoré vysaje plod z maternice . Zákrok trvá približne 15 minút, zotavovanie sa trvá približne 2 až 3 hodiny. Pri tomto type zákroku nie je nutná hospitalizácia. <br>
+Vykonáva sa do 6. až 8. týždňa tehotenstva. Ak žena ešte v minulosti nerodila, môže sa vykonať do 45 dní od prvého dňa poslednej [menštruácie](/menstruacny-cyklus/), ak žena už rodila vaginálnym [pôrodom](/porod/), miniinterrupcia sa môže vykonávať až do 55 dní od prvého dňa poslednej menštruácie. Zákrok sa vykonáva v anestézii špeciálnym sacím zariadením, ktoré vysaje plod z [maternice](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/) . Zákrok trvá približne 15 minút, zotavovanie sa trvá približne 2 až 3 hodiny. Pri tomto type zákroku nie je nutná hospitalizácia. <br>
 
 ##### 2. Klasická interrupcia – dilatácia a kyretáž
 
