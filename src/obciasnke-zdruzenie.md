@@ -1,5 +1,5 @@
 ---
-permalink: /obcianske-zdruzenie/
+permalink: /obcianske-zdruzenie-prirodzene/
 ---
 Názov občianskeho združenia: **Prirodzene**\
 IČO: 53495551\
