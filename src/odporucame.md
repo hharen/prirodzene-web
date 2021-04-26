@@ -29,7 +29,7 @@ Bedsider je online sieť na podporu používania antikoncepčných metód pre ľ
 
 <br>
 
-Na **[stránke Comfortable in my skin](https://www.comfortableinmyskin.com.au/blog/flip-through-my-flaps)** nájdete fotografie rôznorodých vuliev z projektu Flip Through My Flap. Kresby rôznorodých genitálií a tiel nájdete na [The Vulva Gallery](https://www.thevulvagallery.com/) a [Vielma](https://www.instagram.com/vielma.art/).
+Na **[stránke Comfortable in my skin](https://www.comfortableinmyskin.com.au/blog/flip-through-my-flaps)** nájdete fotografie rôznorodých vuliev z projektu Flip Through My Flap. Kresby rôznorodých genitálií a tiel nájdete na **[The Vulva Gallery](https://www.thevulvagallery.com/)** a **[Vielma](https://www.instagram.com/vielma.art/)**.
 
 <br>
 
@@ -211,7 +211,7 @@ Amaze Jr. je séria videí od Amaze určená pre ešte mladšie deti vo veku 4-9
 
 <br>
 
-### Webové stránky 
+### Webové stránky
 
 #### [Scarleteen](https://www.scarleteen.com/)
 
