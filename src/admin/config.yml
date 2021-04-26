@@ -65,13 +65,70 @@ collections:
         file: src/index.md
         fields:
           - { label: Layout, name: title, widget: hidden, default: home }
+          - { label: Metadescription, name: metadescription, widget: markdown, required: false }
           - { label: Body, name: body, widget: markdown }
-      - label: About Page
-        name: about
-        file: src/about.md
+      - label: 'O nás'
+        name: o-nas
+        file: src/o-nas.md
+        fields:
+          - { label: Title, name: title, widget: hidden, default: 'O nás' }
+          - { label: Layout, name: layout, widget: hidden, default: page }
+          - { label: Permalink, name: permalink, widget: string }
+          - { label: Metadescription, name: metadescription, widget: markdown, required: false }
+          - { label: Body, name: body, widget: markdown }
+      - label: Tím
+        name: tim
+        file: src/tim.md
+        fields:
+          - { label: Title, name: title, widget: hidden, default: 'Tím' }
+          - { label: Layout, name: layout, widget: hidden, default: page }
+          - { label: Permalink, name: permalink, widget: string }
+          - { label: Metadescription, name: metadescription, widget: markdown, required: false }
+          - { label: Body, name: body, widget: markdown }
+      - label: 'Občianske združenie Prirodzene'
+        name: obcianske-zdruzenie-prirodzene
+        file: src/obciasnke-zdruzenie.md
         fields:
           - { label: Title, name: title, widget: hidden, default: About }
           - { label: Layout, name: layout, widget: hidden, default: page }
           - { label: Permalink, name: permalink, widget: string }
           - { label: Metadescription, name: metadescription, widget: markdown, required: false }
           - { label: Body, name: body, widget: markdown }
+      - label: 'Odporúčame'
+        name: odporucame
+        file: src/odporucame.md
+        fields:
+          - { label: Title, name: title, widget: hidden, default: About }
+          - { label: Layout, name: layout, widget: hidden, default: page }
+          - { label: Permalink, name: permalink, widget: string }
+          - { label: Metadescription, name: metadescription, widget: markdown, required: false }
+          - { label: Body, name: body, widget: markdown }
+      - label: 'Partneri'
+        name: partneri
+        file: src/partneri.md
+        fields:
+          - { label: Title, name: title, widget: hidden, default: About }
+          - { label: Layout, name: layout, widget: hidden, default: page }
+          - { label: Permalink, name: permalink, widget: string }
+          - { label: Metadescription, name: metadescription, widget: markdown, required: false }
+          - { label: Body, name: body, widget: markdown }
+      - label: 'Partnerské spoločnosti'
+        name: partnerske-spolocnosti
+        file: src/partnerske-spolocnosti.md
+        fields:
+          - { label: Title, name: title, widget: hidden, default: About }
+          - { label: Layout, name: layout, widget: hidden, default: page }
+          - { label: Permalink, name: permalink, widget: string }
+          - { label: Metadescription, name: metadescription, widget: markdown, required: false }
+          - { label: Body, name: body, widget: markdown }
+      - label: 'Kontakt'
+        name: kontakt
+        file: src/kontakt.md
+        fields:
+          - { label: Title, name: title, widget: hidden, default: About }
+          - { label: Layout, name: layout, widget: hidden, default: page }
+          - { label: Permalink, name: permalink, widget: string }
+          - { label: Metadescription, name: metadescription, widget: markdown, required: false }
+          - { label: Body, name: body, widget: markdown }
+
+
