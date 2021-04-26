@@ -4,4 +4,4 @@ title: 'Kontakt'
 permalink: /kontakt/
 ---
 
-<p>Napíšte nám na <a href="mailto:info@prirodzene.eu">info@prirodzene.eu</a>.</p>
+<p>Napíšte nám na <a href="mailto:info@prirodzeneweb.sk">info@prirodzeneweb.sk</a>.</p>
