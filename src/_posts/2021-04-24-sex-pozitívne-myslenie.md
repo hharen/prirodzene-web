@@ -28,8 +28,7 @@ Sex-pozitívne myslenie pochádza z [hnutia za sex-pozitivitu](https://feminist
 * Každý dospelý človek má právo na zdravý a uspokojujúci sexuálny život.
 * Každý človek by mal mať prístup ku komplexnému sexuálnemu vzdelávaniu.
 * Každý človek má právo na zdravotnú starostlivosť, ktorá mu umožní mať zdravý a uspokojujúci sexuálny život.
-* Každý človek by mal mať možnosť sa zapájať do konsenzuálnych a bezpečných 
-* sexuálnych aktivít bez toho, aby bol za to zosmiešňovaný, šikanovaný, napádaný či trestaný.
+* Každý človek by mal mať možnosť sa zapájať do konsenzuálnych a bezpečných sexuálnych aktivít bez toho, aby bol za to zosmiešňovaný, šikanovaný, napádaný či trestaný.
 * Každý človek má právo na telesnú autonómiu a môže sa rozhodovať, čo sa bude z jeho/jej telom diať.
 * Sexuálne aktivity by mali prinášať potešenie alebo pôžitok každému, kto sa na nich zúčastňuje. 
 
@@ -47,15 +46,15 @@ O hnutí za sex-pozitivitu existuje aj mnoho mylných predstáv a názorov. V�
 
 <br> 
 
-[Sex-pozitívne myslenie](https://www.goodreads.com/book/show/55301696-sex-ed) prvýkrát pomenoval Wilhelm Reich v roku 1920 a hnutie za sex-pozitivitu začalo v Spojených štátoch amerických v 60-tych rokoch minulého storočia, počas revolúcie v rozmýšľaní o sexualite a antikoncepcii, viac-menej v tandeme s feministickými hnutiami, ako aj s hnutiami za ľudské práva a za práva LGBT+ komunity. Počas poslednej dekády sa hnutie za sex-pozitivitu snaží hlavne o zmenu prístupu k sexuálnemu vzdelávaniu. Hlavným cieľom je prestať spájať sex a sexualitu primárne s hanbou a so strachom a začať klásť dôraz na potešenie a bezpečie pri sexe. Hnutie za sex-pozitivitu sa snaží o to, aby spoločnosť smerovala **k sexuálnej liberácii**, ktorá by mala zahŕňať nasledujúce koncepty a istoty:
+[Sex-pozitívne myslenie](https://www.goodreads.com/book/show/55301696-sex-ed) prvýkrát pomenoval Wilhelm Reich v roku 1920 a hnutie za sex-pozitivitu začalo v Spojených štátoch amerických v 60-tych rokoch minulého storočia, počas revolúcie v rozmýšľaní o sexualite a antikoncepcii, viac-menej v tandeme s feministickými hnutiami, ako aj s hnutiami za ľudské práva a za práva [LGBT+ komunity](/lgbti+-queer-komunita/). Počas poslednej dekády sa hnutie za sex-pozitivitu snaží hlavne o zmenu prístupu k [sexuálnemu vzdelávaniu](/sexualne-vzdelavanie-vo-svete/). Hlavným cieľom je prestať spájať sex a sexualitu primárne s hanbou a so strachom a začať klásť dôraz na potešenie a bezpečie pri sexe. Hnutie za sex-pozitivitu sa snaží o to, aby spoločnosť smerovala **k sexuálnej liberácii**, ktorá by mala zahŕňať nasledujúce koncepty a istoty:
 
-* zrovnoprávnenie ľudí inej než heterosexuálnej orientácie a inej než cisrodovej identity;
+* zrovnoprávnenie ľudí inej než [heterosexuálnej orientácie](/sexualna-orientacia/) a inej než [cisrodovej identity](/rodova-identita/);
 * prístup k antikoncepčným metódam nezávisle od ekonomickej alebo sociálnej situácie človeka;
 * desexualizácia ľudskej nahoty;
 * legalizácia práce v sexuálnom priemysle a vytvorenie systému, kde je takáto práca adekvátne kontrolovaná a zaručuje bezpečie, práva a povinnosti pracovníkov/čiek, ako aj zákazníkov/čiek, prípadne spotrebiteľov;
 * destigmatizácia rôznych prejavov ľudskej sexuality, napríklad masturbácie;
-* právne zaručená telesná autonómia (napríklad prístup k interrupciám; zákaz vykonávania zákrokov bez zdravotnej indikácie na deťoch atď.);
-* zaručený prístup k zdravotnej starostlivosti súvisiacej so sexuálnym zdravím, a to bez ohľadu na rod, pohlavie či sexualitu;
+* právne zaručená telesná autonómia (napríklad prístup k [interrupciám](/umele-prerusenie-tehotenstva-interrupcia/); zákaz vykonávania zákrokov bez zdravotnej indikácie na deťoch atď.);
+* zaručený prístup k zdravotnej starostlivosti súvisiacej so sexuálnym zdravím, a to bez ohľadu na [rod](/rodova-identita/), [pohlavie ](/pohlavna-anatomia/)či [sexualitu](/sexualna-orientacia/);
 * právne definovaný sexuálny súhlas;
 * právne definované znásilnenie ako sex bez súhlasu;
 * a podobne.
