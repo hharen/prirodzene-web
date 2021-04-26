@@ -106,7 +106,7 @@ Dôraz je na životnom smerovaní k svadbe, následnej reprodukcii a výchove
 
 ### Výchova k abstinencii
 
-Takéto programy zdôrazňujú morálne implikácie sexuálneho styku. Učia ľudí, že jedinou morálne správnou cestou je úplne sa vyhnúť sexuálnym aktivitám, prípadne počkať do svadby. Tieto morálne hodnoty sú často podložené myšlienkami náboženstiev, napríklad kresťanstva či islamu. Osnovy predpokladajú, že ak všetci ľudia počkajú so sexom do svadby a budú mať sex iba s 1 človekom, pohlavne prenosné infekcie (PPI) sa nebudú prenášať, pričom antikoncepčné metódy v manželstve nie sú potrebné. 
+Takéto programy zdôrazňujú morálne implikácie sexuálneho styku. Učia ľudí, že jedinou morálne správnou cestou je úplne sa vyhnúť sexuálnym aktivitám, prípadne počkať do svadby. Tieto morálne hodnoty sú často podložené myšlienkami náboženstiev, napríklad kresťanstva či islamu. Osnovy predpokladajú, že ak všetci ľudia počkajú so sexom do svadby a budú mať sex iba s 1 človekom, [pohlavne prenosné infekcie](/pohlavne-prenosne-infekcie/) (PPI) sa nebudú prenášať, pričom antikoncepčné metódy v manželstve nie sú potrebné. 
 
 ### Výchova zameraná na zdravotné riziká sexu
 
