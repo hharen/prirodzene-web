@@ -40,7 +40,7 @@ U ľudí s vulvou je za orgazmus zodpovedný **[klitoris](/vnutorne-pohlavne-u
 
 #### Orgazmus u ľudí s penisom
 
-U ľudí s penisom je za orgazmus väčšinou zodpovedný **[](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/)[penis](/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-penisom/).** Avšak, aj u nich môže dochádzať k javu podobnému squirtingu, väčšinou po stimulácii žaluďa penisu. Za penilný squirting je zodpovedná [prostata](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-penisom/), čo je [homológny orgán Skeneho žliaz](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/). Podobne ako squirting a orgazmus nemožno zamienať, ani ejakulácia a orgazmus nie sú synonymami. K [ejakulácii semena](/tvorba-ejakulatu/) z penisu môže dôjsť bez toho, aby nastal orgazmus a rovnako môžu ľudia s penisom dosiahnuť orgazmus bez toho, aby došlo k ejakulácií. Okrem toho, orgazmus nemusí byť odpoveďou na stimuláciu genitálií. U mnohých ľudí môže k orgazmu dôjsť po stimulácií rôznych erotogénnych častí tela, ako bradavky, prsia, uši, krk a podobne. 
+U ľudí s penisom je za orgazmus väčšinou zodpovedný [](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/)**[penis](/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-penisom/).** Avšak, aj u nich môže dochádzať k javu podobnému squirtingu, väčšinou po stimulácii žaluďa penisu. Za penilný squirting je zodpovedná [prostata](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-penisom/), čo je [homológny orgán Skeneho žliaz](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/). Podobne ako squirting a orgazmus nemožno zamienať, ani ejakulácia a orgazmus nie sú synonymami. K [ejakulácii semena](/tvorba-ejakulatu/) z penisu môže dôjsť bez toho, aby nastal orgazmus a rovnako môžu ľudia s penisom dosiahnuť orgazmus bez toho, aby došlo k ejakulácií. Okrem toho, orgazmus nemusí byť odpoveďou na stimuláciu genitálií. U mnohých ľudí môže k orgazmu dôjsť po stimulácií rôznych erotogénnych častí tela, ako bradavky, prsia, uši, krk a podobne. 
 
 <br>
 
@@ -54,6 +54,7 @@ Intenzita, trvanie a možnosť opakovania jednotlivých fáz sexuálneho cyklu 
 
 o<div class="flex flex-wrap justify-around">
 <img src="/images/uploads/sexual-response-cycle-2.jpg" alt="Cyklus sexuálnej aktivity u ľudí s vulvou a s penisom">
+
 </div>
 
 <br>
@@ -106,7 +107,7 @@ Pečeňák, and Trebatická. “Prednáška Sexuológia.” Psychiatria 2. Addre
 
 <br>
 
-“Phases of Male Sexual Response Cycle.” Learn About Phases Of Male Sexual Response Cycle | Chegg.com. CheggStudy. Accessed April 4, 2021. <https://www.chegg.com/learn/biology/anatomy-physiology-in-biology/phases-of-male-sexual-response-cycle>. 
+“Phases of Male Sexual Response Cycle.” Learn About Phases Of Male Sexual Response Cycle | Chegg.com. CheggStudy. Accessed April 4, 2021. https://www.chegg.com/learn/biology/anatomy-physiology-in-biology/phases-of-male-sexual-response-cycle. 
 
 <br>
 
