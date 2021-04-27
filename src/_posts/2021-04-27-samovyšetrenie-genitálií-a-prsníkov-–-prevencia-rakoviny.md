@@ -69,3 +69,25 @@ Samovyšetrenie [vulvy ](/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-vulvou/)je t
 * všímať si bolesť, svrbenie, citlivé miesta, opuch a podobne.
 
 V prípade zistenia zmien, opuchu, neznámych útvarov alebo čohokoľvek neobvyklého na prsníkoch alebo v oblasti vulvy je potrebné vyhľadať odbornú pomoc.
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+Blahd Jr. MD, William H., and H.  Michael O'Connor MD . “Genital Self-Examination.” CS Mott Children's Hospital | Michigan Medicine. Mott Children's Hospital, February 26, 2020. https://www.mottchildren.org/health-library/sig40811. 
+
+<br>
+
+Jewell , Tim, and J. Keith Fisher, MD . “What to Expect from a Penile and Testicular Exam.” healthline, July 30, 2019. https://www.healthline.com/health/penis-exam#what-it-screens-for. 
+
+<br>
+
+“Rakovina Sa Dá Poraziť, Dôležitá Je Prevencia. Slovensko Má Najmodernejšie Prístroje Na Liečbu Rakoviny.” Rakovina sa dá poraziť, dôležitá je prevencia. Slovensko má najmodernejšie prístroje na liečbu rakoviny | AGEL SK. Skupina AGEL, February 3, 2020. https://www.agel.sk/media/tlacove-spravy/200203-prevencia-rakoviny.html. 
+
+<br>
+
+“Vulvar Cancer.” Mayo Clinic. Mayo Foundation for Medical Education and Research, October 23, 2020. https://www.mayoclinic.org/diseases-conditions/vulvar-cancer/symptoms-causes/syc-20368051.
