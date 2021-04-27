@@ -65,7 +65,7 @@ Okrem tohto modelu cyklu sexuálnej aktivity existuje aj množstvo iných modelo
 
 ## **Túžba**
 
-Je dôležité pochopiť rozdiel medzi túžbou a cyklom sexuálnej aktivity (podľa Mastersa a Johnsonovej). Zjednodušene môžeme povedať, že túžba (angl. desire) je emocionálny proces, zatiaľ čo cyklus sexuálnej aktivity je telesný proces. [Rozlišujeme](https://www.goodreads.com/book/show/55301696-sex-ed) 2 typy túžby: **spontánna a responzívna**.
+Je dôležité pochopiť rozdiel medzi túžbou a cyklom sexuálnej aktivity (podľa Mastersa a Johnsonovej). Zjednodušene môžeme povedať, že túžba (angl. desire) je emocionálny proces, zatiaľ čo cyklus sexuálnej aktivity je (primárne) telesný proces. [Rozlišujeme](https://www.goodreads.com/book/show/55301696-sex-ed) 2 typy túžby: **spontánna a responzívna**.
 
 <div class='notes'>
 
