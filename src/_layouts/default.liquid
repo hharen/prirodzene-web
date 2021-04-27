@@ -10,16 +10,19 @@
 
   </head>
   <body class="{{ page.layout }} {{ page.page_class }}">
-    <div class="flex justify-between content-start">
-      <a href="/"><img src='/images/logo-prirodzene.png' alt="Logo Prirodzene sexuálne vzdelávanie" class='h-28 m-4'></a>
-      {% render "navbar", metadata: site.metadata, page: page %}
+    <div id="content">
+      <div class="flex justify-between content-start">
+        <a href="/"><img src='/images/logo-prirodzene.png' alt="Logo Prirodzene sexuálne vzdelávanie" class='h-28 m-4'></a>
+        {% render "navbar", metadata: site.metadata, page: page %}
+      </div>
+
+      <main>
+        {{ content }}
+      </main>
     </div>
 
-    <main>
-      {{ content }}
-    </main>
-
-
     {% render "footer", metadata: site.metadata %}
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
   </body>
 </html>
