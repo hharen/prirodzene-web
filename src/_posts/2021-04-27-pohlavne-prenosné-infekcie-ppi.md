@@ -37,10 +37,18 @@ PPI sú bežné infekcie a väčšina z nich sa dá buď liečiť, alebo sa da
 
 Berry, Jennifer, and Jill Seladi-Schulman, Ph.D. . “How Many People Have Herpes? Myths, Facts, and Statistics.” Medical News Today. MediLexicon International, September 25, 2020. https://www.medicalnewstoday.com/articles/how-many-people-have-herpes#statistics.
 
+<br>
+
 “Human Papilloma Virus (HPV): Causes, Testing, Treatment &amp; Prevention.” Cleveland Clinic. Accessed April 15, 2021. <https://my.clevelandclinic.org/health/diseases/11901-hpv-human-papilloma-virus>. 
+
+<br>
 
 “Sexually Transmitted Infections (STIs).” NHS . NHS, April 9, 2021. <https://www.nhs.uk/conditions/sexually-transmitted-infections-stis/>. 
 
+<br>
+
 “Sexually Transmitted Infections (STIs).” World Health Organization, June 14, 2019. <https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)>. 
+
+<br>
 
 “STD vs STI: What's the Difference?” State Urgent Care, June 25, 2019. https://starkvilleurgentcareclinic.com/std-vs-sti-common-types-symptoms-and-treatment/.
