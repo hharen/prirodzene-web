@@ -5,9 +5,10 @@ slug: telesne-a-emocionalne-procesy-sexualna-tuzba-a-sexualna-aktivita
 topic: sex
 subtopic: sex-subtopic
 date: 2021-04-27T22:08:53.119Z
+metadescription: Cyklus sexuálnej aktivity je séria fyzických a emocionálnych
+  zmien, ktoré nastávajú v ľudskom tele počas sexuálnej aktivity. Túžba môže byť
+  spontánna a responzívna.
 ---
-<!--StartFragment-->
-
 ## **Cyklus sexuálnej aktivity**
 
 Cyklus sexuálnej aktivity (angl. sexual response cycle) je séria fyzických a emocionálnych zmien, ktoré nastávajú v ľudskom tele počas sexuálnej aktivity a zahŕňa nasledujúce telesné procesy: **sexuálne vzrušenie, sexuálna aktivita, vyvrcholenie a obdobie krátko po skončení aktivity**. Takýto cyklus možno chápať iba vo veľmi úzkom ponímaní sexu a teda nie je univerzálne aplikovateľný na každého človeka alebo každú sexuálnu skúsenosť. Najrozšírenejší a najznámejší [model ](https://www.pulib.sk/web/kniznica/elpub/dokument/Olostiak4/subor/Solarova.pdf)cyklu sexuálnej aktivity vytvorili Masters a Johnsonová v roku 1966. Tento model obsahuje 4 základné [fázy](https://www.webmd.com/sex-relationships/guide/sexual-health-your-guide-to-sexual-response-cycle): vzrušenie, plató, orgazmus a uvoľnenie.  
@@ -53,7 +54,7 @@ Po orgazme dochádza k uvoľneniu, kedy **sa telo dostáva do pokojného štád
 Intenzita, trvanie a možnosť opakovania jednotlivých fáz sexuálneho cyklu sa mení v závislosti od toho, či má človek vulvu alebo penis. Tento rozdiel spočíva najmä v nevyhnutnosti refraktárnej fázy u ľudí s penisom. Model cyklu ľudí s vulvou zase opisuje rôzne formy, pri ktorých sa môžu niektoré fázy preskočiť (napr. orgazmus) a k iným sa zase dá v rôznej frekvencii vrátiť.
 
 <div class="flex flex-wrap justify-around">
-<img src="/images/uploads/sexual-response-cycle-2.jpg" alt="Cyklus sexuálnej aktivity u ľudí s vulvou a s penisom">\
+<img src="/images/uploads/sexual-response-cycle-2.jpg" alt="Cyklus sexuálnej aktivity u ľudí s vulvou a s penisom">
 </div>
 
 <br>
@@ -77,7 +78,9 @@ Je dôležité pochopiť rozdiel medzi túžbou a cyklom sexuálnej aktivity (p
 **Túžba** (emocionálna) a **vzrušenie** (fyzické) sú procesy, ktoré sa často prekrývajú. K túžbe dochádza pred začiatkom cyklu sexuálnej aktivity, počas neho, ale aj po ňom. Avšak, túžba a vzrušenie nie sú od seba závislé. To znamená, že kognitívne môžeme pociťovať sexuálnu túžbu, no naše telo na ňu nemusí reagovať. Tak isto sa stáva, že pociťujeme fyzické vzrušenie, no vedome po sexuálnej aktivite netúžime. **Vzájomná nezávislosť týchto 2 procesov** spôsobuje, že bežne dochádza k spontánnym erekciám či vaginálnej lubrikácii (nezávisle od výtoku), ale takisto aj prípady, kedy obeť počas znásilnenia zažije napriek svojej nevôli orgazmus a podobne. 
 
 <div class='f-sex box-post'>
-Je nesmierne dôležité si uvedomiť, že vzrušenie ani túžba neimplikujú súhlas so sexuálnou aktivitou. To, že spozorujeme u niekoho fyzické znaky vzrušenia neznamená, že daná osoba sa chce zapojiť do nejakej sexuálnej aktivity. Súhlas a komunikácia vždy musia predchádzať sexu, bez ohľadu na to, či osoba pociťuje vzrušenie a/alebo túžbu.\
+
+Je nesmierne dôležité si uvedomiť, že vzrušenie ani túžba neimplikujú súhlas so sexuálnou aktivitou. To, že spozorujeme u niekoho fyzické znaky vzrušenia neznamená, že daná osoba sa chce zapojiť do nejakej sexuálnej aktivity. Súhlas a komunikácia vždy musia predchádzať sexu, bez ohľadu na to, či osoba pociťuje vzrušenie a/alebo túžbu.
+
 </div>
 
 To, že naše telo prechádza počas sexuálnej aktivity viditeľnými telesnými zmenami a pomenovateľnými pocitmi, je výsledkom aktivity najväčšieho sexuálneho orgánu v ľudskom tele – **mozgu**. Počas sexuálnej túžby aj počas samotnej sexuálnej aktivity sa v našom mozgu deje mnoho procesov, od uvoľňovania rôznych **[neurotransmitérov](https://atlasbiomed.com/blog/whats-going-on-with-hormones-and-neurotransmitters-during-sex/.)** po produkciu **[hormónov](https://www.researchgate.net/publication/10684431_The_neurophysiology_of_the_sexual_cycle)**. Pri fyzických aktivitách ako bozkávanie, objímanie alebo dotyk odošle periférny nervový systém signál do mozgu. Hypotalamus (podlôžko), časť mozgu, ktorá má na starosti kontrolu hormónov, následne signalizuje telu, aby začalo produkovať testosterón. Za príjemné pocity, ktoré môžeme pociťovať počas  sexuálnej aktivity je zodpovedný dopamín, ktorý funguje ako neurotransmitér (aktivuje dopamínové receptory) a ako neurohormón (je vytváraný v hypotalame). Okrem toho sa v tele produkuje oxid dusnatý a noradrenalín, ktoré sú zodpovedné za prekrvenie genitálií, za erekciu aj za vaginálnu lubrikáciu. Sekrécia oxytocínu vedie k rytmickým sťahom svalstva, ktoré sú nevyhnutné aj na ejakuláciu. Zjednodušene, čím viac oxytocínu, tým intenzívnejší orgazmus. Počas sexu sa taktiež môžu produkovať endorfíny, ktoré môžu spôsobiť zníženú hladinu stresu či bolesti. Po orgazme dochádza k zvýšenej produkcii prolaktínu a následne k zníženiu sexuálnej túžby a vzrušenia. Samozrejme, komplex procesov, ktoré so počas sexuálnej aktivity dejú v mozgu je oveľa zložitejší a môže sa líšiť u iných ľudí, ale aj medzi rôznymi zážitkami tých istých ľudí.
