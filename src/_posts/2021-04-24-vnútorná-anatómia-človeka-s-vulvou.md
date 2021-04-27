@@ -89,7 +89,8 @@ Vagína je svalovo-väzivová trubica, ktorá je vstupom/výstupom pohlavného �
 <div class='notes'>
 
 SLOVNÍK <br>
-<strong>homológny orgán</strong> - orgány, ktoré majú spoločný pôvod a podobnú štruktúru, ich funkcia sa však môže líšiť\
+<strong>homológny orgán</strong> - orgány, ktoré majú spoločný pôvod a podobnú štruktúru, ich funkcia sa však môže líšiť
+
 </div>
 
 ## **Bod G**
