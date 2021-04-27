@@ -15,7 +15,7 @@ PPI sa v závislosti od typu môžu **prenášať tekutinami ako výtok, spermi
 
 <div class='f-zdravie box-post'>
 
-Každý človek, ktorý žije aktívnym sexuálnym životom, sa vystavuje istému riziku nákazy PPI. Žiadna <a href="prevencia-ppi/">metóda ochrany proti PPI</a> totiž nie je na 100 % účinná, mnohé z nich však vedia riziko nákazy minimalizovať a pomôcť nám tak viesť bezpečnejší sexuálny život.
+Každý človek, ktorý žije aktívnym sexuálnym životom, sa vystavuje istému riziku nákazy PPI. Žiadna <a href="/prevencia-ppi/">metóda ochrany proti PPI</a> totiž nie je na 100 % účinná, mnohé z nich však vedia riziko nákazy minimalizovať a pomôcť nám tak viesť bezpečnejší sexuálny život.
 
 </div>
 
