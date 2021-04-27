@@ -80,7 +80,7 @@ Medzi ľuďmi s vulvou a ľuďmi s penismi môžeme pozorovať výrazný rozd
 
 <br>
 
-<p class="important-text">ZDROJE:</p><!--StartFragment-->
+<p class="important-text">ZDROJE:</p>
 
 Corinna , Heather, and C J Turett. “Yes, No, Maybe So: A Sexual Inventory Stocklist.” Scarleteen, July 10, 2019. https://www.scarleteen.com/article/advice/yes_no_maybe_so_a_sexual_inventory_stocklist. 
 
