@@ -1,0 +1,93 @@
+---
+layout: articles
+title: 'Sexuálne zdravie'
+permalink: /sexualne-zdravie/
+metadescription: 'O sexe a tele pre dospelých a dospievajúcich. Jasne, milo a fakticky. Sexuálne zdravie.'
+---
+
+<section class="posts py-8 px-4">
+	<div class="text-center f-zdravie"><h2>Sexuálne zdravie</h2>
+		<div class="text-center f-zdravie flex place-content-around place-items-center p-2">
+			<a href="#problemy">Zdravotné problémy</a>
+			<a href="#infekcie">Pohlavne prenostné infekcie</a>
+			<a href="#bariery">Antikoncepcia a bariéry</a>
+		</div>
+	</div>
+
+	<div class="my-8 flex list-of-articles justify-around">
+		<div class="mx-8">
+			<h3>Zdravotné problémy</h3>
+			<ul>
+			  {% for post in site.posts %}
+				  {% if post.subtopic == 'problemy' %}
+				    <li>
+				      <a href="{{ post.url }}">{{ post.title }}</a>
+				    </li>
+				  {% endif %}
+			  {% endfor %}
+			</ul>
+
+			<h3>Pohlavne prenostné infekcie</h3>
+			<ul>
+			  {% for post in site.posts %}
+				  {% if post.subtopic == 'infekcie' %}
+				    <li>
+				      <a href="{{ post.url }}">{{ post.title }}</a>
+				    </li>
+				  {% endif %}
+			  {% endfor %}
+			</ul>
+
+			<h3>Antikoncepcia a bariéry</h3>
+			<ul>
+			  {% for post in site.posts %}
+				  {% if post.subtopic == 'bariery' %}
+				    <li>
+				      <a href="{{ post.url }}">{{ post.title }}</a>
+				    </li>
+				  {% endif %}
+			  {% endfor %}
+			</ul>
+
+		</div>
+		<div>
+			<img src="/images/sexualne_zdravie.jpeg" alt="Antikoncepčné pomôcky" class="main-photo-articles">
+		</div>
+	</div>
+
+	<h3 id='problemy'>Zdravotné problémy</h3>
+	{% for post in site.posts %}
+    {% if post.subtopic == 'problemy' %}
+      {% capture times_if %}{% increment times_if %}{% endcapture %}     
+        <h4 class="f-zdravie p-4">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+        <p>{{ post.excerpt }}</p>
+        <p class='mb-8'><a href="{{ post.url }}" class="btn btn-zdravie">Čítať ďalej</a></p>
+    {% endif %}
+  {% endfor %}
+
+  <h3 id='infekcie'>Pohlavne prenostné infekcie</h3>
+	{% for post in site.posts %}
+    {% if post.subtopic == 'infekcie' %}
+      {% capture times_if %}{% increment times_if %}{% endcapture %}     
+        <h4 class="f-zdravie p-4">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+        <p>{{ post.excerpt }}</p>
+        <p class='mb-8'><a href="{{ post.url }}" class="btn btn-zdravie">Čítať ďalej</a></p>
+    {% endif %}
+  {% endfor %}
+
+  <h3 id='bariery'>Antikoncepcia a bariéry</h3>
+	{% for post in site.posts %}
+    {% if post.subtopic == 'bariery' %}
+      {% capture times_if %}{% increment times_if %}{% endcapture %}     
+        <h4 class="f-zdravie p-4">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+        <p>{{ post.excerpt }}</p>
+        <p class='mb-8'><a href="{{ post.url }}" class="btn btn-zdravie">Čítať ďalej</a></p>
+    {% endif %}
+  {% endfor %}
+</section>
