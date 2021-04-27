@@ -92,8 +92,6 @@ SLOVNÍK <br>
 <strong>homológny orgán</strong> - orgány, ktoré majú spoločný pôvod a podobnú štruktúru, ich funkcia sa však môže líšiť\
 </div>
 
-<br>
-
 ## **Bod G**
 
 Bod G nie je v skutočnosti bod, je to súčasť hornej vaginálnej steny. Močová trubica, ktorá sa nachádza nad vagínou, je obklopená erektilným tkanivom. Jeho štruktúra je na dotyk podobná dužine grapefruitu alebo špongii. Dolná časť tohto tkaniva (pod dolnou stenou močovej rúry) je súčasťou hornej steny vagíny. Stimulácia tohto tkaniva môže byť na pocit príjemná a môže pri nej dôjsť k javu, ktorému hovoríme „squirting“. 
