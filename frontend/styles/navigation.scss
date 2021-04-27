@@ -6,11 +6,15 @@ nav, .social-links {
 
 nav a, .social-links a {
   text-decoration: none;
-  padding: 8px 10px;
+  padding: 17px 10px;
 }
 
+// nav span {
+//   padding: 1px 10px;
+// }
+
 .nav-main {
-  margin-right: 50px;
+  margin: 0 50px;
   font-size: 1.3rem;
   font-variant: small-caps;
   display: flex;
@@ -37,4 +41,8 @@ nav a:hover, nav span:hover, .social-links a:hover {
 
 a.dropdown-item {
   text-align: left;
+}
+
+.dropdown {
+  vertical-align: middle;
 }
