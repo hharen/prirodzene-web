@@ -54,7 +54,7 @@ Po orgazme dochádza k uvoľneniu, kedy **sa telo dostáva do pokojného štád
 Intenzita, trvanie a možnosť opakovania jednotlivých fáz sexuálneho cyklu sa mení v závislosti od toho, či má človek vulvu alebo penis. Tento rozdiel spočíva najmä v nevyhnutnosti refraktárnej fázy u ľudí s penisom. Model cyklu ľudí s vulvou zase opisuje rôzne formy, pri ktorých sa môžu niektoré fázy preskočiť (napr. orgazmus) a k iným sa zase dá v rôznej frekvencii vrátiť.
 
 <div class="flex flex-wrap justify-around">
-<img src="/images/uploads/sexual-response-cycle-2.jpg" alt="Cyklus sexuálnej aktivity u ľudí s vulvou a s penisom">
+<img src="/images/uploads/sexual-response-cycle-2.jpg" alt="Cyklus sexuálnej aktivity u ľudí s vulvou a u ľudí s penisom">
 </div>
 
 <br>
