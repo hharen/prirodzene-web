@@ -30,9 +30,9 @@ Rod väčšiny ľudí sa zhoduje s ich biologickým pohlavím. To znamená, že 
 
 SLOVNÍK <br>
 <strong>človek s vulvou</strong> - cisrodová žena alebo ktokoľvek iný, kto má vulvu, vagínu a ostatné typicky samičie pohlavné orgány\
-<br> 
+<br>
 <strong>človek s penisom</strong> - cisrodový muž alebo ktokoľvek iný, kto má penis a ostatné typicky samčie pohlavné orgány\
-<br> 
+<br>
 <strong>cisrodový človek</strong> - človek, ktorého rod sa zhoduje s biologickým pohlavím, ktoré mu bolo pridelené pri narodení\
 <br>
 <strong>transrodový človek</strong> - človek, ktorého rod sa nezhoduje s biologickým pohlavím, ktoré mu bolo pridelené pri narodení\
