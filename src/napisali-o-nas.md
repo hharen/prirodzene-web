@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Napísali o nás'
-meta: 'Prečítajte si o Prirodzene viac očami médií.'
+metadescription: 'Prečítajte si o Prirodzene viac očami médií.'
 permalink: /napisali-o-nas/
 ---
 

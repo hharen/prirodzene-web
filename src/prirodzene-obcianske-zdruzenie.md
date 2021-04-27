@@ -1,9 +1,11 @@
 ---
-permalink: /obcianske-zdruzenie-prirodzene/
+title: 'Občianske združenie Prirodzene'
+layout: page
+permalink: /oz-prirodzene/
 ---
 Názov občianskeho združenia: **Prirodzene**\
 IČO: 53495551\
-\
+
 Štatutárny orgán /Predsedníčka/: Nikoleta Nagyová
 
 ### \
