@@ -87,7 +87,7 @@ collections:
           - { label: Body, name: body, widget: markdown }
       - label: 'Občianske združenie Prirodzene'
         name: obcianske-zdruzenie-prirodzene
-        file: src/obciasnke-zdruzenie.md
+        file: src/prirodzene-obcianske-zdruzenie.md
         fields:
           - { label: Title, name: title, widget: hidden, default: About }
           - { label: Layout, name: layout, widget: hidden, default: page }
