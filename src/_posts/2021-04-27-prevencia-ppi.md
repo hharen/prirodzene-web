@@ -11,8 +11,8 @@ metadescription: "Zásady, akými môžu znížiť riziko prenosu PPI ľudia, kt
 ---
 Najspoľahlivejší spôsob, akým môže človek zabrániť nákaze pohlavne prenosnou infekciou (PPI), je úplná sexuálna abstinencia. Okrem niektorých špecifických prípadov ako nákaza používaním spoločných hygienických potrieb, zdieľaním striekačiek a podobne, je prakticky nemožné nakaziť sa PPI v prípade, že sa človek nezapája do sexuálnych aktivít vôbec. Zásady, akými môžu znížiť riziko prenosu PPI ľudia, ktorí chcú byť sexuálne aktívni, sa dajú zhrnúť pod KTO: komunikácia, testovanie, ochrana + očkovanie (na HPV, hepatitídu typu B). 
 
-<div class="flex flex-wrap justify-around">\
-<img src="/images/uploads/kto.jpg" alt="Komunikácia, Testovanie, Ochrana+Očkovanie>\
+<div class="flex flex-wrap justify-around">
+<img src="/images/uploads/kto.jpg" alt="Komunikácia, Testovanie, Ochrana+Očkovanie>
 </div>
 
 ### **Komunikácia**
