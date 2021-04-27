@@ -12,13 +12,13 @@ Sokratov inštitút vznikol z presvedčenia, že vzdelávať sa dá prakticky a 
 
 ## **Spoločnosť pre plánované rodičovstvo**
 
-Spoločnosť pre plánované rodičovstvo (SPR) je mimovládna, nezisková organizácia, ktorej poslaním je od jej vzniku v roku 1991 podporovať zodpovedné a kultivované sexuálne správanie mužov a žien, a obhajovať základné ľudské práva v oblasti sexuálneho a reprodukčného zdravia. SPR je plnoprávnym členom Medzinárodnej federácie pre plánované rodičovstvo (International Planned Parenthood Federation – IPPF) so sídlom v Londýne.  
+Spoločnosť pre plánované rodičovstvo (SPPR) je mimovládna, nezisková organizácia, ktorej poslaním je od jej vzniku v roku 1991 podporovať zodpovedné a kultivované sexuálne správanie mužov a žien, a obhajovať základné ľudské práva v oblasti sexuálneho a reprodukčného zdravia. SPPR je plnoprávnym členom Medzinárodnej federácie pre plánované rodičovstvo ([International Planned Parenthood Federation – IPPF](https://www.ippf.org/)) so sídlom v Londýne.  
 
 [www.rodicovstvo.wordpress.com](https://rodicovstvo.wordpress.com/){:target="_blank"}  
 
 ## **AMAZE**
 
-Amaze spolupracuje s medzinárodnou neziskovou organizáciou Advocates for Youth a s organizáciami a iniciatívami Answer a YTH (Youth+Tech+Health). Amaze poskytuje tínedžerom po celom svete odbornú, veku primeranú, utvrdzujúcu a úprimnú sexuálnu výchovu vo forme krátkych, výstižných a atraktívnych videí s milými animáciami.  
+Amaze spolupracuje s medzinárodnou neziskovou organizáciou [Advocates for Youth](https://www.advocatesforyouth.org/) a s organizáciami a iniciatívami [Answer](https://answer.rutgers.edu/) a [YTH (Youth+Tech+Health)](https://yth.org/). Amaze poskytuje tínedžerom po celom svete odbornú, veku primeranú, utvrdzujúcu a úprimnú sexuálnu výchovu vo forme krátkych, výstižných a atraktívnych videí s milými animáciami.  
 
 [www.amaze.org](https://amaze.org/){:target="_blank"}  
 
