@@ -109,7 +109,7 @@ Pečeňák, and Trebatická. “Prednáška Sexuológia.” Psychiatria 2. Addre
 
 <br>
 
-“Phases of Male Sexual Response Cycle.” Learn About Phases Of Male Sexual Response Cycle | Chegg.com. CheggStudy. Accessed April 4, 2021. https://www.chegg.com/learn/biology/anatomy-physiology-in-biology/phases-of-male-sexual-response-cycle. 
+“Phases of Male Sexual Response Cycle.” Learn About Phases Of Male Sexual Response Cycle Chegg.com. CheggStudy. Accessed April 4, 2021. https://www.chegg.com/learn/biology/anatomy-physiology-in-biology/phases-of-male-sexual-response-cycle. 
 
 <br>
 
