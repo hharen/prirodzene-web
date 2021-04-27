@@ -1,6 +1,6 @@
 backend:
   name: git-gateway # required for using Github
-  branch: main # the default branch you want CMS changes merged to
+  branch: master # the default branch you want CMS changes merged to
   commit_messages: # Optional: configure the commit messages Netlify CMS will use when publishing changes
     create: "feat({{collection}}): :sparkles: Create {{slug}}"
     update: "chore({{collection}}): :recycle: Update {{slug}}"
