@@ -33,7 +33,7 @@ PPI sú bežné infekcie a väčšina z nich sa dá buď liečiť, alebo sa da
 
 <br>
 
-### **Zdroje**: 
+<p class="important-text">ZDROJE:</p>
 
 Berry, Jennifer, and Jill Seladi-Schulman, Ph.D. . “How Many People Have Herpes? Myths, Facts, and Statistics.” Medical News Today. MediLexicon International, September 25, 2020. https://www.medicalnewstoday.com/articles/how-many-people-have-herpes#statistics.
 
