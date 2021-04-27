@@ -18,7 +18,7 @@ Cyklus sexuálnej aktivity (angl. sexual response cycle) je séria fyzických a�
 
 <br>
 
-### 1. Fáza: Vzrušenie
+### **1. Fáza: Vzrušenie**
 
 Táto fáza je charakteristická nárastom sexuálneho vzrušenia prostredníctvom dráždenia, ktoré môže byť podmienené **psychicky** (myšlienkami) aj **fyzicky** (dotykom). Trvanie tejto fázy môže byť rôzne, závisí od intenzity, konzistencie a efektivity stimulácie. Počas vzrušenia môže dôjsť k niekoľkým fyzickým zmenám: zvýšené napätie v svalstve; zrýchlený pulz a dych; stmavnutie pokožky v dôsledku prúdenia krvi; erekcia bradaviek; zvýšené prúdenie krvi v oblasti genitálií; erekcia klitorisu a penisu; opuch vnútorných a vonkajších pyskov vulvy, semenníkov, vaginálnej steny; vaginálna lubrikácia; zovretie mieška a iné.  
 
@@ -50,11 +50,10 @@ Po orgazme dochádza k uvoľneniu, kedy **sa telo dostáva do pokojného štád
 
 <br>
 
-Intenzita, trvanie a možnosť opakovania jednotlivých fáz sexuálneho cyklu sa mení v závislosti od toho, či má človek vulvu alebo penis. Tento rozdiel spočíva najmä v nevyhnutnosti refraktárnej fázy u ľudí s penisom. Model cyklu ľudí s vulvou zase opisuje rôzne formy, pri ktorých sa môžu niektoré fázy preskočiť (napr. orgazmus) a k iným sa zase dá v rôznej frekvencii vrátiť. 
+Intenzita, trvanie a možnosť opakovania jednotlivých fáz sexuálneho cyklu sa mení v závislosti od toho, či má človek vulvu alebo penis. Tento rozdiel spočíva najmä v nevyhnutnosti refraktárnej fázy u ľudí s penisom. Model cyklu ľudí s vulvou zase opisuje rôzne formy, pri ktorých sa môžu niektoré fázy preskočiť (napr. orgazmus) a k iným sa zase dá v rôznej frekvencii vrátiť.
 
-o<div class="flex flex-wrap justify-around">
-<img src="/images/uploads/sexual-response-cycle-2.jpg" alt="Cyklus sexuálnej aktivity u ľudí s vulvou a s penisom">
-
+<div class="flex flex-wrap justify-around">
+<img src="/images/uploads/sexual-response-cycle-2.jpg" alt="Cyklus sexuálnej aktivity u ľudí s vulvou a s penisom">\
 </div>
 
 <br>
