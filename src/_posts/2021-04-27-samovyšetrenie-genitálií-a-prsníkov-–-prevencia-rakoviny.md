@@ -32,7 +32,7 @@ Samovyšetrenie **[penisu](/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-penisom/)*
 * prejsť prstami po celom penise a jemne stisnúť všetky časti, upriamiť pozornosť sa hrčky či neznáme útvary;
 * ak má penis nepoškodenú predkožku, je potrebné ju stiahnuť a prezrieť žaluď aj korunku penisu;
 * prezrieť a prehmatať perineum;
-* všimnúť si možný výtok či nepríjemný zápach.
+* všimnúť si možný výtok či nepríjemný zápach. <br>
 
 V prípade zistenia zmien, opuchu, neznámych útvarov alebo čohokoľvek neobvyklého na semenníkoch, na miešku alebo na penise je potrebné vyhľadať odbornú pomoc. 
 
@@ -66,7 +66,7 @@ Samovyšetrenie [vulvy ](/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-vulvou/)je t
 * roztvoriť vnútorné pysky a prezrieť vaginálny otvor a predsieň;
 * sústrediť sa zranenia, začervenanie, bradavice, vredy, zmenu farby pokožky, hrčky, neznáme útvary, poškodené tkanivo, škvrny, vyrážky, výrastky a podobne; 
 * obzvlášť dôležité je všímať si neobvyklý výtok, krvácanie alebo zápach;
-* všímať si bolesť, svrbenie, citlivé miesta, opuch a podobne.
+* všímať si bolesť, svrbenie, citlivé miesta, opuch a podobne. <br>
 
 V prípade zistenia zmien, opuchu, neznámych útvarov alebo čohokoľvek neobvyklého na prsníkoch alebo v oblasti vulvy je potrebné vyhľadať odbornú pomoc.
 
