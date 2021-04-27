@@ -11,10 +11,8 @@ metadescription: "Zásady, akými môžu znížiť riziko prenosu PPI ľudia, kt
 ---
 Najspoľahlivejší spôsob, akým môže človek zabrániť nákaze pohlavne prenosnou infekciou (PPI), je úplná sexuálna abstinencia. Okrem niektorých špecifických prípadov ako nákaza používaním spoločných hygienických potrieb, zdieľaním striekačiek a podobne, je prakticky nemožné nakaziť sa PPI v prípade, že sa človek nezapája do sexuálnych aktivít vôbec. Zásady, akými môžu znížiť riziko prenosu PPI ľudia, ktorí chcú byť sexuálne aktívni, sa dajú zhrnúť pod KTO: komunikácia, testovanie, ochrana + očkovanie (na HPV, hepatitídu typu B). 
 
-<div class="flex flex-wrap justify-around">
-
-<img src="/images/uploads/kto.jpg" alt="Komunikácia, Testovanie, Ochrana+Očkovanie>
-
+<div class="flex flex-wrap justify-around">\
+<img src="/images/uploads/kto.jpg" alt="Komunikácia, Testovanie, Ochrana+Očkovanie>\
 </div>
 
 ### **Komunikácia**
@@ -48,8 +46,14 @@ Existuje veľké množstvo **ochranných pomôcok**, ktoré ľudia môžu počas
 
 Daniels, Avery. “How Often Should You Be Getting Tested for HIV/STDs?” FreeSTDCheck. AIDS Healthcare Foundation. Accessed April 15, 2021. https://www.freestdcheck.org/how-often-should-you-be-getting-tested-for-hiv-stds/. 
 
+<br>
+
 “Human Papilloma Virus (HPV): Causes, Testing, Treatment &amp; Prevention.” Cleveland Clinic. Accessed April 15, 2021. https://my.clevelandclinic.org/health/diseases/11901-hpv-human-papilloma-virus. 
 
+<br>
+
 “OCHORENIA PROTI KTORÝM SA V SLOVENSKEJ REPUBLIKE OČKUJE V RÁMCI PRAVIDELNÉHO POVINNÉHO OČKOVANIA .” Chorobnosť a zaočkovanosť. ÚVZ SR , n.d. https://www.uvzsr.sk/docs/info/ockovanie/Chorobnost_a_zaockovanost.pdf. 
+
+<br>
 
 “Sexually Transmitted Infections (STIs).” World Health Organization, June 14, 2019. https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis).
