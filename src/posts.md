@@ -21,11 +21,11 @@ permalink: /clanky/
       <h3>Sex a sexualita</h3></a>
     </div>
     <div class="topic topic-posts">
-      <a href="sexualne-zdravie"><img src="/images/sexualne_zdravie.jpeg" alt="Antikoncepčné pomôcky">
+      <a href="/sexualne-zdravie"><img src="/images/sexualne_zdravie.jpeg" alt="Antikoncepčné pomôcky">
       <h3>Sexuálne zdravie</h3></a>
     </div>
     <div class="topic topic-posts">
-      <a href="vztahy-ludske-spravanie"><img src="/images/vztahy.jpeg" alt="Srdce">
+      <a href="/vztahy-ludske-spravanie"><img src="/images/vztahy.jpeg" alt="Srdce">
       <h3 class="middle">Vzťahy a ľudské správanie</h3></a>
     </div>
   </div>
