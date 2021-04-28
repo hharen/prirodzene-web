@@ -4,7 +4,7 @@ title: "Telesné a emocionálne procesy: Sexuálna túžba a sexuálna aktivit
 slug: telesne-a-emocionalne-procesy-sexualna-tuzba-a-sexualna-aktivita
 topic: sex
 subtopic: sex-subtopic
-date: 2021-04-27T22:08:53.119Z
+date: 2021-04-25T05:50:00.000Z
 metadescription: Cyklus sexuálnej aktivity je séria fyzických a emocionálnych
   zmien, ktoré nastávajú v ľudskom tele počas sexuálnej aktivity. Túžba môže byť
   spontánna a responzívna.
