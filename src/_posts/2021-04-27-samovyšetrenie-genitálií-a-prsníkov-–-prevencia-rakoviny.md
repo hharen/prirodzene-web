@@ -52,7 +52,7 @@ Pravidelné samovyšetrenie **[prsníkov](/prsia/)** je dôležitou súčasťou 
 1. #### Vyšetrenie v ľahu: 
 
 * zdvihnúť ľavú ruku a položiť ju pod hlavu;
-* pravou rukou vyšetriť ľavý prsník, použiť pritom brušká troch prstov – ukazováka, prostredníka a prstenník – pevne pritláčať prsty a pomalými krúživými pohybmi vyšetriť prsník;
+* pravou rukou vyšetriť ľavý prsník, použiť pritom brušká troch prstov – ukazovák, prostredník a prstenník – pevne pritláčať prsty a pomalými krúživými pohybmi vyšetriť prsník;
 * ľavú ruku pripažiť k telu a pokračovať vo vyšetrovaní ľavého prsníka smerom nahor až po kľúčnu kosť a smerom von až do podpazušnej jamky;
 * zopakovať postup na pravej strane. 
 
@@ -78,16 +78,24 @@ V prípade zistenia zmien, opuchu, neznámych útvarov alebo čohokoľvek neobv
 
 <p class="important-text">ZDROJE:</p>
 
-Blahd Jr. MD, William H., and H.  Michael O'Connor MD . “Genital Self-Examination.” CS Mott Children's Hospital | Michigan Medicine. Mott Children's Hospital, February 26, 2020. https://www.mottchildren.org/health-library/sig40811. 
+Blahd Jr. MD, William H., and H.  Michael O'Connor MD . “Genital Self-Examination.” CS Mott Children's Hospital | Michigan Medicine. Mott Children's Hospital, February 26, 2020. 
+
+<https://www.mottchildren.org/health-library/sig40811>. 
 
 <br>
 
-Jewell , Tim, and J. Keith Fisher, MD . “What to Expect from a Penile and Testicular Exam.” healthline, July 30, 2019. https://www.healthline.com/health/penis-exam#what-it-screens-for. 
+Jewell , Tim, and J. Keith Fisher, MD . “What to Expect from a Penile and Testicular Exam.” healthline, July 30, 2019. 
+
+<https://www.healthline.com/health/penis-exam#what-it-screens-for>. 
 
 <br>
 
-“Rakovina Sa Dá Poraziť, Dôležitá Je Prevencia. Slovensko Má Najmodernejšie Prístroje Na Liečbu Rakoviny.” Rakovina sa dá poraziť, dôležitá je prevencia. Slovensko má najmodernejšie prístroje na liečbu rakoviny | AGEL SK. Skupina AGEL, February 3, 2020. https://www.agel.sk/media/tlacove-spravy/200203-prevencia-rakoviny.html. 
+“Rakovina Sa Dá Poraziť, Dôležitá Je Prevencia. Slovensko Má Najmodernejšie Prístroje Na Liečbu Rakoviny.” Rakovina sa dá poraziť, dôležitá je prevencia. Slovensko má najmodernejšie prístroje na liečbu rakoviny | AGEL SK. Skupina AGEL, February 3, 2020. 
+
+<https://www.agel.sk/media/tlacove-spravy/200203-prevencia-rakoviny.html>. 
 
 <br>
 
-“Vulvar Cancer.” Mayo Clinic. Mayo Foundation for Medical Education and Research, October 23, 2020. https://www.mayoclinic.org/diseases-conditions/vulvar-cancer/symptoms-causes/syc-20368051.
+“Vulvar Cancer.” Mayo Clinic. Mayo Foundation for Medical Education and Research, October 23, 2020.
+
+<https://www.mayoclinic.org/diseases-conditions/vulvar-cancer/symptoms-causes/syc-20368051>.
