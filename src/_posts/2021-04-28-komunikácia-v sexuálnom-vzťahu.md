@@ -4,7 +4,7 @@ title: Komunikácia v sexuálnom vzťahu
 slug: komunikacia-v-sexualnom-vztahu
 topic: vztahy
 subtopic: komunikacia
-date: 2021-04-28T13:03:06.904Z
+date: 2021-04-25T05:20:00.000Z
 metadescription: Komunikáciou získame a dávame súhlas, nastavujeme si osobné
   hranice, dozvedáme sa o vzájomných prianiach a potrebách a zisťujeme všetky
   potrebné informácie, vďaka ktorým sa môžeme informovane rozhodovať.
