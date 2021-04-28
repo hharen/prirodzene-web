@@ -91,7 +91,7 @@ Brochmann, Nina, and Ellen Støkken Dahl. The Wonder Down Under. Hodder &amp; St
 
 Gowda, Arvind U, Nikki Chopra, and Marwan Khalifeh. “Indications, Techniques and Complications of Labiaplasty.” Eplasty. Open Science Company, LLC, August 18, 2015. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544281/>. 
 
-“Labiaplasty: Rising in Popularity.” Wesley Anne Brady, M.D. |. Women’s Wellness Institute of Dallas, August 12, 2019. <https://womenswellnessinstitute.com/labiaplasty-fastest-growing-cosmetic-surgery/>. 
+“Labiaplasty: Rising in Popularity.” Wesley Anne Brady, M.D. Women’s Wellness Institute of Dallas, August 12, 2019. <https://womenswellnessinstitute.com/labiaplasty-fastest-growing-cosmetic-surgery/>.
 
 Mráz, Peter, and Kamil Belej. Anatómia Ľudského Tela 2. Slovak Academic Press, 2016. 
 
