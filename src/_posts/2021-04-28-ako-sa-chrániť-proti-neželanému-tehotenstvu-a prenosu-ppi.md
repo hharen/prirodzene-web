@@ -129,15 +129,13 @@ Bariéry zabraňujú neželanému tehotenstvu a zároveň [znižujú riziko pren
 
 <br>
 
-### **2.Vnútorný kondóm/ Femidóm**
-
-<br>
+### **2. Vnútorný kondóm/ Femidóm**
 
 Femidóm je v podstate vaginálny kondóm. Vkladá sa do vnútra vagíny (alebo do konečníka), pokojne aj niekoľko hodín pred sexuálnym stykom. Chráni pred prenosom PPI a pred nechceným otehotnením rovnako, ako bežný kondóm. Nie je také jednoduché ho dostať a je aj drahší, ale dá sa kúpiť v sexshopoch alebo cez internet.
 
-### **3. Kondóm na prst/ rukavice**
-
 <br>
+
+### **3. Kondóm na prst/ rukavice**
 
 Kondóm na prst (angl. finger condom) vyzerá veľmi podobne ako bežný kondóm, ale je užší a kratší, keďže sa má naťahovať na prst/y. Dá sa použiť pri akejkoľvek sexuálnej aktivite, pri ktorej dochádza k dotyku rúk a genitálií. Zabraňuje prenosu PPI, zaneseniu baktérií do vagíny/análneho otvoru a chráni pred drobnými rankami, ktoré môžu na genitáliách spôsobiť nechty. Kondóm na prst je lacnejší než bežný kondóm, nie je však bežne dostupný. Podobným spôsobom sa dajú použiť aj latexové rukavice. Vždy je dôležité používať sterilné rukavice, ktoré sú bezpečné a šetrné k telu. Takéto rukavice sa často dajú kúpiť v lekárni či v drogérii. 
 
