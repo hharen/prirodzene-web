@@ -54,7 +54,6 @@ collections:
       - { label: Publish Date, name: date, widget: datetime }
       - { label: Metadescription, name: metadescription, widget: markdown, required: false }
       - { label: Body, name: body, widget: markdown }
-      - { label: References, name: references, widget: markdown, required: false }
   - name: pages
     label: Pages
     editor:
