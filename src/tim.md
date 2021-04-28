@@ -16,18 +16,24 @@ Niko má 21 rokov a študuje prekladateľstvo – tlmočníctvo na Filozofickej 
 
 ### Silvia Koscová
 
-Sisa má 22 rokov a pochádza z Prievidze. Po anglicky sa učí už odmalička, zmaturovala na bilingválnom gymnáziu v Čadci a momentálne študuje prekladateľstvo – tlmočníctvo na Univerzite Konštantína Filozofa v Nitre. Medzi jej koníčky patrí digitálna ilustrácia a videohry. Taktiež má veľmi rada zvieratká. Aktívne ju zaujímajú témy rovnosti pohlaví, orientácií a menšín.  
+Sisa má 22 rokov a pochádza z Prievidze. Po anglicky sa učí už odmalička, zmaturovala na bilingválnom gymnáziu v Čadci a momentálne študuje prekladateľstvo – tlmočníctvo na Univerzite Konštantína Filozofa v Nitre. Medzi jej koníčky patrí digitálna ilustrácia, kreatívne písanie a videohry. Taktiež má veľmi rada zvieratká. Aktívne ju zaujímajú témy rovnosti pohlaví, orientácií a menšín. Jej tvorbu môžete sledovať na jej instagramovom účte [@shortsuccubus](https://www.instagram.com/shortsuccubus/).
 
 <div class="text-center">
 <img src="/images/Niko-Sisa.jpg" alt='Niko Sisa' class="team-img">
 </div>
- 
-## \*\*Grafika a ilustrácie\*\*  
-Kompetencie: tvorba loga, propagačných grafík, vzdelávacích obrázkov a ilustrácií k článkom.  
-### Ema Ceglédyová  
+
+## 
+Grafika a ilustrácie 
+
+Kompetencie: tvorba loga, propagačných grafík, vzdelávacích obrázkov a ilustrácií k článkom. 
+
+### Ema Ceglédyová
+
 Ema má 17 rokov, pochádza z Rimavskej Soboty a študuje na Súkromnej škole umeleckého priemyslu filmovej v Košiciach. Venuje sa ilustrácií a počítačovej grafike. Ema je veľmi talentovaná a ochotná pomôcť s čímkoľvek. 
+
 ### Sofia Vargas Aguayo  
-Sofi sa narodila vo Wallmapu, na území Čilskej republiky (Južná Amerika). Zmaturovala v Holandsku na UWC Maastricht v roku 2019. Momentálne študuje Umenie a Vedy na Univerzite Quest Canada (Kanada), pričom sa špecializuje na Vzdelanie a medziodborové oblasti. Jej vášňou je vzdelanie a rozmanitosť tohto sveta. Vo voľnom čase pracuje pre rôzne mimovládne organizácie ako koordinátorka rasovej spravodlivosti a vzdelávacieho obsahu. Rada fotí, sleduje videá a venuje sa horolezectvu. Hovorí po anglicky a po španielsky. (Sofi považuje za dôležité aktívne si uvedomovať, že žije a študuje na pôvodnom území národa Sḵwxwú7mesh, ktoré mu bolo neprávom a násilne odobrané. ) Jej umeleckú tvorbu môžete sledovať aj na jej vlastnom instagramovom profile @sfvrgsart.  
+
+Sofi sa narodila vo Wallmapu, na území Čilskej republiky (Južná Amerika). Zmaturovala v Holandsku na UWC Maastricht v roku 2019. Momentálne študuje Umenie a Vedy na Univerzite Quest Canada (Kanada), pričom sa špecializuje na Vzdelanie a medziodborové oblasti. Jej vášňou je vzdelanie a rozmanitosť tohto sveta. Vo voľnom čase pracuje pre rôzne mimovládne organizácie ako koordinátorka rasovej spravodlivosti a vzdelávacieho obsahu. Rada fotí, sleduje videá a venuje sa horolezectvu. Hovorí po anglicky a po španielsky. (Sofi považuje za dôležité aktívne si uvedomovať, že žije a študuje na pôvodnom území národa Sḵwxwú7mesh, ktoré mu bolo neprávom a násilne odobrané. ) Jej umeleckú tvorbu môžete sledovať aj na jej vlastnom instagramovom profile [@sfvrgsart](https://www.instagram.com/sfvrgs/).  
 
 <div class="text-center">
 <img src="/images/Ema-Sofi.jpg" alt='Ema a Sofi' class="team-img">
