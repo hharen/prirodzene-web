@@ -12,7 +12,7 @@ Kompetencie: jazyková korektúra, preklad rôznych dokumentov a podkladov.
 
 ### Nikoleta Nagyová
 
-Niko má 21 rokov a študuje prekladateľstvo – tlmočníctvo na Filozofickej fakulte Univerzity Komenského. Okrem toho je študentkou Sokratovho inštitútu a je zakladateľkou OZ Prirodzene. Venuje sa umeniu, predovšetkým divadlu, je členkou/herečkou Bieleho divadla. Na strednú školu chodila na United World College Maastricht (Holandsko), kde mala možnosť získať skúsenosti s dobrovoľníckymi projektmi. Pochádza zo Sikenice na juhozápade Slovenska zo zmiešanej slovensko-maďarskej rodiny. Okrem Sikenice žila v Budapešti, v Maastrichte a momentálne je v Bratislave. Posledné dva roky sa  aktívne venuje seba-vzdelávaniu v oblasti sexuálneho vzdelávania.  
+Niko má 21 rokov a študuje prekladateľstvo – tlmočníctvo na Filozofickej fakulte Univerzity Komenského. Okrem toho je študentkou Sokratovho inštitútu a je zakladateľkou OZ Prirodzene. Venuje sa umeniu, predovšetkým divadlu, je členkou/herečkou Bieleho divadla. Na strednú školu chodila na United World College Maastricht (Holandsko), kde mala možnosť získať skúsenosti s dobrovoľníckymi projektmi. Pochádza zo Sikenice na juhozápade Slovenska zo zmiešanej slovensko-maďarskej rodiny. Okrem Sikenice žila v Budapešti, v Maastrichte a momentálne je v Bratislave. Posledné dva roky sa aktívne venuje seba-vzdelávaniu v oblasti sexuálneho vzdelávania.  
 
 ### Silvia Koscová
 
@@ -22,7 +22,7 @@ Sisa má 22 rokov a pochádza z Prievidze. Po anglicky sa učí už odmalička, 
 <img src="/images/Niko-Sisa.jpg" alt='Niko Sisa' class="team-img">
 </div>
  
-## **Grafika a ilustrácie**  
+## \*\*Grafika a ilustrácie\*\*  
 Kompetencie: tvorba loga, propagačných grafík, vzdelávacích obrázkov a ilustrácií k článkom.  
 ### Ema Ceglédyová  
 Ema má 17 rokov, pochádza z Rimavskej Soboty a študuje na Súkromnej škole umeleckého priemyslu filmovej v Košiciach. Venuje sa ilustrácií a počítačovej grafike. Ema je veľmi talentovaná a ochotná pomôcť s čímkoľvek. 
