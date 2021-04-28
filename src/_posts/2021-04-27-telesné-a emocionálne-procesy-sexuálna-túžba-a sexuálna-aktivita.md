@@ -95,38 +95,20 @@ To, že naše telo prechádza počas sexuálnej aktivity viditeľnými telesným
 
 Clarke, Michelle. “What's Going On With Hormones And Neurotransmitters During Sex.” Atlas Biomed , June 25, 2020. https://atlasbiomed.com/blog/whats-going-on-with-hormones-and-neurotransmitters-during-sex/. 
 
-<br>
-
 Dymáková, Kateřina. “PROMĚNY SEXUÁLNÍCH PROŽITKŮ V OBDOBÍ TĚHOTENSTVÍ A PO PORODU.” Digitální repozitář Univerzity Karlovy. UNIVERZITA KARLOVA V PRAZE FAKULTA HUMANITNÍCH STUDIÍ, 2017. https://dspace.cuni.cz/handle/20.500.11956/92086. 
-
-<br>
 
 Melis, Maria  Rosaria. “The Neurophysiology of the Sexual Cycle.” ResearchGate. Journal of Endocrinological Investigation 26(3 Suppl):20-2, February 2003. https://www.researchgate.net/publication/10684431_The_neurophysiology_of_the_sexual_cycle. 
 
-<br>
-
 Pečeňák, and Trebatická. “Prednáška Sexuológia.” Psychiatria 2. Address, n.d. https://zona.fmed.uniba.sk/fileadmin/lf/sucasti/Klinicke_pracoviska/Psychiatricka%20klinika/Psychiatria_2_Prednaska_Sexuologia.pdf. 
-
-<br>
 
 “Phases of Male Sexual Response Cycle.” Learn About Phases Of Male Sexual Response Cycle Chegg.com. CheggStudy. Accessed April 4, 2021. https://www.chegg.com/learn/biology/anatomy-physiology-in-biology/phases-of-male-sexual-response-cycle. 
 
-<br>
-
 Rare, Ruby, and Sofie Birkin. Sex Ed: a Guide for Adults. London, UK: Bloomsbury, 2020. 
-
-<br>
 
 Sayin, Umit. “Neurological Correlates and the Mechanisms of Expanded Pleasures in Women: Novel Findings on ESR.” ResearchGate. Istanbul University, May 2019. https://www.researchgate.net/publication/333616586_EC_NEUROLOGY_Review_Article-_Neurological_Correlates_and_the_Mechanisms_of_Expanded_Pleasures_in_Women_Novel_Findings_on_ESR. 
 
-<br>
-
 SOLÁROVÁ, Antónia. “Sexuálne Funkcie, Sexuálna Spokojnosť a Poruchy Reprodukcie Žien.” UNIVERZITNÁ KNIŽNICA. Prešovská Univerzita v Prešove, n.d. https://www.pulib.sk/web/kniznica/elpub/dokument/Olostiak4/subor/Solarova.pdf. 
 
-<br>
-
 Todd, Nivin MD. “Sexual Response Cycle: Sexual Arousal, Orgasm, and More.” WebMD - Heath - Sex - Guide. WebMD, October 16, 2020. <https://www.webmd.com/sex-relationships/guide/sexual-health-your-guide-to-sexual-response-cycle>.
-
-<br>
 
 Waterman, Caroline K., and Emil J. Chiauzzi. "The Role of Orgasm in Male and Female Sexual Enjoyment." The Journal of Sex Research 18, no. 2 (1982): 146-59. Accessed April 22, 2021. http://www.jstor.org/stable/3812080.
