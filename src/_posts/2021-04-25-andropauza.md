@@ -46,6 +46,4 @@ Najpodstatnejším faktorom pri liečení symptómov andropauzy je otvorená kom
 
 <p class="important-text">ZDROJE:</p>
 
-Krans, Brian, and Graham M.D. Rogers. “What Is Male Menopause?” Healthline, September 16, 2018. 
-
-<https://www.healthline.com/health/menopause/male>.
+Krans, Brian, and Graham M.D. Rogers. “What Is Male Menopause?” Healthline, September 16, 2018. <https://www.healthline.com/health/menopause/male>.
