@@ -62,14 +62,8 @@ Menštruačný disk vo svojom názve nesie aj svoj tvar. Disk sa zavádza do vn�
 
 Brochmann, Nina, and Ellen Støkken Dahl. The Wonder Down Under. Hodder &amp; Stoughton, 2018. 
 
-“Čo Je Syndróm Toxického Šoku (STŠ)?” Čo je syndróm toxického šoku (TSS)? Tampax. Accessed March 20, 2021. 
+“Čo Je Syndróm Toxického Šoku (STŠ)?” Čo je syndróm toxického šoku (TSS)? Tampax. Accessed March 20, 2021. <https://www.tampax.eu/sk/co-je-syndrom-toxickeho-soku-tss/>.
 
-<https://www.tampax.eu/sk/co-je-syndrom-toxickeho-soku-tss/>.
+Nozari, Roza. “Period Products: What Are the Options?” IPPF, November 20, 2020. <https://www.ippf.org/blogs/period-products-what-are-options>. 
 
-Nozari, Roza. “Period Products: What Are the Options?” IPPF, November 20, 2020. 
-
-<https://www.ippf.org/blogs/period-products-what-are-options>. 
-
-“PERIOD PRODUCTS.” Period products. New Zealand Family Planning. Accessed April 25, 2021. 
-
-<https://www.familyplanning.org.nz/advice/periods/period-products>.
+“PERIOD PRODUCTS.” Period products. New Zealand Family Planning. Accessed April 25, 2021. <https://www.familyplanning.org.nz/advice/periods/period-products>.
