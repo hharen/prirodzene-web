@@ -174,7 +174,7 @@ Všetky antikoncepčné metódy aj bariéry proti prenosu PPI majú svoje výhod
 
 <br>
 
-Freedman, Beth, and Nancy Padian. “Barrier Methods.” Prevention UCSF. University of California San Francisco | School of Medicine | Department of Medicine | Division of Prevention Science|. Accessed April 15, 2021. https://prevention.ucsf.edu/research-project/barrier-methods. 
+Freedman, Beth, and Nancy Padian. “Barrier Methods.” Prevention UCSF. University of California San Francisco. School of Medicine. Department of Medicine. Division of Prevention Science. Accessed April 15, 2021. https://prevention.ucsf.edu/research-project/barrier-methods. 
 
 <br>
 
