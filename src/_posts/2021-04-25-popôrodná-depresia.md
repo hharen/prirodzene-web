@@ -80,14 +80,8 @@ Napriek tomu je dôležité si uvedomiť, že tehotenstvo a pôrod sú psychick
 
 <p class="important-text">ZDROJE:</p>
 
-Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. 
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. [https://sexinfoonline.com/postpartum-depression/.](https://sexinfoonline.com/postpartum-depression/)
 
-[https://sexinfoonline.com/postpartum-depression/.](https://sexinfoonline.com/postpartum-depression/)
+Smith, Michael W. “Postpartum Depression: Symptoms, Causes, Risks, Types, Tests, Professional and Self-Care.” WebMD. WebMD, August 4, 2020. <https://www.webmd.com/depression/guide/postpartum-depression>.
 
-Smith, Michael W. “Postpartum Depression: Symptoms, Causes, Risks, Types, Tests, Professional and Self-Care.” WebMD. WebMD, August 4, 2020. 
-
-<https://www.webmd.com/depression/guide/postpartum-depression>.
-
-Winer, Sharon A, and Andrea J Rapkin. “Premenstrual Disorders: Prevalence, Etiology and Impact.” ResearchGate . The Journal of reproductive medicine, May 2006. 
-
-<https://www.researchgate.net/publication/7049158_Premenstrual_disorders_Prevalence_etiology_and_impact>.
+Winer, Sharon A, and Andrea J Rapkin. “Premenstrual Disorders: Prevalence, Etiology and Impact.” ResearchGate . The Journal of reproductive medicine, May 2006. <https://www.researchgate.net/publication/7049158_Premenstrual_disorders_Prevalence_etiology_and_impact>.
