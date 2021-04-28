@@ -45,16 +45,10 @@ Niekedy sa môžeme stretnúť s otázkou, či sa napríklad aj pedofília aleb
 
 <p class="important-text">ZDROJE:</p>
 
-KLASSEN, PHILIP, and PERCY WRIGHT. “Sexual Deviation.” Sexual Deviation - an overview | ScienceDirect Topics. Psychiatric Clinical Skills, 2006. 
-
-<https://www.sciencedirect.com/topics/immunology-and-microbiology/sexual-deviation>.  
+KLASSEN, PHILIP, and PERCY WRIGHT. “Sexual Deviation.” Sexual Deviation - an overview | ScienceDirect Topics. Psychiatric Clinical Skills, 2006. <https://www.sciencedirect.com/topics/immunology-and-microbiology/sexual-deviation>.  
 
 Rare, Ruby, and Sofie Birkin. Sex Ed: a Guide for Adults. London, UK: Bloomsbury, 2020. 
 
-“VŠEOBECNÉ OTÁZKY O SEXUÁLNEJ ORIENTÁCIÍ A RODOVEJ IDENTITE.” inPoradňa. Accessed April 3, 2021. 
+“VŠEOBECNÉ OTÁZKY O SEXUÁLNEJ ORIENTÁCIÍ A RODOVEJ IDENTITE.” inPoradňa. Accessed April 3, 2021. <https://inporadna.sk/otazky-a-odpovede.html#FAQSection1>. 
 
-<https://inporadna.sk/otazky-a-odpovede.html#FAQSection1>. 
-
-“What Causes Sexual Orientation?” Planned Parenthood. Accessed April 22, 2021. 
-
-<https://www.plannedparenthood.org/learn/sexual-orientation/sexual-orientation/what-causes-sexual-orientation>.
+“What Causes Sexual Orientation?” Planned Parenthood. Accessed April 22, 2021. <https://www.plannedparenthood.org/learn/sexual-orientation/sexual-orientation/what-causes-sexual-orientation>.
