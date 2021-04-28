@@ -77,7 +77,7 @@ Sex School Hub je webová stránka ponúkajúca všemožné druhy videí pre ľu
 
 #### [Nadine Thornhill - Smart. Simple. Sex Ed.](https://www.youtube.com/channel/UCJqQvHjzDtjLEu9IjpUh68Q)
 
-Videá od sexuologičky Nadine Thornhill poskytujú komplexné a ľahko zrozumiteľné informácie týkajúce sa najmä detskej a adolescentnej sexuality. Pokrýva témy ako napríklad prvá menštruácia, bolestivý pohlavný styk, výtok z vagíny, puberta a podobne. Takisto však robí recenzie na rôzne knihy či seriály týkajúce sa sexuálneho vzdelávania a mnohé z jej videá sú veľmi užitočné aj pre dospelých ľudí.  
+Videá od sexuologičky Nadine Thornhill poskytujú komplexné a ľahko zrozumiteľné informácie týkajúce sa najmä detskej a adolescentnej sexuality. Pokrýva témy ako napríklad prvá menštruácia, bolestivý pohlavný styk, výtok z vagíny, puberta a podobne. Takisto však robí recenzie na rôzne knihy či seriály týkajúce sa sexuálneho vzdelávania a mnohé z jej videí sú veľmi užitočné aj pre dospelých ľudí.  
 
 <br>
 
@@ -129,7 +129,7 @@ Instagramový účet Comfortable In My Skin založila mladá žena Ellie Sedgwic
 
 #### [Sexpositive Families](https://sexpositivefamilies.com/)
 
-Sexpositive Families je organizácia, ktoré poskytuje vzdelanie a zdroje, ktoré pomáhajú rodinám a starostlivých dospelým ľuďom vychovávať zdravé a spokojné deti. Na ich stránke nájdete nekonečné množstvo článkov aj zdrojov na videá, knihy, podcasty a organizácie. Sexpositive families web by mal byť v základnej výbave každého rodiča, ktorí si praje, aby bolo jeho dieťa zdravé a schopné rozumne sa rozhodovať o svojom tele, komunikovať svoje potreby a osobné hranice a rešpektovať svoje okolie.  
+Sexpositive Families je organizácia, ktoré poskytuje vzdelanie a zdroje, ktoré pomáhajú rodinám a starostlivých dospelým ľuďom vychovávať zdravé a spokojné deti. Na ich stránke nájdete nekonečné množstvo článkov aj zdrojov na videá, knihy, podcasty a organizácie. Sexpositive Families Web by mal byť v základnej výbave každého rodiča, ktorí si praje, aby bolo jeho dieťa zdravé a schopné rozumne sa rozhodovať o svojom tele, komunikovať svoje potreby a osobné hranice a rešpektovať svoje okolie.  
 
 #### [SexEdRescue](https://sexedrescue.com/)
 
@@ -137,11 +137,11 @@ SexEdRescue je platforma pre rodičov, ktorí chcú svojim deťom poskytnúť pr
 
 #### [Sex Positive Talks to Have With Kids](https://sexpositivefamilies.com/book/)
 
-Táto kniha od Sexpositive families je najpredávanejší komplexný sprievodca, ktorý pomáha rodičom a ľuďom, ktorí sa starajú o deti, vytvoriť si s nimi také puto, vďaka ktorému sa z detí stavajú informovaní mladí ľudia, ktorí sa cítia bezpečnejšie a sebaistejšie. Kniha vás prevedie 150 konverzáciami, aktivitami a cvičeniami zameranými na sebareflexiu, ktoré môžete začať implementovať v každom veku a fáze dospievania. V knihe nájdete témy ako: telá, pocity, bezpečný a nebezpečný dotyk, súhlas, vzťahy, menštruácia, potešenie, pornografia, pohlavie a rod, sex a sexualita a ďalšie  
+Táto kniha od Sexpositive Families je najpredávanejší komplexný sprievodca, ktorý pomáha rodičom a ľuďom, ktorí sa starajú o deti, vytvoriť si s nimi také puto, vďaka ktorému sa z detí stavajú informovaní mladí ľudia, ktorí sa cítia bezpečnejšie a sebaistejšie. Kniha vás prevedie 150 konverzáciami, aktivitami a cvičeniami zameranými na sebareflexiu, ktoré môžete začať implementovať v každom veku a fáze dospievania. V knihe nájdete témy ako: telá, pocity, bezpečný a nebezpečný dotyk, súhlas, vzťahy, menštruácia, potešenie, pornografia, pohlavie a rod, sex a sexualita a ďalšie.  
 
 #### [Rights, Respect, Responsibility is: sex education curriculum](https://3rs.org/3rs-curriculum/)
 
-Rights, Respect, Responsibility (3Rs) sú učebné osnovy sexuálnej výchovy, ktoré zodpovedajú štandardom sexuálnej výchovy a obsahujú praktické informácie týkajúce sa sexuality, ako aj špecifické zručnosti potrebné na osvojenie si zdravého správania. Organizácia Advocates For Youth is vytvorila pre rodičov aj pedagógov/ičky, ktorí chcú deťom vo svojom okolí poskytnúť komplexnú sexuálnu výchovu (KSV). 3Rs odrážajú zásady teórie sociálneho učenia, sociálno- kognitívnej teórie a sociálno-ekologického modelu prevencie. 3Rs sú dostupné online úplne zdarma.  
+Rights, Respect, Responsibility (3Rs) sú učebné osnovy sexuálnej výchovy, ktoré zodpovedajú štandardom sexuálnej výchovy a obsahujú praktické informácie týkajúce sa sexuality, ako aj špecifické zručnosti potrebné na osvojenie si zdravého správania. Organizácia Advocates For Youth ich vytvorila pre rodičov aj pedagógov/ičky, ktorí chcú deťom vo svojom okolí poskytnúť komplexnú sexuálnu výchovu (KSV). 3Rs odrážajú zásady teórie sociálneho učenia, sociálno- kognitívnej teórie a sociálno-ekologického modelu prevencie. 3Rs sú dostupné online úplne zdarma.  
 
 [AMAZE Podcasty](https://podcast.amaze.org/)
 
