@@ -4,19 +4,11 @@ title: Sex-pozitívne myslenie
 slug: sex-pozitivne-myslenie
 topic: sex
 subtopic: spolocnost
-date: 2021-04-24T19:42:04.534Z
+date: 2021-04-25T06:10:04.534Z
 metadescription: Hnutie za sex-pozititivu sa snaží hlavne o zmenu prístupu
   k sexuálnemu vzdelávaniu. Cieľom je prestať spájať sex a sexualitu s hanbou
   a so strachom a začať klásť dôraz na potešenie a bezpečie pri sexe.
-references: >-
-  Rare, Ruby, and Sofie Birkin. Sex Ed: a Guide for Adults. London, UK:
-  Bloomsbury, 2020. 
-
-
-  Sex Education...With Pleasure. Sex Education...With Pleasure | Victoria Beltran | TEDxUSFSP. YouTube, 2016. https://www.youtube.com/watch?v=R-gwxS-7h9o. 
-
-
-  “Sex Positivity.” Feminist Campus. World's Largest Feminist Student Network. Accessed April 3, 2021. https://feministcampus.org/campaigns/sex-positivity/.
+references: ""
 ---
 Všetky články na Prirodzene Webe sú písané v duchu sex-pozitívneho myslenia. 
 
@@ -62,3 +54,21 @@ O hnutí za sex-pozitivitu existuje aj mnoho mylných predstáv a názorov. V�
 <br>     
 
 Hnutie za sex-pozitivitu ako aj koncept sexuálnej liberácie sú vo veľkej miere intersekcionálne. **Intersekcionalita** je vzájomný vzťah medzi sociálnymi kategóriami, ktoré sa uplatňujú na jednotlivca alebo skupinu. Príslušnosť k jednotlivým kategóriám vytvára jedinečný a komplexný systém navzájom prepojených systémov diskriminácie alebo znevýhodnenia. Medzi takéto kategórie zaraďujeme napríklad farbu pleti, národnosť, sexuálnu orientáciu, pohlavie, rodovú identitu, zdravotný stav, sociálnu vrstvu, náboženstvo, vek, vzhľad, vzdelanie, etnicitu, kultúrnu príslušnosť, občianstvo, materinský jazyk a podobne. Pri snahe o sexuálnu liberáciu spoločnosti je nevyhnutné brať do úvahy, akým spôsobom môžu spomínané faktory ovplyvňovať ľudí. Môže to napríklad znamenať, že pričom diskrimináciu na základe sexuálnej orientácie pociťuje drvivá väčšina homosexuálnych ľudí, homosexuálni ľudia rómskej etnicity/so zdravotným znevýhodneným/pochádzajúci z náročnej ekonomickej situácie (atď.) budú túto diskrimináciu pociťovať viac, keďže sa prekrýva s ich postavením v iných diskriminačných schémach a systémoch.
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+Rare, Ruby, and Sofie Birkin. Sex Ed: a Guide for Adults. London, UK: Bloomsbury, 2020. 
+
+Sex Education...With Pleasure. Sex Education...With Pleasure | Victoria Beltran | TEDxUSFSP. YouTube, 2016. 
+
+<https://www.youtube.com/watch?v=R-gwxS-7h9o>. 
+
+“Sex Positivity.” Feminist Campus. World's Largest Feminist Student Network. Accessed April 3, 2021. 
+
+<https://feministcampus.org/campaigns/sex-positivity/>.
