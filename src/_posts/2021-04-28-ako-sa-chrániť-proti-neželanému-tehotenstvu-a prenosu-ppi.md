@@ -125,8 +125,11 @@ Bariéry zabraňujú neželanému tehotenstvu a zároveň [znižujú riziko pren
 <br>
 
 <div class="flex flex-wrap justify-around">
-<img src="/images/uploads/condom.jpg" alt="Externý kondóm">\
-<img src="/images/uploads/penis-with-condom.jpg" alt="Penis s externým kondómom">\
+
+<img src="/images/uploads/condom.jpg" alt="Externý kondóm">
+
+<img src="/images/uploads/penis-with-condom.jpg" alt="Penis s externým kondómom">
+
 </div>
 
 <br>
