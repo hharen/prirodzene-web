@@ -114,6 +114,8 @@ Nasledovný zoznam zahrňuje typy metód ochrany proti neželanému tehotenstvu 
 
 ## **Bariéry proti PPI**
 
+<br>
+
 Bariéry zabraňujú neželanému tehotenstvu a zároveň [znižujú riziko prenosu PPI.](/prevencia-ppi/) Je nevyhnutné ich používať pri akomkoľvek type sexu, pri ktorom dochádza k styku genitálií s kožou, s ústami, s inými genitáliami. Nesmieme však zabúdať, že rôzne typy bariér môžu riziko prenosu PPI znížiť, ale nie odstrániť. Preto sa za prípadné nakazenie sa PPI netreba hanbiť. Pri akýchkoľvek príznakoch je potrebné vyhľadať lekársku pomoc. Znížiť riziko prenosu PPI môžeme aj [pravidelným testovaním](/prevencia-ppi/) sa a správnou [komunikáciou ](/prevencia-ppi/)s partnermi/kami o našom zdravotnom stave.
 
 ### **1. Externý kondóm – Prezervatív**
