@@ -121,58 +121,30 @@ Komplexné sexuálne vzdelávanie <a href="https://www.advocatesforyouth.org/wp-
 
 Alford, Sue. “Sex Education Programs: Definitions &amp; Point-by-Point Comparison.” Advocates for Youth. Transitions (ISSN 1097-1254) © 2001, January 28, 2009. <https://www.advocatesforyouth.org/resources/fact-sheets/sex-education-programs-definitions-and-point-by-point-comparison/>.
 
-<br>
-
 Allahdadi, Kyan J, Rita C A Tostes, and Clinton R Webb. “Female Sexual Dysfunction: Therapeutic Options and Experimental Challenges.” Cardiovascular &amp; hematological agents in medicinal chemistry. U.S. National Library of Medicine, October 2009. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3008577/#R9>.
-
-<br>
 
 Braun, Dominique L, Alex Marzel, Daniela Steffens, Peter W Schreiber, Christina Grube, Alexandra U Scherrer, Roger D Kouyos, and Huldrych F Günthard. “High Rates of Subsequent Asymptomatic Sexually Transmitted Infections and Risky Sexual Behavior in Patients Initially Presenting With Primary Human Immunodeficiency Virus-1 Infection.” Clinical Infectious Diseases, Volume 66, Issue 5, 1 March 2018, Pages 735–742. Oxford University Press, October 5, 2017. <https://academic.oup.com/cid/article/66/5/735/4356865>.
 
-<br>
-
 Estrela, Edite. “SPRÁVA o Sexuálnom a Reprodukčnom Zdraví a Právach.” europarl.europa.eu. Výbor pre práva žien a rodovú rovnosť, December 2, 2013. <https://www.europarl.europa.eu/doceo/document/A-7-2013-0426_SK.html>.
-
-<br>
 
 Gautam-Adhikary, Sulava D. “Myths and Facts About Comprehensive Sex Education Research Contradicts Misinformation and Distortions.” CSE Myths and Facts . Advocates For Youth. Rights. Respect. Responsibility., December 2011. <https://www.advocatesforyouth.org/wp-content/uploads/storage/advfy/documents/cse-myths-and-facts.pdf>.
 
-<br>
-
 Laumann, E O, D B Glasser, R C S Neves, and E D Moreira. “A Population-Based Survey of Sexual Activity, Sexual Problems and Associated Help-Seeking Behavior Patterns in Mature Adults in the United States of America.” Nature News. Nature Publishing Group, February 26, 2009. <https://www.nature.com/articles/ijir20097>.
-
-<br>
 
 Parenthood, Planned. “What Is Sex Education?: Sex Ed Definition and QA.” Planned Parenthood. Accessed April 3, 2021. <https://www.plannedparenthood.org/learn/for-educators/what-sex-education>.
 
-<br>
-
 “Pohlavné Choroby.” nczi. Národné centrum zdravotníckych informácií, October 16, 2020. <http://www.nczisk.sk/Statisticke_vystupy/Tematicke_statisticke_vystupy/Pohlavne_choroby/Pages/default.aspx>.
-
-<br>
 
 “Potraty.” nciz. Národné centrum zdravotníckych informácií, April 20, 2020. <http://www.nczisk.sk/Statisticke_vystupy/Tematicke_statisticke_vystupy/Gynekologia_Porodnictvo_Potraty/Potraty/Pages/default.aspx>.
 
-<br>
-
 “Pôrodníctvo.” nczi. Národné centrum zdravotníckych informácií, June 12, 2020. <http://www.nczisk.sk/Statisticke_vystupy/Tematicke_statisticke_vystupy/Gynekologia_Porodnictvo_Potraty/Porodnictvo/Pages/default.aspx>.
-
-<br>
 
 Rare, Ruby, and Sofie Birkin. Sex Ed: a Guide for Adults. London, UK: Bloomsbury, 2020.
 
-<br>
-
 Sex Education...With Pleasure. Sex Education...With Pleasure | Victoria Beltran | TEDxUSFSP. YouTube, 2016. <https://www.youtube.com/watch?v=R-gwxS-7h9o.>
-
-<br>
 
 “Sex Education.” GoodTherapy.org Therapy Blog, August 25, 2015. <https://www.goodtherapy.org/blog/psychpedia/sex-education>.
 
-<br>
-
 WHO Regional Office for Europe and BZgA Standards for Sexuality Education in Europe. “WHO Regional Office for Europe and BZgA: Standards for Sexuality Education in Europe.” Bundeszentrale für gesundheitliche Aufklärung (BZgA) - WHO Collaborating Centres (WHOCC). Federal Centre for Health Education, 2010. <https://www.bzga-whocc.de/fileadmin/user_upload/WHO_BZgA_Standards_English.pdf>.
-
-<br>
 
 Witmer, Denise. “What Is Your Teen Being Taught in Sex Ed Class at School?” Verywell Family, May 17, 2020. <https://www.verywellfamily.com/sex-education-in-schools-2611290>.
