@@ -4,23 +4,12 @@ title: Muž a žena vs. samec a samica
 slug: muz-a-zena-vs-samec-a-samica
 topic: telo
 subtopic: anatomia
-date: 2021-01-10 23:09:31 +0100
+date: 2021-04-25T08:10:31.000Z
 metadescription: Na základe biologického pohlavia najčastejšie rozdeľujeme
   cicavcov, a teda aj ľudí, medzi samcov a samice. Rod súvisí s našimi rolami v
   spoločnosti, s naším správaním a s našou identitou. Na základe rodu
   rozdeľujeme ľudí najčastejšie medzi mužov a ženy.
-references: >-
-  Bailar, Schuyler. “What Is Biological Sex?” pinkmantaray, December 15, 2020.
-  https://pinkmantaray.com/sexed. 
-
-
-  Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. https://sexinfoonline.com/. 
-
-
-  Fausto-Sterling, Anne. “Gender &amp; Sexuality - Dr. Anne Fausto.” Gender &amp; Sexuality. Accessed February 17, 2021. http://www.annefaustosterling.com/fields-of-inquiry/gender/. 
-
-
-  Fausto-sterling, Anne. “Why Sex Is Not Binary.” The New York Times. The New York Times, October 25, 2018. https://www.nytimes.com/2018/10/25/opinion/sex-biology-binary.html.
+references: ""
 ---
 Na základe **[biologického pohlavia](/pohlavna-anatomia/)** (angl. „biological sex“) najčastejšie rozdeľujeme cicavcov, a teda aj ľudí, medzi samcov a samice (angl. „male“ a „female“). **Rod** (angl. „gender“) je ľudským fenoménom, ktorý pri ostatných cicavcoch nepozorujeme. Rod súvisí s našimi rolami v spoločnosti, s naším správaním a s našou identitou. Ovplyvňuje, ako vnímame samých seba a ostatných, naše správanie, ako aj rozdelenie moci a zdrojov v spoločnosti. To, ako jednotlivci a skupiny chápu, prežívajú a vyjadrujú rod, je rôzne. **[Rodová identita](/rodova-identita/)** je schopnosť človeka vnútorne a individuálne pociťovať rod, ktorý môže, ale nemusí, zodpovedať pohlaviu, s ktorým sa človek narodil. Patrí sem vnímanie vlastného tela a rodové prejavy ako obliekanie, rečový prejav alebo vystupovanie jednotlivca. Na základe rodu rozdeľujeme ľudí najčastejšie medzi mužov a ženy (angl.„man“ and „woman“). Patria sem však aj mnohé iné skupiny ľudí, keďže rod nie je binárny ani statický, existuje v spektre a môže sa časom meniť. 
 
@@ -44,3 +33,19 @@ SLOVNÍK <br>
 <strong>transrodový človek</strong> - človek, ktorého rod sa nezhoduje s biologickým pohlavím, ktoré mu bolo pridelené pri narodení
 
 </div>
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+Bailar, Schuyler. “What Is Biological Sex?” pinkmantaray, December 15, 2020. <https://pinkmantaray.com/sexed>. 
+
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. <https://sexinfoonline.com/>. 
+
+Fausto-Sterling, Anne. “Gender &amp; Sexuality - Dr. Anne Fausto.” Gender &amp; Sexuality. Accessed February 17, 2021. <http://www.annefaustosterling.com/fields-of-inquiry/gender/>. 
+
+Fausto-sterling, Anne. “Why Sex Is Not Binary.” The New York Times. The New York Times, October 25, 2018. <https://www.nytimes.com/2018/10/25/opinion/sex-biology-binary.html>.
