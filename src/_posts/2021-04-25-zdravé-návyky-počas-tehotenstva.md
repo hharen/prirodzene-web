@@ -60,6 +60,4 @@ Počas [tehotenstva](/vyvinove-fazy-plodu-a-tehotenstvo/) je nevyhnutné **prík
 
 <p class="important-text">ZDROJE:</p>
 
-Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. 
-
-<https://sexinfoonline.com/tips-for-a-healthy-pregnancy/>
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. <https://sexinfoonline.com/tips-for-a-healthy-pregnancy/>
