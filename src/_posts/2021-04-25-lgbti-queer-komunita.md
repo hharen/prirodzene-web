@@ -4,7 +4,7 @@ title: LGBTI+/queer komunita
 slug: LGBTI+-queer-komunita
 topic: sex
 subtopic: spolocnost
-date: 2021-04-25T21:12:08.467Z
+date: 2021-04-25T06:00:08.467Z
 metadescription: Skratka LGBT zahŕňa lesby, gejov, bisexuálov/ky a transrodových
   ľudí. Niekedy sa k nej pripája písmeno Q, ktoré označuje queer identitu,
   písmeno I, ktoré označuje intersex ľudí, a „+“, ktoré označuje iné sexuálne
