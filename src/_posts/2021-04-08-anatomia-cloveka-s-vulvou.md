@@ -4,29 +4,11 @@ title: Vonkajšie pohlavné ústrojenstvo človeka s vulvou
 slug: vonkajsie-pohlavne-ustrojenstvo-cloveka-s-vulvou
 topic: telo
 subtopic: anatomia
-date: 2021-04-08T07:59:45.687Z
+date: 2021-04-25T08:05:45.687Z
 metadescription: Vonkajšia časť pohlavného ústrojenstva človeka s vulvou sa
   nazýva vulva. Vzhľad vuliev je veľmi rôznorodý a mení sa v závislosti od veku,
   hormonálnych zmien aj sexuálneho vzrušenia.
-references: >-
-  Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit
-  organization. University of California, Santa Barbara . Accessed January 1,
-  2021. https://sexinfoonline.com/. 
-
-
-  Brochmann, Nina, and Ellen Støkken Dahl. The Wonder Down Under. Hodder &amp; Stoughton, 2018. 
-
-
-  Gowda, Arvind U, Nikki Chopra, and Marwan Khalifeh. “Indications, Techniques and Complications of Labiaplasty.” Eplasty. Open Science Company, LLC, August 18, 2015. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544281/. 
-
-
-  “Labiaplasty: Rising in Popularity.” Wesley Anne Brady, M.D. |. Women’s Wellness Institute of Dallas, August 12, 2019. https://womenswellnessinstitute.com/labiaplasty-fastest-growing-cosmetic-surgery/. 
-
-
-  Mráz, Peter, and Kamil Belej. Anatómia Ľudského Tela 2. Slovak Academic Press, 2016. 
-
-
-  Rare, Ruby. Sex Ed:A Guide for Adults. London, UK: Bloomsbury, 2020.
+references: ""
 ---
 Vonkajšia časť pohlavného ústrojenstva človeka s vulvou sa nazýva vulva. Pojem „ohanbie“ označuje viditeľnú časť pohlavných orgánov, bez ohľadu na pohlavie človeka. Častejšie je však používaný v spojitosti s vulvou, než s penisom a mieškom. 
 
@@ -94,3 +76,23 @@ Vplyvom nerealistického a nezdravého zobrazovania ľudských tiel v médiác
 <img src="/images/uploads/3-vulva-diversity-1.jpg" alt="Rôzne vulvy zospodu">
 <img src="/images/uploads/4-vulva-diversity-2.jpg" alt="Rôzne vulvy spredu">
 </div>
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. <https://sexinfoonline.com/>. 
+
+Brochmann, Nina, and Ellen Støkken Dahl. The Wonder Down Under. Hodder &amp; Stoughton, 2018. 
+
+Gowda, Arvind U, Nikki Chopra, and Marwan Khalifeh. “Indications, Techniques and Complications of Labiaplasty.” Eplasty. Open Science Company, LLC, August 18, 2015. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544281/>. 
+
+“Labiaplasty: Rising in Popularity.” Wesley Anne Brady, M.D. |. Women’s Wellness Institute of Dallas, August 12, 2019. <https://womenswellnessinstitute.com/labiaplasty-fastest-growing-cosmetic-surgery/>. 
+
+Mráz, Peter, and Kamil Belej. Anatómia Ľudského Tela 2. Slovak Academic Press, 2016. 
+
+Rare, Ruby. Sex Ed:A Guide for Adults. London, UK: Bloomsbury, 2020.
