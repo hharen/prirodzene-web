@@ -9,22 +9,22 @@ metadescription: Sex sú v podstate všetky druhy priamej konsenzuálnej sexuál
   interakcie medzi dvoma alebo viacerými ľuďmi, prípadne interakcia so svojím
   vlastným telom. Sex môže znamenať pre každého niečo iné.
 ---
-Odpoveď na otázku **„čo je sex?“** sa mnohým môže zdať relatívne priamočiara. Sex (súlož, sexuálny styk, atď.) je najčastejšie definovaný ako penilno-vaginálna penetrácia medzi mužom a ženou. Takáto zjednodušená definícia sexu by však znamenala, že homosexuálni ľudia, mnohí zdravotne postihnutí ľudia, niektorí ľudia s vaginizmom, vulvodyniou či s erektilnou dysfunkciou, mnohí [intersex ľudia](/anatomia-intersex-ludi/), ľudia, ktorí nemajú radi penetračný sex a ďalšie početné skupiny by nikdy nemohli či nedokázali mať sex. To však, samozrejme, nie je pravda. **Za sex sa môžu považovať všetky druhy priamej konsenzuálnej sexuálnej interakcie medzi dvoma alebo viacerými ľuďmi, prípadne interakcia so svojím vlastným telom.** Sex je teda **praktická realizácia sexuality** tvorená komplexom telesných, citových a psychických procesov. 
+Odpoveď na otázku **„čo je sex?“** sa mnohým môže zdať relatívne priamočiara. Sex (súlož, sexuálny styk, atď.) je najčastejšie definovaný ako penilno-vaginálna penetrácia medzi mužom a ženou. Takáto zjednodušená definícia sexu by však znamenala, že niektorí homosexuálni ľudia, mnohí zdravotne postihnutí ľudia, niektorí ľudia s vaginizmom, vulvodyniou či s erektilnou dysfunkciou, mnohí [intersex ľudia](/anatomia-intersex-ludi/){:target="_blank"}, ľudia, ktorí nemajú radi penetračný sex a ďalšie početné skupiny by nikdy nemohli či nedokázali mať sex. To však, samozrejme, nie je pravda. **Za sex sa môžu považovať všetky druhy priamej konsenzuálnej sexuálnej interakcie medzi dvoma alebo viacerými ľuďmi, prípadne interakcia so svojím vlastným telom.** Sex je teda **praktická realizácia sexuality** tvorená komplexom telesných, citových a psychických procesov. 
 
 <div class='f-sex box-post'>
 K sexu, žiaľ, môže dôjsť aj bez súhlasu. Sex bez súhlasu aspoň jednej zo všetkých zúčastnených strán sa volá „znásilnenie“. Znásilnenie však nepovažujeme za sex. Rovnako, ako by sme napr. topenie sa nenazývali „plávaním bez kyslíku“, ani znásilnenie nenazývame „sexom bez súhlasu“.
 </div>
 
-Aj keď sa sex tradične považuje za aktivitu, ktorá prebieha medzi 2 alebo viacerými ľuďmi, mnoho ľudí považuje za sex aj tzv. solo sex, teda masturbáciu. Iné [aktivity](https://www.scarleteen.com/article/advice/yes_no_maybe_so_a_sexual_inventory_stocklist), ktoré ľudia môžu vykonávať sami, s partnerom, s partnerkou, prípadne s viacerými ľuďmi, a môžu ich považovať sa sex, zahŕňajú:
+Aj keď sa sex tradične považuje za aktivitu, ktorá prebieha medzi 2 alebo viacerými ľuďmi, mnoho ľudí považuje za sex aj tzv. solo sex, teda masturbáciu. Iné [aktivity](https://www.scarleteen.com/article/advice/yes_no_maybe_so_a_sexual_inventory_stocklist){:target="_blank"}, ktoré ľudia môžu vykonávať sami, s partnerom, s partnerkou, prípadne s viacerými ľuďmi, a môžu ich považovať sa sex, zahŕňajú:
 
-* dotyk (rukou) rôznych častí tela ako genitálie, bradavky, prsia, chodidlá, hrádza, análny otvor, krk, uši, stehná, brucho a podobne;
+* dotyk (rukou) rôznych častí tela ako genitálie, bradavky, [prsia](/prsia/){:target="_blank"}, chodidlá, hrádza, análny otvor, krk, uši, stehná, brucho a podobne;
 * kontakt pier a/alebo úst s rôznymi časťami tela;
 * frotáž – trenie častí tela o iné časti tela alebo o predmety (napr. vankúš);
 * vzájomné trenie genitálií;
-* análna penetrácia (prstami, rukou, penisom, sexuálnou pomôckou atď.);
+* análna penetrácia (prstami, rukou, [penisom](/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-penisom/){:target="_blank"}, sexuálnou pomôckou atď.);
 * zasielanie si sexuálne explicitných správ, obrázkov, videí či zvukových nahrávok;
-* použitie sexuálnych pomôcok na sexuálnu stimulácie rôznych častí tela;
-* vaginálna penetrácia (prstami, rukou, penisom, sexuálnou pomôckou atď.);
+* použitie sexuálnych pomôcok na [sexuálnu stimulácie](/telesne-a-emocionalne-procesy-sexualna-tuzba-a-sexualna-aktivita/){:target="_blank"} rôznych častí tela;
+* [vaginálna](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/){:target="_blank"} penetrácia (prstami, rukou, penisom, sexuálnou pomôckou atď.);
 * ejakulácia v spoločnosti ďalšieho človeka;
 * ejakulácia semena na rôzne časti tela;
 * masáž;
@@ -40,14 +40,14 @@ Každý človek má svoju vlastnú definíciu sexu, pretože sex môže znamena�
 
 #### Niektoré aspekty však musí sex obsahovať vždy. Každá sexuálna aktivita by mala zahŕňať:
 
-* **súhlas,**
+* **[súhlas],(/sexualny-suhlas/){:target="_blank"}**
 * **komunikáciu,**
 * **osobné hranice,**
 * **potešenie.**
 
 <br>
 
-**Súhlas** je najdôležitejším z týchto faktorov. Zvyšné 3 faktory môžu pri sexe chýbať, ale sú nevyhnutné pre zdravý a uspokojujúci sex. Okrem toho, cieľ sexuálnej aktivity, bez ohľadu na to, či ju vykonávame za účelom reprodukcie alebo nie, by mal vždy zahŕňať **bezpečie a komfort** všetkých zúčastnených ľudí. Sex by mal byť v prvom rade príjemný. To však neznamená, že každý sex musí končiť sexuálnym vyvrcholením v podobe orgazmu, ejakulácie alebo squirtingu. Na základe cieľa sexuálnej aktivity, [rozlišujeme](https://www.jstor.org/stable/3812080?seq=1) 2 typy sexu:
+[Súhlas](/sexualny-suhlas/){:target="_blank"} je najdôležitejším z týchto faktorov. Zvyšné 3 faktory môžu pri sexe chýbať, ale sú nevyhnutné pre zdravý a uspokojujúci sex. Okrem toho, cieľ sexuálnej aktivity, bez ohľadu na to, či ju vykonávame za účelom reprodukcie alebo nie, by mal vždy zahŕňať **bezpečie a komfort** všetkých zúčastnených ľudí. Sex by mal byť v prvom rade príjemný. To však neznamená, že každý sex musí končiť sexuálnym vyvrcholením v podobe orgazmu, ejakulácie alebo squirtingu. Na základe cieľa sexuálnej aktivity, [rozlišujeme](https://www.jstor.org/stable/3812080?seq=1) 2 typy sexu:
 
 ### **1. Sex zameraný na konkrétny cieľ** *(angl. goal-oriented sex)*
 
