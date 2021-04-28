@@ -4,24 +4,12 @@ title: Vývinové fázy plodu a tehotenstvo
 slug: vyvinove-fazy-plodu-a-tehotenstvo
 topic: telo
 subtopic: vyvin
-date: 2021-04-25T13:08:47.556Z
+date: 2021-04-25T07:25:47.556Z
 metadescription: Tehotenstvo bežne trvá približne 40 týždňov a býva rozdelené na
   tri tzv. trimestre. Počas týchto troch trimestrov prechádzajú matka aj plod
   určitými kľúčovými zmenami. Tretí trimester a aj samotné tehotenstvo sa končí
   pôrodom.
-references: >-
-  Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit
-  organization. University of California, Santa Barbara. Accessed January 1,
-  2021. https://sexinfoonline.com/. 
-
-
-  Redakcia. “Tehotenstvo, Počatie, Plánovanie Bábätka.” Promama. Accessed March 20, 2021. https://www.promama.sk/tehotenstvo/vyhladavanie?kategorie=41. 
-
-
-  “Tehotenstvo Po Týždňoch.” Babyweb.sk, 2009. https://www.babyweb.sk/tehotenstvo-po-tyzdnoch-13. 
-
-
-  Yakıştıran, Betül, Tuncay Yüce, and Feride Söylemez. “First Trimester Bleeding and Pregnancy Outcomes: Case-Control Study.” IJWHR. International Journal of Women’s Health and Reproduction Sciences, January 2016. http://www.ijwhr.net/pdf/pdf_IJWHR_133.pdf.
+references: ""
 ---
 <div class='notes'>
 
@@ -102,3 +90,27 @@ Tretí trimester býva pre matku fyzicky aj psychicky náročný. Kvôli rastúc
 * **33. – 35. týždeň**: Orgány dozrievajú, rastie množstvo podkožného tuku, farba pokožky sa mení, rastie mozog aj hlava, pľúcne tkanivo aj tráviaca sústava dozrieva, imunitný systém sa rýchlo vyvíja. Väčšina detí narodených v tomto období prežije bez väčších komplikácií. Plod meria asi 30 – 33 cm a váži asi 2 – 2,5 kg.
 * **36. – 38. týždeň**: Plod v tomto období väčšinou zaujme svoju definitívnu polohu, priestor v maternici je tesný. Rastú vlasy, koža je elastická a nie je priesvitná. V črevách je nahromadená prvá stolica. Dieťa meria asi 35 cm a váži 2,5 – 3 kg. 
 * **39. – 40. týždeň**: Dieťa je pripravené narodiť sa. Mozgové cievy a nervové bunky sú úplne vyvinuté. Dieťa už nepokrýva vernix caseosa. Kosti rastú, mliečne žľazy aj pohlavné orgány sa dočasne zväčšia. Dieťa meria 36 – 38 cm, celková dĺžka od hlavy po chodidlá je 48 – 50 cm. Vážiť môže 3 a viac kg.
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara. Accessed January 1, 2021. 
+
+<https://sexinfoonline.com/>. 
+
+Redakcia. “Tehotenstvo, Počatie, Plánovanie Bábätka.” Promama. Accessed March 20, 2021. 
+
+<https://www.promama.sk/tehotenstvo/vyhladavanie?kategorie=41>. 
+
+“Tehotenstvo Po Týždňoch.” Babyweb.sk, 2009. 
+
+<https://www.babyweb.sk/tehotenstvo-po-tyzdnoch-13>. 
+
+Yakıştıran, Betül, Tuncay Yüce, and Feride Söylemez. “First Trimester Bleeding and Pregnancy Outcomes: Case-Control Study.” IJWHR. International Journal of Women’s Health and Reproduction Sciences, January 2016. 
+
+<http://www.ijwhr.net/pdf/pdf_IJWHR_133.pdf>.
