@@ -4,22 +4,13 @@ title: Tvorba ejakulátu
 slug: tvorba-ejakulatu
 topic: telo
 subtopic: vyvin
-date: 2021-04-25T14:30:15.721Z
+date: 2021-04-25T06:50:15.721Z
 metadescription: "Ejakulát, ktorému hovoríme aj semeno, sa tvorí na troch
   rôznych miestach v tele človeka s penisom, konkrétne ide o: semenníky,
   predstojnicu a semenné mechúriky. Tvorba spermií prebieha v semenotvorných
   kanálikoch, čo sú početné, tenké, nahusto stočené kanáliky, ktoré tvoria
   štruktúru semenníkov."
-references: >-
-  Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit
-  organization. University of California, Santa Barbara . Accessed January 1,
-  2021. https://sexinfoonline.com/semen/.
-
-
-  Mandal, Dr. Ananya. “Semen Physiology.” News Medical Life Science, February 27, 2019. https://www.news-medical.net/health/Semen-Physiology.aspx. 
-
-
-  Mráz, Peter, and Kamil Belej. Anatómia Ľudského Tela 2. Slovak Academic Press, 2016.
+references: ""
 ---
 **Ejakulát**, ktorému hovoríme aj semeno, sa tvorí na troch rôznych miestach v tele človeka s penisom, konkrétne ide o: semenníky, predstojnicu a semenné mechúriky. 
 
@@ -38,3 +29,21 @@ references: >-
 <img src="/images/uploads/tvorba-ejakulatu.JPG" alt="Anatómia penisu a mieška a tvorba ejakulátu">
 
 </div>
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. 
+
+<https://sexinfoonline.com/semen/>.
+
+Mandal, Dr. Ananya. “Semen Physiology.” News Medical Life Science, February 27, 2019. 
+
+<https://www.news-medical.net/health/Semen-Physiology.aspx>. 
+
+Mráz, Peter, and Kamil Belej. Anatómia Ľudského Tela 2. Slovak Academic Press, 2016.
