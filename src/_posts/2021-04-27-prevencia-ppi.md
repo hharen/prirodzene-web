@@ -4,7 +4,7 @@ title: Prevencia PPI
 slug: prevencia-ppi
 topic: zdravie
 subtopic: infekcie
-date: 2021-04-27T20:23:21.514Z
+date: 2021-04-25T17:35:00.000Z
 metadescription: "Zásady, akými môžu znížiť riziko prenosu PPI ľudia, ktorí chcú
   byť sexuálne aktívni, sa dajú zhrnúť pod KTO: komunikácia, testovanie, ochrana
   + očkovanie (na HPV, hepatitídu typu B)."
