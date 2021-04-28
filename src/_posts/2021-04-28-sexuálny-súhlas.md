@@ -9,7 +9,7 @@ metadescription: Súhlas v sexuálnom vzdelávaní znamená, že všetky osoby, 
   sa zúčastňujú nejakej sexuálnej aktivity, to robia dobrovoľne, na základe
   vzájomného konsenzu.
 ---
-**Súhlas (angl. consent) v sexuálnom vzdelávaní znamená, že všetky osoby, ktoré sa zúčastňujú nejakej sexuálnej aktivity, to robia dobrovoľne, na základe vzájomného konsenzu.** Považuje sa za základný element partnerského sexu. Súhlas môže byť vyjadrený slovne aj neverbálne, ale vždy musí byť **jednoznačný** a **dobrovoľný**.
+**Súhlas (angl. consent) v** <a href="/sexualne-vzdelavanie-vo-svete" target="_blank"><strong>sexuálnom vzdelávaní</strong></a> **znamená, že všetky osoby, ktoré sa zúčastňujú nejakej** <a href="/sexualne-aktivity="_blank"><strong>sexuálnej aktivity,</strong></a> **to robia dobrovoľne, na základe vzájomného konsenzu.** Považuje sa za základný element partnerského sexu. Súhlas môže byť vyjadrený slovne aj neverbálne, ale vždy musí byť **jednoznačný** a **dobrovoľný**.
 
 Nie všetky osoby sú schopné vyjadriť súhlas. Súhlas vedia a môžu vyjadriť len osoby, ktoré sa legálne môžu zapájať do sexuálnej aktivity (na Slovensku **vo veku 15 +**), sú **pri plnom vedomí**, sú **svojprávne** a vo **vzájomnom rovnocennom postavení**. 
 
@@ -35,11 +35,11 @@ Súhlas nemusí byť vyjadrený verbálne, mal by byť však **entuziastický**
 * dnes nemám náladu;
 * skúsme to nabudúce;
 * mám strach;
-* neverbálna komunikácia: odtiahnutie sa, plač, zmeravenie, vystrašený pohľad (...).
+* neverbálna [komunikácia](/komunikacia-v-sexualnom-vztahu/){:target="_blank"}: odtiahnutie sa, plač, zmeravenie, vystrašený pohľad (...).
 
 <br>
 
-Slovenský zákon nedefinuje znásilnenie, sexuálne násilie a sexuálne obťažovanie na základe absencie súhlasu. [Právne definície](https://www.zastavmenasilie.gov.sk/trestny-zakon-1/) znejú nasledovne:
+Slovenský zákon nedefinuje znásilnenie, sexuálne násilie a sexuálne obťažovanie na základe absencie súhlasu. [Právne definície](https://www.zastavmenasilie.gov.sk/trestny-zakon-1/){:target="_blank"} znejú nasledovne:
 
 * § 199 **Znásilnenie:** „Kto násilím alebo hrozbou bezprostredného násilia donúti ženu k súloži alebo kto na taký čin zneužije jej bezbrannosť, potrestá sa odňatím slobody na päť rokov až desať rokov.“
 * § 200 **Sexuálne násilie**: „Kto násilím alebo hrozbou bezprostredného násilia donúti iného k orálnemu styku, análnemu styku alebo k iným sexuálnym praktikám alebo kto na taký čin zneužije jeho bezbrannosť, potrestá sa odňatím slobody na päť rokov až desať rokov.“
@@ -54,7 +54,7 @@ Znásilnenie je definované ako sex bez súhlasu v 10 krajinách Európskej ún
 
 </div>
 
-Podporujeme preto [kampaň Amnesty International Slovensko, Hovorme o súhlase](https://www.amnesty.sk/hovorme-o-suhlase/). Veríme, že spoločným úsilím sa nám podarí dosiahnuť zmenu legislatívy a posunieme sa o krok bližšie k spravodlivosti.
+Podporujeme preto [kampaň Amnesty International Slovensko, Hovorme o súhlase](https://www.amnesty.sk/hovorme-o-suhlase/){:target="_blank"}. Veríme, že spoločným úsilím sa nám podarí dosiahnuť zmenu legislatívy a posunieme sa o krok bližšie k spravodlivosti.
 
 <br>
 <br>
@@ -64,10 +64,6 @@ Podporujeme preto [kampaň Amnesty International Slovensko, Hovorme o súhlase]
 <br>
 “Hovorme o Súhlase.” Amnesty Slovakia, April 1, 2021. https://www.amnesty.sk/hovorme-o-suhlase/.
 
-<br>
-
 Parenthood, Planned. “What Is Sexual Consent?: Facts About Rape &amp; Sexual Assault.” Planned Parenthood. Accessed April 15, 2021. https://www.plannedparenthood.org/learn/relationships/sexual-consent.
-
-<br>
 
 “Trestné Činy Proti Ľudskej Dôstojnosti.” ZastavmeNasilie.gov.sk. Zastavme Nasilie , n.d. https://www.zastavmenasilie.gov.sk/trestny-zakon-1/.
