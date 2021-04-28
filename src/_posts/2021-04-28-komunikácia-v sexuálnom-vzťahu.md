@@ -11,8 +11,6 @@ metadescription: Komunikáciou získame a dávame súhlas, nastavujeme si osobn
 ---
 O komunikácii vo vzťahoch počujeme často. Toto slovo je skloňované v rôznych kontextoch a je to jeden z najčastejších tipov na riešenie problémov vo vzťahu. Málokedy sa však rozpráva o tom, čo efektívna komunikácia vlastne znamená. A to možno aj preto, že efektivita komunikácie závisí od mnohých faktorov, ako typ vzťahu, téma, osobitné spôsoby komunikácie rôznych ľudí, kontext konverzácie a podobne. Neexistuje preto jednotný návod, ktorý by bol univerzálne použiteľný a funkčný pre každého. Existuje však niekoľko pravidiel, ktoré by mali byť všeobecne dodržiavané a o ich nevyhnutnosti sa dá len veľmi ťažko polemizovať, a to predovšetkým v kontexte komunikácie v sexuálnom vzťahu.
 
-<br>
-
 Komunikácia je najdôležitejšou súčasťou zdravého sexuálneho života. **Komunikáciou získame a dávame [súhlas](/sexualny-suhlas/), nastavujeme si osobné hranice, dozvedáme sa o vzájomných prianiach a potrebách a zisťujeme všetky potrebné informácie, vďaka ktorým sa môžeme informovane rozhodovať.** 
 
 #### Pri komunikácii, predovšetkým medzi partermi/kami, by sa vo všeobecnosti mali dodržiavať nasledujúce zásady: 
