@@ -4,11 +4,11 @@ title: Rôznorodosť
 slug: roznorodost
 topic: telo
 subtopic: anatomia
-date: 2021-04-21T09:14:39.899Z
+date: 2021-04-25T08:25:39.899Z
 metadescription: Naše telá sa líšia vzhľadom, líšia sa v spôsoboch, akým nám
   dávajú najavo, keď niečo nie je v poriadku, líšime sa v prežívaní emócií a
   všetky telá si vyžadujú jedinečný typ starostlivosti.
-references: "Rare, Ruby. Sex Ed: A Guide for Adults. London, UK: Bloomsbury, 2020."
+references: ""
 ---
 Základy ľudskej anatómie sú súčasťou učiva už na základnej škole. Cieľom týchto hodín je naučiť nás skladbu ľudského tela a funkcie jednotlivých sústav a orgánov. Je nepochybne dôležité mať všeobecné chápanie fungovania ľudského organizmu. V našom tradičnom vzdelávacom systéme sa však často zabúda na jeden dôležitý fakt.  
 
@@ -22,3 +22,13 @@ Anatomické ilustrácie, ktoré môžete nájsť na našom webe predstavujú len
 <img src="/images/roznorodost-1.jpg" alt="Rôznorodí ľudia">
 <img src="/images/roznorodost-2.jpg" alt="Rôznorodé zadky">
 </div>
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+Rare, Ruby. Sex Ed: A Guide for Adults. London, UK: Bloomsbury, 2020.
