@@ -51,7 +51,7 @@ Ak popôrodná depresia zostane neliečená, môže tiež dôjsť k dlhodobej s
 
 <div class='f-telo box-post'>
 
-Otehotnieť by mala len osoba, ktoré je na to pripravená, preto je dôležité [vyhnúť sa nechcenému tehotenstvu a chrániť](/ako-sa-chranit-proti-nezelanemu-tehotenstvu-a-prenosu-ppi/){:target="_blank"} sa počas [sexuálneho styku](/sexualne-aktivity/){:target="_blank"}. Plánované tehotenstvo sa zvláda jednoduchšie a je pri ňom menšia šanca, že matku postihnú psychické problémy. 
+Otehotnieť by mala len osoba, ktoré je na to pripravená, preto je dôležité <a href="/ako-sa-chranit-proti-nezelanemu-tehotenstvu-a-prenosu-ppi">vyhnúť sa nechcenému tehotenstvu a chrániť</a> sa počas <a href="/sexualne-aktivity">sexuálneho sytku</a>. Plánované tehotenstvo sa zvláda jednoduchšie a je pri ňom menšia šanca, že matku postihnú psychické problémy. 
 
 </div>
 
