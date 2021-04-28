@@ -51,12 +51,8 @@ Začína hneď po ovulácii, teda po uvoľnení vajíčka z vaječníka, a trv
 
 <p class="important-text">ZDROJE:</p>
 
-Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. 
-
-<https://sexinfoonline.com/>. 
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. <https://sexinfoonline.com/>. 
 
 Brochmann, Nina, and Ellen Støkken Dahl. The Wonder Down Under. Hodder &amp; Stoughton, 2018. 
 
-“Phases of Menstrual Cycle.” Menstrupedia. Accessed March 20, 2021. 
-
-<https://menstrupedia.com/articles/physiology/cycle-phases>
+“Phases of Menstrual Cycle.” Menstrupedia. Accessed March 20, 2021. <https://menstrupedia.com/articles/physiology/cycle-phases>
