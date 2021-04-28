@@ -40,8 +40,7 @@ Každý človek má svoju vlastnú definíciu sexu, pretože sex môže znamena�
 
 #### Niektoré aspekty však musí sex obsahovať vždy. Každá sexuálna aktivita by mala zahŕňať:
 
-* **\[súhlas],(/sexualny-suhlas/){:target="_blank"}**
-  *<a href="/sexualny-suhlas/" target="_blank"><strong>súhlas</strong></a>
+* <a href="/sexualny-suhlas/" target="_blank"><strong>súhlas,</strong></a>
 * **komunikáciu,**
 * **osobné hranice,**
 * **potešenie.**
