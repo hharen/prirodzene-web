@@ -4,26 +4,14 @@ title: Menštruačné pomôcky
 slug: menstruacne-pomocky
 topic: telo
 subtopic: vyvin
-date: 2021-04-25T14:44:14.810Z
+date: 2021-04-25T06:40:14.810Z
 metadescription: Ľudia, ktorí mávajú menštruáciu, musia väčšinou počas tejto
-  fázy cyklu používať menštruačné pomôcky. Slúžia na absorpciu alebo zbieranie
-  menštruačnej tekutiny. Existujú mnohé typy menštruačných potrieb, pričom
-  všetky majú rôzne výhody aj nevýhody, rôznu cenu aj dostupnosť. Každému z nás
-  vyhovujú iné pomôcky.
-references: >-
-  Brochmann, Nina, and Ellen Støkken Dahl. The Wonder Down Under. Hodder &amp;
-  Stoughton, 2018. 
-
-
-  “Čo Je Syndróm Toxického Šoku (STŠ)?” Čo je syndróm toxického šoku (TSS)? Tampax. Accessed March 20, 2021. https://www.tampax.eu/sk/co-je-syndrom-toxickeho-soku-tss/.
-
-
-  Nozari, Roza. “Period Products: What Are the Options?” IPPF, November 20, 2020. https://www.ippf.org/blogs/period-products-what-are-options. 
-
-
-  “PERIOD PRODUCTS.” Period products. New Zealand Family Planning. Accessed April 25, 2021. https://www.familyplanning.org.nz/advice/periods/period-products.
+  fázy cyklu používať menštruačné pomôcky. Slúžia na absorpciu/zbieranie
+  menštruačnej tekutiny. Existujú mnohé typy menštruačných potrieb, všetky majú
+  rôzne výhody aj nevýhody, rôznu cenu aj dostupnosť.
+references: ""
 ---
-Ľudia, ktorí mávajú [menštruáciu](/menstruacny-cyklus/), musia väčšinou počas tejto fázy cyklu používať menštruačné pomôcky. Slúžia na absorpciu alebo zbieranie menštruačnej tekutiny. Existujú mnohé typy menštruačných potrieb, pričom všetky majú rôzne výhody aj nevýhody, rôznu cenu aj dostupnosť. Každému z nás vyhovujú iné pomôcky. 
+Ľudia, ktorí mávajú [menštruáciu](/menstruacny-cyklus/){:target="_blank"}, musia väčšinou počas tejto fázy cyklu používať menštruačné pomôcky. Slúžia na absorpciu alebo zbieranie menštruačnej tekutiny. Existujú mnohé typy menštruačných potrieb, pričom všetky majú rôzne výhody aj nevýhody, rôznu cenu aj dostupnosť. Každému z nás vyhovujú iné pomôcky. 
 
 <div class='f-telo box-post'>
 
@@ -33,7 +21,7 @@ Je dôležité podotknúť, že nie všetci dokážu menštruačné pomôcky pre
 
 ### **Menštruačné vložky**
 
-Vložka je tenká vrstva absorpčného materiálu, ktorá sa prilepí na spodnú bielizeň (nie na vulvu!) a **vsakuje menštruačnú tekutinu po tom, ako opustí telo** cez [vagínu](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/). Vložky sa vyrábajú v rôznych veľkostiach, hrúbkach, tvaroch, s krídelkami aj bez, z rôznych viac či menej ekologických materiálov. Niektoré vložky môžu obsahovať aj nebezpečné toxíny, predovšetkým tie parfumované. Vložky je potrebné meniť každé 3 – 8 hodín, alebo aj častejšie, v závislosti od intenzity krvácania. Dajú sa použiť iba raz a musia sa zahadzovať do komunálneho odpadu. Niektoré vložky sú kompostovateľné, nikdy by sa však nemali splachovať do záchoda. Ich výhodou je, že existujú v mnohých podobách a väčšinou je jednoduché ich zohnať, predávajú sa v drogériách aj v potravinách. Sú relatívne cenovo dostupné. Ich nevýhodou je najmä diskomfort. Mnohé ženy nemajú rady pocit vlhkosti; vložky môžu tiež zapáchať; často sa posunú či odlepia (najmä v spánku), v dôsledku čoho môže dôjsť k pretečeniu. V závislosti od cyklu môže byť nevyhnutná častá výmena vložiek. 
+Vložka je tenká vrstva absorpčného materiálu, ktorá sa prilepí na spodnú bielizeň (nie na vulvu!) a **vsakuje menštruačnú tekutinu po tom, ako opustí telo** cez [vagínu](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/){:target="_blank"}. Vložky sa vyrábajú v rôznych veľkostiach, hrúbkach, tvaroch, s krídelkami aj bez, z rôznych viac či menej ekologických materiálov. Niektoré vložky môžu obsahovať aj nebezpečné toxíny, predovšetkým tie parfumované. Vložky je potrebné meniť každé 3 – 8 hodín, alebo aj častejšie, v závislosti od intenzity krvácania. Dajú sa použiť iba raz a musia sa zahadzovať do komunálneho odpadu. Niektoré vložky sú kompostovateľné, nikdy by sa však nemali splachovať do záchoda. Ich výhodou je, že existujú v mnohých podobách a väčšinou je jednoduché ich zohnať, predávajú sa v drogériách aj v potravinách. Sú relatívne cenovo dostupné. Ich nevýhodou je najmä diskomfort. Mnohé ženy nemajú rady pocit vlhkosti; vložky môžu tiež zapáchať; často sa posunú či odlepia (najmä v spánku), v dôsledku čoho môže dôjsť k pretečeniu. V závislosti od cyklu môže byť nevyhnutná častá výmena vložiek. 
 
 Existujú aj tzv. **znovu použiteľné (látkové) vložky**. Tie sú väčšinou vyrobené z bavlny, kvalitnejšie vložky sú vysoko savé, prípadne obsahujú nepremokavú vrstvu. Používajú sa podobne ako bežné vložky, ale nemajú lepivú vrstvu. Namiesto toho majú na krídelkách zapínanie, napríklad gombík alebo zapínanie podobné zapínaniu na podprsenke. Ich výhodou je, že sú dlhoročnou investíciou a ekologicky udržateľnejšou alternatívou bežných jednorazových vložiek. Človek si väčšinou zakúpi isté množstvo takýchto vložiek (napríklad 6), a postupne ich počas dňa mení ako bežné vložky. Je nevyhnutné mať ich dostatok na 24 hodín. Následne sa dajú opakovane prať a znovu použiť. <br>
 
@@ -45,7 +33,7 @@ Je to typ **spodnej bielizne**, ktorá má podobnú funkciu, ako látkové vlož
 
 Tampón je malý kus absorpčného materiálu tvarom podobný náboju. Slúži na **absorpciu menštruačnej tekutiny vo vnútri tela**, keďže sa zavádza do vagíny. Na konci tampónu je bavlnená šnúrka, ktorá trčí z vagíny a slúži na vyberanie tampónu z tela. Bežný tampón sa zavádza prstami. Niektoré tampóny majú plastové aplikátory, pri použití ktorých nie je potrebné vložiť prsty do vagíny. Vyrábajú sa v rôznych veľkostiach a hrúbkach. Pred použitím tampónu je nevyhnutné dôkladne si umyť ruky, keďže pri zavádzaní tampónu je možné zaviesť si do tela baktérie či vírusy, ktoré spôsobia infekciu. Tampóny je nevyhnutné vymieňať každých 3 – 6 hodín a môžu sa použiť iba raz, pričom je potrebné ich zahadzovať do komunálneho odpadu. Niektoré sú kompostovateľné, nikdy by sa však nemali splachovať do záchoda. Presné inštrukcie na použitie tampónu sa menia v závislosti od jeho typu. V balení sa vždy nachádza podrobný návod. Tampóny, rovnako ako vložky, sú dostupné, keďže sa predávajú v drogériách aj v potravinách a takisto sú relatívne cenovo dostupné. Ich výhodou je pohodlie, môžu sa používať pri športe či plávaní. Ich nevýhodou môže byť náročnejšie zavádzanie aj väčšie riziká rôznych infekcií či TSS. 
 
-Pri používaní tampónov existuje riziko [Syndrómu toxického šoku](https://www.tampax.eu/sk/co-je-syndrom-toxickeho-soku-tss/) (Toxic shock syndrome – TSS). Je to veľmi zriedkavé, ale závažné ochorenie, spôsobované toxínmi, ktoré produkuje baktéria zvaná *zlatý stafylokok*. Tieto baktérie sa prirodzene vyskytujú v tele zdravého človeka, zvyčajne na pokožke, v nose, v podpazuší, v okolí genitálií a vo vagíne. Takmer tretina ľudskej populácie má tieto baktérie v tele bez toho, aby im spôsobovali zdravotné problémy. Niektoré kmene zlatého stafylokoka však produkujú toxín, ktorý spôsobuje TSS. Používanie tampónov je iba jedným z faktorov, ktoré môže zvýšiť riziko TSS. Nie je však presne jasné, akým spôsobom je používanie tampónov spojené so vznikom TSS. Predísť TSS sa dá najmä používaním tampónov s nízkou absorpciou a ich častou výmenou.  <br>
+Pri používaní tampónov existuje riziko [Syndrómu toxického šoku](https://www.tampax.eu/sk/co-je-syndrom-toxickeho-soku-tss/){:target="_blank"} (Toxic shock syndrome – TSS). Je to veľmi zriedkavé, ale závažné ochorenie, spôsobované toxínmi, ktoré produkuje baktéria zvaná *zlatý stafylokok*. Tieto baktérie sa prirodzene vyskytujú v tele zdravého človeka, zvyčajne na pokožke, v nose, v podpazuší, v okolí genitálií a vo vagíne. Takmer tretina ľudskej populácie má tieto baktérie v tele bez toho, aby im spôsobovali zdravotné problémy. Niektoré kmene zlatého stafylokoka však produkujú toxín, ktorý spôsobuje TSS. Používanie tampónov je iba jedným z faktorov, ktoré môže zvýšiť riziko TSS. Nie je však presne jasné, akým spôsobom je používanie tampónov spojené so vznikom TSS. Predísť TSS sa dá najmä používaním tampónov s nízkou absorpciou a ich častou výmenou.  <br>
 
 ### **Menštruačný kalíšok**
 
@@ -62,3 +50,19 @@ Menštruačný disk vo svojom názve nesie aj svoj tvar. Disk sa zavádza do vn�
 <img src="/images/uploads/menstruacne-pomocky-2.JPG" alt="Použitá menštruačná vložka, tampón, kalíšok a nohavičky">
 
 </div>
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+Brochmann, Nina, and Ellen Støkken Dahl. The Wonder Down Under. Hodder &amp; Stoughton, 2018. 
+
+“Čo Je Syndróm Toxického Šoku (STŠ)?” Čo je syndróm toxického šoku (TSS)? Tampax. Accessed March 20, 2021. <https://www.tampax.eu/sk/co-je-syndrom-toxickeho-soku-tss/>.
+
+Nozari, Roza. “Period Products: What Are the Options?” IPPF, November 20, 2020. <https://www.ippf.org/blogs/period-products-what-are-options>. 
+
+“PERIOD PRODUCTS.” Period products. New Zealand Family Planning. Accessed April 25, 2021. <https://www.familyplanning.org.nz/advice/periods/period-products>.

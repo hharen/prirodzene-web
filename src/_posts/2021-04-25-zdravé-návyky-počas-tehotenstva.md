@@ -4,16 +4,13 @@ title: Zdravé návyky počas tehotenstva
 slug: zdrave-navyky-pocas-tehotenstva
 topic: telo
 subtopic: vyvin
-date: 2021-04-25T13:34:12.391Z
-metadescription: "Počas tehotenstva je nevyhnutné príkladne sa starať o svoje
-  telo, keďže správanie matky ovplyvňuje aj vývin plodu. Toto je niekoľko zásad,
-  ktorými je dobré sa v období tehotenstva riadiť:"
-references: "Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo
-  Online: nonprofit organization. University of California, Santa Barbara .
-  Accessed January 1, 2021.
-  https://sexinfoonline.com/tips-for-a-healthy-pregnancy/"
+date: 2021-04-25T07:15:12.391Z
+metadescription: Počas tehotenstva je nevyhnutné príkladne sa starať o svoje
+  telo, keďže správanie matky ovplyvňuje aj vývin plodu. Existuje niekoľko
+  zásad, ktorými je dobré sa v období tehotenstva riadiť.
+references: ""
 ---
-Počas [tehotenstva](/vyvinove-fazy-plodu-a-tehotenstvo/) je nevyhnutné **príkladne sa starať o svoje telo**, keďže správanie matky ovplyvňuje aj vývin plodu. Toto je niekoľko zásad, ktorými je dobré sa v období tehotenstva riadiť: 
+Počas [tehotenstva](/vyvinove-fazy-plodu-a-tehotenstvo/){:target="_blank"} je nevyhnutné **príkladne sa starať o svoje telo**, keďže správanie matky ovplyvňuje aj vývin plodu. Toto je niekoľko zásad, ktorými je dobré sa v období tehotenstva riadiť: 
 
 <br>
 
@@ -45,7 +42,7 @@ Počas [tehotenstva](/vyvinove-fazy-plodu-a-tehotenstvo/) je nevyhnutné **prík
 
 <br>
 
-* Je obzvlášť dôležité chrániť sa pred pohlavne prenosenými infekciami (PPI). Pri neistote či podozrení na PPI je nevyhnutné dať sa otestovať.
+* Je obzvlášť dôležité [chrániť sa pred pohlavne prenosenými infekciami (PPI)](/prevencia-ppi/){:target="_blank"}. Pri neistote či podozrení na [PPI](/pohlavne-prenosne-infekcie/){:target="_blank"} je nevyhnutné dať sa otestovať.
 
 <br>
 
@@ -54,3 +51,13 @@ Počas [tehotenstva](/vyvinove-fazy-plodu-a-tehotenstvo/) je nevyhnutné **prík
 <br>
 
 * Dodržiavať pitný režim.
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. <https://sexinfoonline.com/tips-for-a-healthy-pregnancy/>

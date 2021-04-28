@@ -4,15 +4,13 @@ title: Andropauza
 slug: andropauza
 topic: telo
 subtopic: vyvin
-date: 2021-04-25T15:05:02.857Z
+date: 2021-04-25T06:25:02.857Z
 metadescription: Andropauza je proces, ktorý sprevádzajú zmeny hormonálnych
   hladín u ľudí s biologicky mužským pohlavím vplyvom starnutia. Tieto zmeny nie
   sú také rapídne a výrazné ako u ľudí s biologicky ženským pohlavím, ale dejú
   sa. Andropauza sa prejavuje poklesom hladiny testosterónu u mužov, ktorí majú
   nad 50 rokov.
-references: Krans, Brian, and Graham M.D. Rogers. “What Is Male Menopause?”
-  Healthline, September 16, 2018.
-  https://www.healthline.com/health/menopause/male
+references: ""
 ---
 **Andropauza** je proces, ktorý sprevádzajú zmeny hormonálnych hladín u ľudí s [biologicky mužským pohlavím](/pohlavna-anatomia/) vplyvom starnutia. Tieto zmeny nie sú také [rapídne](/menopauza/) a výrazné ako u ľudí s biologicky ženským pohlavím, ale dejú sa. Andropauza sa prejavuje poklesom hladiny testosterónu u mužov, ktorí majú nad 50 rokov. Andropauza je často spojená s hypogonadizmom, čo je porucha funkcie pohlavných žliaz, ktorej výsledkom je nedostatočná tvorba testosterónu. Testosterón okrem plodnosti zohráva rolu aj v mnohých iných telesných faktoroch, ako zmeny v puberte, fyzická a mentálna energia, svalová hmota či schopnosť reagovať na stresové situácie (*tzv. reakcia „útok alebo útek“)*. 
 
@@ -39,3 +37,13 @@ Na rozdiel od menopauzy u žien, andropauza sa neobjaví u všetkých ľudí mu
 Najpodstatnejším faktorom pri liečení symptómov andropauzy je otvorená komunikácia s lekármi/kami. Veľa mužov cíti zahanbenie či strach pri spomínaných symptómov, a to najmä v dôsledku spoločenskej stigmy v súvislosti s definíciou mužnosti a v dôsledku nedostatočnej informovanosti o andropauze. Väčšina symptómov sa dá zmierniť zmenou životného štýlu či nasadením liekov. Avšak, mnohé symptómy andropauzy sú typické aj pre mnohé iné závažné ochorenia, preto je veľmi dôležitá správna diagnostika.
 
 </div>
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+Krans, Brian, and Graham M.D. Rogers. “What Is Male Menopause?” Healthline, September 16, 2018. <https://www.healthline.com/health/menopause/male>.

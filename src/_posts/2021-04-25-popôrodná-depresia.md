@@ -4,23 +4,13 @@ title: Popôrodná depresia
 slug: poporodna-depresia
 topic: telo
 subtopic: vyvin
-date: 2021-04-25T13:38:05.872Z
-metadescription: Po skončení tehotenstva je nutné sa pripraviť na niekoľko
-  zmien, ktoré môžu u tehotnej osoby nastať. Jednou z nich býva aj popôrodná
-  depresia (PPD). PPD je zložitá kombinácia telesých, emocionálnych, psychických
-  a behaviorálnych zmien.
-references: >-
-  Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit
-  organization. University of California, Santa Barbara . Accessed January 1,
-  2021. https://sexinfoonline.com/postpartum-depression/.
-
-
-  Smith, Michael W. “Postpartum Depression: Symptoms, Causes, Risks, Types, Tests, Professional and Self-Care.” WebMD. WebMD, August 4, 2020. https://www.webmd.com/depression/guide/postpartum-depression.
-
-
-  Winer, Sharon A, and Andrea J Rapkin. “Premenstrual Disorders: Prevalence, Etiology and Impact.” ResearchGate . The Journal of reproductive medicine, May 2006. https://www.researchgate.net/publication/7049158_Premenstrual_disorders_Prevalence_etiology_and_impact.
+date: 2021-04-25T07:10:05.872Z
+metadescription: Po skončení tehotenstva je nutné sa pripraviť na množstvo
+  zmien, jednou z nich býva aj popôrodná depresia (PPD). PPD je zložitá
+  kombinácia telesných, emocionálnych, psychických a behaviorálnych zmien.
+references: ""
 ---
-**Popôrodná depresia** (PPD) je zložitá kombinácia telesných, emocionálnych, psychických a behaviorálnych zmien, ktoré môžu nastať u matky po [pôrode](/porod/).
+**Popôrodná depresia** (PPD) je zložitá kombinácia telesných, emocionálnych, psychických a behaviorálnych zmien, ktoré môžu nastať u matky po [pôrode](/porod/){:target="_blank"}.
 
 <br>
 
@@ -32,7 +22,7 @@ Symptómy PPD nie sú vždy jednoducho rozoznateľné. Väčšina matiek po pôr
 
 ### Príčiny a rizikové faktory
 
-Presné príčiny PPD nedokážeme určiť a nikto vám nevie prisľúbiť, že sa s PPD nestretnete. Mnohé chemické, sociálne a fyziologické zmeny, ktoré u matky nastávajú počas [tehotenstva](/vyvinove-fazy-plodu-a-tehotenstvo/) a po ňom sú však považované za spúšťače PPD. Dôležitú rolu hrajú hormonálne levely u matky. Počas tehotenstva sa hladiny estrogénu a progesterónu zvýšia desaťnásobne, pričom do troch dní po pôrode rapídne klesnú takmer na rovnaké hladiny ako pred tehotenstvom. Pri dojčení je relatívny nedostatok estrogénu a prevaha gestagénu. Hladiny hormónov produkovaných štítnou žľazou môžu tiež klesnúť, čo spôsobí únavu, malátnosť a smútok. Nedostatok spánku spôsobí, že matku môžu podráždiť drobnosti a cíti sa ochromená. Tehotenstvo je veľká životná zmena a matky, predovšetkým prvorodičky, často pociťujú úzkosť a strach z materstva. V neposlednom rade sa matky stretávajú s enormným spoločenským tlakom. Mnoho ľudí im chce radiť alebo ich poučovať v tom, ako majú svoje deti vychovávať, očakáva sa od nich, že sa budú starať aj o svoj vzhľad, pričom na domácnosť aj na dieťa sú často samy. Všetko tieto faktory sú stresové a v bežnom živote by tiež zaznamenali riziko vyvinutia depresívnej poruchy. 
+Presné príčiny PPD nedokážeme určiť a nikto vám nevie prisľúbiť, že sa s PPD nestretnete. Mnohé chemické, sociálne a fyziologické zmeny, ktoré u matky nastávajú počas [tehotenstva](/vyvinove-fazy-plodu-a-tehotenstvo/){:target="_blank"} a po ňom sú však považované za spúšťače PPD. Dôležitú rolu hrajú hormonálne levely u matky. Počas tehotenstva sa hladiny estrogénu a progesterónu zvýšia desaťnásobne, pričom do troch dní po pôrode rapídne klesnú takmer na rovnaké hladiny ako pred tehotenstvom. Pri dojčení je relatívny nedostatok estrogénu a prevaha gestagénu. Hladiny hormónov produkovaných štítnou žľazou môžu tiež klesnúť, čo spôsobí únavu, malátnosť a smútok. Nedostatok spánku spôsobí, že matku môžu podráždiť drobnosti a cíti sa ochromená. Tehotenstvo je veľká životná zmena a matky, predovšetkým prvorodičky, často pociťujú úzkosť a strach z materstva. V neposlednom rade sa matky stretávajú s enormným spoločenským tlakom. Mnoho ľudí im chce radiť alebo ich poučovať v tom, ako majú svoje deti vychovávať, očakáva sa od nich, že sa budú starať aj o svoj vzhľad, pričom na domácnosť aj na dieťa sú často samy. Všetko tieto faktory sú stresové a v bežnom živote by tiež zaznamenali riziko vyvinutia depresívnej poruchy. 
 
 <br>
 
@@ -42,7 +32,7 @@ Presné príčiny PPD nedokážeme určiť a nikto vám nevie prisľúbiť, že
 * nízky vek matky;
 * negatívny prístup k tehotenstvu, napr. v prípade, že bolo neplánované;
 * matky, ktoré už v minulosti porodili, majú vyššiu šancu dostať PPD;
-* [predmenštruačná dysforická porucha](/predmenstruacny-syndrom-pms-a-predmenstruacna-dysforicka-porucha-pmdd/);
+* [predmenštruačná dysforická porucha](/predmenstruacny-syndrom-pms-a-predmenstruacna-dysforicka-porucha-pmdd/){:target="_blank"};
 * nedostatočná podpora okolia;
 * bývanie osamote;
 * konflikt v manželstve alebo vo vzťahu.
@@ -61,7 +51,7 @@ Ak popôrodná depresia zostane neliečená, môže tiež dôjsť k dlhodobej s
 
 <div class='f-telo box-post'>
 
-Otehotnieť by mala len osoba, ktoré je na to pripravená, preto je dôležité vyhnúť sa nechcenému tehotenstvu a chrániť sa počas sexuálneho styku. Plánované tehotenstvo sa zvláda jednoduchšie a je pri ňom menšia šanca, že matku postihnú psychické problémy. 
+Otehotnieť by mala len osoba, ktoré je na to pripravená, preto je dôležité <a href="/ako-sa-chranit-proti-nezelanemu-tehotenstvu-a-prenosu-ppi">vyhnúť sa nechcenému tehotenstvu a chrániť</a> sa počas <a href="/sexualne-aktivity">sexuálneho sytku</a>. Plánované tehotenstvo sa zvláda jednoduchšie a je pri ňom menšia šanca, že matku postihnú psychické problémy. 
 
 </div>
 
@@ -69,7 +59,7 @@ Napriek tomu je dôležité si uvedomiť, že tehotenstvo a pôrod sú psychick
 
 <br>
 
-• [Zdravé návyky](/zdrave-navyky-pocas-tehotenstva/), ktoré ste dodržovali počas tehotenstva, dodržujte aj po pôrode. <br>
+• [Zdravé návyky](/zdrave-navyky-pocas-tehotenstva/){:target="_blank"}, ktoré ste dodržovali počas tehotenstva, dodržujte aj po pôrode. <br>
 
 • Nemajte príliš vysoké očakávania na seba ani na svoje dieťa. <br>
 
@@ -80,3 +70,17 @@ Napriek tomu je dôležité si uvedomiť, že tehotenstvo a pôrod sú psychick
 • Nesnažte sa to zvládnuť sám/sama. O starostlivosť o dieťa sa deľte s druhým rodičom, s parterom/kou, s rodinou, s priateľmi, prípadne s opatrovateľkou/om alebo využite služby pôrodnice, jaslí či podporných centier pre matky. <br>
 
 • Doprajte si čo najviac oddychu a spánku. <br>
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. [https://sexinfoonline.com/postpartum-depression/.](https://sexinfoonline.com/postpartum-depression/)
+
+Smith, Michael W. “Postpartum Depression: Symptoms, Causes, Risks, Types, Tests, Professional and Self-Care.” WebMD. WebMD, August 4, 2020. <https://www.webmd.com/depression/guide/postpartum-depression>.
+
+Winer, Sharon A, and Andrea J Rapkin. “Premenstrual Disorders: Prevalence, Etiology and Impact.” ResearchGate . The Journal of reproductive medicine, May 2006. <https://www.researchgate.net/publication/7049158_Premenstrual_disorders_Prevalence_etiology_and_impact>.
