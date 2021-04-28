@@ -14,11 +14,11 @@ Všetky články na Prirodzene Webe sú písané v duchu sex-pozitívneho mysle
 
 <br> 
 
-Sex-pozitívne myslenie pochádza z [hnutia za sex-pozitivitu](https://feministcampus.org/campaigns/sex-positivity/) (angl. sex-positivity movement) a zahŕňa nasledovné myšlienky.
+Sex-pozitívne myslenie pochádza z [hnutia za sex-pozitivitu](https://feministcampus.org/campaigns/sex-positivity/){:target="_blank"} (angl. sex-positivity movement) a zahŕňa nasledovné myšlienky.
 
-* Sexualita a konsenzuálny sex je zdravá súčasť života človeka.
-* Každý dospelý človek má právo na zdravý a uspokojujúci sexuálny život.
-* Každý človek by mal mať prístup ku komplexnému sexuálnemu vzdelávaniu.
+* Sexualita a [konsenzuálny sex](/sexualny-suhlas/){:target="_blank"} je zdravá súčasť života človeka.
+* Každý dospelý človek má právo na zdravý a [uspokojujúci sexuálny život](/sexualne-aktivity/){:target="_blank"}.
+* Každý človek by mal mať prístup ku [komplexnému sexuálnemu vzdelávaniu](/sexualne-vzdelavanie-vo-svete/){:target="_blank"}.
 * Každý človek má právo na zdravotnú starostlivosť, ktorá mu umožní mať zdravý a uspokojujúci sexuálny život.
 * Každý človek by mal mať možnosť sa zapájať do konsenzuálnych a bezpečných sexuálnych aktivít bez toho, aby bol za to zosmiešňovaný, šikanovaný, napádaný či trestaný.
 * Každý človek má právo na telesnú autonómiu a môže sa rozhodovať, čo sa bude z jeho/jej telom diať.
@@ -38,16 +38,16 @@ O hnutí za sex-pozitivitu existuje aj mnoho mylných predstáv a názorov. V�
 
 <br> 
 
-[Sex-pozitívne myslenie](https://www.goodreads.com/book/show/55301696-sex-ed) prvýkrát pomenoval Wilhelm Reich v roku 1920 a hnutie za sex-pozitivitu začalo v Spojených štátoch amerických v 60-tych rokoch minulého storočia, počas revolúcie v rozmýšľaní o sexualite a antikoncepcii, viac-menej v tandeme s feministickými hnutiami, ako aj s hnutiami za ľudské práva a za práva [LGBT+ komunity](/lgbti+-queer-komunita/). Počas poslednej dekády sa hnutie za sex-pozitivitu snaží hlavne o zmenu prístupu k [sexuálnemu vzdelávaniu](/sexualne-vzdelavanie-vo-svete/). Hlavným cieľom je prestať spájať sex a sexualitu primárne s hanbou a so strachom a začať klásť dôraz na potešenie a bezpečie pri sexe. Hnutie za sex-pozitivitu sa snaží o to, aby spoločnosť smerovala **k sexuálnej liberácii**, ktorá by mala zahŕňať nasledujúce koncepty a istoty:
+[Sex-pozitívne myslenie](https://www.goodreads.com/book/show/55301696-sex-ed){:target="_blank"} prvýkrát pomenoval Wilhelm Reich v roku 1920 a hnutie za sex-pozitivitu začalo v Spojených štátoch amerických v 60-tych rokoch minulého storočia, počas revolúcie v rozmýšľaní o sexualite a [antikoncepcii](/ako-sa-chranit-proti-nezelanemu-tehotenstvu-a-prenosu-ppi/){:target="_blank"}, viac-menej v tandeme s feministickými hnutiami, ako aj s hnutiami za ľudské práva a za práva [LGBT+ komunity](/lgbti+-queer-komunita/){:target="_blank"}. Počas poslednej dekády sa hnutie za sex-pozitivitu snaží hlavne o zmenu prístupu k [sexuálnemu vzdelávaniu](/sexualne-vzdelavanie-vo-svete/){:target="_blank"}. Hlavným cieľom je prestať spájať sex a sexualitu primárne s hanbou a so strachom a začať klásť dôraz na potešenie a bezpečie pri sexe. Hnutie za sex-pozitivitu sa snaží o to, aby spoločnosť smerovala **k sexuálnej liberácii**, ktorá by mala zahŕňať nasledujúce koncepty a istoty:
 
-* zrovnoprávnenie ľudí inej než [heterosexuálnej orientácie](/sexualna-orientacia/) a inej než [cisrodovej identity](/rodova-identita/);
-* prístup k antikoncepčným metódam nezávisle od ekonomickej alebo sociálnej situácie človeka;
+* zrovnoprávnenie ľudí inej než [heterosexuálnej orientácie](/sexualna-orientacia/){:target="_blank"} a inej než [cisrodovej identity](/rodova-identita/){:target="_blank"};
+* prístup k [antikoncepčným metódam](/ako-sa-chranit-proti-nezelanemu-tehotenstvu-a-prenosu-ppi/){:target="_blank"} nezávisle od ekonomickej alebo sociálnej situácie človeka;
 * desexualizácia ľudskej nahoty;
 * legalizácia práce v sexuálnom priemysle a vytvorenie systému, kde je takáto práca adekvátne kontrolovaná a zaručuje bezpečie, práva a povinnosti pracovníkov/čiek, ako aj zákazníkov/čiek, prípadne spotrebiteľov;
 * destigmatizácia rôznych prejavov ľudskej sexuality, napríklad masturbácie;
-* právne zaručená telesná autonómia (napríklad prístup k [interrupciám](/umele-prerusenie-tehotenstva-interrupcia/); zákaz vykonávania zákrokov bez zdravotnej indikácie na deťoch atď.);
-* zaručený prístup k zdravotnej starostlivosti súvisiacej so sexuálnym zdravím, a to bez ohľadu na [rod](/rodova-identita/), [pohlavie ](/pohlavna-anatomia/)či [sexualitu](/sexualna-orientacia/);
-* právne definovaný sexuálny súhlas;
+* právne zaručená telesná autonómia (napríklad prístup k [interrupciám](/umele-prerusenie-tehotenstva-interrupcia/){:target="_blank"}; zákaz vykonávania zákrokov bez zdravotnej indikácie na deťoch atď.);
+* zaručený prístup k zdravotnej starostlivosti súvisiacej so sexuálnym zdravím, a to bez ohľadu na [rod](/rodova-identita/){:target="_blank"}, [pohlavie](/pohlavna-anatomia/){:target="_blank"} či [sexualitu](/sexualna-orientacia/){:target="_blank"};
+* právne definovaný [sexuálny súhlas](/sexualny-suhlas/){:target="_blank"};
 * právne definované znásilnenie ako sex bez súhlasu;
 * a podobne.
 
