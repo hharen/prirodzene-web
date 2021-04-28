@@ -47,14 +47,13 @@ collections:
           - { label: 'Sexualita a spoločnosť', value: 'spolocnost' }
           - { label: 'Sex', value: 'sex-subtopic' }
           - { label: 'Zdravotné problémy', value: 'problemy' }
-          - { label: 'Pohlavne prenostné infekcie', value: 'infekcie' }
+          - { label: 'Pohlavne prenosné infekcie', value: 'infekcie' }
           - { label: 'Antikoncepcia a bariéry', value: 'bariery' }
           - { label: 'Vzťahy', value: 'vztahy' }
           - { label: 'Komunikácia', value: 'komunikacia' }
       - { label: Publish Date, name: date, widget: datetime }
       - { label: Metadescription, name: metadescription, widget: markdown, required: false }
       - { label: Body, name: body, widget: markdown }
-      - { label: References, name: references, widget: markdown, required: false }
   - name: pages
     label: Pages
     editor:
