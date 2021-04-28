@@ -45,7 +45,7 @@ Niekedy sa môžeme stretnúť s otázkou, či sa napríklad aj pedofília aleb
 
 <p class="important-text">ZDROJE:</p>
 
-KLASSEN, PHILIP, and PERCY WRIGHT. “Sexual Deviation.” Sexual Deviation - an overview | ScienceDirect Topics. Psychiatric Clinical Skills, 2006. <https://www.sciencedirect.com/topics/immunology-and-microbiology/sexual-deviation>.  
+KLASSEN, PHILIP, and PERCY WRIGHT. “Sexual Deviation.” Sexual Deviation - an overview. ScienceDirect Topics. Psychiatric Clinical Skills, 2006. <https://www.sciencedirect.com/topics/immunology-and-microbiology/sexual-deviation>.  
 
 Rare, Ruby, and Sofie Birkin. Sex Ed: a Guide for Adults. London, UK: Bloomsbury, 2020. 
 
