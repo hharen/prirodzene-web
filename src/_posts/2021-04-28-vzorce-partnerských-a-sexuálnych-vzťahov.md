@@ -14,9 +14,7 @@ Na začiatok je dôležité zdôrazniť, že vzťahy nie sú len partnerské. Vz
 
 ### **Citová výlučnosť** 
 
-Citová výlučnosť určuje hranice konkrétneho partnerského vzťahu týkajúce sa romantických väzieb. Ak sa človek dokáže súčasne zaľúbiť len do 1 osoby, je monoamórny, ak sa dokáže súčasne zaľúbiť do viac než 1 osoby, je polyamórny. Avšak, naša schopnosť existovať v istej vzťahovej štruktúre neurčuje hranice konkrétneho vzťahu. To znamená, že ak sú napríklad vo vzťahu 2 osoby, z ktorých 1 je monoamórna a 1 je polyamórna, môžu sa dohodnúť, že budú žiť v monoamórnom vzťahu. Takýto vzťah má teda vysokú citovú výlučnosť (t.j. citové väzby môžu mať títo 2 ľudia len medzi sebou). Takisto sa však môžu dohodnúť, že budú žiť v polyamórnom vzťahu, v ktorom polymórny človek môžu mať romantický vzťah aj s inými ľuďmi (v takomto prípade by vzťah mal nižšiu citovú výlučnosť).
-
-<br> 
+Citová výlučnosť určuje hranice konkrétneho partnerského vzťahu týkajúce sa romantických väzieb. Ak sa človek dokáže súčasne zaľúbiť len do 1 osoby, je monoamórny, ak sa dokáže súčasne zaľúbiť do viac než 1 osoby, je polyamórny. Avšak, naša schopnosť existovať v istej vzťahovej štruktúre neurčuje hranice konkrétneho vzťahu. To znamená, že ak sú napríklad vo vzťahu 2 osoby, z ktorých 1 je monoamórna a 1 je polyamórna, môžu sa dohodnúť, že budú žiť v monoamórnom vzťahu. Takýto vzťah má teda vysokú citovú výlučnosť (t.j. citové väzby môžu mať títo 2 ľudia len medzi sebou). Takisto sa však môžu dohodnúť, že budú žiť v polyamórnom vzťahu, v ktorom polymórny človek môžu mať romantický vzťah aj s inými ľuďmi (v takomto prípade by vzťah mal nižšiu citovú výlučnosť). <br> 
 
 ### **Sexuálna výlučnosť**
 
