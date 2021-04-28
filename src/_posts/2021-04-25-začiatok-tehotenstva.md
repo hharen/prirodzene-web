@@ -60,16 +60,10 @@ Kým oplodnené vajíčko putuje do maternice, stane sa z neho zhluk približne
 
 <p class="important-text">ZDROJE:</p>
 
-Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. 
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. <https://sexinfoonline.com/>. 
 
-<https://sexinfoonline.com/>. 
+“Phases of Menstrual Cycle.” Menstrupedia. Accessed March 20, 2021. <https://menstrupedia.com/articles/physiology/cycle-phases>. 
 
-“Phases of Menstrual Cycle.” Menstrupedia. Accessed March 20, 2021. 
-
-<https://menstrupedia.com/articles/physiology/cycle-phases>. 
-
-Redakcia. “Tehotenstvo, Počatie, Plánovanie Bábätka.” Promama. Accessed March 20, 2021. 
-
-<https://www.promama.sk/tehotenstvo/vyhladavanie?kategorie=41>. 
+Redakcia. “Tehotenstvo, Počatie, Plánovanie Bábätka.” Promama. Accessed March 20, 2021. <https://www.promama.sk/tehotenstvo/vyhladavanie?kategorie=41>. 
 
 Weathering the Wait.” What To Expect. N.p., n.d. Web. 4 Feb. 2017.
