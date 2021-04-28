@@ -39,7 +39,7 @@ Rovnako, ako je dôležité, aby sme s človekom komunikovali s rešpektom, ot
 * **osobné hranice;** 
 * prospešné môže byť použitie princípu: **chcem, môžem, nebudem** – tento princíp funguje tak, že s niekým zdieľame, čo by sme chceli robiť, čo sme ochotní robiť, ak to chce partner a čo robiť nechceme a nebudeme;
 * **očakávania**: či už ide o sex na 1 noc alebo o dlhodobý vzťah, je dôležité, aby si všetci zúčastnení boli vedomí vzájomných očakávaní v súvislosti s prípadným (ne)pokračovaním vzťahu (sexuálneho, romantického, priateľského atď.);
-* **vzťahový status**: je dôležité uistiť sa, či sú zúčastnení slobodní, v monogamnom/otvorenom/polygamnom vzťahu a podobne;
+* <a href="/vzorce-partnerskych-a-sexualnych-vztahov" target="_blank"><strong>vzťahový status</strong></a>: je dôležité uistiť sa, či sú zúčastnení slobodní, v monogamnom/otvorenom/polygamnom vzťahu a podobne;
 * tzv. **bezpečné slová** (angl. safe words): môže byť prospešné stanoviť si neutrálne slová, ktoré budú znamenať, že aktivitu chcete ukončiť (napr. „mango“) a to najmä v prípade, že aktivita bude zahŕňať BDSM praktiky, hry a podobne;
 * **trauma, diskomfort, neistoty**: tento krok je podstatný najmä pre obete sexuálneho násilia, obťažovania či zneužívania, či pre ľudí, ktorí môžu cítiť diskomfort v súvislosti so svojim telom (napr. ľudia s telesnou dysfóriou, s poruchami príjmu potravy a podobne);
 * čo by sme chceli robiť **po skončení sexuálnej aktivity**;
@@ -49,7 +49,7 @@ Rovnako, ako je dôležité, aby sme s človekom komunikovali s rešpektom, ot
 
 ### **2. Počas sexuálnej aktivity:**
 
-* <a href="/sexualny-suhlas[](/sexualny-suhlas/)" target="_blank"><strong>súhlas</strong></a>– musí byť komunikovaný po celý čas, špecificky a informovane;
+* <a href="/sexualny-suhlas" target="_blank"><strong>súhlas</strong></a>– musí byť komunikovaný po celý čas, špecificky a informovane;
 * **uistenie sa**, že je všetko v poriadku a všetci zúčastnení sa cítia komfortne a bezpečne;
 * čo sa nám páči a čo sa nám nepáči – partnera/ku môžeme **nasmerovať** a viesť verbálne aj neverbálne a vyjadrovať tak, čo sa nám páči, čo menej, čo zmeniť atď.;
 * **bezpečie** – napríklad uistenie sa, že [kondóm](/ako-sa-chranit-proti-nezelanemu-tehotenstvu-a-prenosu-ppi/){:target="_blank"} je na správnom mieste a podobne;
