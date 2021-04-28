@@ -65,10 +65,6 @@ Hnutie za sex-pozitivitu ako aj koncept sexuálnej liberácie sú vo veľkej mie
 
 Rare, Ruby, and Sofie Birkin. Sex Ed: a Guide for Adults. London, UK: Bloomsbury, 2020. 
 
-Sex Education...With Pleasure. Sex Education...With Pleasure | Victoria Beltran | TEDxUSFSP. YouTube, 2016. 
+Sex Education...With Pleasure. Sex Education...With Pleasure | Victoria Beltran | TEDxUSFSP. YouTube, 2016. <https://www.youtube.com/watch?v=R-gwxS-7h9o>. 
 
-<https://www.youtube.com/watch?v=R-gwxS-7h9o>. 
-
-“Sex Positivity.” Feminist Campus. World's Largest Feminist Student Network. Accessed April 3, 2021. 
-
-<https://feministcampus.org/campaigns/sex-positivity/>.
+“Sex Positivity.” Feminist Campus. World's Largest Feminist Student Network. Accessed April 3, 2021. <https://feministcampus.org/campaigns/sex-positivity/>.
