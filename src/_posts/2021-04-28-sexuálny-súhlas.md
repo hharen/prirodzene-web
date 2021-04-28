@@ -9,7 +9,7 @@ metadescription: Súhlas v sexuálnom vzdelávaní znamená, že všetky osoby, 
   sa zúčastňujú nejakej sexuálnej aktivity, to robia dobrovoľne, na základe
   vzájomného konsenzu.
 ---
-**Súhlas (angl. consent) v** <a href="/sexualne-vzdelavanie-vo-svete" target="_blank"><strong>sexuálnom vzdelávaní</strong></a> **znamená, že všetky osoby, ktoré sa zúčastňujú nejakej** <a href="/sexualne-aktivity="_blank"><strong>sexuálnej aktivity,</strong></a> **to robia dobrovoľne, na základe vzájomného konsenzu.** Považuje sa za základný element partnerského sexu. Súhlas môže byť vyjadrený slovne aj neverbálne, ale vždy musí byť **jednoznačný** a **dobrovoľný**.
+**Súhlas (angl. consent) v** <a href="/sexualne-vzdelavanie-vo-svete" target="_blank"><strong>sexuálnom vzdelávaní</strong></a> **znamená, že všetky osoby, ktoré sa zúčastňujú nejakej** <a href="/sexualne-aktivity" target="_blank"><strong>sexuálnej aktivity</strong></a>, **to robia dobrovoľne, na základe vzájomného konsenzu.** Považuje sa za základný element partnerského sexu. Súhlas môže byť vyjadrený slovne aj neverbálne, ale vždy musí byť **jednoznačný** a **dobrovoľný**.
 
 Nie všetky osoby sú schopné vyjadriť súhlas. Súhlas vedia a môžu vyjadriť len osoby, ktoré sa legálne môžu zapájať do sexuálnej aktivity (na Slovensku **vo veku 15 +**), sú **pri plnom vedomí**, sú **svojprávne** a vo **vzájomnom rovnocennom postavení**. 
 
