@@ -4,7 +4,7 @@ title: Rodová identita
 slug: rodova-identita
 topic: identita
 subtopic: identita
-date: 2021-04-25T18:15:29.656Z
+date: 2021-04-25T06:15:29.656Z
 metadescription: Rod súvisí s našimi rolami v spoločnosti, s naším správaním a s
   našou identitou. Rodová identita je schopnosť človeka vnútorne a individuálne
   pociťovať rod, ktorý môže, ale nemusí, zodpovedať pohlaviu, s ktorým sa človek
