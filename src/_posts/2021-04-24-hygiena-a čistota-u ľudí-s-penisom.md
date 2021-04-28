@@ -14,11 +14,11 @@ references: ""
 Dôkladná starostlivosť o hygienu v oblasti genitálií je dôležitá. Za [žaluďom](/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-penisom/){:target="_blank"} sa hromadí biela až žltá hmota, ktorú produkujú žľazy predkožky. Tejto hmote hovoríme smegma. Smegma obsahuje baktérie, odumreté bunky aj mastnotu. Pri nedostatočnej hygiene môže spôsobiť nepríjemné infekcie a zápaly. Toto sú zásady, ktoré by mal človek s penisom pri hygiene dodržiavať: 
 
 * Po močení by sa mali zbytky moču jemne utrieť toaletným papierom.
-* Penis by sa mal umývať každý deň a je potrebné vyhnúť sa agresívnemu treniu. Predkožka sa má jemne stiahnuť pod korunku žaluďa, ktorý treba dôkladne umyť. 
+* [Penis](/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-penisom/){:target="_blank"} by sa mal umývať každý deň a je potrebné vyhnúť sa agresívnemu treniu. Predkožka sa má jemne stiahnuť pod korunku žaluďa, ktorý treba dôkladne umyť. 
 * Miešok by sa mal opatrne umyť čistou vodou alebo malým množstvom mydla či sprchového gélu. 
 * V oblasti penisu sa neodporúča používať niektoré mydlá či sprchové gély. V žiadnom prípade sa v oblasti genitálií nemajú aplikovať parfumy. Rôzne produkty, ktoré sľubujú zväčšenie penisu či vyblednutie kože môžu byť veľmi nebezpečné. 
-* Odporúča sa nosiť voľnú spodnú bielizeň, aby sa predišlo nadmernému poteniu, kultivácií baktérií a prehrievaniu semenníkov.
-* Praktizovať chránené sexuálne aktivity, vrátane penilného, orálneho aj análneho sexu, či akýchkoľvek iných sexuálnych praktík, pri ktorých dochádza k styku s genitáliami.
+* Odporúča sa nosiť voľnú spodnú bielizeň, aby sa predišlo nadmernému poteniu, kultivácií baktérií a prehrievaniu [semenníkov](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-penisom/){:target="_blank"}.
+* Praktizovať [chránené sexuálne aktivity](/ako-sa-chranit-proti-nezelanemu-tehotenstvu-a-prenosu-ppi/){:target="_blank"}, vrátane penilného, orálneho aj análneho [sexu](/sexualne-aktivity/){:target="_blank"}, či akýchkoľvek iných sexuálnych praktík, pri ktorých dochádza k styku s genitáliami.
 * Vymočením sa po sexuálnej aktivite sa dá predísť zápalu močovej trubice.
 
 <br>
