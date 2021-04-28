@@ -4,24 +4,13 @@ title: Menštruačné pomôcky
 slug: menstruacne-pomocky
 topic: telo
 subtopic: vyvin
-date: 2021-04-25T14:44:14.810Z
+date: 2021-04-25T06:40:14.810Z
 metadescription: Ľudia, ktorí mávajú menštruáciu, musia väčšinou počas tejto
   fázy cyklu používať menštruačné pomôcky. Slúžia na absorpciu alebo zbieranie
   menštruačnej tekutiny. Existujú mnohé typy menštruačných potrieb, pričom
   všetky majú rôzne výhody aj nevýhody, rôznu cenu aj dostupnosť. Každému z nás
   vyhovujú iné pomôcky.
-references: >-
-  Brochmann, Nina, and Ellen Støkken Dahl. The Wonder Down Under. Hodder &amp;
-  Stoughton, 2018. 
-
-
-  “Čo Je Syndróm Toxického Šoku (STŠ)?” Čo je syndróm toxického šoku (TSS)? Tampax. Accessed March 20, 2021. https://www.tampax.eu/sk/co-je-syndrom-toxickeho-soku-tss/.
-
-
-  Nozari, Roza. “Period Products: What Are the Options?” IPPF, November 20, 2020. https://www.ippf.org/blogs/period-products-what-are-options. 
-
-
-  “PERIOD PRODUCTS.” Period products. New Zealand Family Planning. Accessed April 25, 2021. https://www.familyplanning.org.nz/advice/periods/period-products.
+references: ""
 ---
 Ľudia, ktorí mávajú [menštruáciu](/menstruacny-cyklus/), musia väčšinou počas tejto fázy cyklu používať menštruačné pomôcky. Slúžia na absorpciu alebo zbieranie menštruačnej tekutiny. Existujú mnohé typy menštruačných potrieb, pričom všetky majú rôzne výhody aj nevýhody, rôznu cenu aj dostupnosť. Každému z nás vyhovujú iné pomôcky. 
 
@@ -62,3 +51,25 @@ Menštruačný disk vo svojom názve nesie aj svoj tvar. Disk sa zavádza do vn�
 <img src="/images/uploads/menstruacne-pomocky-2.JPG" alt="Použitá menštruačná vložka, tampón, kalíšok a nohavičky">
 
 </div>
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+Brochmann, Nina, and Ellen Støkken Dahl. The Wonder Down Under. Hodder &amp; Stoughton, 2018. 
+
+“Čo Je Syndróm Toxického Šoku (STŠ)?” Čo je syndróm toxického šoku (TSS)? Tampax. Accessed March 20, 2021. 
+
+<https://www.tampax.eu/sk/co-je-syndrom-toxickeho-soku-tss/>.
+
+Nozari, Roza. “Period Products: What Are the Options?” IPPF, November 20, 2020. 
+
+<https://www.ippf.org/blogs/period-products-what-are-options>. 
+
+“PERIOD PRODUCTS.” Period products. New Zealand Family Planning. Accessed April 25, 2021. 
+
+<https://www.familyplanning.org.nz/advice/periods/period-products>.
