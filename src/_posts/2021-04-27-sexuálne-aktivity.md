@@ -4,7 +4,7 @@ title: Sexuálne aktivity
 slug: sexualne-aktivity
 topic: sex
 subtopic: sex-subtopic
-date: 2021-04-27T21:39:24.865Z
+date: 2021-04-25T05:55:00.000Z
 metadescription: Sex sú v podstate všetky druhy priamej konsenzuálnej sexuálnej
   interakcie medzi dvoma alebo viacerými ľuďmi, prípadne interakcia so svojím
   vlastným telom. Sex môže znamenať pre každého niečo iné.
