@@ -11,7 +11,7 @@ metadescription: Komunikáciou získame a dávame súhlas, nastavujeme si osobn
 ---
 O komunikácii vo vzťahoch počujeme často. Toto slovo je skloňované v rôznych kontextoch a je to jeden z najčastejších tipov na riešenie problémov vo vzťahu. Málokedy sa však rozpráva o tom, čo efektívna komunikácia vlastne znamená. A to možno aj preto, že efektivita komunikácie závisí od mnohých faktorov, ako typ vzťahu, téma, osobitné spôsoby komunikácie rôznych ľudí, kontext konverzácie a podobne. Neexistuje preto jednotný návod, ktorý by bol univerzálne použiteľný a funkčný pre každého. Existuje však niekoľko pravidiel, ktoré by mali byť všeobecne dodržiavané a o ich nevyhnutnosti sa dá len veľmi ťažko polemizovať, a to predovšetkým v kontexte komunikácie v sexuálnom vzťahu.
 
-Komunikácia je najdôležitejšou súčasťou zdravého sexuálneho života. **Komunikáciou získame a dávame [súhlas](/sexualny-suhlas/), nastavujeme si osobné hranice, dozvedáme sa o vzájomných prianiach a potrebách a zisťujeme všetky potrebné informácie, vďaka ktorým sa môžeme informovane rozhodovať.** 
+Komunikácia je najdôležitejšou súčasťou zdravého sexuálneho života. **Komunikáciou získame a dávame** <a href="/sexualny-suhlas[](/sexualny-suhlas/)" target="_blank"><strong>súhlas</strong></a>**, nastavujeme si osobné hranice, dozvedáme sa o vzájomných prianiach a potrebách a zisťujeme všetky potrebné informácie, vďaka ktorým sa môžeme informovane rozhodovať.** 
 
 #### Pri komunikácii, predovšetkým medzi partermi/kami, by sa vo všeobecnosti mali dodržiavať nasledujúce zásady: 
 
@@ -23,7 +23,7 @@ Komunikácia je najdôležitejšou súčasťou zdravého sexuálneho života. **
 
 <br>
 
-Rovnako, ako je dôležité, aby sme s človekom komunikovali s rešpektom, otvorene a úprimne, je dôležité uistiť sa, že aj táto osoba komunikuje rovnako s nami. Ak si všimneme, že osoba, s ktorou komunikujeme, nejaví záujem o naše potreby, klame, prípadne nám nedôveruje, nastáva problém. S takýmto človekom nie je bezpečné púšťať sa do [sexuálnych aktivít](/sexualne-aktivity/). Sex môže byť pre mnohých ľudí veľmi intímna téma a preto je dôležité mať sex len s takými ľuďmi, s ktorými o sexe dokážeme komunikovať. 
+Rovnako, ako je dôležité, aby sme s človekom komunikovali s rešpektom, otvorene a úprimne, je dôležité uistiť sa, že aj táto osoba komunikuje rovnako s nami. Ak si všimneme, že osoba, s ktorou komunikujeme, nejaví záujem o naše potreby, klame, prípadne nám nedôveruje, nastáva problém. S takýmto človekom nie je bezpečné púšťať sa do [sexuálnych aktivít](/sexualne-aktivity/){:target="_blank"}. Sex môže byť pre mnohých ľudí veľmi intímna téma a preto je dôležité mať sex len s takými ľuďmi, s ktorými o sexe dokážeme komunikovať. 
 
 #### Komunikácia v sexuálnom kontexte by mala obsahovať nasledujúce fázy a témy.
 
@@ -31,8 +31,8 @@ Rovnako, ako je dôležité, aby sme s človekom komunikovali s rešpektom, ot
 
 ### **1. Pred sexuálnou aktivitou:**
 
-* **[PPI](/pohlavne-prenosne-infekcie/):** aktuálny zdravotný stav, posledné [testovanie](/prevencia-ppi/), preferované [metódy ochrany proti PPI](/ako-sa-chranit-proti-nezelanemu-tehotenstvu-a-prenosu-ppi/), prípadný strach z nákazy ak je niektorý s partnerov pozitívny na niektorú PPI a podobne;
-* **[antikoncepcia](/ako-sa-chranit-proti-nezelanemu-tehotenstvu-a-prenosu-ppi/)**: v prípade, že sa zapájate do sexuálnej aktivity, pri ktorej niektorý z partnerov/iek môže otehotnieť, je nevyhnutné mať rozhovor o antikoncepčných metódach, ktoré použijete;
+* <a href="/pohlavne-prenosne-infekcie" target="_blank"><strong>PPI</strong></a>**:** aktuálny zdravotný stav, posledné [testovanie](/prevencia-ppi/){:target="_blank"}, preferované [metódy ochrany proti PPI](/ako-sa-chranit-proti-nezelanemu-tehotenstvu-a-prenosu-ppi/){:target="_blank"}, prípadný strach z nákazy ak je niektorý s partnerov pozitívny na niektorú PPI a podobne;
+* <a href="/ako-sa-chranit-proti-nezelanemu-tehotenstvu-a-prenosu-ppi" target="_blank"><strong>antikoncepcia</strong></a>: v prípade, že sa zapájate do sexuálnej aktivity, pri ktorej niektorý z partnerov/iek môže otehotnieť, je nevyhnutné mať rozhovor o antikoncepčných metódach, ktoré použijete;
 * čo sa nám pri sexe **páči**;
 * čo sa nám pri sexe **nepáči**;
 * zdravotné **prekážky** a spôsoby, akými ich je možné čiastočne eliminovať (napr. použitím lubrikačného gélu, pomôckami ako Ohnut atď.);
@@ -49,10 +49,10 @@ Rovnako, ako je dôležité, aby sme s človekom komunikovali s rešpektom, ot
 
 ### **2. Počas sexuálnej aktivity:**
 
-* **[súhlas](/sexualny-suhlas/)** – musí byť komunikovaný po celý čas, špecificky a informovane;
+* <a href="/sexualny-suhlas[](/sexualny-suhlas/)" target="_blank"><strong>súhlas</strong></a>– musí byť komunikovaný po celý čas, špecificky a informovane;
 * **uistenie sa**, že je všetko v poriadku a všetci zúčastnení sa cítia komfortne a bezpečne;
 * čo sa nám páči a čo sa nám nepáči – partnera/ku môžeme **nasmerovať** a viesť verbálne aj neverbálne a vyjadrovať tak, čo sa nám páči, čo menej, čo zmeniť atď.;
-* **bezpečie** – napríklad uistenie sa, že [kondóm](/ako-sa-chranit-proti-nezelanemu-tehotenstvu-a-prenosu-ppi/) je na správnom mieste a podobne;
+* **bezpečie** – napríklad uistenie sa, že [kondóm](/ako-sa-chranit-proti-nezelanemu-tehotenstvu-a-prenosu-ppi/){:target="_blank"} je na správnom mieste a podobne;
 * neverbálna komunikácia: odtiahnutie sa, zmeravenie, vzdychanie, pohyb, dotyk, mimika, výraz tváre, zastavenie a podobne.
 
 <br>
@@ -71,7 +71,7 @@ Tento zoznam je len orientačný a rozhodne nie je vyčerpateľný, obsahuje le
 
 ## Ako na to?
 
-V prípade, že [sexuálna aktivita](/sexualne-aktivity/) nie je jednorazová, je nesmierne prospešné rozprávať sa o sexe v neutrálnom kontexte, keď sú ľudia všeobecne menej zraniteľní a citliví. Kvôli stigme a hanbe, ktorú mnohí ľudia v súvislosti so sexom majú, môžu byť však takéto rozhovory často nepríjemné či trápne. Existujú rôzne online pomôcky ako [MojoUpgrade.com](https://mojoupgrade.com/), ktoré majú za úlohu pomôcť ľuďom a párom otvoriť konverzácie o sexe. Pri bežných rozhovoroch môžeme použiť niekoľko stratégií, ktoré môžu komunikáciu o sexe urobiť jednoduchšou.
+V prípade, že [sexuálna aktivita](/sexualne-aktivity/){:target="_blank"} nie je jednorazová, je nesmierne prospešné rozprávať sa o sexe v neutrálnom kontexte, keď sú ľudia všeobecne menej zraniteľní a citliví. Kvôli stigme a hanbe, ktorú mnohí ľudia v súvislosti so sexom majú, môžu byť však takéto rozhovory často nepríjemné či trápne. Existujú rôzne online pomôcky ako [MojoUpgrade.com](https://mojoupgrade.com/){:target="_blank"}, ktoré majú za úlohu pomôcť ľuďom a párom otvoriť konverzácie o sexe. Pri bežných rozhovoroch môžeme použiť niekoľko stratégií, ktoré môžu komunikáciu o sexe urobiť jednoduchšou.
 
 ### **Sebareflexia**
 
