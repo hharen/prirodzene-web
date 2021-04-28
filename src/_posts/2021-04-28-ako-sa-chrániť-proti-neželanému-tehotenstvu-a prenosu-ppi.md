@@ -159,3 +159,31 @@ Dental dam je štvorcový kus blany väčšinou vyrobený z latexu. Používa sa
 Okrem spomínaných metód takisto existujú **dlhodobé operačné antikoncepčné zákroky**, ako ligácia vaječníkov či vazektómia. Niektorí ľudia používajú tzv. **prirodzené metódy plánovaného rodičovstva**, ktoré spočívajú v zabránení vniknutiu spermií do pošvy, predovšetkým v období ovulácie. Tieto metódy však nie sú veľmi spoľahlivé a odporúčajú sa len pre páry, pre ktoré by otehotnenie nespôsobilo výrazný problém. V núdzových prípadoch je možné pristúpiť k zabráneniu nechcenému tehotenstvu po sexuálnom styku užitím tzv. „**tabletky po**“, **k zavedeniu medeného telieska po styku** alebo k ukončeniu tehotenstva prostredníctvom **[interrupcie](/umele-prerusenie-tehotenstva-interrupcia/)**. „Tabletka po“ s obsahom levonorgestrelu je voľnopredajná, je nutné ju užiť do 72 hodín po nechránenom sexuálnom styku, najlepšie do 12 hodín. „Tabletka po“ s obsahom ulipristalu je taktiež voľnopredajná a dá sa užiť až do 5 dní od styku. Mali by sa však používať len v nevyhnutných prípadoch.
 
 Všetky antikoncepčné metódy aj bariéry proti prenosu PPI majú svoje výhody aj nevýhody, ktoré často súvisia ako s konkrétnou značkou či typom, tak aj s jedinečnosťou našich tiel a osobnými preferenciami. Ak si človek nie je istý, aká metóda je preňho tá správna, mal by sa poradiť so svojím lekárom/kou.
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+<br>
+
+“Antikoncepcia: Aké Sú Typy Antikoncepcie? Ktorú Si Zvoliť? Aké Riziká so Sebou Prináša?” Lekar.sk, October 28, 2020. https://lekar.sk/clanok/antikoncepcia. 
+
+<br>
+
+Freedman, Beth, and Nancy Padian. “Barrier Methods.” Prevention UCSF. University of California San Francisco | School of Medicine | Department of Medicine | Division of Prevention Science|. Accessed April 15, 2021. https://prevention.ucsf.edu/research-project/barrier-methods. 
+
+<br>
+
+“Metódy a Formy Antikoncepcie.” Spoločnosť pre plánované rodičovstvo, December 1, 2010. https://rodicovstvo.wordpress.com/antikoncepcia/metody/.
+
+<br>
+
+“Typy Antikoncepcie. Akú Si Zvoliť?” Najlekáreň.eu, 2020. https://www.najlekaren.eu/aktuality/typy-antikoncepie-aku-si-zvolit.html. 
+
+<br>
+
+“Your Contraception Guide.” NHS Choices. NHS, March 17, 2021. https://www.nhs.uk/conditions/contraception/?tabname=methods-of-contraception.
