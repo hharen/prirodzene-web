@@ -5,9 +5,9 @@ slug: sexualny-suhlas
 topic: vztahy
 subtopic: komunikacia
 date: 2021-04-25T05:25:00.000Z
-metadescription: "> Súhlas v sexuálnom vzdelávaní znamená, že všetky osoby,
-  ktoré sa zúčastňujú nejakej sexuálnej aktivity, to robia dobrovoľne, na
-  základe vzájomného konsenzu."
+metadescription: Súhlas v sexuálnom vzdelávaní znamená, že všetky osoby, ktoré
+  sa zúčastňujú nejakej sexuálnej aktivity, to robia dobrovoľne, na základe
+  vzájomného konsenzu.
 ---
 **Súhlas (angl. consent) v sexuálnom vzdelávaní znamená, že všetky osoby, ktoré sa zúčastňujú nejakej sexuálnej aktivity, to robia dobrovoľne, na základe vzájomného konsenzu.** Považuje sa za základný element partnerského sexu. Súhlas môže byť vyjadrený slovne aj neverbálne, ale vždy musí byť **jednoznačný** a **dobrovoľný**.
 
