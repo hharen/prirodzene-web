@@ -60,6 +60,4 @@ V prípade, že symptómy menopauzy sú veľmi silné alebo bránia človeku vo
 
 <p class="important-text">ZDROJE:</p>
 
-Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. 
-
-<https://sexinfoonline.com/menopause/>.
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. <https://sexinfoonline.com/menopause/>.
