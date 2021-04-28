@@ -63,11 +63,11 @@ Predísť niektorým problémom môže človek aj vďaka správnej starostlivost
 * Praktizovať [chránené sexuálne aktivity](/ako-sa-chranit-proti-nezelanemu-tehotenstvu-a-prenosu-ppi/){:target="_blank"}, vrátane vaginálneho, orálneho aj análneho sexu, či akýchkoľvek iných sexuálnych praktík, pri ktorých dochádza k styku s genitáliami. Vyhnúť sa bezprostrednej kombinácii análneho a vaginálneho sexu, bez výmeny prezervatívu alebo umytia penisu/pomôcky/rúk.
 * Vymočiť sa po [sexuálnom styku](/sexualne-aktivity/){:target="_blank"} a opláchnuť vulvu čistou vodou. Týmto krokom sa dá predísť zápalu močových ciest.
 
-<>
+<br>
 
-<>
+<br>
 
-<>
+<br>
 
 <p class="important-text">ZDROJE:</p>
 
