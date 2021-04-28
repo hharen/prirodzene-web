@@ -34,7 +34,7 @@ Existuje veľké množstvo **ochranných pomôcok**, ktoré ľudia môžu počas
 
 <br>
 
-**Očkovanie** môže byť účinné v boji proti niektorým PPI, najmä však pritom HPV a hepatitíde. Proti hepatitíde B sa od roku 2000 na Slovensku očkuje povinne. Ľudia narodení pred týmto rokom mohli byť očkovaní v detstve, prípadne sa dať doočkovať v staršom veku. Ľudia, ktorí si nie sú istí, či sú zaočkovaní, sa môžu opýtať svojho obvodného lekára/ svojej obvodnej lekárky. Očkovanie proti HPV niektoré poisťovane preplácajú len do určitého veku (napr. do 12 rokov), individuálne doplnkové poistenia však môžu zahrňovať aj vakcináciu vo vyššom veku. Existuje viac ako 100 typov HPV vírusu, pričom väčšina očkovacích látok chráni proti typom, ktoré najčastejšie spôsobujú rakovinu. Očkovať sa môžete dať aj na vlastné náklady. Očkovanie proti HPV a hepatitíde B je dôležité najmä preto, že ani jedna z týchto PPI sa nedá liečiť. Existujú antivirálne či podporné lieky, ktoré dokážu potláčať príznaky. Ak sa však nakazíte hepatitídou B, vírus vám v tele pretrvá doživotne. Vírusu HPV sa telo väčšinou po istom čase zbaví, môže však dôjsť k opakovanej nákaze.
+**Očkovanie** môže byť účinné v boji proti niektorým PPI, najmä však proti HPV a hepatitíde. Proti hepatitíde B sa od roku 2000 na Slovensku očkuje povinne. Ľudia narodení pred týmto rokom mohli byť očkovaní v detstve, prípadne sa dať doočkovať v staršom veku. Ľudia, ktorí si nie sú istí, či sú zaočkovaní, sa môžu opýtať svojho obvodného lekára/ svojej obvodnej lekárky. Očkovanie proti HPV niektoré poisťovane preplácajú len do určitého veku (napr. do 12 rokov), individuálne doplnkové poistenia však môžu zahŕňať aj vakcináciu vo vyššom veku. Existuje viac ako 100 typov HPV vírusu, pričom väčšina očkovacích látok chráni proti typom, ktoré najčastejšie spôsobujú rakovinu. Očkovať sa môžete dať aj na vlastné náklady. Očkovanie proti HPV a hepatitíde B je dôležité najmä preto, že ani jedna z týchto PPI sa nedá liečiť. Existujú antivirálne či podporné lieky, ktoré dokážu potláčať príznaky. Ak sa však nakazíte hepatitídou B, vírus vám v tele pretrvá doživotne. Vírusu HPV sa telo väčšinou po istom čase zbaví, môže však dôjsť k opakovanej nákaze.
 
 <br>
 
@@ -44,16 +44,24 @@ Existuje veľké množstvo **ochranných pomôcok**, ktoré ľudia môžu počas
 
 <p class="important-text">ZDROJE:</p>
 
-Daniels, Avery. “How Often Should You Be Getting Tested for HIV/STDs?” FreeSTDCheck. AIDS Healthcare Foundation. Accessed April 15, 2021. https://www.freestdcheck.org/how-often-should-you-be-getting-tested-for-hiv-stds/. 
+Daniels, Avery. “How Often Should You Be Getting Tested for HIV/STDs?” FreeSTDCheck. AIDS Healthcare Foundation. Accessed April 15, 2021. 
+
+<https://www.freestdcheck.org/how-often-should-you-be-getting-tested-for-hiv-stds/>. 
 
 <br>
 
-“Human Papilloma Virus (HPV): Causes, Testing, Treatment &amp; Prevention.” Cleveland Clinic. Accessed April 15, 2021. https://my.clevelandclinic.org/health/diseases/11901-hpv-human-papilloma-virus. 
+“Human Papilloma Virus (HPV): Causes, Testing, Treatment &amp; Prevention.” Cleveland Clinic. Accessed April 15, 2021. 
+
+<https://my.clevelandclinic.org/health/diseases/11901-hpv-human-papilloma-virus>. 
 
 <br>
 
-“OCHORENIA PROTI KTORÝM SA V SLOVENSKEJ REPUBLIKE OČKUJE V RÁMCI PRAVIDELNÉHO POVINNÉHO OČKOVANIA .” Chorobnosť a zaočkovanosť. ÚVZ SR , n.d. https://www.uvzsr.sk/docs/info/ockovanie/Chorobnost_a_zaockovanost.pdf. 
+“OCHORENIA PROTI KTORÝM SA V SLOVENSKEJ REPUBLIKE OČKUJE V RÁMCI PRAVIDELNÉHO POVINNÉHO OČKOVANIA .” Chorobnosť a zaočkovanosť. ÚVZ SR , n.d.
+
+<https://www.uvzsr.sk/docs/info/ockovanie/Chorobnost_a_zaockovanost.pdf>. 
 
 <br>
 
-“Sexually Transmitted Infections (STIs).” World Health Organization, June 14, 2019. https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis).
+“Sexually Transmitted Infections (STIs).” World Health Organization, June 14, 2019. 
+
+<https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)>.
