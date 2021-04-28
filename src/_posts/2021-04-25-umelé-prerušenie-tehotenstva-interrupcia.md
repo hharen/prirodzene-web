@@ -101,36 +101,20 @@ V prípade, že žena si nechce dieťa nechať a zároveň nechce podstúpiť 
 
 <p class="important-text">ZDROJE:</p>
 
-“Aktuálne Informácie Týkajúce Sa Liekov s Obsahom Mifepristonu.” ŠÚKL. Štátny ústav pre kontrolu liečiv, January 9, 2013. 
+“Aktuálne Informácie Týkajúce Sa Liekov s Obsahom Mifepristonu.” ŠÚKL. Štátny ústav pre kontrolu liečiv, January 9, 2013. <https://www.sukl.sk/hlavna-stranka/slovenska-verzia/media/tlacove-spravy/aktualne-informacie-tykajuce-sa-liekov-s-obsahom-mifepristonu?page_id=3260>.
 
-<https://www.sukl.sk/hlavna-stranka/slovenska-verzia/media/tlacove-spravy/aktualne-informacie-tykajuce-sa-liekov-s-obsahom-mifepristonu?page_id=3260>.
-
-Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. 
-
-<https://sexinfoonline.com/>. 
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. <https://sexinfoonline.com/>. 
 
 Chae, Sophia, Sheila Desai, Marjorie Crowell, and Gilda Sedgh. “Reasons Why Women Have Induced Abortions: a Synthesis of Findings from 14 Countries.” Contraception. U.S.
 
-Hrubá, Zuzana. “Potratové Tabletky Sú Dostupné v 22 Krajinách Európskej Únie. Slovenky Sa k Nim Nedostanú - VZdravotníctve.sk.” Webnoviny.sk. vZdravotníctve.sk, June 24, 2020. 
+Hrubá, Zuzana. “Potratové Tabletky Sú Dostupné v 22 Krajinách Európskej Únie. Slovenky Sa k Nim Nedostanú - VZdravotníctve.sk.” Webnoviny.sk. vZdravotníctve.sk, June 24, 2020. <https://www.webnoviny.sk/vzdravotnictve/potratove-tabletky-su-dostupne-v-22-krajinach-europskej-unie-slovenky-sa-k-nim-nedostanu/>. 
 
-<https://www.webnoviny.sk/vzdravotnictve/potratove-tabletky-su-dostupne-v-22-krajinach-europskej-unie-slovenky-sa-k-nim-nedostanu/>. 
+Kajanovičová , Lucia. “Interrupcia – Umelé Prerušenie Tehotenstva Na Slovensku.” Slovenský pacient, August 14, 2020. <https://slovenskypacient.sk/interrupcia-na-slovensku-cena-zo-zdravotnych-dovodov/>. 
 
-Kajanovičová , Lucia. “Interrupcia – Umelé Prerušenie Tehotenstva Na Slovensku.” Slovenský pacient, August 14, 2020. 
+Nall, Rachel   MSN, CRNA, and Carolyn M.D. Kay. “Can Abortion Cause Infertility?” healthline.com. Healthline Media a Red Ventures Company, January 16, 2020. <https://www.healthline.com/health/womens-health/can-abortion-cause-infertility>. 
 
-<https://slovenskypacient.sk/interrupcia-na-slovensku-cena-zo-zdravotnych-dovodov/>. 
+“Potraty v Slovenskej Republike 2019.” Slovensky. Národné centrum zdravotníckych informácií. Accessed March 20, 2021. <http://www.nczisk.sk/Aktuality/Pages/Potraty-v-Slovenskej-republike-2019.aspx>. 
 
-Nall, Rachel   MSN, CRNA, and Carolyn M.D. Kay. “Can Abortion Cause Infertility?” healthline.com. Healthline Media a Red Ventures Company, January 16, 2020. 
+Singh, Susheela, Lisa Remez, Gilda Sedgh, Lorraine Kwok, and Tsuyoshi Onda. “Abortion Worldwide 2017: Uneven Progress and Unequal Access.” Guttmacher Institute, August 7, 2020. <https://www.guttmacher.org/report/abortion-worldwide-2017>. 
 
-<https://www.healthline.com/health/womens-health/can-abortion-cause-infertility>. 
-
-“Potraty v Slovenskej Republike 2019.” Slovensky. Národné centrum zdravotníckych informácií. Accessed March 20, 2021. 
-
-<http://www.nczisk.sk/Aktuality/Pages/Potraty-v-Slovenskej-republike-2019.aspx>. 
-
-Singh, Susheela, Lisa Remez, Gilda Sedgh, Lorraine Kwok, and Tsuyoshi Onda. “Abortion Worldwide 2017: Uneven Progress and Unequal Access.” Guttmacher Institute, August 7, 2020. 
-
-<https://www.guttmacher.org/report/abortion-worldwide-2017>. 
-
-“UN Human Rights Committee Asserts That Access to Abortion and Prevention of Maternal Mortality Are Human Rights.” Center for Reproductive Rights, October 31, 2018. 
-
-<https://reproductiverights.org/press-room/un-human-rights-committee-asserts-access-abortion-and-prevention-maternal-mortality-are>.
+“UN Human Rights Committee Asserts That Access to Abortion and Prevention of Maternal Mortality Are Human Rights.” Center for Reproductive Rights, October 31, 2018. <https://reproductiverights.org/press-room/un-human-rights-committee-asserts-access-abortion-and-prevention-maternal-mortality-are>.
