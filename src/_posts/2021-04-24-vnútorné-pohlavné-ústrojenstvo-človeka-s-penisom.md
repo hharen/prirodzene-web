@@ -64,19 +64,13 @@ Obriezka u detí vykonávaná bez zdravotnej indikácie je <a href="https://jme.
 
 <p class="important-text">ZDROJE:</p>
 
-Association, British Medical. “The Law and Ethics of Male Circumcision: Guidance for Doctors.” Journal of Medical Ethics. Institute of Medical Ethics, June 1, 2004. 
+Association, British Medical. “The Law and Ethics of Male Circumcision: Guidance for Doctors.” Journal of Medical Ethics. Institute of Medical Ethics, June 1, 2004. <https://jme.bmj.com/content/30/3/259>. 
 
-<https://jme.bmj.com/content/30/3/259>. 
-
-Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. 
-
-<https://sexinfoonline.com/>. 
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. <https://sexinfoonline.com/>. 
 
 Brochmann, Nina, and Ellen Støkken Dahl. The Wonder Down Under. Hodder &amp; Stoughton, 2018. 
 
-Mandal, Dr. Ananya. “Semen Physiology.” News Medical Life Science, February 27, 2019. 
-
-<https://www.news-medical.net/health/Semen-Physiology.aspx>. 
+Mandal, Dr. Ananya. “Semen Physiology.” News Medical Life Science, February 27, 2019. <https://www.news-medical.net/health/Semen-Physiology.aspx>. 
 
 Mráz, Peter, and Kamil Belej. Anatómia Ľudského Tela 2. Slovak Academic Press, 2016. 
 
