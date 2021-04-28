@@ -12,7 +12,7 @@ Sokratov inštitút vznikol z presvedčenia, že vzdelávať sa dá prakticky a 
 
 ## **Spoločnosť pre plánované rodičovstvo**
 
-Spoločnosť pre plánované rodičovstvo (SPPR) je mimovládna, nezisková organizácia, ktorej poslaním je od jej vzniku v roku 1991 podporovať zodpovedné a kultivované sexuálne správanie mužov a žien, a obhajovať základné ľudské práva v oblasti sexuálneho a reprodukčného zdravia. SPPR je plnoprávnym členom Medzinárodnej federácie pre plánované rodičovstvo ([International Planned Parenthood Federation – IPPF](https://www.ippf.org/)){:target="_blank"} so sídlom v Londýne.  
+Spoločnosť pre plánované rodičovstvo (SPPR) je mimovládna, nezisková organizácia, ktorej poslaním je od jej vzniku v roku 1991 podporovať zodpovedné a kultivované sexuálne správanie mužov a žien, a obhajovať základné ľudské práva v oblasti sexuálneho a reprodukčného zdravia. SPPR je plnoprávnym členom Medzinárodnej federácie pre plánované rodičovstvo ([International Planned Parenthood Federation – IPPF](https://www.ippf.org/){:target="_blank"}) so sídlom v Londýne.  
 
 [www.rodicovstvo.wordpress.com](https://rodicovstvo.wordpress.com/){:target="_blank"}  
 
