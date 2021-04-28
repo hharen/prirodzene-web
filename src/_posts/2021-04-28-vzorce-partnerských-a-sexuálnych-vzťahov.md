@@ -45,7 +45,7 @@ Tento graf je len orientačný. Rôzne vzorce vzťahov môžu mať špecifické 
 
 <strong>Nehierarchická polyamória</strong>- jednotliví ľudia vo vzťahu sú si rovní a niekto z nich by nemal byť uprednostňovaný. V takomto vzťahu môžu byť 3 ľudia zaľúbení vzájomne do seba, ale takisto môže byť 1 človek vo vzťahu s 3 ľuďmi a ďalší z týchto 3 ľudí byť vo vzťahu s inými ľuďmi a podobne. Takejto sieti vzťahov sa hovorí „polykula“. <br>
 
-<strong>Vzťahová anarchia</strong>. môže znamenať, že ktokoľvek môže viesť akékoľvek vzťahy bez obmedzení.
+<strong>Vzťahová anarchia</strong>- môže znamenať, že ktokoľvek môže viesť akékoľvek vzťahy bez obmedzení.
 
 </div>
 
