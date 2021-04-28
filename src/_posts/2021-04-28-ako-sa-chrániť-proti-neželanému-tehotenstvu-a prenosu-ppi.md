@@ -9,11 +9,11 @@ metadescription: Na Slovensku sú dostupné rôzne typy metód ochrany proti
   neželanému tehotenstvu a prenosu pohlavne prenosných infekcií, pričom každému
   človeku vyhovujú iné metódy.
 ---
-Jednou z najčastejších tém, ktoré riešia ľudia v súvislosti s ich sexuálnym životom, sú antikoncepčné metódy (t.j. metódy, ktoré zabraňujú neželanému [tehotenstvu](/vyvinove-fazy-plodu-a-tehotenstvo/)). V dnešnej dobe je už antikoncepčných metód veľa, avšak, väčšina z nich nie je dostupná pre každého. Každému človeku vyhovujú iné metódy, či už z hľadiska komfortu, zdravotného stavu, životného štýlu, ceny, prístupu k lekárňam a k lekárskym zariadeniam a podobne. Účinnosť antikoncepčnej metódy sa určuje na základe tzv. **[tehotenského čísla](https://rodicovstvo.wordpress.com/antikoncepcia/metody/)**, ktoré obsahuje 2 údaje. Keď hovoríme, že tehotenské číslo určitej antikoncepčnej metódy je napríklad 2 – 7, znamená to, že pravdepodobnosť otehotnenia (teda zlyhania antikoncepčnej metódy) je u 2 až 7 žien zo 100, ktoré používajú danú metódu po dobu 1 roka. Prvé číslo (2) označuje pravdepodobný počet tehotenstiev pri pravidelnom a dôslednom používaní metódy a druhé číslo (7) pravdepodobný počet tehotenstiev pri nedostatočne pravidelnom a nedostatočne dôslednom používaní metódy.
+Jednou z najčastejších tém, ktoré riešia ľudia v súvislosti s ich sexuálnym životom, sú antikoncepčné metódy (t.j. metódy, ktoré zabraňujú neželanému [tehotenstvu](/vyvinove-fazy-plodu-a-tehotenstvo/)). V dnešnej dobe je už antikoncepčných metód veľa, avšak väčšina z nich nie je dostupná pre každého. Každému človeku vyhovujú iné metódy, či už z hľadiska komfortu, zdravotného stavu, životného štýlu, ceny, prístupu k lekárňam a k lekárskym zariadeniam a podobne. Účinnosť antikoncepčnej metódy sa určuje na základe tzv. **[tehotenského čísla](https://rodicovstvo.wordpress.com/antikoncepcia/metody/)**, ktoré obsahuje 2 údaje. Keď hovoríme, že tehotenské číslo určitej antikoncepčnej metódy je napríklad 2 – 7, znamená to, že pravdepodobnosť otehotnenia (teda zlyhania antikoncepčnej metódy) je u 2 až 7 žien zo 100, ktoré používajú danú metódu po dobu 1 roka. Prvé číslo (2) označuje pravdepodobný počet tehotenstiev pri pravidelnom a dôslednom používaní metódy a druhé číslo (7) pravdepodobný počet tehotenstiev pri nedostatočne pravidelnom a nedostatočne dôslednom používaní metódy.
 
 Väčšina antikoncepčných metód nechráni aj proti prenosu [pohlavne prenosných infekcií (PPI)](/pohlavne-prenosne-infekcie/). Ochranné metódy proti prenosu PPI (tzv. „**bariéry**“) by mal používať každý, bez ohľadu na to, či pri [sexuálnom styku](/sexualne-aktivity/) existuje riziko otehotnenia. Mnohé PPI sa prenášajú pri kontakte kože s kožou, iné sa prenášajú slinami, či tekutinami ako vaginálny [výtok ](/hygiena-a-cistota-u-ludi-s-vulvou/)alebo spermie. 
 
-Nasledovný zoznam zahrňuje typy metód ochrany proti neželanému tehotenstvu a prenosu PPI, ktoré sú v súčasnosti dostupné na Slovensku. Informácie sú však orientačné a vždy je nevyhnutné sa poradiť s odborníkom/odborníčkou.
+Nasledovný zoznam zahŕňa typy metód ochrany proti neželanému tehotenstvu a prenosu PPI, ktoré sú v súčasnosti dostupné na Slovensku. Informácie sú však orientačné a vždy je nevyhnutné sa poradiť s odborníkom/odborníčkou.
 
 <div class="flex flex-wrap justify-around">
 
@@ -123,7 +123,7 @@ Bariéry zabraňujú neželanému tehotenstvu a zároveň [znižujú riziko pren
 
 ### **1. Externý kondóm – Prezervatív**
 
-„Bežné“ kondómy sa naťahujú na penis/na sexuálnu hračku a sú aj pomerne rozšíreným druhom antikoncepcie. Je relatívne jednoduché ich zohnať, dajú sa kúpiť aj v potravinách či v drogérii. Existujú rôzne typy, veľkosti aj značky kondómov, sú vyrábané z rôznych materiálov, niektoré sú ochutené, vrúbkované, lubrikované a podobne. Tehotenské číslo je 2 – 15.
+„Bežné“ kondómy sa naťahujú na penis/na sexuálnu pomôcku a sú aj pomerne rozšíreným druhom antikoncepcie. Je relatívne jednoduché ich zohnať, dajú sa kúpiť aj v potravinách či v drogérii. Existujú rôzne typy, veľkosti aj značky kondómov, sú vyrábané z rôznych materiálov, niektoré sú ochutené, vrúbkované, lubrikované a podobne. Tehotenské číslo je 2 – 15.
 
 <br>
 
