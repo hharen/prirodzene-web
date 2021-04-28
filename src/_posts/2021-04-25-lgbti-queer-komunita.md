@@ -49,26 +49,14 @@ Nenávisť často pramení zo strachu, a ten často pramení z nevedomosti. Aj
 
 <p class="important-text">ZDROJE:</p>
 
-“365/2004 Z. z. Antidiskriminačný Zákon: Aktuálne Znenie.” Zákony pre ľudí, July 1, 2019. 
+“365/2004 Z. z. Antidiskriminačný Zákon: Aktuálne Znenie.” Zákony pre ľudí, July 1, 2019. <https://www.zakonypreludi.sk/zz/2004-365>. 
 
-<https://www.zakonypreludi.sk/zz/2004-365>. 
+James, S. E., Herman, J. L., Rankin, S., Keisling, M., Mottet, L., & Anafi, M. (2016). The Report of the 2015 U.S. Transgender Survey. Washington, DC: National Center for Transgender Equality. <https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf> 
 
-James, S. E., Herman, J. L., Rankin, S., Keisling, M., Mottet, L., & Anafi, M. (2016). The Report of the 2015 U.S. Transgender Survey. Washington, DC: National Center for Transgender Equality. 
+Ľudské Práva a Intersex Ľudia. TransFúzia – budovanie kapacít trans*organizácie , 2009. <http://www.transfuzia.org/gfx/administration/js/ckeditor/kcfinder/upload/file/%C4%BDudsk%C3%A9%20pr%C3%A1va%20a%20intersex%20%C4%BEudia.pdf>.
 
-<https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf> 
+Pataj, Roman. “Až 26 Poslancov Koalície Hlasovalo Za Politický Manifest Fašistov.” Denník N. Denník N, March 18, 2021. <https://dennikn.sk/2317023/az-26-poslancov-koalicie-hlasovalo-za-politicky-manifest-fasistov/?ref=tema>. 
 
-Ľudské Práva a Intersex Ľudia. TransFúzia – budovanie kapacít trans*organizácie , 2009. 
+Plaváková, Lucia Lucia. “Kedy Prestane Slovensko Mučiť Trans Ľudí?” Queerslovakia.sk, December 11, 2020. <https://queerslovakia.sk/text/komunita/kedy-prestane-slovensko-mucit-trans-ludi/>.
 
-<http://www.transfuzia.org/gfx/administration/js/ckeditor/kcfinder/upload/file/%C4%BDudsk%C3%A9%20pr%C3%A1va%20a%20intersex%20%C4%BEudia.pdf>.
-
-Pataj, Roman. “Až 26 Poslancov Koalície Hlasovalo Za Politický Manifest Fašistov.” Denník N. Denník N, March 18, 2021. 
-
-<https://dennikn.sk/2317023/az-26-poslancov-koalicie-hlasovalo-za-politicky-manifest-fasistov/?ref=tema>. 
-
-Plaváková, Lucia Lucia. “Kedy Prestane Slovensko Mučiť Trans Ľudí?” Queerslovakia.sk, December 11, 2020. 
-
-<https://queerslovakia.sk/text/komunita/kedy-prestane-slovensko-mucit-trans-ludi/>.
-
-“VŠEOBECNÉ OTÁZKY O SEXUÁLNEJ ORIENTÁCIÍ A RODOVEJ IDENTITE.” inPoradňa. Accessed April 3, 2021. 
-
-<https://inporadna.sk/otazky-a-odpovede.html#FAQSection1>.
+“VŠEOBECNÉ OTÁZKY O SEXUÁLNEJ ORIENTÁCIÍ A RODOVEJ IDENTITE.” inPoradňa. Accessed April 3, 2021. <https://inporadna.sk/otazky-a-odpovede.html#FAQSection1>.
