@@ -4,24 +4,12 @@ title: Začiatok tehotenstva
 slug: zaciatok-tehotenstva
 topic: telo
 subtopic: vyvin
-date: 2021-04-25T12:41:53.994Z
+date: 2021-04-25T07:30:53.994Z
 metadescription: Prvým krokom k zrodu ľudského života je tehotenstvo. K
   otehotneniu môže dôjsť rôznymi spôsobmi a taktiež je naň potrebných niekoľko
   nevyhnutných krokov. K faktorom ovplyvňujúcim šancu otehotnieť patria
   napríklad vek, životný štýl, zdravotný stav, a podobne.
-references: >-
-  Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit
-  organization. University of California, Santa Barbara . Accessed January 1,
-  2021. https://sexinfoonline.com/. 
-
-
-  “Phases of Menstrual Cycle.” Menstrupedia. Accessed March 20, 2021. https://menstrupedia.com/articles/physiology/cycle-phases. 
-
-
-  Redakcia. “Tehotenstvo, Počatie, Plánovanie Bábätka.” Promama. Accessed March 20, 2021. https://www.promama.sk/tehotenstvo/vyhladavanie?kategorie=41. 
-
-
-  Weathering the Wait.” What To Expect. N.p., n.d. Web. 4 Feb. 2017.
+references: ""
 ---
 Prvým krokom k zrodu ľudského života je otehotnenie. Jedným z dôležitých faktorov, ktoré hrajú rolu pri snahe otehotnieť, je vek. Počas jedného roka snahy o otehotnenie majú ľudia s maternicou v rôznom veku štatisticky rozdielne [šance](https://sexinfoonline.com/biological-steps-to-becoming-pregnant/), že sa im to podarí. Vo veku 25 a menej rokov je to 86 % šanca, vo veku 26 – 29 rokov je šanca otehotnieť 78 %, vo veku 30 – 34 je to 63 % a vo veku 35 a viac rokov je šanca otehotnieť 50 %. 
 
@@ -63,3 +51,25 @@ Oplodnenie prebieha vo vajíčkovode. Na to, aby k nemu došlo, sa musí stretn
 ### 4. Zahniezdenie vajíčka
 
 Kým oplodnené vajíčko putuje do maternice, stane sa z neho zhluk približne 100 buniek, ktorému hovoríme blastocysta. Tento proces trvá približne 5 – 7 dní od oplodnenia. Z buniek, ktoré sa vyvíjajú v blastocyste, sa neskôr stane plod a z vonkajšej steny blastocysty sa stane placenta. Keď sa blastocysta dostane do maternice, zahniezdi sa v jej stene. Sliznica maternice zhrubne a krčok maternice sa pokryje hustým hlienom, ktorý bude krčok uzatvárať až do konca [tehotenstva](/vyvinove-fazy-plodu-a-tehotenstvo/). Počas nasledujúcich týždňov a mesiacov nastane exponenciálny rast buniek a embryo sa bude zväčšovať. Dôjde k bunkovej diferenciácii a bunky sa postupne špecializujú. Približne 6 dní po ovulácií, hneď od momentu zahniezdenia, sa v tele začne produkovať hCG hormón, ktorý bežný tehotenský test dokáže zachytiť v moči. Tehotenský test teda môže byť pozitívny ešte pred meškajúcou menštruáciou.
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. 
+
+<https://sexinfoonline.com/>. 
+
+“Phases of Menstrual Cycle.” Menstrupedia. Accessed March 20, 2021. 
+
+<https://menstrupedia.com/articles/physiology/cycle-phases>. 
+
+Redakcia. “Tehotenstvo, Počatie, Plánovanie Bábätka.” Promama. Accessed March 20, 2021. 
+
+<https://www.promama.sk/tehotenstvo/vyhladavanie?kategorie=41>. 
+
+Weathering the Wait.” What To Expect. N.p., n.d. Web. 4 Feb. 2017.
