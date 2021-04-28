@@ -82,6 +82,6 @@ Blahd Jr. MD, William H., and H.  Michael O'Connor MD . “Genital Self-Examina
 
 Jewell , Tim, and J. Keith Fisher, MD . “What to Expect from a Penile and Testicular Exam.” healthline, July 30, 2019. <https://www.healthline.com/health/penis-exam#what-it-screens-for>. 
 
-“Rakovina Sa Dá Poraziť, Dôležitá Je Prevencia. Slovensko Má Najmodernejšie Prístroje Na Liečbu Rakoviny.” Rakovina sa dá poraziť, dôležitá je prevencia. Slovensko má najmodernejšie prístroje na liečbu rakoviny | AGEL SK. Skupina AGEL, February 3, 2020. <https://www.agel.sk/media/tlacove-spravy/200203-prevencia-rakoviny.html>. 
+“Rakovina Sa Dá Poraziť, Dôležitá Je Prevencia. Slovensko Má Najmodernejšie Prístroje Na Liečbu Rakoviny.” Rakovina sa dá poraziť, dôležitá je prevencia. Slovensko má najmodernejšie prístroje na liečbu rakoviny. AGEL SK. Skupina AGEL, February 3, 2020. <https://www.agel.sk/media/tlacove-spravy/200203-prevencia-rakoviny.html>. 
 
 “Vulvar Cancer.” Mayo Clinic. Mayo Foundation for Medical Education and Research, October 23, 2020. <https://www.mayoclinic.org/diseases-conditions/vulvar-cancer/symptoms-causes/syc-20368051>.
