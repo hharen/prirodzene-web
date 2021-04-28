@@ -33,16 +33,10 @@ Existuje množstvo pojmov, ktorými sa rôzne rodové identity dajú opísať, p
 
 <p class="important-text">ZDROJE:</p>
 
-“Children and Gender Identity: Supporting Your Child.” Mayo Clinic. Mayo Foundation for Medical Education and Research, January 16, 2021. 
+“Children and Gender Identity: Supporting Your Child.” Mayo Clinic. Mayo Foundation for Medical Education and Research, January 16, 2021. <https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/children-and-gender-identity/art-20266811>. 
 
-<https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/children-and-gender-identity/art-20266811>. 
-
-James, S. E., Herman, J. L., Rankin, S., Keisling, M., Mottet, L., & Anafi, M. (2016). The Report of the 2015 U.S. Transgender Survey. Washington, DC: National Center for Transgender Equality. 
-
-<https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf> 
+James, S. E., Herman, J. L., Rankin, S., Keisling, M., Mottet, L., & Anafi, M. (2016). The Report of the 2015 U.S. Transgender Survey. Washington, DC: National Center for Transgender Equality. <https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf> 
 
 Rare, Ruby, and Sofie Birkin. Sex Ed: a Guide for Adults. London, UK: Bloomsbury, 2020. 
 
-“VŠEOBECNÉ OTÁZKY O SEXUÁLNEJ ORIENTÁCIÍ A RODOVEJ IDENTITE.” inPoradňa. Accessed April 3, 2021. 
-
-<https://inporadna.sk/otazky-a-odpovede.html#FAQSection1>.
+“VŠEOBECNÉ OTÁZKY O SEXUÁLNEJ ORIENTÁCIÍ A RODOVEJ IDENTITE.” inPoradňa. Accessed April 3, 2021. <https://inporadna.sk/otazky-a-odpovede.html#FAQSection1>.
