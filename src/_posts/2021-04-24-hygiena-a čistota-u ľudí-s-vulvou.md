@@ -10,7 +10,7 @@ metadescription: Je dôležité dbať o správnu hygienu v oblasti vulvy a vag
   problémom.
 references: ""
 ---
-Je dôležité dbať o správnu hygienu v oblasti našich genitálií. V prvom rade si však treba povedať, že [vagína](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/) je orgán, ktorý sa čistí sám! Vaginálny výtok je spôsob, akým sa vagína zbavuje škodlivých baktérií, hlienu a odumretých buniek. Výtok slúži na lubrikáciu sliznice vagíny, zaisťuje jej ochranu pred drobnými ranami a pred infekciami. Zároveň pomáha udržiavať zdravú vaginálnu mikroflóru a optimálne pH. Výtok sa väčšinou začne produkovať v období [puberty](/puberta/) a môže mať rôznu farbu aj konzistenciu v závislosti od [menštruačného cyklu](/menstruacny-cyklus/) a iných hormonálnych zmien. Bežný a zdravý výtok je priesvitný až biely, môže mať jemne kyslastý zápach a konzistenciu podobnú bielku vajíčka, pričom jeho množstvo sa tiež môže meniť počas cyklu. Pred sexuálnymi aktivitami, počas aj po nich sa tiež môže konzistencia, zápach aj množstvo výtoku meniť. Iné typy výtoku zahrňujú:
+Je dôležité dbať o správnu hygienu v oblasti našich genitálií. V prvom rade si však treba povedať, že [vagína](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/) je orgán, ktorý sa čistí sám! Vaginálny výtok je spôsob, akým sa vagína zbavuje škodlivých baktérií, hlienu a odumretých buniek. Výtok slúži na lubrikáciu sliznice vagíny, zaisťuje jej ochranu pred drobnými ranami a pred infekciami. Zároveň pomáha udržiavať zdravú vaginálnu mikroflóru a optimálne pH. Výtok sa väčšinou začne produkovať v období [puberty](/puberta/){:target="_blank"} a môže mať rôznu farbu aj konzistenciu v závislosti od [menštruačného cyklu](/menstruacny-cyklus/){:target="_blank"} a iných hormonálnych zmien. Bežný a zdravý výtok je priesvitný až biely, môže mať jemne kyslastý zápach a konzistenciu podobnú bielku vajíčka, pričom jeho množstvo sa tiež môže meniť počas cyklu. Pred [sexuálnymi aktivitami](/sexualne-aktivity/){:target="_blank"}, počas aj po nich sa tiež môže konzistencia, zápach aj množstvo výtoku meniť. Iné typy výtoku zahrňujú:
 
 ### **Mierne ružový alebo hnedý výtok:**
 
@@ -21,8 +21,8 @@ Je dôležité dbať o správnu hygienu v oblasti našich genitálií. V prvom
 
 ### **Výtok, ktorý obsahuje krv:**
 
-* môže aj nemusí byť znakom niekoľkých problémov ako napríklad ektropium (ranka) krčka maternice, [spontánny potrat](/spontanny-potrat/) a iné;
-* môže nastať v období [tehotenstva](/vyvinove-fazy-plodu-a-tehotenstvo/).
+* môže aj nemusí byť znakom niekoľkých problémov ako napríklad ektropium (ranka) krčka maternice, [spontánny potrat](/spontanny-potrat/){:target="_blank"} a iné;
+* môže nastať v období [tehotenstva](/vyvinove-fazy-plodu-a-tehotenstvo/){:target="_blank"}.
 
 <br>
 
@@ -44,7 +44,7 @@ Je dôležité dbať o správnu hygienu v oblasti našich genitálií. V prvom
 ### **Mierne žltý alebo zelený výtok:**
 
 * je často spojený s nepríjemným zápachom, so svrbením alebo štípaním, s pocitom suchosti vo vnútri alebo v okolí vagíny;
-* často je symptómom [pohlavne prenosnej trichomoniázy](/pohlavne-prenosne-infekcie/).
+* často je symptómom [pohlavne prenosnej trichomoniázy](/pohlavne-prenosne-infekcie/){:target="_blank"}.
 
 <div class='f-telo box-post'>
 
@@ -55,13 +55,13 @@ Každý človek by mal poznať svoje genitálie. Je dôležité sledovať si svo
 Predísť niektorým problémom môže človek aj vďaka správnej starostlivosti o svoju vulvu. Preto je ideálne dodržiavať nasledovné zásady. 
 
 * V žiadnom prípade by sa vagína nemala vyplachovať zvnútra.
-* [Vulva](/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-vulvou/) by sa mala umývať každý deň, ale vždy len čistou vodou. Dôležité je umyť vulvu aj rukou, aby sa odstránil všetok zaschnutý výtok, ktorý sa môže usádzať v záhyboch a spôsobiť infekciu či drobné ranky. Je však potrebné vyhnúť sa agresívnemu treniu.  
+* [Vulva](/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-vulvou/){:target="_blank"} by sa mala umývať každý deň, ale vždy len čistou vodou. Dôležité je umyť vulvu aj rukou, aby sa odstránil všetok zaschnutý výtok, ktorý sa môže usádzať v záhyboch a spôsobiť infekciu či drobné ranky. Je však potrebné vyhnúť sa agresívnemu treniu.  
 * V oblasti vulvy sa neodporúča používať žiadne mydlá, sprchové gély či parfumy. 
-* Po vylúčení stolice je potrebné sa utierať smerom ku konečníku (spredu dozadu), aby sa predišlo zaneseniu baktérií do [vagíny](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/). 
+* Po vylúčení stolice je potrebné sa utierať smerom ku konečníku (spredu dozadu), aby sa predišlo zaneseniu baktérií do [vagíny](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/){:target="_blank"}. 
 * Nosiť voľnú bavlnenú spodnú bielizeň. Vulva sa cez deň potí a preto je vzdušné oblečenie dobrým spôsobom, ako sa dá predísť kultivácií baktérií. 
-* Používať [menštruačné pomôcky](/menstruacne-pomocky/), ktoré sú šetrné k vaginálnej mikroflóre. Neodporúča sa používať parfumované [vložky](/menstruacne-pomocky/) či [tampóny](/menstruacne-pomocky/). [Menštruačný kalíšok](/menstruacne-pomocky/) alebo disk by mal byť vyrobený z lekárskeho silikónu. 
-* Praktizovať chránené sexuálne aktivity, vrátane vaginálneho, orálneho aj análneho sexu, či akýchkoľvek iných sexuálnych praktík, pri ktorých dochádza k styku s genitáliami. Vyhnúť sa bezprostrednej kombinácii análneho a vaginálneho sexu, bez výmeny prezervatívu alebo umytia penisu/pomôcky/rúk.
-* Vymočiť sa po sexuálnom styku a opláchnuť vulvu čistou vodou. Týmto krokom sa dá predísť zápalu močových ciest.
+* Používať [menštruačné pomôcky](/menstruacne-pomocky/){:target="_blank"}, ktoré sú šetrné k vaginálnej mikroflóre. Neodporúča sa používať parfumované [vložky](/menstruacne-pomocky/){:target="_blank"} či [tampóny](/menstruacne-pomocky/){:target="_blank"}. [Menštruačný kalíšok](/menstruacne-pomocky/){:target="_blank"} alebo disk by mal byť vyrobený z lekárskeho silikónu. 
+* Praktizovať [chránené sexuálne aktivity](/ako-sa-chranit-proti-nezelanemu-tehotenstvu-a-prenosu-ppi/){:target="_blank"}, vrátane vaginálneho, orálneho aj análneho sexu, či akýchkoľvek iných sexuálnych praktík, pri ktorých dochádza k styku s genitáliami. Vyhnúť sa bezprostrednej kombinácii análneho a vaginálneho sexu, bez výmeny prezervatívu alebo umytia penisu/pomôcky/rúk.
+* Vymočiť sa po [sexuálnom styku](/sexualne-aktivity/){:target="_blank"} a opláchnuť vulvu čistou vodou. Týmto krokom sa dá predísť zápalu močových ciest.
 
 <>
 
