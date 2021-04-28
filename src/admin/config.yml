@@ -47,7 +47,7 @@ collections:
           - { label: 'Sexualita a spoločnosť', value: 'spolocnost' }
           - { label: 'Sex', value: 'sex-subtopic' }
           - { label: 'Zdravotné problémy', value: 'problemy' }
-          - { label: 'Pohlavne prenostné infekcie', value: 'infekcie' }
+          - { label: 'Pohlavne prenosné infekcie', value: 'infekcie' }
           - { label: 'Antikoncepcia a bariéry', value: 'bariery' }
           - { label: 'Vzťahy', value: 'vztahy' }
           - { label: 'Komunikácia', value: 'komunikacia' }
