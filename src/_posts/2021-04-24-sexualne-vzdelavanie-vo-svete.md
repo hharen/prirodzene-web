@@ -117,6 +117,8 @@ Komplexné sexuálne vzdelávanie preukázateľne zvyšuje šancu, že mladí ľ
 
 <br>
 
+<p class="important-text">ZDROJE:</p>
+
 Alford, Sue. “Sex Education Programs: Definitions &amp; Point-by-Point Comparison.” Advocates for Youth. Transitions (ISSN 1097-1254) © 2001, January 28, 2009. 
 
 <https://www.advocatesforyouth.org/resources/fact-sheets/sex-education-programs-definitions-and-point-by-point-comparison/>. 
