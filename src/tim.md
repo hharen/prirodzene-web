@@ -22,8 +22,7 @@ Sisa má 22 rokov a pochádza z Prievidze. Po anglicky sa učí už odmalička, 
 <img src="/images/Niko-Sisa.jpg" alt='Niko Sisa' class="team-img">
 </div>
 
-## 
-Grafika a ilustrácie 
+## Grafika a ilustrácie 
 
 Kompetencie: tvorba loga, propagačných grafík, vzdelávacích obrázkov a ilustrácií k článkom. 
 
@@ -31,7 +30,7 @@ Kompetencie: tvorba loga, propagačných grafík, vzdelávacích obrázkov a ilu
 
 Ema má 17 rokov, pochádza z Rimavskej Soboty a študuje na Súkromnej škole umeleckého priemyslu filmovej v Košiciach. Venuje sa ilustrácií a počítačovej grafike. Ema je veľmi talentovaná a ochotná pomôcť s čímkoľvek. 
 
-### Sofia Vargas Aguayo  
+### Sofia Vargas Aguayo
 
 Sofi sa narodila vo Wallmapu, na území Čilskej republiky (Južná Amerika). Zmaturovala v Holandsku na UWC Maastricht v roku 2019. Momentálne študuje Umenie a Vedy na Univerzite Quest Canada (Kanada), pričom sa špecializuje na Vzdelanie a medziodborové oblasti. Jej vášňou je vzdelanie a rozmanitosť tohto sveta. Vo voľnom čase pracuje pre rôzne mimovládne organizácie ako koordinátorka rasovej spravodlivosti a vzdelávacieho obsahu. Rada fotí, sleduje videá a venuje sa horolezectvu. Hovorí po anglicky a po španielsky. (Sofi považuje za dôležité aktívne si uvedomovať, že žije a študuje na pôvodnom území národa Sḵwxwú7mesh, ktoré mu bolo neprávom a násilne odobrané. ) Jej umeleckú tvorbu môžete sledovať aj na jej vlastnom instagramovom profile [@sfvrgsart](https://www.instagram.com/sfvrgs/).  
 
