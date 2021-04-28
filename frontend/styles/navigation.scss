@@ -9,10 +9,7 @@ nav a, .social-links a {
   padding: 17px 10px;
 }
 
-// nav span {
-//   padding: 1px 10px;
-// }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1023px) {
   nav, .social-links {
     text-align: left;
     font-size: 1em;
