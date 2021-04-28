@@ -4,7 +4,7 @@ title: Pohlavne prenosné infekcie (PPI)
 slug: pohlavne-prenosne-infekcie
 topic: zdravie
 subtopic: infekcie
-date: 2021-04-28T08:58:37.287Z
+date: 2021-04-25T05:40:00.000Z
 metadescription: Pohlavne prenosné infekcie/PPI sú infekcie, ktoré sa
   najčastejšie prenášajú kontaktom tiel počas sexuálnych aktivít. PPI sú bežné
   infekcie a väčšina z nich sa dá buď liečiť, alebo sa dajú tlmiť ich príznaky.
