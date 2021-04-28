@@ -99,18 +99,10 @@ Tretí trimester býva pre matku fyzicky aj psychicky náročný. Kvôli rastúc
 
 <p class="important-text">ZDROJE:</p>
 
-Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara. Accessed January 1, 2021. 
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara. Accessed January 1, 2021. <https://sexinfoonline.com/>. 
 
-<https://sexinfoonline.com/>. 
+Redakcia. “Tehotenstvo, Počatie, Plánovanie Bábätka.” Promama. Accessed March 20, 2021. <https://www.promama.sk/tehotenstvo/vyhladavanie?kategorie=41>. 
 
-Redakcia. “Tehotenstvo, Počatie, Plánovanie Bábätka.” Promama. Accessed March 20, 2021. 
+“Tehotenstvo Po Týždňoch.” Babyweb.sk, 2009. <https://www.babyweb.sk/tehotenstvo-po-tyzdnoch-13>. 
 
-<https://www.promama.sk/tehotenstvo/vyhladavanie?kategorie=41>. 
-
-“Tehotenstvo Po Týždňoch.” Babyweb.sk, 2009. 
-
-<https://www.babyweb.sk/tehotenstvo-po-tyzdnoch-13>. 
-
-Yakıştıran, Betül, Tuncay Yüce, and Feride Söylemez. “First Trimester Bleeding and Pregnancy Outcomes: Case-Control Study.” IJWHR. International Journal of Women’s Health and Reproduction Sciences, January 2016. 
-
-<http://www.ijwhr.net/pdf/pdf_IJWHR_133.pdf>.
+Yakıştıran, Betül, Tuncay Yüce, and Feride Söylemez. “First Trimester Bleeding and Pregnancy Outcomes: Case-Control Study.” IJWHR. International Journal of Women’s Health and Reproduction Sciences, January 2016. <http://www.ijwhr.net/pdf/pdf_IJWHR_133.pdf>.
