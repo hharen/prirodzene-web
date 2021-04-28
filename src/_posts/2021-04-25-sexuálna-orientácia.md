@@ -4,24 +4,12 @@ title: Sexuálna orientácia
 slug: sexualna-orientacia
 topic: identita
 subtopic: orientacia
-date: 2021-04-25T20:57:19.941Z
-metadescription: Sexuálna orientácia môže zahrňať rôzne typy príťažlivosti
+date: 2021-04-25T18:20:19.941Z
+metadescription: Sexuálna orientácia môže zahŕňať rôzne typy príťažlivosti
   človeka k osobám jedného alebo viacerých pohlaví či rodov. Nie je presne
   definovaná či vymedzená, zahŕňa romantické, citové, sexuálne aj fyzické
   aspekty príťažlivosti a môže sa počas života vyvíjať.
-references: >-
-  KLASSEN, PHILIP, and PERCY WRIGHT. “Sexual Deviation.” Sexual Deviation - an
-  overview | ScienceDirect Topics. Psychiatric Clinical Skills, 2006.
-  https://www.sciencedirect.com/topics/immunology-and-microbiology/sexual-deviation.  
-
-
-  Rare, Ruby, and Sofie Birkin. Sex Ed: a Guide for Adults. London, UK: Bloomsbury, 2020. 
-
-
-  “VŠEOBECNÉ OTÁZKY O SEXUÁLNEJ ORIENTÁCIÍ A RODOVEJ IDENTITE.” inPoradňa. Accessed April 3, 2021. https://inporadna.sk/otazky-a-odpovede.html#FAQSection1. 
-
-
-  “What Causes Sexual Orientation?” Planned Parenthood. Accessed April 22, 2021. https://www.plannedparenthood.org/learn/sexual-orientation/sexual-orientation/what-causes-sexual-orientation.
+references: ""
 ---
 [Sexuálna orientácia](https://www.goodreads.com/book/show/55301696-sex-ed) môže zahŕňať rôzne **typy príťažlivosti** človeka k osobám jedného alebo viacerých [pohlaví](/pohlavna-anatomia/) či [rodov](/rodova-identita/). Súvisí so schopnosťou mať s ľuďmi **romantické, intímne aj sexuálne vzťahy**. Napriek tomu, že pojem sexuálna orientácia často zahŕňa rôzne typy príťažlivosti, jednotlivé typy nemusia byť vždy totožné. To znamená, že sú ľudia, ktorí napríklad dokážu nadväzovať romantické vzťahy iba s 1 pohlavím, ale sexuálne vzťahy nadväzujú aj s inými pohlaviami, alebo opačne. Niektorí ľudia nepociťujú sexuálnu príťažlivosť vôbec, pričom romantickú príťažlivosť pociťovať môžu. Keďže sexuálna orientácia nie je presne definovaná či vymedzená, zahŕňa romantické, citové, sexuálne aj fyzické aspekty príťažlivosti a môže sa počas života vyvíjať, hovoríme, že existuje na **spektre**.
 
@@ -48,3 +36,25 @@ Najčastejšia sexuálna orientácia je heterosexuálna. Mužov heterosexuálnej
 Toto je len pár termínov, ktorými ľudia opisujú svoju sexualitu. Týchto názvov existuje mnoho a niektorí ľudia sa identifikujú s niekoľkými z nich, iní nemajú potrebu svoju sexuálnu orientáciu slovne vyjadriť či opísať. Je však dôležité si uvedomiť, že každý z nás dokáže najlepšie pochopiť a opísať len svoju vlastnú orientáciu.
 
 Niekedy sa môžeme stretnúť s otázkou, či sa napríklad aj pedofília alebo zoofília považuje sa súčasť LGBTI+ identít. Odpoveď je, nie, nepovažuje. Toto rozdelenie sa niekedy vysvetľuje tým, že napr. homosexualita sa nepovažuje za poruchu, pričom napr. zoofília áno. Avšak, toto nie je (jediný) dôvod, prečo takéto poruchy nepatria do spektra bežných sexualít. Takéto vysvetlenie nie je postačujúce najmä z toho dôvodu, že homosexualita ešte v minulom storočí bola považovaná za chorobu. To však nezmenená, že ňou naozaj bola. Na to, aby sme pochopili rozdiel medzi sexuálnou deviáciou a sexuálnou orientáciou je nevyhnutné porozumieť základom súhlasu. V skratke, súhlas so sexuálnou aktivitou dokážu vyjadriť len 2 sexuálne vyspelé osoby (na Slovensku vo veku 15 +), ktoré nie sú pod vplyvom omamných látok a sú pri plnom vedomí, pričom majú medzi sebou rovnocenný vzťah. Rovnocenný vzťah medzi sebou nemajú napríklad také osoby, medzi ktorými je nadmerný vekový rozdiel; nie sú rovnako sexuálne vyspelé; je medzi nimi nerovnomerné rozdelenie síl (napr. jedna z osôb sa musí podriadiť druhej pod hrozbou fyzického alebo psychického násilia); jedna z osôb je neprimerane závislá od tej druhej (napr. finančne) a podobne. Akákoľvek zdravá a normálna sexuálna alebo romantická aktivita môže medzi ľuďmi prebehnúť len v tom prípade, že všetci zúčastnení s ňou súhlasili. Pri [sexuálnych deviáciách](https://www.sciencedirect.com/topics/immunology-and-microbiology/sexual-deviation) teda dochádza k nejakej forme nátlaku alebo donucovania, keďže zúčastnené osoby nedokážu s aktivitou vyjadriť súhlas. Zoofília teda nie je sexuálna orientácia, keďže zvieratá nedokážu vyjadriť súhlas, podobne nedokážu vyjadriť súhlas ani deti (pedofília) alebo mŕtvoly (nekrofília) atď.
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+KLASSEN, PHILIP, and PERCY WRIGHT. “Sexual Deviation.” Sexual Deviation - an overview | ScienceDirect Topics. Psychiatric Clinical Skills, 2006. 
+
+<https://www.sciencedirect.com/topics/immunology-and-microbiology/sexual-deviation>.  
+
+Rare, Ruby, and Sofie Birkin. Sex Ed: a Guide for Adults. London, UK: Bloomsbury, 2020. 
+
+“VŠEOBECNÉ OTÁZKY O SEXUÁLNEJ ORIENTÁCIÍ A RODOVEJ IDENTITE.” inPoradňa. Accessed April 3, 2021. 
+
+<https://inporadna.sk/otazky-a-odpovede.html#FAQSection1>. 
+
+“What Causes Sexual Orientation?” Planned Parenthood. Accessed April 22, 2021. 
+
+<https://www.plannedparenthood.org/learn/sexual-orientation/sexual-orientation/what-causes-sexual-orientation>.
