@@ -4,7 +4,7 @@ title: Samovyšetrenie genitálií a prsníkov – prevencia rakoviny
 slug: samovysetrenie-genitálii-a-prsnikov--prevencia-rakoviny
 topic: zdravie
 subtopic: problemy
-date: 2021-04-25T17:45:00.000Z
+date: 2021-04-25T05:45:00.000Z
 metadescription: Samovyšetrenie genitálií a prsníkov je neodmysliteľnou súčasťou
   boja proti rakovine, môže byť však prospešné aj pri diagnostike iných
   zdravotných problémov.
