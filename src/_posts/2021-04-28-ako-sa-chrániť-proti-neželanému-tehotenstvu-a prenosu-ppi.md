@@ -9,9 +9,9 @@ metadescription: Na Slovensku sú dostupné rôzne typy metód ochrany proti
   neželanému tehotenstvu a prenosu pohlavne prenosných infekcií, pričom každému
   človeku vyhovujú iné metódy.
 ---
-Jednou z najčastejších tém, ktoré riešia ľudia v súvislosti s ich sexuálnym životom, sú antikoncepčné metódy (t.j. metódy, ktoré zabraňujú neželanému [tehotenstvu](/vyvinove-fazy-plodu-a-tehotenstvo/)). V dnešnej dobe je už antikoncepčných metód veľa, avšak väčšina z nich nie je dostupná pre každého. Každému človeku vyhovujú iné metódy, či už z hľadiska komfortu, zdravotného stavu, životného štýlu, ceny, prístupu k lekárňam a k lekárskym zariadeniam a podobne. Účinnosť antikoncepčnej metódy sa určuje na základe tzv. **[tehotenského čísla](https://rodicovstvo.wordpress.com/antikoncepcia/metody/)**, ktoré obsahuje 2 údaje. Keď hovoríme, že tehotenské číslo určitej antikoncepčnej metódy je napríklad 2 – 7, znamená to, že pravdepodobnosť otehotnenia (teda zlyhania antikoncepčnej metódy) je u 2 až 7 žien zo 100, ktoré používajú danú metódu po dobu 1 roka. Prvé číslo (2) označuje pravdepodobný počet tehotenstiev pri pravidelnom a dôslednom používaní metódy a druhé číslo (7) pravdepodobný počet tehotenstiev pri nedostatočne pravidelnom a nedostatočne dôslednom používaní metódy.
+Jednou z najčastejších tém, ktoré riešia ľudia v súvislosti s ich sexuálnym životom, sú antikoncepčné metódy (t.j. metódy, ktoré zabraňujú neželanému <a href="/vyvinove-fazy-plodu-a-tehotenstvo" target="_blank"><strong>tehotenstvu</strong></a>). V dnešnej dobe je už antikoncepčných metód veľa, avšak väčšina z nich nie je dostupná pre každého. Každému človeku vyhovujú iné metódy, či už z hľadiska komfortu, zdravotného stavu, životného štýlu, ceny, prístupu k lekárňam a k lekárskym zariadeniam a podobne. Účinnosť antikoncepčnej metódy sa určuje na základe tzv. <a href="https://rodicovstvo.wordpress.com/antikoncepcia/metody/" target="_blank"><strong>tehotenského čísla,</strong></a> ktoré obsahuje 2 údaje. Keď hovoríme, že tehotenské číslo určitej antikoncepčnej metódy je napríklad 2 – 7, znamená to, že pravdepodobnosť otehotnenia (teda zlyhania antikoncepčnej metódy) je u 2 až 7 žien zo 100, ktoré používajú danú metódu po dobu 1 roka. Prvé číslo (2) označuje pravdepodobný počet tehotenstiev pri pravidelnom a dôslednom používaní metódy a druhé číslo (7) pravdepodobný počet tehotenstiev pri nedostatočne pravidelnom a nedostatočne dôslednom používaní metódy.
 
-Väčšina antikoncepčných metód nechráni aj proti prenosu [pohlavne prenosných infekcií (PPI)](/pohlavne-prenosne-infekcie/). Ochranné metódy proti prenosu PPI (tzv. „**bariéry**“) by mal používať každý, bez ohľadu na to, či pri [sexuálnom styku](/sexualne-aktivity/) existuje riziko otehotnenia. Mnohé PPI sa prenášajú pri kontakte kože s kožou, iné sa prenášajú slinami, či tekutinami ako vaginálny [výtok ](/hygiena-a-cistota-u-ludi-s-vulvou/)alebo spermie. 
+Väčšina antikoncepčných metód nechráni aj proti prenosu [pohlavne prenosných infekcií (PPI)](/pohlavne-prenosne-infekcie/){:target="_blank"}. Ochranné metódy proti prenosu PPI (tzv. „**bariéry**“) by mal používať každý, bez ohľadu na to, či pri [sexuálnom styku](/sexualne-aktivity/){:target="_blank"} existuje riziko otehotnenia. Mnohé PPI sa prenášajú pri kontakte kože s kožou, iné sa prenášajú slinami, či tekutinami ako vaginálny [výtok](/hygiena-a-cistota-u-ludi-s-vulvou/){:target="_blank"} alebo spermie. 
 
 Nasledovný zoznam zahŕňa typy metód ochrany proti neželanému tehotenstvu a prenosu PPI, ktoré sú v súčasnosti dostupné na Slovensku. Informácie sú však orientačné a vždy je nevyhnutné sa poradiť s odborníkom/odborníčkou.
 
@@ -29,8 +29,8 @@ Nasledovný zoznam zahŕňa typy metód ochrany proti neželanému tehotenstvu a
 
 ### **1. Kombinovaná (vo forme tabletiek):** 
 
-* užívanie: 2 typy hormónov (estrogén a gestagén), ktoré užíva človek s [maternicou](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/) prostredníctvom tabletiek;
-* mechanizmus: zabraňuje [ovulácií](/menstruacny-cyklus/);
+* užívanie: 2 typy hormónov (estrogén a gestagén), ktoré užíva človek s [maternicou](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/){:target="_blank"} prostredníctvom tabletiek;
+* mechanizmus: zabraňuje [ovulácií](/menstruacny-cyklus/){:target="_blank"};
 * tehotenské číslo: 1 – 7;
 * dostupnosť: tabletky predpisuje lekár/ka, nie sú hradené poisťovňou, je potrebné pravidelné a dôkladné užívanie;
 * nevhodná pre: niektorých ľudí s maternicou starších ako 35 rokov, v závislosti od BMI, anamnézy a iných faktorov; pre ľudí s cukrovkou; so zvýšeným tlakom krvi v prípade, že nie je dostatočne liečený; s vrodenou poruchou zvýšeného zrážania krvi; s chorobami srdca; s prekonanou trombózou alebo ak bola prekonaná u prvostupňového príbuzného.
@@ -40,7 +40,7 @@ Nasledovný zoznam zahŕňa typy metód ochrany proti neželanému tehotenstvu a
 ### **2. Jednozložková- gestagénová (vo forme tabletiek):**
 
 * užívanie: 1 tabletka hormónu gestagénu, ktorú užíva človek s maternicou každý deň v rovnakom čase; 
-* mechanizmus: pôsobí na cervikálny hlien [v kanáli maternicového hrdla](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/), ktorý sa zahustením hlienu stáva nepriechodný pre [spermie](/tvorba-ejakulatu/);
+* mechanizmus: pôsobí na cervikálny hlien [v kanáli maternicového hrdla](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/){:target="_blank"}, ktorý sa zahustením hlienu stáva nepriechodný pre [spermie](/tvorba-ejakulatu/){:target="_blank"};
 * tehotenské číslo: 1 – 4;
 * dostupnosť: tabletky predpisuje lekár/ka, nie sú hradené poisťovňou, je nevyhnutné pravidelné a dôkladné užívanie.
 * výhoda: takýto typ hormonálnej antikoncepcie nemá kontraindikácie. 
@@ -50,7 +50,7 @@ Nasledovný zoznam zahŕňa typy metód ochrany proti neželanému tehotenstvu a
 ### **3. Náplasť:**
 
 * použitie: náplasť si aplikujú jedenkrát týždenne ľudia s maternicou na málo exponované miesta ako rameno, brucho, stehno či zadok;
-* mechanizmus: kombinácia estrogénu s gestagénu zabraňuje ovulácii, zhusťuje cervikálny hlien a spôsobuje zmeny [sliznice maternice](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/);
+* mechanizmus: kombinácia estrogénu s gestagénu zabraňuje ovulácii, zhusťuje cervikálny hlien a spôsobuje zmeny [sliznice maternice](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/){:target="_blank"};
 * tehotenské číslo: menej ako 1, u ľudí vážiacich viac ako 90 kg je účinnosť horšia;
 * dostupnosť: predpisuje ju lekár/ka a v porovnaní s antikoncepciou vo forme tabletiek je drahšia.
 
@@ -68,7 +68,7 @@ Nasledovný zoznam zahŕňa typy metód ochrany proti neželanému tehotenstvu a
 ### **5. Vnútromaternicový hormonálny systém/ teliesko:**
 
 * použitie: teliesko, ktoré vkladá do maternice lekár/ka, vkladá sa bez anestézie pri krátkom zákroku na dobu 6 rokov;
-* mechanizmus: gestagénny hormonálny systém, ktorý konštantne uvoľňuje nízku hladinu gestagénu do krvi, spôsobuje zvýšenie hustoty cervikálneho hlienu, zmeny kvality [výstelky](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/) a zníženie pohyblivosti spermií;
+* mechanizmus: gestagénny hormonálny systém, ktorý konštantne uvoľňuje nízku hladinu gestagénu do krvi, spôsobuje zvýšenie hustoty cervikálneho hlienu, zmeny kvality [výstelky](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/){:target="_blank"} a zníženie pohyblivosti spermií;
 * tehotenské číslo: menej než 1;
 * dostupnosť: predpisuje ho lekár/ka, je to jednorazovo pomerne vysoká investícia, z dlhodobého hľadiska sa však finančne viac oplatí.
 
@@ -100,7 +100,7 @@ Nasledovný zoznam zahŕňa typy metód ochrany proti neželanému tehotenstvu a
 
 ### **2. Diafragma alebo pesar:**
 
-* použitie: pružný silikónový „klobúčik“, ktorý sa vkladá do [pošvy](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/) pred [pohlavným stykom](/sexualne-aktivity/) a ponecháva sa na mieste 6 hodín po pohlavnom styku; možné opakované použitie;
+* použitie: pružný silikónový „klobúčik“, ktorý sa vkladá do [pošvy](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/){:target="_blank"} pred [pohlavným stykom](/sexualne-aktivity/){:target="_blank"} a ponecháva sa na mieste 6 hodín po pohlavnom styku; možné opakované použitie;
 * mechanizmus: pokrýva krčok maternice a vytvára prekážku, ktorá zabraňuje vniknutiu spermií do maternice, odporúča sa používať so spermicídnymi prostriedkami, ktoré znižujú pohyb spermií;
 * tehotenské číslo: 2 – 15; 
 * dostupnosť: predáva sa v rôznych veľkostiach, nie je viazaná na lekársky predpis, je to pomerne ekonomické riešenie. 
@@ -119,7 +119,7 @@ Nasledovný zoznam zahŕňa typy metód ochrany proti neželanému tehotenstvu a
 
 <br>
 
-Bariéry zabraňujú neželanému tehotenstvu a zároveň [znižujú riziko prenosu PPI.](/prevencia-ppi/) Je nevyhnutné ich používať pri akomkoľvek type sexu, pri ktorom dochádza k styku genitálií s kožou, s ústami, s inými genitáliami. Nesmieme však zabúdať, že rôzne typy bariér môžu riziko prenosu PPI znížiť, ale nie odstrániť. Preto sa za prípadné nakazenie sa PPI netreba hanbiť. Pri akýchkoľvek príznakoch je potrebné vyhľadať lekársku pomoc. Znížiť riziko prenosu PPI môžeme aj [pravidelným testovaním](/prevencia-ppi/) sa a správnou [komunikáciou ](/prevencia-ppi/)s partnermi/kami o našom zdravotnom stave.
+Bariéry zabraňujú neželanému tehotenstvu a zároveň [znižujú riziko prenosu PPI](/prevencia-ppi/){:target="_blank"}. Je nevyhnutné ich používať pri akomkoľvek type sexu, pri ktorom dochádza k styku genitálií s kožou, s ústami, s inými genitáliami. Nesmieme však zabúdať, že rôzne typy bariér môžu riziko prenosu PPI znížiť, ale nie odstrániť. Preto sa za prípadné nakazenie sa PPI netreba hanbiť. Pri akýchkoľvek príznakoch je potrebné vyhľadať lekársku pomoc. Znížiť riziko prenosu PPI môžeme aj [pravidelným testovaním](/prevencia-ppi/){:target="_blank"} sa a správnou [komunikáciou](/komunikacia-v-sexualnom-vztahu/){:target="_blank"} s partnermi/kami o našom zdravotnom stave.
 
 ### **1. Externý kondóm – Prezervatív**
 
@@ -159,7 +159,7 @@ Dental dam je štvorcový kus blany väčšinou vyrobený z latexu. Používa sa
 
 <br>
 
-Okrem spomínaných metód takisto existujú **dlhodobé operačné antikoncepčné zákroky**, ako ligácia vaječníkov či vazektómia. Niektorí ľudia používajú tzv. **prirodzené metódy plánovaného rodičovstva**, ktoré spočívajú v zabránení vniknutiu spermií do pošvy, predovšetkým v období ovulácie. Tieto metódy však nie sú veľmi spoľahlivé a odporúčajú sa len pre páry, pre ktoré by otehotnenie nespôsobilo výrazný problém. V núdzových prípadoch je možné pristúpiť k zabráneniu nechcenému tehotenstvu po sexuálnom styku užitím tzv. „**tabletky po**“, **k zavedeniu medeného telieska po styku** alebo k ukončeniu tehotenstva prostredníctvom **[interrupcie](/umele-prerusenie-tehotenstva-interrupcia/)**. „Tabletka po“ s obsahom levonorgestrelu je voľnopredajná, je nutné ju užiť do 72 hodín po nechránenom sexuálnom styku, najlepšie do 12 hodín. „Tabletka po“ s obsahom ulipristalu je taktiež voľnopredajná a dá sa užiť až do 5 dní od styku. Mali by sa však používať len v nevyhnutných prípadoch.
+Okrem spomínaných metód takisto existujú **dlhodobé operačné antikoncepčné zákroky**, ako ligácia vaječníkov či vazektómia. Niektorí ľudia používajú tzv. **prirodzené metódy plánovaného rodičovstva**, ktoré spočívajú v zabránení vniknutiu spermií do pošvy, predovšetkým v období ovulácie. Tieto metódy však nie sú veľmi spoľahlivé a odporúčajú sa len pre páry, pre ktoré by otehotnenie nespôsobilo výrazný problém. V núdzových prípadoch je možné pristúpiť k zabráneniu nechcenému tehotenstvu po sexuálnom styku užitím tzv. „**tabletky po**“, **k zavedeniu medeného telieska po styku** alebo k ukončeniu tehotenstva prostredníctvom <a href="/umele-prerusenie-tehotenstva-interrupcia" target="_blank"><strong>interrupcie</strong></a>. „Tabletka po“ s obsahom levonorgestrelu je voľnopredajná, je nutné ju užiť do 72 hodín po nechránenom sexuálnom styku, najlepšie do 12 hodín. „Tabletka po“ s obsahom ulipristalu je taktiež voľnopredajná a dá sa užiť až do 5 dní od styku. Mali by sa však používať len v nevyhnutných prípadoch.
 
 Všetky antikoncepčné metódy aj bariéry proti prenosu PPI majú svoje výhody aj nevýhody, ktoré často súvisia ako s konkrétnou značkou či typom, tak aj s jedinečnosťou našich tiel a osobnými preferenciami. Ak si človek nie je istý, aká metóda je preňho tá správna, mal by sa poradiť so svojím lekárom/kou.
 
@@ -175,18 +175,10 @@ Všetky antikoncepčné metódy aj bariéry proti prenosu PPI majú svoje výhod
 
 “Antikoncepcia: Aké Sú Typy Antikoncepcie? Ktorú Si Zvoliť? Aké Riziká so Sebou Prináša?” Lekar.sk, October 28, 2020. https://lekar.sk/clanok/antikoncepcia. 
 
-<br>
-
 Freedman, Beth, and Nancy Padian. “Barrier Methods.” Prevention UCSF. University of California San Francisco. School of Medicine. Department of Medicine. Division of Prevention Science. Accessed April 15, 2021. https://prevention.ucsf.edu/research-project/barrier-methods. 
-
-<br>
 
 “Metódy a Formy Antikoncepcie.” Spoločnosť pre plánované rodičovstvo, December 1, 2010. https://rodicovstvo.wordpress.com/antikoncepcia/metody/.
 
-<br>
-
 “Typy Antikoncepcie. Akú Si Zvoliť?” Najlekáreň.eu, 2020. https://www.najlekaren.eu/aktuality/typy-antikoncepie-aku-si-zvolit.html. 
-
-<br>
 
 “Your Contraception Guide.” NHS Choices. NHS, March 17, 2021. https://www.nhs.uk/conditions/contraception/?tabname=methods-of-contraception.
