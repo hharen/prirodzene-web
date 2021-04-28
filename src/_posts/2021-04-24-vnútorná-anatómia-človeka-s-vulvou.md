@@ -4,24 +4,12 @@ title: Vnútorné pohlavné ústrojenstvo človeka s vulvou
 slug: vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou
 topic: telo
 subtopic: anatomia
-date: 2021-04-24T17:11:20.420Z
+date: 2021-04-25T08:00:20.420Z
 metadescription: "Vnútorné pohlavné ústrojenstvo človeka s vulvou sa skladá z
   nasledujúcich častí: dno maternice, maternica, endometrium, myometrium,
   perimetrium, krčok maternica, vaječníky, vajíčkovod, pošva, Skeneho a
   Bartholiniho žľazy, klitoris."
-references: >-
-  Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit
-  organization. University of California, Santa Barbara . Accessed January 1,
-  2021. https://sexinfoonline.com/. 
-
-
-  Brochmann, Nina, and Ellen Støkken Dahl. The Wonder Down Under. Hodder &amp; Stoughton, 2018. 
-
-
-  Mráz, Peter, and Kamil Belej. Anatómia Ľudského Tela 2. Slovak Academic Press, 2016. 
-
-
-  Rare, Ruby. Sex Ed:A Guide for Adults. London, UK: Bloomsbury, 2020.
+references: ""
 ---
 Vnútorné pohlavné ústrojenstvo človeka s vulvou sa skladá z nasledujúcich častí:
 
@@ -157,3 +145,19 @@ Dodnes existujú krajiny, v ktorých sú ženy trestané, ak pri prvom sexuáln
 <div class="flex flex-wrap justify-around">
 <img src="/images/uploads/hymnes.jpg" alt="Rôzne hymeny">
 </div>
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. <https://sexinfoonline.com/>. 
+
+Brochmann, Nina, and Ellen Støkken Dahl. The Wonder Down Under. Hodder &amp; Stoughton, 2018. 
+
+Mráz, Peter, and Kamil Belej. Anatómia Ľudského Tela 2. Slovak Academic Press, 2016. 
+
+Rare, Ruby. Sex Ed:A Guide for Adults. London, UK: Bloomsbury, 2020.
