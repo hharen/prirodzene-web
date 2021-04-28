@@ -124,7 +124,66 @@ V niektorých štátoch USA, ako aj v rôznych iných krajinách vo svete, sa 
 
 Spôsob, akým sa vyučuje sexuálna výchova v Európskej únii, závisí od jednotlivých krajín a ich zákonov a schválených osnov. Európska regionálna pobočka Svetovej zdravotníckej organizácie však vydala smernice, podľa ktorých odporúča vyučovať programy sexuálnej výchovy v EÚ. V týchto smerniciach sú podrobne rozpísané jednotlivé témy, ktoré by sa mali rozoberať s deťmi už od narodenia až po dospelosť. Sú rozdelené do 6 vekových kategórií: 0 – 4, 4 – 6, 6 – 9, 9 – 12, 12 –15 a 15+. Systému, ktorý odporúča EÚ, hovoríme komplexné sexuálne vzdelávanie. Európske smernice všeobecne zahŕňajú nasledujúce témy.
 
-TABUĽKA!!!!
+<table>
+<thead>
+  <tr>
+    <th>Téma<br></th>
+    <th>Informácie</th>
+    <th>Zručnosti</th>
+    <th>Prístup</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Ľudské telo a vývin človek</td>
+    <td>Anatómia, telesné zmeny, hygiena</td>
+    <td>Pomenovať časti tela a rozpoznať rozdiely</td>
+    <td>Pozitívny obraz o ľudskom tele</td>
+  </tr>
+  <tr>
+    <td>Plodnosť a rozmnožovanie</td>
+    <td>Tehotenstvo, pôrod, rodičovstvo, antikoncepcia</td>
+    <td>Komunikácia a informované rozhodovanie sa</td>
+    <td>Rešpektovanie rozmanitosti</td>
+  </tr>
+  <tr>
+    <td>Sexualita</td>
+    <td>Láska, city, sex, médiá</td>
+    <td>Komunikácia, rešpekt, schopnosť dohodnúť sa</td>
+    <td>Prijateľné formy sexuálneho správania</td>
+  </tr>
+  <tr>
+    <td>Emócie</td>
+    <td>Pocity, láska a túžba</td>
+    <td>Vyjadrenie emócií a pocitov, komunikácia</td>
+    <td>Prijatie pocitov</td>
+  </tr>
+  <tr>
+    <td>Vzťahy a životný štýl</td>
+    <td>Priateľské a romantické vzťahy</td>
+    <td>Budovanie vzťahov, komunikácia, kompromisy</td>
+    <td>Rovnosť, zodpovednosť, rešpekt</td>
+  </tr>
+  <tr>
+    <td>Sexualita, zdravie a duševná pohoda</td>
+    <td>PPI a iné choroby, interrupcie, násilie</td>
+    <td>Schopnosť stanoviť si osobné hranice, poprosiť o pomoc</td>
+    <td>Osobná zodpovednosť za svoje zdravie</td>
+  </tr>
+  <tr>
+    <td>Sexualita a práva</td>
+    <td>Telesná integrita, informovanosť</td>
+    <td>Schopnosť poprosiť o pomoc a o informácie</td>
+    <td>Vzájomná aj osobná zodpovednosť</td>
+  </tr>
+  <tr>
+    <td>Spoločenské a kultúrne faktory sexuality, hodnoty a normy</td>
+    <td>Rodové role, spoločenské a kultúrne normy, náboženstvo, médiá</td>
+    <td>Komunikácia o osobných potrebách, preferenciách a prianiach, riešenie protichodných potrieb</td>
+    <td>Rešpekt k rôznym životným štýlom, vzťahovým schémam a normám</td>
+  </tr>
+</tbody>
+</table>
 
 Prirodzene Web je takisto založený na [komplexnom sexuálnom vzdelávaní](https://www.advocatesforyouth.org/wp-content/uploads/storage/advfy/documents/cse-myths-and-facts.pdf) (KSV) (angl. comprehensive sexuality education (CSE)). Cieľom KSV je poskytnúť veku primeraný proces výučby a spoznávania kognitívnych, emocionálnych, fyzických a sociálnych aspektov sexuality. Ako môžeme vidieť aj v smerniciach EÚ, KSV zahŕňa vzdelávanie v rôznych témach, ktoré sú súčasťou života každého človeka. Jeho cieľom je sprostredkovať ľuďom vedomosti, informácie a zručnosti, ktoré im umožnia správne sa starať o svoje zdravie, duševnú pohodu, osobnú dôstojnosť a rozvíjať bezpečné, zdravé a naplňujúce medziľudské vzťahy. Učí ľudí rozhodovať sa na základe svojich osobných potrieb a zároveň rešpektovať rozhodnutia ostatných ľudí. KSV podporuje budovanie zdravého sebavedomia, sebaúcty a kladného vzťahu k vlastnému telu. Pomáha búrať nezdravé stereotypy a očakávania spoločnosti, bojuje s rodovo podmieneným násilím a s rodovou nerovnosťou, slúži ako prevencia voči neželaným tehotenstvám a šíreniu PPI. 
 

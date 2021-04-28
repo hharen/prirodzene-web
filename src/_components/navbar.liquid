@@ -1,45 +1,82 @@
-<div class='nav-main mx-5 py-3'>
-  <nav>
-    <a href="/">Home</a>
-    <div class="dropdown is-hoverable">
-      <span>O nás</span>
-      <div class="dropdown-menu" id="dropdown-menu" role="menu">
-        <div class="dropdown-content">
-          <a href="/o-nas" class="dropdown-item">
-            O nás
-          </a>
-          <a href="/tim" class="dropdown-item">
-            Tím
-          </a>
-          <a href="/oz-prirodzene" class="dropdown-item">
-            Občianske združenie
-          </a>
+<div class='nav-main mx-5 py-3 md:text-center md:flex md:flex-shrink-zero'>
+  <a role="button" class="navbar-burger is-active" data-target="navMenu" aria-label="menu" aria-expanded="false">
+    <span aria-hidden="true"></span>
+    <span aria-hidden="true"></span>
+    <span aria-hidden="true"></span>
+  </a>
+
+  <div class="navbar-menu is-active" id="navMenu">
+    <nav>
+      <a href="/">Home</a>
+      <div class="dropdown is-hoverable">
+        <span>O nás</span>
+        <div class="dropdown-menu" id="dropdown-menu" role="menu">
+          <div class="dropdown-content">
+            <a href="/o-nas" class="dropdown-item">
+              O nás
+            </a>
+            <a href="/tim" class="dropdown-item">
+              Tím
+            </a>
+            <a href="/oz-prirodzene" class="dropdown-item">
+              Občianske združenie
+            </a>
+            <a href="/napisali-o-nas" class="dropdown-item">
+              Napísali o nás
+            </a>
+          </div>
         </div>
       </div>
-    </div>
-    
-    <a href="/clanky">Články</a>
-    <a href="/odporucame">Odporúčame</a>
-    <div class="dropdown is-hoverable">
-      <span>Partneri</span>
-      <div class="dropdown-menu" id="dropdown-menu" role="menu">
-        <div class="dropdown-content">
-          <a href="/partneri" class="dropdown-item">
-            Partneri
-          </a>
-          <a href="/partnerske-spolocnosti" class="dropdown-item">
-            Partnerské spoločnosti
-          </a>
+      <a href="/clanky">Články</a>
+      <a href="/odporucame">Odporúčame</a>
+      <div class="dropdown is-hoverable">
+        <span>Partneri</span>
+        <div class="dropdown-menu" id="dropdown-menu" role="menu">
+          <div class="dropdown-content">
+            <a href="/partneri" class="dropdown-item">
+              Partneri
+            </a>
+            <a href="/partnerske-spolocnosti" class="dropdown-item">
+              Partnerské spoločnosti
+            </a>
+          </div>
         </div>
       </div>
+      <a href="/kontakt">Kontakt</a>
+    </nav>
+    <div class="social-links">
+      <a href="https://www.instagram.com/prirodzeneweb/" target="_blank"><i class="fab fa-instagram"></i></a>
+      <a href="https://www.youtube.com/channel/UCCe5FEsSXyQUtj_rd85n1dA" target="_blank"><i class="fab fa-youtube"></i></a>
     </div>
-    <a href="/kontakt">Kontakt</a>
-  </nav>
-  <div class="social-links">
-    <a href="https://www.instagram.com/prirodzeneweb/" target="_blank"><i class="fab fa-instagram"></i></a>
-    <a href="https://www.youtube.com/channel/UCCe5FEsSXyQUtj_rd85n1dA" target="_blank"><i class="fab fa-youtube"></i></a>
   </div>
 </div>
 
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', () => {
+
+  // Get all "navbar-burger" elements
+  const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+  // Check if there are any navbar burgers
+  if ($navbarBurgers.length > 0) {
+
+    // Add a click event on each of them
+    $navbarBurgers.forEach( el => {
+      el.addEventListener('click', () => {
+
+        // Get the target from the "data-target" attribute
+        const target = el.dataset.target;
+        const $target = document.getElementById(target);
+
+        // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+        el.classList.toggle('is-active');
+        $target.classList.toggle('is-active');
+
+      });
+    });
+  }
+
+});
+</script>
 
 

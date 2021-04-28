@@ -6,9 +6,9 @@ metadescription: 'O sexe a tele pre dospelých a dospievajúcich. Jasne, milo a 
 ---
 
 <section class="posts py-8 px-4">
-	<div class="text-center f-sex flex place-content-around place-items-center"><a href="#spolocnost">Sexualita a spoločnosť</a><h2>Sex a sexualita</h2><a href="#sex-subtopic">Sex</a></div>
+	<div class="articles-title f-sex"><a href="#spolocnost">Sexualita a spoločnosť</a><h2>Sex a sexualita</h2><a href="#sex-subtopic">Sex</a></div>
 
-	<div class="my-8 flex list-of-articles justify-around">
+	<div class="articles-list list-of-articles">
 		<div class="mx-8">
 			<h3>Sexualita a spoločnosť</h3>
 			<ul>
@@ -46,7 +46,7 @@ metadescription: 'O sexe a tele pre dospelých a dospievajúcich. Jasne, milo a 
           <a href="{{ post.url }}">{{ post.title }}</a>
         </h4>
         <p>{{ post.excerpt }}</p>
-        <p class='mb-8'><a href="{{ post.url }}" class="btn btn-telo">Čítať ďalej</a></p>
+        <p class='mb-8'><a href="{{ post.url }}" class="btn btn-sex">Čítať ďalej</a></p>
     {% endif %}
   {% endfor %}
 
@@ -58,7 +58,7 @@ metadescription: 'O sexe a tele pre dospelých a dospievajúcich. Jasne, milo a 
           <a href="{{ post.url }}">{{ post.title }}</a>
         </h4>
         <p>{{ post.excerpt }}</p>
-        <p class='mb-8'><a href="{{ post.url }}" class="btn btn-telo">Čítať ďalej</a></p>
+        <p class='mb-8'><a href="{{ post.url }}" class="btn btn-sex">Čítať ďalej</a></p>
     {% endif %}
   {% endfor %}
 </section>
