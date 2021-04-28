@@ -4,7 +4,7 @@ title: Ako sa chrániť proti neželanému tehotenstvu a prenosu PPI
 slug: ako-sa-chranit-proti-nezelanemu-tehotenstvu-a-prenosu-PPI
 topic: zdravie
 subtopic: bariery
-date: 2021-04-28T11:32:07.874Z
+date: 2021-04-25T05:30:00.000Z
 metadescription: Na Slovensku sú dostupné rôzne typy metód ochrany proti
   neželanému tehotenstvu a prenosu pohlavne prenosných infekcií, pričom každému
   človeku vyhovujú iné metódy.
