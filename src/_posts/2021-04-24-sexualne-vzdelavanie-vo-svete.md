@@ -107,7 +107,7 @@ Veríme, že sexuálne vzdelávanie je nevyhnutné. Podľa štúdií má [31 % m
 
 <div class='f-sex box-post'>
 
-Komplexné sexuálne vzdelávanie preukázateľne zvyšuje šancu, že mladí ľudia nezačnú žiť aktívny sexuálny život, kým naň nebudú dostatočne zrelí a pripravení, a zároveň je vyššia pravdepodobnosť, že sa pri sexuálnych aktivitách budú adekvátne chrániť. KSV vedie ľudí k hodnotám ako vzájomný rešpekt, tolerancia, rovnosť, empatia a vzájomná pomoc.
+Komplexné sexuálne vzdelávanie <a href="https://www.advocatesforyouth.org/wp-content/uploads/storage/advfy/documents/cse-myths-and-facts.pdf" target="_blank">preukázateľne</a> zvyšuje šancu, že mladí ľudia nezačnú žiť aktívny sexuálny život, kým naň nebudú dostatočne zrelí a pripravení, a zároveň je vyššia pravdepodobnosť, že sa pri sexuálnych aktivitách budú adekvátne chrániť. KSV vedie ľudí k hodnotám ako vzájomný rešpekt, tolerancia, rovnosť, empatia a vzájomná pomoc.
 
 </div>
 
