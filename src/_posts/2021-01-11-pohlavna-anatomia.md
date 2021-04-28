@@ -10,7 +10,7 @@ metadescription: Pohlavie človeka, na rozdiel od rodu, súvisí s našimi
   biologických faktorov.
 references: ""
 ---
-Pohlavie človeka, na rozdiel od rodu, súvisí s našimi biologickými charakteristikami. Cicavce sú najčastejšie rozdelené medzi [samcov a samice.](/muz-a-zena-vs-samec-a-samica/) Pri ľuďoch tieto pomenovania často zamieňame s pojmami [„muž a žena“](/muz-a-zena-vs-samec-a-samica/), avšak, mužské a ženské črty súvisia predovšetkým s rodom človeka. Samčie a samičie črty súvisia s biologickým pohlavím. Môžeme ho definovať na základe nasledujúcich faktorov:
+Pohlavie človeka, na rozdiel od rodu, súvisí s našimi biologickými charakteristikami. Cicavce sú najčastejšie rozdelené medzi [samcov a samice](/muz-a-zena-vs-samec-a-samica/){:target="_blank"}. Pri ľuďoch tieto pomenovania často zamieňame s pojmami [„muž a žena“](/muz-a-zena-vs-samec-a-samica/), avšak, mužské a ženské črty súvisia predovšetkým s rodom človeka. Samčie a samičie črty súvisia s biologickým pohlavím. Môžeme ho definovať na základe nasledujúcich faktorov:
 
 ## 1. Pohlavné chromozómy
 
