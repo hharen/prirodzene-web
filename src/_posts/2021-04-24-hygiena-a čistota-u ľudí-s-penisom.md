@@ -11,7 +11,7 @@ metadescription: Dôkladná starostlivosť o hygienu v oblasti genitálií je
   dodržiavať
 references: ""
 ---
-Dôkladná starostlivosť o hygienu v oblasti genitálií je dôležitá. Za [žaluďom](https://pensive-newton-39aa56.netlify.app/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-penisom/) sa hromadí biela až žltá hmota, ktorú produkujú žľazy predkožky. Tejto hmote hovoríme smegma. Smegma obsahuje baktérie, odumreté bunky aj mastnotu. Pri nedostatočnej hygiene môže spôsobiť nepríjemné infekcie a zápaly. Toto sú zásady, ktoré by mal človek s penisom pri hygiene dodržiavať: 
+Dôkladná starostlivosť o hygienu v oblasti genitálií je dôležitá. Za [žaluďom](/vonkajsie-pohlavne-ustrojenstvo-cloveka-s-penisom/){:target="_blank"} sa hromadí biela až žltá hmota, ktorú produkujú žľazy predkožky. Tejto hmote hovoríme smegma. Smegma obsahuje baktérie, odumreté bunky aj mastnotu. Pri nedostatočnej hygiene môže spôsobiť nepríjemné infekcie a zápaly. Toto sú zásady, ktoré by mal človek s penisom pri hygiene dodržiavať: 
 
 * Po močení by sa mali zbytky moču jemne utrieť toaletným papierom.
 * Penis by sa mal umývať každý deň a je potrebné vyhnúť sa agresívnemu treniu. Predkožka sa má jemne stiahnuť pod korunku žaluďa, ktorý treba dôkladne umyť. 
