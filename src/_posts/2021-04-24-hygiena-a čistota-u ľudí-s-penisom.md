@@ -29,8 +29,6 @@ Dôkladná starostlivosť o hygienu v oblasti genitálií je dôležitá. Za [
 
 <p class="important-text">ZDROJE:</p>
 
-Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. 
-
-<https://sexinfoonline.com/>. 
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. <https://sexinfoonline.com/>. 
 
 Mráz, Peter, and Kamil Belej. Anatómia Ľudského Tela 2. Slovak Academic Press, 2016.
