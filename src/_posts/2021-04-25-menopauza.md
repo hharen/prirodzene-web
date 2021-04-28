@@ -5,23 +5,23 @@ slug: menopauza
 topic: telo
 subtopic: vyvin
 date: 2021-04-25T06:30:21.359Z
-metadescription: "[/menstruacny-cyklus/](/menstruacny-cyklus/)Menopauza je
-  pojem, ktorý označuje neprítomnosť menštruácie po dobu viac ako 12 mesiacov.
-  Bežný nástup menopauzy je okolo veku 52 rokov. Dochádza vtedy k fyziologickému
-  zlyhaniu vaječníkov, ktoré je spôsobené starnutím."
+metadescription: "[](/menstruacny-cyklus/)Menopauza je pojem, ktorý označuje
+  neprítomnosť menštruácie po dobu viac ako 12 mesiacov. Bežný nástup menopauzy
+  je okolo veku 52 rokov. Dochádza vtedy k fyziologickému zlyhaniu vaječníkov,
+  ktoré je spôsobené starnutím."
 references: ""
 ---
-**Menopauza** je pojem, ktorý označuje neprítomnosť [menštruácie](/menstruacny-cyklus/) po dobu viac ako 12 mesiacov. Bežný nástup menopauzy je okolo veku 52 rokov. Dochádza vtedy k fyziologickému zlyhaniu [vaječníkov](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/), ktoré je spôsobené starnutím. Jeden z prvých príznakov je nepravidelná menštruácia. Väčšina ľudí s vulvou si prejde menopauzou medzi 40. a 58. rokom života. Okrem prirodzenej menopauzy existuje aj umelo vyvolaná menopauza, a to v prípade, že vaječníky sú chirurgicky odstránené z tela, dôsledkom chemoterapie či niektorých hormonálnych liekov, v dôsledku zdravotných problémov ako je [endometrióza](https://www.promama.sk/tehotenstvo/endometrioza-tehotenstvo-moze-sposobit-neplodnost) či rakovina [maternice](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/). Symptómy umelo vyvolanej menopauzy sú rovnaké ako pri prirodzenej menopauze, s tým rozdielom, že nenastávajú postupne ale v rozmedzí veľmi krátkeho času. 
+**Menopauza** je pojem, ktorý označuje neprítomnosť [menštruácie](/menstruacny-cyklus/){:target="_blank"} po dobu viac ako 12 mesiacov. Bežný nástup menopauzy je okolo veku 52 rokov. Dochádza vtedy k fyziologickému zlyhaniu [vaječníkov](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/){:target="_blank"}, ktoré je spôsobené starnutím. Jeden z prvých príznakov je nepravidelná menštruácia. Väčšina ľudí s vulvou si prejde menopauzou medzi 40. a 58. rokom života. Okrem prirodzenej menopauzy existuje aj umelo vyvolaná menopauza, a to v prípade, že vaječníky sú chirurgicky odstránené z tela, dôsledkom chemoterapie či niektorých hormonálnych liekov, v dôsledku zdravotných problémov ako je [endometrióza](https://www.promama.sk/tehotenstvo/endometrioza-tehotenstvo-moze-sposobit-neplodnost){:target="_blank"} či rakovina [maternice](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/){:target="_blank"}. Symptómy umelo vyvolanej menopauzy sú rovnaké ako pri prirodzenej menopauze, s tým rozdielom, že nenastávajú postupne ale v rozmedzí veľmi krátkeho času. 
 
-[Ľudia s vulvou](/muz-a-zena-vs-samec-a-samica/) sa narodia s pevným množstvom vajíčok, ktoré sa nachádzajú vo vaječníkoch. Tie sú zodpovedné za produkciu estrogénu a progestínu. So stúpajúcim vekom klesá produkcia estrogénu a uvoľňovanie vajíčok je menej pravidelné či menej časté. V momente, kedy žena nedostala menštruáciu 12 mesiacov, vaječníky ďalej neuvoľňujú vajíčka a produkcia estrogénu je výrazne nižšia, než pred menopauzou. 
+[Ľudia s vulvou](/muz-a-zena-vs-samec-a-samica/){:target="_blank"} sa narodia s pevným množstvom vajíčok, ktoré sa nachádzajú vo vaječníkoch. Tie sú zodpovedné za produkciu estrogénu a progestínu. So stúpajúcim vekom klesá produkcia estrogénu a uvoľňovanie vajíčok je menej pravidelné či menej časté. V momente, kedy žena nedostala menštruáciu 12 mesiacov, vaječníky ďalej neuvoľňujú vajíčka a produkcia estrogénu je výrazne nižšia, než pred menopauzou. 
 
 #### Príznaky menopauzy zahŕňajú:
 
 * návaly horúčavy sprevádzané zvýšenou intenzitou tlkotu srdca a potenia;
 * bolesti hlavy;
 * únava;
-* znížené libido/sexuálna túžba;
-* stenčovanie vaginálnych stien a menej prirodzenej lubrikácie [vagíny](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/) (t.j. vaginálna atrofia);
+* znížené libido/[sexuálna túžba](/telesne-a-emocionalne-procesy-sexualna-tuzba-a-sexualna-aktivita/){:target="_blank"};
+* stenčovanie vaginálnych stien a menej prirodzenej lubrikácie [vagíny](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/){:target="_blank"} (t.j. vaginálna atrofia);
 * výkyvy nálad;
 * emocionálne príznaky ako smútok, podráždenosť, strata motivácie, stres, agresia, úzkosť, neschopnosť sústrediť sa, atď. 
 
