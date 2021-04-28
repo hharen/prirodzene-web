@@ -40,7 +40,7 @@ Rovnako, ako je dôležité, aby sme s človekom komunikovali s rešpektom, ot
 * prospešné môže byť použitie princípu: **chcem, môžem, nebudem** – tento princíp funguje tak, že s niekým zdieľame, čo by sme chceli robiť, čo sme ochotní robiť, ak to chce partner a čo robiť nechceme a nebudeme;
 * **očakávania**: či už ide o sex na 1 noc alebo o dlhodobý vzťah, je dôležité, aby si všetci zúčastnení boli vedomí vzájomných očakávaní v súvislosti s prípadným (ne)pokračovaním vzťahu (sexuálneho, romantického, priateľského atď.);
 * **vzťahový status**: je dôležité uistiť sa, či sú zúčastnení slobodní, v monogamnom/otvorenom/polygamnom vzťahu a podobne;
-* tzv. **bezpečné slová** (angl. safe words): môže byť prospešné stanoviť si neutrálne slová, ktoré budú znamenať, že aktivitu chcete ukončiť (napr. „mango“) a to najmä v prípade, že aktivita bude zahrňovať BDSM praktiky, hry a podobne;
+* tzv. **bezpečné slová** (angl. safe words): môže byť prospešné stanoviť si neutrálne slová, ktoré budú znamenať, že aktivitu chcete ukončiť (napr. „mango“) a to najmä v prípade, že aktivita bude zahŕňať BDSM praktiky, hry a podobne;
 * **trauma, diskomfort, neistoty**: tento krok je podstatný najmä pre obete sexuálneho násilia, obťažovania či zneužívania, či pre ľudí, ktorí môžu cítiť diskomfort v súvislosti so svojim telom (napr. ľudia s telesnou dysfóriou, s poruchami príjmu potravy a podobne);
 * čo by sme chceli robiť **po skončení sexuálnej aktivity**;
 * aké slová radi používame na **pomenovanie svojich častí tela či rôznych sexuálnych aktivít** – na rôzne sexuálne aktivity a časti tela existuje mnoho pojmov, pričom niektoré sú odborné, vulgárne, infantilné a podobne, tento krok teda môže viesť k väčšiemu komfortu a zároveň uľahčiť komunikáciu počas sexu, keď partnera/ku môžeme slovne viesť a smerovať.
@@ -93,7 +93,7 @@ Pri rozhovoroch o sexuálnom živote je dobré na začiatku verbalizovať náš
 
 ### **Nesústrediť sa na 1 rozhovor**
 
-Na záver je dôležité pochopiť, že tieto konverzácie by mali pretrvávať počas celého života. Aj v dlhodobom vzťahu je potrebné sa k týmto rozhovorom neustále vracať. Ľudia sa menia a s nimi sa menia ja ich telá, túžby, požiadavky a potreby. Svoju sexualitu človek objavuje celý život a veľakrát, najmä v prípadoch, kedy človek nemá veľa sexuálnych skúseností, je veľmi náročné až nemožné odkomunikovať naše sexuálne potreby. Počas toho, ako ich objavujeme a nachádzame ich však môžeme zdieľať s našimi partnermi/kami a vytvárať si tak intímnejší vzťah a hlbšie puto. Zdravá komunikácia v sexuálnych vzťahoch má mnohé emocionálne, psychologické, fyzické aj duševné benefity a pomáha ľuďom budovať zdravý a uspokojivý sexuálny život.
+Na záver je dôležité pochopiť, že tieto konverzácie by mali pretrvávať počas celého života. Aj v dlhodobom vzťahu je potrebné sa k týmto rozhovorom neustále vracať. Ľudia sa menia a s nimi sa menia aj ich telá, túžby, požiadavky a potreby. Svoju sexualitu človek objavuje celý život a veľakrát, najmä v prípadoch, kedy človek nemá veľa sexuálnych skúseností, je veľmi náročné až nemožné odkomunikovať naše sexuálne potreby. Počas toho, ako ich objavujeme a nachádzame ich však môžeme zdieľať s našimi partnermi/kami a vytvárať si tak intímnejší vzťah a hlbšie puto. Zdravá komunikácia v sexuálnych vzťahoch má mnohé emocionálne, psychologické, fyzické aj duševné benefity a pomáha ľuďom budovať zdravý a uspokojivý sexuálny život.
 
 <br>
 
