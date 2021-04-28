@@ -4,7 +4,7 @@ title: Sexuálna orientácia
 slug: sexualna-orientacia
 topic: identita
 subtopic: orientacia
-date: 2021-04-25T18:20:19.941Z
+date: 2021-04-25T06:20:19.941Z
 metadescription: Sexuálna orientácia môže zahŕňať rôzne typy príťažlivosti
   človeka k osobám jedného alebo viacerých pohlaví či rodov. Nie je presne
   definovaná či vymedzená, zahŕňa romantické, citové, sexuálne aj fyzické
