@@ -4,22 +4,10 @@ title: Vonkajšie pohlavné ústrojenstvo človeka s penisom
 slug: vonkajsie-pohlavne-ustrojenstvo-cloveka-s-penisom
 topic: telo
 subtopic: anatomia
-date: 2021-04-24T18:17:24.391Z
+date: 2021-04-25T07:45:24.391Z
 metadescription: Vonkajšia časť pohlavného ústrojenstva človeka s penisom sa
   nazýva penis a miešok. Vzhľad penisov a mieškov je veľmi rôznorodý.
-references: >-
-  Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit
-  organization. University of California, Santa Barbara . Accessed January 1,
-  2021. https://sexinfoonline.com/. 
-
-
-  Mráz, Peter, and Kamil Belej. Anatómia Ľudského Tela 2. Slovak Academic Press, 2016. 
-
-
-  Rare, Ruby. Sex Ed:A Guide for Adults. London, UK: Bloomsbury, 2020. 
-
-
-  Veale, David, Sarah Miles, Sally Bramley, Gordon Muir, and John Hodsoll. “Am I Normal? A Systematic Review and Construction of Nomograms for Flaccid and Erect Penis Length and Circumference in up to 15 521 Men.” BJU International. John Wiley &amp; Sons, Ltd, March 2, 2015. https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13010.
+references: ""
 ---
 Vonkajšia časť pohlavného ústrojenstva človeka s penisom sa nazýva penis a miešok. 
 
@@ -104,3 +92,19 @@ Výrazné ochlpenie rastie väčšinou medzi genitáliami a podbruškom, na ste
 <img src="/images/uploads/penis_diversity-2.jpg" alt="Rôzne stoporené penisy">
 
 </div>
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. <https://sexinfoonline.com/>. 
+
+Mráz, Peter, and Kamil Belej. Anatómia Ľudského Tela 2. Slovak Academic Press, 2016. 
+
+Rare, Ruby. Sex Ed:A Guide for Adults. London, UK: Bloomsbury, 2020. 
+
+Veale, David, Sarah Miles, Sally Bramley, Gordon Muir, and John Hodsoll. “Am I Normal? A Systematic Review and Construction of Nomograms for Flaccid and Erect Penis Length and Circumference in up to 15 521 Men.” BJU International. John Wiley &amp; Sons, Ltd, March 2, 2015. <https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13010>.
