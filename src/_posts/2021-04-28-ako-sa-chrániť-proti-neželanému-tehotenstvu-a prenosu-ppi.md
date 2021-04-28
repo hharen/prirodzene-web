@@ -5,6 +5,9 @@ slug: ako-sa-chranit-proti-nezelanemu-tehotenstvu-a-prenosu-PPI
 topic: zdravie
 subtopic: bariery
 date: 2021-04-28T11:32:07.874Z
+metadescription: Na Slovensku sú dostupné rôzne typy metód ochrany proti
+  neželanému tehotenstvu a prenosu pohlavne prenosných infekcií, pričom každému
+  človeku vyhovujú iné metódy.
 ---
 Jednou z najčastejších tém, ktoré riešia ľudia v súvislosti s ich sexuálnym životom, sú antikoncepčné metódy (t.j. metódy, ktoré zabraňujú neželanému [tehotenstvu](/vyvinove-fazy-plodu-a-tehotenstvo/)). V dnešnej dobe je už antikoncepčných metód veľa, avšak, väčšina z nich nie je dostupná pre každého. Každému človeku vyhovujú iné metódy, či už z hľadiska komfortu, zdravotného stavu, životného štýlu, ceny, prístupu k lekárňam a k lekárskym zariadeniam a podobne. Účinnosť antikoncepčnej metódy sa určuje na základe tzv. **[tehotenského čísla](https://rodicovstvo.wordpress.com/antikoncepcia/metody/)**, ktoré obsahuje 2 údaje. Keď hovoríme, že tehotenské číslo určitej antikoncepčnej metódy je napríklad 2 – 7, znamená to, že pravdepodobnosť otehotnenia (teda zlyhania antikoncepčnej metódy) je u 2 až 7 žien zo 100, ktoré používajú danú metódu po dobu 1 roka. Prvé číslo (2) označuje pravdepodobný počet tehotenstiev pri pravidelnom a dôslednom používaní metódy a druhé číslo (7) pravdepodobný počet tehotenstiev pri nedostatočne pravidelnom a nedostatočne dôslednom používaní metódy.
 
