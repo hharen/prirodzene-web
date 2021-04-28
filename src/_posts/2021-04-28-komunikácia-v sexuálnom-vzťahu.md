@@ -66,14 +66,14 @@ Rovnako, ako je dôležité, aby sme s človekom komunikovali s rešpektom, ot
 * „plán“ do **budúcnosti**: rozhovor o tom, či by sme si aktivitu chceli zopakovať a podobne.
 
 <div class='f-vztahy box-post'>
-Tento zoznam je len orientačný a rozhodne nie je vyčerpateľný, obsahuje len základné témy, ktoré by mali byť medzi partnermi/kami komunikované. Každý človek by mal byť schopný vytvoriť si vlastný zoznam, či už v myšlienkach alebo na papier, obsahujúci témy, o ktorých cíti potrebu vo svojich sexuálnych vzťahoch viesť konverzácie.\
+Tento zoznam je len orientačný a rozhodne nie je vyčerpateľný, obsahuje len základné témy, ktoré by mali byť medzi partnermi/kami komunikované. Každý človek by mal byť schopný vytvoriť si vlastný zoznam, či už v myšlienkach alebo na papier, obsahujúci témy, o ktorých cíti potrebu vo svojich sexuálnych vzťahoch viesť konverzácie.
 </div>
 
 <br>
 
 ## Ako na to?
 
-V prípade, že [sexuálna aktivita](/sexualne-aktivity/) nie je jednorazová, je nesmierne prospešné rozprávať sa o sexe v neutrálnom kontexte, keď sú ľudia všeobecne menej zraniteľní a citliví. Kvôli stigme a hanbe, ktorú mnohí ľudia v súvislosti so sexom majú, môžu byť však takéto rozhovory často nepríjemné či trápne. Existujú rôzne online pomôcky ako [MojoUpgrade.com{:target="_blank"}](https://mojoupgrade.com/), ktoré majú za úlohu pomôcť ľuďom a párom otvoriť konverzácie o sexe. Pri bežných rozhovoroch môžeme použiť niekoľko stratégií, ktoré môžu komunikáciu o sexe urobiť jednoduchšou.
+V prípade, že [sexuálna aktivita](/sexualne-aktivity/) nie je jednorazová, je nesmierne prospešné rozprávať sa o sexe v neutrálnom kontexte, keď sú ľudia všeobecne menej zraniteľní a citliví. Kvôli stigme a hanbe, ktorú mnohí ľudia v súvislosti so sexom majú, môžu byť však takéto rozhovory často nepríjemné či trápne. Existujú rôzne online pomôcky ako [MojoUpgrade.com](https://mojoupgrade.com/), ktoré majú za úlohu pomôcť ľuďom a párom otvoriť konverzácie o sexe. Pri bežných rozhovoroch môžeme použiť niekoľko stratégií, ktoré môžu komunikáciu o sexe urobiť jednoduchšou.
 
 ### **Sebareflexia**
 
