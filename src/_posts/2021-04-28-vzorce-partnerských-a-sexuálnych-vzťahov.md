@@ -4,7 +4,7 @@ title: Vzorce partnerských a sexuálnych vzťahov
 slug: vzorce-partnerskych-a-sexualnych-vztahov
 topic: vztahy
 subtopic: vztahy
-date: 2021-04-28T13:46:54.175Z
+date: 2021-04-25T05:15:00.000Z
 ---
 V slovenskej spoločnosti a kultúre je väčšinovo zachovaný exkluzívne monogamný typ vzťahov. To je vzťah, v ktorom 2 osoby vedú výlučne vzájomný romantický aj sexuálny život. Mnohé monogamné vzťahy sú krásne a pre daných ľudí fungujú perfektne. Monogamia však nie je norma u každého. Okrem toho, že nemonogamné vzorce vzťahov môžeme nájsť v rôznych kultúrach, krajinách, náboženstvách a spoločenstvách ako v súčasnosti tak aj v minulosti, rozdielne vzorce vzťahov nie sú ojedinelé ani v našich končinách. Ako sme už písali v [článku o rôznorodosti](/roznorodost/), všetci sme iní a jedineční a to robí našu ľudskosť krásnou. Inak to nie je ani pri vzťahoch, ktoré vedieme a ktoré nám vyhovujú. V tomto článku si rozoberieme rôzne **vzorce vzťahov, ktoré ľudia môžu viesť**.
 
