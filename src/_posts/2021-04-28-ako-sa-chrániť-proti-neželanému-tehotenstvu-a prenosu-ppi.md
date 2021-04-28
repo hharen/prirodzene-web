@@ -12,6 +12,12 @@ Väčšina antikoncepčných metód nechráni aj proti prenosu [pohlavne prenosn
 
 Nasledovný zoznam zahrňuje typy metód ochrany proti neželanému tehotenstvu a prenosu PPI, ktoré sú v súčasnosti dostupné na Slovensku. Informácie sú však orientačné a vždy je nevyhnutné sa poradiť s odborníkom/odborníčkou.
 
+<div class="flex flex-wrap justify-around">
+
+<img src="/images/uploads/contraception_barriers.jpg" alt="Rôzne antikoncepčné a ochranné metódy">
+
+</div>
+
 <br>
 
 ## Hormonálna antikoncepcia
@@ -140,10 +146,6 @@ Kondóm na prst (angl. finger condom) vyzerá veľmi podobne ako bežný kondóm
 ### **4. Dental dam** 
 
 Dental dam je štvorcový kus blany väčšinou vyrobený z latexu. Používa sa pri vulvárnom alebo análnom orálnom sexe. Pokladá sa na tú časť tela (vulvu/ análny otvor/ perineum), ktorá bude v kontakte s ústami. Zabraňuje prenosu PPI. Dental dam nie je bežne dostupná, dá sa však vyrobiť z bežného kondómu. Na internete je dostupných množstvo návodov, ktoré vysvetľujú, akým spôsobom sa to robí.
-
-<div class="flex flex-wrap justify-around">
-<img src="/images/uploads/contraception_barriers.jpg" alt="Rôzne antikoncepčné a ochranné metódy">\
-</div>
 
 <br>
 
