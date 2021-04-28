@@ -61,7 +61,6 @@ Podporujeme preto [kampaň Amnesty International Slovensko, Hovorme o súhlase]
 <br>
 <p class="important-text">ZDROJE:</p>
 
-<br>
 “Hovorme o Súhlase.” Amnesty Slovakia, April 1, 2021. https://www.amnesty.sk/hovorme-o-suhlase/.
 
 Parenthood, Planned. “What Is Sexual Consent?: Facts About Rape &amp; Sexual Assault.” Planned Parenthood. Accessed April 15, 2021. https://www.plannedparenthood.org/learn/relationships/sexual-consent.
