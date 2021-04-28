@@ -49,6 +49,9 @@ nav a:hover, nav span:hover, .social-links a:hover {
 }
 
 .nav-second a {
+  display: flex;
+  place-content: center;
+  align-items: center;
   flex: 1;
   text-align: center;
 }
