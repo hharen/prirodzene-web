@@ -38,12 +38,8 @@ references: ""
 
 <p class="important-text">ZDROJE:</p>
 
-Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. 
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. <https://sexinfoonline.com/semen/>.
 
-<https://sexinfoonline.com/semen/>.
-
-Mandal, Dr. Ananya. “Semen Physiology.” News Medical Life Science, February 27, 2019. 
-
-<https://www.news-medical.net/health/Semen-Physiology.aspx>. 
+Mandal, Dr. Ananya. “Semen Physiology.” News Medical Life Science, February 27, 2019. <https://www.news-medical.net/health/Semen-Physiology.aspx>. 
 
 Mráz, Peter, and Kamil Belej. Anatómia Ľudského Tela 2. Slovak Academic Press, 2016.
