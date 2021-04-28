@@ -18,7 +18,7 @@ Nasledovný zoznam zahrňuje typy metód ochrany proti neželanému tehotenstvu 
 
 <br>
 
-1. ### **Kombinovaná (vo forme tabletiek):** 
+### **1. Kombinovaná (vo forme tabletiek):** 
 
 * užívanie: 2 typy hormónov (estrogén a gestagén), ktoré užíva človek s [maternicou](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/) prostredníctvom tabletiek;
 * mechanizmus: zabraňuje [ovulácií](/menstruacny-cyklus/);
@@ -28,7 +28,7 @@ Nasledovný zoznam zahrňuje typy metód ochrany proti neželanému tehotenstvu 
 
 <br>
 
-2. ### **Jednozložková- gestagénová (vo forme tabletiek):**
+### **2. Jednozložková- gestagénová (vo forme tabletiek):**
 
 * užívanie: 1 tabletka hormónu gestagénu, ktorú užíva človek s maternicou každý deň v rovnakom čase; 
 * mechanizmus: pôsobí na cervikálny hlien [v kanáli maternicového hrdla](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/), ktorý sa zahustením hlienu stáva nepriechodný pre [spermie](/tvorba-ejakulatu/);
@@ -38,7 +38,7 @@ Nasledovný zoznam zahrňuje typy metód ochrany proti neželanému tehotenstvu 
 
 <br>
 
-3. ### **Náplasť:**
+### **3. Náplasť:**
 
 * použitie: náplasť si aplikujú jedenkrát týždenne ľudia s maternicou na málo exponované miesta ako rameno, brucho, stehno či zadok;
 * mechanizmus: kombinácia estrogénu s gestagénu zabraňuje ovulácii, zhusťuje cervikálny hlien a spôsobuje zmeny [sliznice maternice](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/);
@@ -47,7 +47,7 @@ Nasledovný zoznam zahrňuje typy metód ochrany proti neželanému tehotenstvu 
 
 <br>
 
-4. ### **Implantát – podkožný gestagénny systém:**
+### **4. Implantát – podkožný gestagénny systém:**
 
 * použitie: zavádza lekár/ka pod kožu ramena v lokálnom znecitlivení človeku s maternicou, pôsobí po dobu 3 rokov;
 * mechanizmus: zabraňuje ovulácii, zahusťuje cervikálny hlien a spôsobuje zmeny sliznice maternice;
@@ -56,7 +56,7 @@ Nasledovný zoznam zahrňuje typy metód ochrany proti neželanému tehotenstvu 
 
 <br>
 
-5. ### **Vnútromaternicový hormonálny systém/ teliesko:**
+### **5. Vnútromaternicový hormonálny systém/ teliesko:**
 
 * použitie: teliesko, ktoré vkladá do maternice lekár/ka, vkladá sa bez anestézie pri krátkom zákroku na dobu 6 rokov;
 * mechanizmus: gestagénny hormonálny systém, ktorý konštantne uvoľňuje nízku hladinu gestagénu do krvi, spôsobuje zvýšenie hustoty cervikálneho hlienu, zmeny kvality [výstelky](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/) a zníženie pohyblivosti spermií;
@@ -65,7 +65,7 @@ Nasledovný zoznam zahrňuje typy metód ochrany proti neželanému tehotenstvu 
 
 <br>
 
-6. ### **Vaginálny krúžok:**
+### **6. Vaginálny krúžok:**
 
 * použitie: krúžok vyrobený z nesilikónového plastu, ktorý si človek zavádza do pošvy na dobu 3 týždňov, po 3 týždňoch sa vyberie a nastáva menštruačné krvácanie;
 * mechanizmus: vylučuje dva druhy hormónov (estrogén a gestagén) a zabraňuje tak ovulácií;
@@ -79,7 +79,7 @@ Nasledovný zoznam zahrňuje typy metód ochrany proti neželanému tehotenstvu 
 
 <br>
 
-1. ### **Vnútromaternicové teliesko – medené:**
+### **1. Vnútromaternicové teliesko – medené:**
 
 * použitie: teliesko, ktoré vkladá do maternice lekár/ka, vkladá sa bez anestézie a na dobu cca 5 rokov; 
 * mechanizmus: teliesko uvoľňuje do maternice meď, ktorá vyvoláva zápalovú reakciu sliznice maternice, čím sa tvorí toxické prostredie pre spermie, ktoré zároveň zabraňuje zahniezdeniu vajíčku v sliznici;
@@ -89,7 +89,7 @@ Nasledovný zoznam zahrňuje typy metód ochrany proti neželanému tehotenstvu 
 
 <br>
 
-2. ### **Diafragma alebo pesar:**
+### **2. Diafragma alebo pesar:**
 
 * použitie: pružný silikónový „klobúčik“, ktorý sa vkladá do [pošvy](/vnutorne-pohlavne-ustrojenstvo-cloveka-s-vulvou/) pred [pohlavným stykom](/sexualne-aktivity/) a ponecháva sa na mieste 6 hodín po pohlavnom styku; možné opakované použitie;
 * mechanizmus: pokrýva krčok maternice a vytvára prekážku, ktorá zabraňuje vniknutiu spermií do maternice, odporúča sa používať so spermicídnymi prostriedkami, ktoré znižujú pohyb spermií;
@@ -98,7 +98,7 @@ Nasledovný zoznam zahrňuje typy metód ochrany proti neželanému tehotenstvu 
 
 <br>
 
-3. ### **Spermicídne látky:**
+### **3. Spermicídne látky:**
 
 * použitie: patria sem vaginálne čípky, tablety, gély alebo krémy;
 * mechanizmus: tieto látky buď upchajú krčok maternice, alebo chemicky zabíjajú spermie;
@@ -110,22 +110,26 @@ Nasledovný zoznam zahrňuje typy metód ochrany proti neželanému tehotenstvu 
 
 Bariéry zabraňujú neželanému tehotenstvu a zároveň [znižujú riziko prenosu PPI.](/prevencia-ppi/) Je nevyhnutné ich používať pri akomkoľvek type sexu, pri ktorom dochádza k styku genitálií s kožou, s ústami, s inými genitáliami. Nesmieme však zabúdať, že rôzne typy bariér môžu riziko prenosu PPI znížiť, ale nie odstrániť. Preto sa za prípadné nakazenie sa PPI netreba hanbiť. Pri akýchkoľvek príznakoch je potrebné vyhľadať lekársku pomoc. Znížiť riziko prenosu PPI môžeme aj [pravidelným testovaním](/prevencia-ppi/) sa a správnou [komunikáciou ](/prevencia-ppi/)s partnermi/kami o našom zdravotnom stave.
 
-1. ### Externý kondóm – Prezervatív
+### **1. Externý kondóm – Prezervatív**
 
 „Bežné“ kondómy sa naťahujú na penis/na sexuálnu hračku a sú aj pomerne rozšíreným druhom antikoncepcie. Je relatívne jednoduché ich zohnať, dajú sa kúpiť aj v potravinách či v drogérii. Existujú rôzne typy, veľkosti aj značky kondómov, sú vyrábané z rôznych materiálov, niektoré sú ochutené, vrúbkované, lubrikované a podobne. Tehotenské číslo je 2 – 15.
 
 <br>
 
-obrázok: condom\
-obrázok: penis with condom
+<div class="flex flex-wrap justify-around">
+<img src="/images/uploads/condom.jpg" alt="Externý kondóm">\
+<img src="/images/uploads/penis-with-condom.jpg" alt="Penis s externým kondómom">\
+</div>
 
-2. ### **Vnútorný kondóm/ Femidóm**
+<br>
+
+### **2.Vnútorný kondóm/ Femidóm**
 
 <br>
 
 Femidóm je v podstate vaginálny kondóm. Vkladá sa do vnútra vagíny (alebo do konečníka), pokojne aj niekoľko hodín pred sexuálnym stykom. Chráni pred prenosom PPI a pred nechceným otehotnením rovnako, ako bežný kondóm. Nie je také jednoduché ho dostať a je aj drahší, ale dá sa kúpiť v sexshopoch alebo cez internet.
 
-3. ### **Kondóm na prst/ rukavice**
+### **3. Kondóm na prst/ rukavice**
 
 <br>
 
@@ -133,16 +137,20 @@ Kondóm na prst (angl. finger condom) vyzerá veľmi podobne ako bežný kondóm
 
 <br>
 
-4. ### **Dental dam** 
+### **4. Dental dam** 
 
 Dental dam je štvorcový kus blany väčšinou vyrobený z latexu. Používa sa pri vulvárnom alebo análnom orálnom sexe. Pokladá sa na tú časť tela (vulvu/ análny otvor/ perineum), ktorá bude v kontakte s ústami. Zabraňuje prenosu PPI. Dental dam nie je bežne dostupná, dá sa však vyrobiť z bežného kondómu. Na internete je dostupných množstvo návodov, ktoré vysvetľujú, akým spôsobom sa to robí.
+
+<div class="flex flex-wrap justify-around">
+<img src="/images/uploads/contraception_barriers.jpg" alt="Rôzne antikoncepčné a ochranné metódy">\
+</div>
 
 <br>
 
 ## Iné antikoncepčné metódy
 
+<br>
+
 Okrem spomínaných metód takisto existujú **dlhodobé operačné antikoncepčné zákroky**, ako ligácia vaječníkov či vazektómia. Niektorí ľudia používajú tzv. **prirodzené metódy plánovaného rodičovstva**, ktoré spočívajú v zabránení vniknutiu spermií do pošvy, predovšetkým v období ovulácie. Tieto metódy však nie sú veľmi spoľahlivé a odporúčajú sa len pre páry, pre ktoré by otehotnenie nespôsobilo výrazný problém. V núdzových prípadoch je možné pristúpiť k zabráneniu nechcenému tehotenstvu po sexuálnom styku užitím tzv. „**tabletky po**“, **k zavedeniu medeného telieska po styku** alebo k ukončeniu tehotenstva prostredníctvom **[interrupcie](/umele-prerusenie-tehotenstva-interrupcia/)**. „Tabletka po“ s obsahom levonorgestrelu je voľnopredajná, je nutné ju užiť do 72 hodín po nechránenom sexuálnom styku, najlepšie do 12 hodín. „Tabletka po“ s obsahom ulipristalu je taktiež voľnopredajná a dá sa užiť až do 5 dní od styku. Mali by sa však používať len v nevyhnutných prípadoch.
 
 Všetky antikoncepčné metódy aj bariéry proti prenosu PPI majú svoje výhody aj nevýhody, ktoré často súvisia ako s konkrétnou značkou či typom, tak aj s jedinečnosťou našich tiel a osobnými preferenciami. Ak si človek nie je istý, aká metóda je preňho tá správna, mal by sa poradiť so svojím lekárom/kou.
-
-obrázok: contraception_barriers
