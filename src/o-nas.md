@@ -9,7 +9,7 @@ Prirodzene Web je projekt [Občianskeho združenia Prirodzene](/obcianske-zdruze
 
 ## **Vízia**
 
-Chceme žiť v krajine, v ktorej sú mladiství a dospievajúci ľudia vybavení potrebnými osobnostnými zručnosťami a vedomosťami, aby dokázali žiť zdravý vzťahový a sexuálny život a budovať si pozitívny vzťah k svojmu telu a k svojej sexualite.  
+Chceme žiť v krajine, v ktorej sú dospelí a dospievajúci ľudia vybavení potrebnými osobnostnými zručnosťami a vedomosťami, aby dokázali žiť zdravý vzťahový a sexuálny život a budovať si pozitívny vzťah k svojmu telu a k svojej sexualite.  
 
 ## **Cieľ**
 
@@ -21,7 +21,7 @@ Naším cieľom je inkluzívnym prístupom vzdelávať a zvyšovať povedomie o 
 
 ## **Pre koho je Prirodzene Web určený?**
 
-Články na Prirodzene Webe sú určené primárne pre mladistvých ľudí vo veku 15 a viac rokov a pre plnoletých ľudí vo veku 18 a viac rokov. Pre mladších dospievajúcich ľudí (vo veku 10-14 rokov) ponúkame videá od [AMAZE](/partnerske-spolocnosti/){:target="_blank"}, ktoré sme pre vás preložili a nadabovali do slovenčiny. 
+Články na Prirodzene Webe sú určené primárne pre plnoletých ľudí vo veku 18 a viac rokov a pre mladistvých ľudí vo veku 15 a viac rokov. Pre mladších dospievajúcich ľudí (vo veku 10 – 14 rokov) ponúkame videá od [AMAZE](/partnerske-spolocnosti/){:target="_blank"}, ktoré sme pre vás preložili a nadabovali do slovenčiny. 
 
 ## Aký je náš prístup k sexuálnemu vzdelávaniu?
 
