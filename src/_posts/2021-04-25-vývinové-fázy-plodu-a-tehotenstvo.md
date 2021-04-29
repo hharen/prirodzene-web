@@ -1,4 +1,5 @@
 ---
+references: ""
 layout: post
 title: Vývinové fázy plodu a tehotenstvo
 slug: vyvinove-fazy-plodu-a-tehotenstvo
@@ -9,8 +10,9 @@ metadescription: Tehotenstvo bežne trvá približne 40 týždňov a býva rozde
   tri tzv. trimestre. Počas týchto troch trimestrov prechádzajú matka aj plod
   určitými kľúčovými zmenami. Tretí trimester a aj samotné tehotenstvo sa končí
   pôrodom.
-references: ""
 ---
+[Tehotenstvo](/vyvinove-fazy-plodu-a-tehotenstvo/){:target="_blank"} trvá približne 40 týždňov od prvého dňa poslednej [menštruácie](/menstruacny-cyklus/){:target="_blank"}. Táto doba je rozdelená do 3 trimestrov. Prvý trimester trvá od 1. do 12. týždňa tehotenstva, druhý trimester trvá od 13. do 26. týždňa a tretí trimester trvá od 27. do 40. týždňa. 
+
 <div class='notes'>
 
 Poznámka na začiatok:
@@ -18,8 +20,6 @@ Poznámka na začiatok:
 V nasledujúcom texte používame pojem „matka“ vo veľmi úzkom zmysle za účelom zjednodušenia textu. Matkou myslíme človeka, ktorý otehotnie, porodí dieťa a stane sa jeho rodičom. Uvedomujeme si, že nie všetci ľudia s vulvou, ktorí otehotnejú, sú ženy, nie všetci sa stanú matkami a nie všetky matky porodili svoje dieťa.
 
 </div>
-
-[Tehotenstvo](/vyvinove-fazy-plodu-a-tehotenstvo/){:target="_blank"} trvá približne 40 týždňov od prvého dňa poslednej [menštruácie](/menstruacny-cyklus/){:target="_blank"}. Táto doba je rozdelená do 3 trimestrov. Prvý trimester trvá od 1. do 12. týždňa tehotenstva, druhý trimester trvá od 13. do 26. týždňa a tretí trimester trvá od 27. do 40. týždňa. 
 
 V nasledujúcom texte vysvetľujeme zmeny počas tehotenstva tak, ako sa dejú pri „priemernom“ tehotenstve. Rozdielne trvanie jednotlivých vývojových fáz je však úplne prirodzené. Existujú rôzne [aplikácie](https://www.cosmopolitan.com/sex-love/a17887712/best-pregnancy-tracker-app/){:target="_blank"}, ktoré vám môžu pomôcť detailne sledovať zmeny v tehotenstve. Zmeny a všetky otázky je zároveň potrebné konzultovať s medicínskymi špecialistami a špecialistkami.
 
