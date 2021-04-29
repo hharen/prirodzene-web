@@ -26,6 +26,10 @@ nav a, .social-links a {
   .nav-main {
     display: block!important;
   }
+
+  .nav-second a {
+  padding: 17px 10px;
+}
 }
 
 .nav-main {
@@ -54,6 +58,12 @@ nav a:hover, nav span:hover, .social-links a:hover {
   align-items: center;
   flex: 1;
   text-align: center;
+}
+
+.nav-second a:hover {
+  text-decoration: none;
+  background-color: #FDE68A;
+  color: #000;
 }
 
 a.dropdown-item {
