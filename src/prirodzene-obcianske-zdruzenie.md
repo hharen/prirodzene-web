@@ -1,20 +1,19 @@
 ---
-title: 'Občianske združenie Prirodzene'
+title: Občianske združenie Prirodzene
 layout: page
 permalink: /oz-prirodzene/
 ---
-Názov občianskeho združenia: **Prirodzene**\
-IČO: 53495551\
+Názov občianskeho združenia: **Prirodzene**
+
+IČO: **53495551**
 
 Štatutárny orgán /Predsedníčka/: Nikoleta Nagyová
 
-### \
-Ciele združenia sú:
+### Ciele združenia sú:
 
 A) Prevencia a osvetová činnosti v oblasti sexuálneho vzdelávania.\
 B) Doplnková vzdelávacia činnosť.
 
-### \
 **Za účelom plnenia svojich cieľov bude združenie vykonávať nasledujúce aktivity a činnosti:**
 
 * zvyšovať povedomie a rozvíjať vedomosti o témach z oblasti sexuálneho vzdelávania;

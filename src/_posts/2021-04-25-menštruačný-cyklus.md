@@ -4,21 +4,12 @@ title: Menštruačný cyklus
 slug: menstruacny-cyklus
 topic: telo
 subtopic: vyvin
-date: 2021-04-25T14:39:36.873Z
+date: 2021-04-25T06:45:36.873Z
 metadescription: Pojem „menštruačný cyklus“ označuje automatické, periodické,
   fyziologické a hormonálne zmeny v tele človeka s vulvou, ktoré sú pod
   kontrolou reprodukčného hormonálneho systému. Cyklus väčšinou trvá 24 – 42
   dní, najbežnejšie približne 28 dní.
-references: >-
-  Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit
-  organization. University of California, Santa Barbara . Accessed January 1,
-  2021. https://sexinfoonline.com/. 
-
-
-  Brochmann, Nina, and Ellen Støkken Dahl. The Wonder Down Under. Hodder &amp; Stoughton, 2018. 
-
-
-  “Phases of Menstrual Cycle.” Menstrupedia. Accessed March 20, 2021. https://menstrupedia.com/articles/physiology/cycle-phases
+references: ""
 ---
 <div class='notes'>
 
@@ -51,3 +42,17 @@ K ovulácii väčšinou dochádza okolo 14. dňa cyklu, teda v jeho polovici. 
 ### **4. Luteálna fáza** 
 
 Začína hneď po ovulácii, teda po uvoľnení vajíčka z vaječníka, a trvá až do konca cyklu (teda do prvého dňa začiatku novej menštruačnej fázy). Vajíčko vo vajíčkovodoch zotrvá 24 hodín, počas ktorých môže prísť k jeho oplodneniu spermiou. Ak k oplodneniu nedôjde, vajíčko sa „rozpadne“. Hormón, ktorý zabezpečoval vývin endometria sa „minie“. Dôjde k rozpadu buniek endometria, ktorý trvá niekoľko hodín až jeden deň. Telo sa potrebuje odumretého endometria a vajíčka zbaviť, nastane menštruačná fáza a cyklus sa začína odznova.
+
+<br>
+
+<br>
+
+<br>
+
+<p class="important-text">ZDROJE:</p>
+
+Baldwin, John, and Janice Baldwin. “SexInfo Online.” SexInfo Online: nonprofit organization. University of California, Santa Barbara . Accessed January 1, 2021. <https://sexinfoonline.com/>. 
+
+Brochmann, Nina, and Ellen Støkken Dahl. The Wonder Down Under. Hodder &amp; Stoughton, 2018. 
+
+“Phases of Menstrual Cycle.” Menstrupedia. Accessed March 20, 2021. <https://menstrupedia.com/articles/physiology/cycle-phases>
