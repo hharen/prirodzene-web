@@ -36,7 +36,7 @@ V niektorých štátoch USA, ako aj v rôznych iných krajinách vo svete, sa 
 
 Spôsob, akým sa vyučuje sexuálna výchova v Európskej únii, závisí od jednotlivých krajín a ich zákonov a schválených osnov. Európska regionálna pobočka Svetovej zdravotníckej organizácie však vydala smernice, podľa ktorých odporúča vyučovať programy sexuálnej výchovy v EÚ. V týchto smerniciach sú podrobne rozpísané jednotlivé témy, ktoré by sa mali rozoberať s deťmi už od narodenia až po dospelosť. Sú rozdelené do 6 vekových kategórií: 0 – 4, 4 – 6, 6 – 9, 9 – 12, 12 –15 a 15+. Systému, ktorý odporúča EÚ, hovoríme komplexné sexuálne vzdelávanie. Európske smernice všeobecne zahŕňajú nasledujúce témy.
 
-<table>
+<table class="my-10">
 <thead>
   <tr>
     <th>Téma<br></th>

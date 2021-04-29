@@ -1,0 +1,10 @@
+@import "/colors";
+
+td {
+	border: 1px solid $green;
+	padding: 5px 10px;
+}
+
+thead {
+	border-bottom: 3px solid $green;
+}
