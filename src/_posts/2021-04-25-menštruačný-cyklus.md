@@ -1,4 +1,5 @@
 ---
+references: ""
 layout: post
 title: Menštruačný cyklus
 slug: menstruacny-cyklus
@@ -9,8 +10,9 @@ metadescription: Pojem „menštruačný cyklus“ označuje automatické, perio
   fyziologické a hormonálne zmeny v tele človeka s vulvou, ktoré sú pod
   kontrolou reprodukčného hormonálneho systému. Cyklus väčšinou trvá 24 – 42
   dní, najbežnejšie približne 28 dní.
-references: ""
 ---
+Pojem „menštruačný cyklus“ označuje automatické, periodické, fyziologické a hormonálne zmeny v tele [človeka s vulvou](/muz-a-zena-vs-samec-a-samica/), ktoré sú pod kontrolou reprodukčného hormonálneho systému. Cyklus väčšinou trvá 24 – 42 dní, najbežnejšie približne 28 dní. Je regulovaný LH a FSH hormónmi, ktoré aktivujú produkciu estrogénu a progesterónu. Začína v [puberte](/puberta/) a končí v období [menopauzy](/menopauza/). V období života sa dĺžka a priebeh menštruačného cyklu môžu meniť alebo zastaviť v dôsledku hormonálnych zmien, stresu, [tehotenstva](/vyvinove-fazy-plodu-a-tehotenstvo/), zdravotných problémov, hormonálnej antikoncepcie a iných faktorov. Cyklus prebieha v 4 fázach. <br>
+
 <div class='notes'>
 
 SLOVNÍK <br> <br>
@@ -24,8 +26,6 @@ SLOVNÍK <br> <br>
 <strong>endometrium</strong> – sliznica maternice, najvnútornejšia časť maternicovej steny <br>
 
 </div>
-
-Pojem „menštruačný cyklus“ označuje automatické, periodické, fyziologické a hormonálne zmeny v tele [človeka s vulvou](/muz-a-zena-vs-samec-a-samica/), ktoré sú pod kontrolou reprodukčného hormonálneho systému. Cyklus väčšinou trvá 24 – 42 dní, najbežnejšie približne 28 dní. Je regulovaný LH a FSH hormónmi, ktoré aktivujú produkciu estrogénu a progesterónu. Začína v [puberte](/puberta/) a končí v období [menopauzy](/menopauza/). V období života sa dĺžka a priebeh menštruačného cyklu môžu meniť alebo zastaviť v dôsledku hormonálnych zmien, stresu, [tehotenstva](/vyvinove-fazy-plodu-a-tehotenstvo/), zdravotných problémov, hormonálnej antikoncepcie a iných faktorov. Cyklus prebieha v 4 fázach. <br>
 
 ### **1. Menštruačná fáza**
 
