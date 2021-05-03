@@ -37,6 +37,7 @@
     "webpack-manifest-plugin": "^2.1.0"
   },
   "dependencies": {
+    "bridgetown-quick-search": "1.0.5",
     "bulma": "^0.9.2"
   }
 }
