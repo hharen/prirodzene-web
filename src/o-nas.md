@@ -21,7 +21,7 @@ Naším cieľom je inkluzívnym prístupom vzdelávať a zvyšovať povedomie o 
 
 ## **Pre koho je Prirodzene Web určený?**
 
-Články na Prirodzene Webe sú určené primárne pre plnoletých ľudí vo veku 18 a viac rokov a pre mladistvých ľudí vo veku 15 a viac rokov. Pre mladších dospievajúcich ľudí (vo veku 10 – 14 rokov) ponúkame videá od [AMAZE](/partnerske-spolocnosti/){:target="_blank"}, ktoré sme pre vás preložili a nadabovali do slovenčiny. 
+[Články](/clanky/){:target="_blank"} na Prirodzene Webe sú určené primárne pre plnoletých ľudí vo veku 18 a viac rokov a pre mladistvých ľudí vo veku 15 a viac rokov. Pre mladších dospievajúcich ľudí (vo veku 10 – 14 rokov) ponúkame [videá](/amaze-videa/){:target="_blank"} [](https://www.prirodzeneweb.sk/amaze-videa/)od [AMAZE](/partnerske-spolocnosti/){:target="_blank"}, ktoré sme pre vás preložili a nadabovali do slovenčiny. 
 
 ## Aký je náš prístup k sexuálnemu vzdelávaniu?
 
