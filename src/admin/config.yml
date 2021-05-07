@@ -75,6 +75,15 @@ collections:
           - { label: Permalink, name: permalink, widget: string }
           - { label: Metadescription, name: metadescription, widget: markdown, required: false }
           - { label: Body, name: body, widget: markdown }
+      - label: 'Napísali o nás'
+        name: napisali-o-nas
+        file: src/napisali-o-nas.md
+        fields:
+          - { label: Title, name: title, widget: hidden, default: 'O nás' }
+          - { label: Layout, name: layout, widget: hidden, default: page }
+          - { label: Permalink, name: permalink, widget: string }
+          - { label: Metadescription, name: metadescription, widget: markdown, required: false }
+          - { label: Body, name: body, widget: markdown }
       - label: Tím
         name: tim
         file: src/tim.md

@@ -1,5 +1,6 @@
 
 import "index.scss"
+import "bridgetown-quick-search"
 
 
 // Import all javascript files from src/_components
