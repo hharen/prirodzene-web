@@ -43,7 +43,7 @@ Tento graf je len orientačný. Rôzne vzorce vzťahov môžu mať špecifické 
 
 <strong>Otvorené manželstvo/otvorený vzťah</strong>- môže byť vysoko citovo výlučný ale menej sexuálne výlučný. Takéto páry často praktizujú rôzne sexuálne aktivity s inými ľuďmi spolu aj oddelene. <br>
 
-<strong>Swingovanie</strong>- forma spoločenského sexuálneho vzťahu. Ľudia alebo páry sa zúčastňujú rôznych druhov sexuálneho aktívít s rôznymi ľuďmi a/alebo si medzi sebou vymieňajú partnerov/ky. <br>
+<strong>Swingovanie</strong>- forma spoločenského sexuálneho vzťahu. Ľudia alebo páry sa zúčastňujú rôznych druhov sexuálnych aktívít s rôznymi ľuďmi a/alebo si medzi sebou vymieňajú partnerov/ky. <br>
 
 <strong>Hierarchická polyamória</strong>-  1 človek je tzv. primárny/a partner/ka a ostatní ľudia vo vzťahu sú sekundárni, prípadne terciárni atď. Takáto hierarchia môže určovať, s ktorými ľuďmi z daného vzťahu trávi človek viac času, komu venuje viac pozornosti, kto je prioritou v situáciách, kedy chcú s človekom tráviť čas viacerí ľudia naraz a podobne. <br>
 
