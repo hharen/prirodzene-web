@@ -13,7 +13,7 @@ O komunikácii vo vzťahoch počujeme často. Toto slovo je skloňované v rô
 
 Komunikácia je najdôležitejšou súčasťou zdravého sexuálneho života. **Komunikáciou získame a dávame** <a href="/sexualny-suhlas" target="_blank"><strong>súhlas</strong></a>**, nastavujeme si osobné hranice, dozvedáme sa o vzájomných prianiach a potrebách a zisťujeme všetky potrebné informácie, vďaka ktorým sa môžeme informovane rozhodovať.** 
 
-#### Pri komunikácii, predovšetkým medzi partermi/kami, by sa vo všeobecnosti mali dodržiavať nasledujúce zásady: 
+#### Pri komunikácii, predovšetkým medzi partnermi/kami, by sa vo všeobecnosti mali dodržiavať nasledujúce zásady: 
 
 * **rešpekt;**
 * **otvorenosť;**
