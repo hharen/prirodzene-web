@@ -37,103 +37,19 @@ metadescription: 'Prirodzene Web je nezisková platforma, ktorá prináša relev
 
 <section class="posts py-8 px-4">
   <h2 class="text-center">Ľudské telo</h2>
-  <!-- <h3 class="f-telo p-4">
-  <a href="/roznorodost">Rôznorodosť</a>
-  </h3>
-  <p>{{ telo-post.excerpt }}</p>
-  <p class='mb-8'><a href="{{ post.url }}" class="btn btn-telo">Čítať ďalej</a></p>
- -->
-
-  {% for post in site.posts  %}
-    {% if post.topic == 'telo' %}
-      {% capture times_if-telo %}{% increment times_if-telo %}{% endcapture %}
-      {% if times_if-telo < '3' %}
-        <h3 class="f-telo p-4">
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
-        <p>{{ post.excerpt }}</p>
-        <p class='mb-8'><a href="{{ post.url }}" class="btn btn-telo">Čítať ďalej</a></p>
-      {% endif %}
-    {% endif %}
-  {% endfor %}
+  {% render 'posts_excerpts', site_posts: site.posts, topic: 'telo' %}
 
   <h2 class="text-center">Identita jednotlivca</h2>
-<!--   <h3 class="f-identita p-4">
-  <a href="{{ site.posts[4].url }}">{{ site.posts[4].title}}</a>
-  </h3>
-  <p>{{ site.posts[4].excerpt }}</p>
-  <p class='mb-8'><a href="{{ post.url }}" class="btn btn-identita">Čítať ďalej</a></p> -->
-
-  {% for post in site.posts  %}
-    {% if post.topic == 'identita' %}
-      {% capture times_if-identita %}{% increment times_if-identita %}{% endcapture %}
-      {% if times_if-identita < '3' %}
-        <h3 class="f-identita p-4">
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
-        <p>{{ post.excerpt }}</p>
-        <p class='mb-8'><a href="{{ post.url }}" class="btn btn-identita">Čítať ďalej</a></p>
-      {% endif %}
-    {% endif %}
-  {% endfor %}
+  {% render 'posts_excerpts', site_posts: site.posts, topic: 'identita' %}
 
   <h2 class="text-center">Sex a sexualita</h2>
-  <!-- <h3 class="f-sex p-4">
-  <a href="{{ site.posts[4].url }}">{{ site.posts[4].title}}</a>
-  </h3>
-  <p>{{ site.posts[4].excerpt }}</p>
-  <p class='mb-8'><a href="{{ post.url }}" class="btn btn-sex">Čítať ďalej</a></p>
- -->
-
-  {% for post in site.posts  %}
-    {% if post.topic == 'sex' %}
-      {% capture times_if-sex %}{% increment times_if-sex %}{% endcapture %}
-      {% if times_if-sex < '3' %}
-        <h3 class="f-sex p-4">
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
-        <p>{{ post.excerpt }}</p>
-        <p class='mb-8'><a href="{{ post.url }}" class="btn btn-sex">Čítať ďalej</a></p>
-      {% endif %}
-    {% endif %}
-  {% endfor %}
+  {% render 'posts_excerpts', site_posts: site.posts, topic: 'sex' %}
 
   <h2 class="text-center">Sexuálne zdravie</h2>
-  {% for post in site.posts  %}
-    {% if post.topic == 'zdravie' %}
-      {% capture times_if-zdravie %}{% increment times_if-zdravie %}{% endcapture %}
-      {% if times_if-zdravie < '3' %}
-        <h3 class="f-zdravie p-4">
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
-        <p>{{ post.excerpt }}</p>
-        <p class='mb-8'><a href="{{ post.url }}" class="btn btn-zdravie">Čítať ďalej</a></p>
-      {% endif %}
-    {% endif %}
-  {% endfor %}
+  {% render 'posts_excerpts', site_posts: site.posts, topic: 'zdravie' %}
 
   <h2 class="text-center">Vzťahy a ľudské správanie</h2>
-  <!-- <h3 class="f-vztahy p-4">
-  <a href="{{ site.posts[4].url }}">{{ site.posts[4].title}}</a>
-  </h3>
-  <p>{{ site.posts[4].excerpt }}</p>
-  <p class='mb-8'><a href="{{ post.url }}" class="btn btn-vztahy">Čítať ďalej</a></p> -->
-
-
-  {% for post in site.posts  %}
-    {% if post.topic == 'vztahy' %}
-      {% capture times_if-vztahy %}{% increment times_if-vztahy %}{% endcapture %}
-      {% if times_if-vztahy < '3' %}
-        <h3 class="f-vztahy p-4">
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
-        <p>{{ post.excerpt }}</p>
-        <p class='mb-8'><a href="{{ post.url }}" class="btn btn-vztahy">Čítať ďalej</a></p>
-      {% endif %}
-    {% endif %}
-  {% endfor %}
-
-
+  {% render 'posts_excerpts', site_posts: site.posts, topic: 'vztahy' %}
 </section>
 
 
