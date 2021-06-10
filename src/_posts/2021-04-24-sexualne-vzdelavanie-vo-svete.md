@@ -1,4 +1,5 @@
 ---
+references: ""
 layout: post
 title: Sexuálne vzdelávanie vo svete
 slug: sexualne-vzdelavanie-vo-svete
@@ -8,7 +9,6 @@ date: 2021-04-25T06:05:29.883Z
 metadescription: Cieľom sexuálneho vzdelávania je poskytnúť ľuďom informácie
   a zručnosti, ktoré im umožnia robiť zdravé rozhodnutia o sexe a sexualite.
   Spôsobov, akými sa po svete vyučuje sexuálna výchova je mnoho.
-references: ""
 ---
 Cieľom [sexuálneho vzdelávania](https://www.plannedparenthood.org/learn/for-educators/what-sex-education){:target="_blank"} je poskytnúť ľuďom informácie a zručnosti, ktoré im umožnia robiť **zdravé rozhodnutia** o sexe a sexualite. Spôsobov, akými sa po svete vyučuje sexuálna výchova je mnoho, no nie všetky sú dostatočne zmapované. Najrozsiahlejší výskum v tejto oblasti je v USA, kde je sexuálna výchova dlhoročnou témou. V jednotlivých štátoch USA sa vyučujú rozdielne programy a neexistuje tam jednotný názor na to, ktorý model je ideálny na dosiahnutie cieľa sexuálneho vzdelávania. Niektoré štáty USA, ale aj napr. Európskej únie, sa zhodujú na tom, že najlepší prístup je tzv. **komplexné sexuálne vzdelávanie**. Existujú však aj mnohé iné typy programov, ktoré sa vyučujú najmä v USA.
 
@@ -141,7 +141,7 @@ Parenthood, Planned. “What Is Sex Education?: Sex Ed Definition and QA.” Pla
 
 Rare, Ruby, and Sofie Birkin. Sex Ed: a Guide for Adults. London, UK: Bloomsbury, 2020.
 
-Sex Education...With Pleasure. Sex Education...With Pleasure | Victoria Beltran | TEDxUSFSP. YouTube, 2016. <https://www.youtube.com/watch?v=R-gwxS-7h9o.>
+Sex Education...With Pleasure. Sex Education...With Pleasure. Victoria Beltran. TEDxUSFSP. YouTube, 2016. <https://www.youtube.com/watch?v=R-gwxS-7h9o.>
 
 “Sex Education.” GoodTherapy.org Therapy Blog, August 25, 2015. <https://www.goodtherapy.org/blog/psychpedia/sex-education>.
 
