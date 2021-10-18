@@ -45,7 +45,7 @@ Kompetencie: dabing videí od AMAZE do slovenského jazyka.
 
 ### Viktória Vadovičová
 
-Viki má 19 rokov a je z Bratislavy. Je v maturitnom ročníku, takže ju čakajú veľké rozhodnutia ohľadom svojej budúcnosti. Tvrdí, že je zvedavá, kam ju život zavedie. Vo svojom voľnom čase sa venuje divadlu, učí sa taliansky jazyk a chodí von so svojim psíkom. Má rada hudbu a tanec, tancovala vo folklórnom súbore a hrá na klavíri. Pre Viki je život o objavovaní seba samého, okolia a sveta.  
+Viki má 20 rokov a je z Bratislavy. Študuje herectvo na Vysokej škole muzických umení v Bratislave. Vo svojom voľnom čase sa učí taliansky jazyk a chodí von so svojim psíkom. Má rada hudbu a tanec, tancovala vo folklórnom súbore a hrá na klavíri. Pre Viki je život o objavovaní seba samého, okolia a sveta.  
 
 ### Pavel Ďurás
 
