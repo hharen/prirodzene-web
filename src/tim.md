@@ -3,6 +3,7 @@ title: Náš tím
 layout: page
 metadescpription: Spoznajte ľudí, ktorí stoja za Prirodzene.
 permalink: /tim/
+metadescription: Kto stojí za projektom Prirodzene?
 ---
 Za projektom Prirodzene stojí tím mladých ľudí, ktorí sú zapálení pre tému sexuálneho vzdelávania a chcú meniť Slovensko k lepšiemu. Náš tím je rozdelený na tri časti.  
 
@@ -12,7 +13,7 @@ Kompetencie: jazyková korektúra, preklad rôznych dokumentov a podkladov.
 
 ### Nikoleta Nagyová
 
-Niko má 21 rokov a študuje prekladateľstvo – tlmočníctvo na Filozofickej fakulte Univerzity Komenského. Okrem toho je študentkou Sokratovho inštitútu a je zakladateľkou OZ Prirodzene. Venuje sa umeniu, predovšetkým divadlu, je členkou/herečkou Bieleho divadla. Na strednú školu chodila na United World College Maastricht (Holandsko), kde mala možnosť získať skúsenosti s dobrovoľníckymi projektmi. Pochádza zo Sikenice na juhozápade Slovenska zo zmiešanej slovensko-maďarskej rodiny. Okrem Sikenice žila v Budapešti, v Maastrichte a momentálne je v Bratislave. Posledné dva roky sa aktívne venuje seba-vzdelávaniu v oblasti sexuálneho vzdelávania.  
+Niko má 21 rokov a študuje prekladateľstvo – tlmočníctvo na Filozofickej fakulte Univerzity Komenského. Okrem toho je absolventkou Sokratovho inštitútu a zakladateľkou OZ Prirodzene. Na strednú školu chodila na United World College Maastricht (Holandsko), kde mala možnosť získať skúsenosti s dobrovoľníckymi projektmi. Pochádza zo Sikenice na juhozápade Slovenska zo zmiešanej slovensko-maďarskej rodiny. Okrem Sikenice žila v Budapešti, v Maastrichte a momentálne je v Bratislave. Posledné dva roky sa aktívne venuje seba-vzdelávaniu v oblasti sexuálneho vzdelávania.  
 
 ### Silvia Koscová
 
