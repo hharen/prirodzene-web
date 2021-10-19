@@ -23,6 +23,10 @@ Sisa má 22 rokov a pochádza z Prievidze. Po anglicky sa učí už odmalička, 
 <img src="/images/Niko-Sisa.jpg" alt='Niko Sisa' class="team-img">
 </div>
 
+### Natália Majdišová
+
+Natália má 17 rokov a pochádza z Liptovského Mikuláša. Študuje na bilingválnom anglickom gymnáziu, taktiež v Liptovskom Mikuláši. Aktivizmu sa začala venovať tento rok. Vo svojom voľnom čase sa venuje hlavne powerliftingu, true crime tematike a čítaniu. V budúcnosti by sa chcela vydať cestou kriminológie alebo kriminalistiky. Dôvod, prečo sa zapája do aktivizmu a dobrovoľníctva je, že chce aktívne bojovať proti nevzdelanosti v oblasti sexuálnej výchovy, nerovnosti pohlaví, nespravodlivosti a diskriminácii. Natália je taktiež hrdou feministkou. 
+
 ## Grafika a ilustrácie
 
 Kompetencie: tvorba loga, propagačných grafík, vzdelávacích obrázkov a ilustrácií k článkom. 
@@ -45,7 +49,7 @@ Kompetencie: dabing videí od AMAZE do slovenského jazyka.
 
 ### Viktória Vadovičová
 
-Viki má 20 rokov a je z Bratislavy. Študuje herectvo na Vysokej škole muzických umení v Bratislave. Vo svojom voľnom čase sa učí taliansky jazyk a chodí von so svojim psíkom. Má rada hudbu a tanec, tancovala vo folklórnom súbore a hrá na klavíri. Pre Viki je život o objavovaní seba samého, okolia a sveta.  
+Viki má 20 rokov a je z Bratislavy. Vo svojom voľnom čase sa učí taliansky jazyk a chodí von so svojim psíkom. Veľmi rada chodí do divadla a snaží sa nachádzať radosť v každodennom živote. Má rada hudbu a tanec, tancovala vo folklórnom súbore a hrá na klavíri. Pre Viki je život o objavovaní seba samého, okolia a sveta. 
 
 ### Pavel Ďurás
 
