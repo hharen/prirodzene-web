@@ -53,7 +53,7 @@ Viki má 20 rokov a je z Bratislavy. Vo svojom voľnom čase sa učí taliansky 
 
 ### Pavel Ďurás
 
-Pavel má 20 rokov, pochádza z Rimavskej Soboty a momentálne študuje dejiny a teóriu umenia na Trnavskej univerzite v Trnave. Venuje sa divadlu, občasnej práci v televízií a štúdiu výtvarného umenia a módy.  
+Pavel má 21 rokov, pochádza z Rimavskej Soboty a momentálne študuje dejiny a teóriu umenia na Trnavskej univerzite v Trnave. Venuje sa divadlu, občasnej práci v televízií a štúdiu výtvarného umenia a módy.  
 
 <div class="text-center">
 <img src="/images/Viki-Pavel.jpg" alt='Viki a Pavel' class="team-img">
