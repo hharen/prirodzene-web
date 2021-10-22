@@ -43,6 +43,10 @@ Sofi sa narodili vo Wallmapu, na území Čilskej republiky (Južná Amerika). Z
 <img src="/images/Ema-Sofi.jpg" alt='Ema a Sofi' class="team-img">
 </div>
 
+### Daniela Bődová
+
+Dada študuje učiteľstvo anglického jazyka a výtvarnej výchovy na Pegagogickej fakulte Univerzity Komenského v Bratislave. Zaujíma ju umenie a vo voľnom čase sa venuje keramike, digitálnej kresbe a maľbe. Pre Prirodzene pomáha s tvorbou grafík a príspevkov na Instagram.
+
 ## **Dabing**
 
 Kompetencie: dabing videí od AMAZE do slovenského jazyka.  
