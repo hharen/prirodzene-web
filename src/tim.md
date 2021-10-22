@@ -17,7 +17,7 @@ Niko má 21 rokov a študuje prekladateľstvo – tlmočníctvo na Filozofickej 
 
 ### Silvia Koscová
 
-Sisa má 22 rokov a pochádza z Prievidze. Po anglicky sa učí už odmalička, zmaturovala na bilingválnom gymnáziu v Čadci a momentálne študuje prekladateľstvo – tlmočníctvo na Univerzite Konštantína Filozofa v Nitre. Medzi jej koníčky patrí digitálna ilustrácia, kreatívne písanie a videohry. Taktiež má veľmi rada zvieratká. Aktívne ju zaujímajú témy rovnosti pohlaví, orientácií a menšín. Jej tvorbu môžete sledovať na jej instagramovom účte [@shortsuccubus](https://www.instagram.com/shortsuccubus/){:target="_blank"}.
+Sisa má 23 rokov a pochádza z Prievidze. Po anglicky sa učí už odmalička, zmaturovala na bilingválnom gymnáziu v Čadci a momentálne študuje anglistiku na Univerzite Konštantína Filozofa v Nitre. Medzi jej koníčky patrí digitálna ilustrácia, kreatívne písanie a videohry. Taktiež má veľmi rada zvieratká. Aktívne ju zaujímajú témy rovnosti pohlaví, orientácií a menšín. Jej tvorbu môžete sledovať na jej instagramovom účte [@shortsuccubus](https://www.instagram.com/shortsuccubus/){:target="_blank"}.
 
 <div class="text-center">
 <img src="/images/Niko-Sisa.jpg" alt='Niko Sisa' class="team-img">
