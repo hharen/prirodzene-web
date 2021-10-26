@@ -1,4 +1,5 @@
 ---
+references: ""
 layout: post
 title: Pohlavná anatómia
 slug: pohlavna-anatomia
@@ -8,7 +9,6 @@ date: 2021-04-25T08:20:31.000Z
 metadescription: Pohlavie človeka, na rozdiel od rodu, súvisí s našimi
   biologickými charakteristikami. Môžeme ho definovať na základe piatich
   biologických faktorov.
-references: ""
 ---
 Pohlavie človeka, na rozdiel od rodu, súvisí s našimi biologickými charakteristikami. Cicavce sú najčastejšie rozdelené medzi [samcov a samice](/muz-a-zena-vs-samec-a-samica/){:target="_blank"}. Pri ľuďoch tieto pomenovania často zamieňame s pojmami [„muž a žena“](/muz-a-zena-vs-samec-a-samica/){:target="_blank"}, avšak, mužské a ženské črty súvisia predovšetkým s rodom človeka. Samčie a samičie črty súvisia s biologickým pohlavím. Môžeme ho definovať na základe nasledujúcich faktorov:
 
@@ -18,11 +18,11 @@ Väčšina ľudí má XX pohlavné chromozómy (biologicky ženské pohlavie) al
 
 ## 2. Hormóny
 
-Androgény (prevažne samčie hormóny) a estrogény (prevažne samičie hormóny) ovplyvňujú mnohé telesné procesy. Patria sem hormóny ako estradiol, progesterón, testosterón a mnoho ďalších. Hormóny však nie sú striktne rozdelené medzi samcov a samice/mužov a ženy, niektorí ľudia majú zvýšené či znížené hladiny niektorých hormónov. Aj vďaka týmto variáciám majú aj ľudia toho istého pohlavia rozličné sekundárne pohlavné charakteristiky, ako hustota ochlpenia, tón hlasu, či veľkosť poprsia. 
+Androgény (prevažne mužské hormóny) a estrogény (prevažne ženské hormóny) ovplyvňujú mnohé telesné procesy. Patria sem hormóny ako estradiol, progesterón, testosterón a mnoho ďalších. Hormóny však nie sú striktne rozdelené medzi samcov a samice/mužov a ženy, niektorí ľudia majú zvýšené či znížené hladiny niektorých hormónov. Aj vďaka týmto variáciám majú aj ľudia toho istého pohlavia rozličné sekundárne pohlavné charakteristiky, ako hustota ochlpenia, tón hlasu, či veľkosť poprsia. 
 
 ## 3. Hormónová expresia
 
-Samotná prítomnosť hormónov v tele nezaručuje, že hormóny sa prejavia. Prejavy hormónov zaručujú hormonálne receptory, ktoré reagujú na prítomnosť hormónu v tele, na základe čoho môžu nastať isté telesné zmeny. Existujú však ľudia, ktorých hormonálne receptory nefungujú tak, ako u väčšiny. Napríklad ľudia, ktorí sa narodia s XY chromozómami môžu mať Syndróm necitlivosti na androgén (AIS). Takýto ľudia nemajú receptory, ktoré by reagovali na androgény a tým pádom ich telo nereaguje na testosterón. Ľudia s AIS majú samčie hormóny a sú teda geneticky považovaní za mužov, no môžu mať biologicky ženské pohlavné orgány (prípadne kombináciu samčích a samičích charakteristík). V dôsledku tohto im lekári pri narodení často pripíšu biologicky ženské pohlavie a veľa z nich až do puberty žije bez akejkoľvek vedomosti o tom, že ich chromozómy nie sú typicky „ženské“ (samičie). 
+Samotná prítomnosť hormónov v tele nezaručuje, že hormóny sa prejavia. Prejavy hormónov zaručujú hormonálne receptory, ktoré reagujú na prítomnosť hormónu v tele, na základe čoho môžu nastať isté telesné zmeny. Existujú však ľudia, ktorých hormonálne receptory nefungujú tak, ako u väčšiny. Napríklad ľudia, ktorí sa narodia s XY chromozómami môžu mať Syndróm necitlivosti na androgén (AIS). Takýto ľudia nemajú receptory, ktoré by reagovali na androgény a tým pádom ich telo nereaguje na testosterón. Ľudia s AIS majú mužské hormóny a sú teda geneticky považovaní za mužov, no môžu mať biologicky ženské pohlavné orgány (prípadne kombináciu mužských a ženských charakteristík). V dôsledku tohto im lekári pri narodení často pripíšu biologicky ženské pohlavie a veľa z nich až do puberty žije bez akejkoľvek vedomosti o tom, že ich chromozómy nie sú typicky ženské. 
 
 ## 4. Vnútorné pohlavné orgány
 
