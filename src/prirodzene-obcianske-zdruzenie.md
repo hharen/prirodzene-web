@@ -32,7 +32,7 @@ Ak odvádzate dane, máte možnosť 2 % z nich poukázať subjektu podľa vášh
 
 #### Zamestnanci a zamestnankyne
 
-Ak ste **zamestnanec alebo zamestnankyňa**, požiadajte svojho zamestnávateľa o ročné zúčtovanie zaplatených preddavkov na daň pre potreby poukázania podielu zaplatenej dane. Požiadajte o tlačivo “**Potvrdenie o zaplatení dane**”. Následne vyplňte tlačivo "**[Vyhlásenie o poukázaní podielu zaplatenej dane z príjmov fyzickej osoby](https://drive.google.com/file/d/1Ponk_VdEddPSbc3X7afmO4E8U-xLUWVR/view)"**{:target="_blank"}. Ak kliknete na link, naše údaje sú v tlačive vopred vyplnené. Obe tlačivá pošlite na daňový úrad podľa adresy vášho bydliska.
+Ak ste **zamestnanec alebo zamestnankyňa**, požiadajte svojho zamestnávateľa o ročné zúčtovanie zaplatených preddavkov na daň pre potreby poukázania podielu zaplatenej dane. Požiadajte o tlačivo **Potvrdenie o zaplatení dane**. Následne vyplňte tlačivo **[Vyhlásenie o poukázaní podielu zaplatenej dane z príjmov fyzickej osoby](https://drive.google.com/file/d/1Ponk_VdEddPSbc3X7afmO4E8U-xLUWVR/view)**{:target="_blank"}. Ak kliknete na link, naše údaje sú v tlačive vopred vyplnené. Obe tlačivá pošlite na daňový úrad podľa adresy vášho bydliska.
 
 #### SZČO, Právnická osoba, individuálne podanie daňového priznania
 
