@@ -2,19 +2,68 @@
 title: Občianske združenie Prirodzene
 layout: page
 permalink: /oz-prirodzene/
+metadescription: "Občianske združenie Prirodzene: údaje, 2 % z daní, ciele združenia."
 ---
-Názov občianskeho združenia: **Prirodzene**
+## Občianske združenie Prirodzene
 
-IČO: **53495551**
+### 2 % z daní pre OZ Prirodzene
 
-Štatutárny orgán /Predsedníčka/: Nikoleta Nagyová
+Chcete prispieť k tomu, aby bolo viac vzdelávacích materiálov z oblasti sexuálneho vzdelávania dostupných v slovenčine? **Môžete! Poukážte 2 % zo svojich daní OZ Prirodzene.**
+
+V roku 2022 sa chystáme dabovať desiatky nových [vzdelávacích videí pre mládež](https://amaze.org/slovak/), pokračovať v osvete prostredníctvom [sociálnych sietí](https://www.instagram.com/prirodzeneweb/), písať nové [články](https://www.prirodzeneweb.sk/clanky/), či organizovať a zúčastňovať sa [osvetových](https://www.instagram.com/p/CW7xwenq3ue/) a [advokačných ](https://www.instagram.com/p/CXUIIP-qliy/)kampaní v témach sexuálneho vzdelávania. Väčšinu týchto aktivít budeme financovať z grantu na rok 2022, ktorý čoskoro začneme čerpať. Mnohé výdavky však z grantu nemôžeme pokryť. Preto potrebujeme vašich 2 %.
+
+#### Na čo použijeme financie získané z 2 % z daní? 
+
+Ide o výdavky ako napr.
+
+* poplatky za vedenie účtu či poplatky za administratívne úkony; 
+* spravovanie Prirodzeneweb-u: výdavky za hosting, doménu, aktualizácie či vylepšenia webu a podobne;
+* preklad vzdelávacích materiálov z iných jazykov;
+* jazyková korektúra vzdelávacích materiálov určených pre pedagogičky a pedagógov;
+* osvetová činnosť a šírenie pravdivých a rešpektujúcich informácií z oblasti sexuálneho vzdelávania: reklamy na sociálnych sieťach, tlač a distribúcia materiálov a podobne.
+
+### Čo znamená “poukázať 2 % z daní”?
+
+Ak odvádzate dane, máte možnosť 2 % z nich poukázať subjektu podľa vášho výberu. Zoznam poberateľov 2 % z dane každoročne zverejňuje na svojej stránke Notárska komora SR. **Poukázaním 2 % z daní neprichádzate o žiadne peniaze!** Ak sa rozhodnete 2 % nikomu nepoukázať, tieto peniaze prepadnú štátu. Je to totiž podiel z financií, ktoré štátu tak či tak musíte odviesť na daniach. 
+
+### Ako poukázať 2 % z daní?
+
+#### Zamestnanci a zamestnankyne 
+
+Ak ste **zamestnanec alebo zamestnankyňa**, požiadajte svojho zamestnávateľa o ročné zúčtovanie zaplatených preddavkov na daň pre potreby poukázania podielu zaplatenej dane. Požiadajte o tlačivo “**Potvrdenie o zaplatení dane**”. Následne vyplňte tlačivo “**[Vyhlásenie o poukázaní podielu zaplatenej dane z príjmov fyzickej osoby](https://drive.google.com/file/d/1Ponk_VdEddPSbc3X7afmO4E8U-xLUWVR/view)**”. Ak kliknete na link, naše údaje sú v tlačive vopred vyplnené. Obe tlačivá pošlite na daňový úrad podľa adresy vášho bydliska.
+
+#### SZČO, Právnická osoba, individuálne podanie daňového priznania 
+
+Ak ste **fyzická osoba, samostatne zárobkovo činná osoba alebo právnická osoba a daňové priznanie si podávate individuálne**, údaje za účelom poukázania 2 % z daní budete vpisovať do daňového priznania. Ak chcete poukázať 2 % z daní OZ Prirodzene, naše údaje nájdete nižšie.
+
+Ďakujeme! 2 % z vašich daní nám umožní udržateľné a kontinuálne fungovanie.
+
+
+
+### Informácie o OZ Prirodzene
+
+#### Obchodné meno alebo názov: **Prirodzene**
+
+#### Identifikačné číslo (IČO): **53495551**
+
+#### Právna forma: občianske združenie
+
+#### Štatutárny orgán: 
+
+Nikoleta Nagyová
+
+#### Sídlo: 
+
+Veľký Pesek 310\
+Sikenica\
+93701
 
 ### Ciele združenia sú:
 
 A) Prevencia a osvetová činnosti v oblasti sexuálneho vzdelávania.\
 B) Doplnková vzdelávacia činnosť.
 
-**Za účelom plnenia svojich cieľov bude združenie vykonávať nasledujúce aktivity a činnosti:**
+#### **Za účelom plnenia svojich cieľov bude združenie vykonávať nasledujúce aktivity a činnosti:**
 
 * zvyšovať povedomie a rozvíjať vedomosti o témach z oblasti sexuálneho vzdelávania;
 * rozširovať všeobecné povedomie o diverzite v oblasti sexuálnej orientácie a rodovej identity;
