@@ -6,6 +6,8 @@ metadescription: "Občianske združenie Prirodzene: údaje, 2 % z daní, ciele z
 ---
 ## Občianske združenie Prirodzene
 
+<br>
+
 ### **2 % z daní pre OZ Prirodzene**
 
 Chcete prispieť k tomu, aby bolo viac vzdelávacích materiálov z oblasti sexuálneho vzdelávania dostupných v slovenčine? **Môžete! Poukážte 2 % zo svojich daní OZ Prirodzene.**
@@ -30,15 +32,13 @@ Ak odvádzate dane, máte možnosť 2 % z nich poukázať subjektu podľa vášh
 
 #### Zamestnanci a zamestnankyne
 
-Ak ste **zamestnanec alebo zamestnankyňa**, požiadajte svojho zamestnávateľa o ročné zúčtovanie zaplatených preddavkov na daň pre potreby poukázania podielu zaplatenej dane. Požiadajte o tlačivo “**Potvrdenie o zaplatení dane**”. Následne vyplňte tlačivo “**[Vyhlásenie o poukázaní podielu zaplatenej dane z príjmov fyzickej osoby](https://drive.google.com/file/d/1Ponk_VdEddPSbc3X7afmO4E8U-xLUWVR/view)**{:target="_blank"}”. Ak kliknete na link, naše údaje sú v tlačive vopred vyplnené. Obe tlačivá pošlite na daňový úrad podľa adresy vášho bydliska.
+Ak ste **zamestnanec alebo zamestnankyňa**, požiadajte svojho zamestnávateľa o ročné zúčtovanie zaplatených preddavkov na daň pre potreby poukázania podielu zaplatenej dane. Požiadajte o tlačivo “**Potvrdenie o zaplatení dane**”. Následne vyplňte tlačivo "**[Vyhlásenie o poukázaní podielu zaplatenej dane z príjmov fyzickej osoby](https://drive.google.com/file/d/1Ponk_VdEddPSbc3X7afmO4E8U-xLUWVR/view)"**{:target="_blank"}. Ak kliknete na link, naše údaje sú v tlačive vopred vyplnené. Obe tlačivá pošlite na daňový úrad podľa adresy vášho bydliska.
 
 #### SZČO, Právnická osoba, individuálne podanie daňového priznania
 
 Ak ste **fyzická osoba, samostatne zárobkovo činná osoba alebo právnická osoba a daňové priznanie si podávate individuálne**, údaje za účelom poukázania 2 % z daní budete vpisovať do daňového priznania. Ak chcete poukázať 2 % z daní OZ Prirodzene, naše údaje nájdete nižšie.
 
 Ďakujeme! 2 % z vašich daní nám umožní udržateľné a kontinuálne fungovanie.
-
-<br>
 
 <br>
 
@@ -53,8 +53,6 @@ Dobrovoľný príspevok nám môžete poslať na nasledujúci bankový účet:
 **SK16 0900 0000 0051 7615 0769**
 
 Ďakujeme vám za vašu podporu.
-
-<br>
 
 <br>
 
