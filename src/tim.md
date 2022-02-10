@@ -24,7 +24,7 @@ Sisa má 23 rokov a pochádza z Prievidze. Po anglicky sa učí už odmalička, 
 Natália má 17 rokov a pochádza z Liptovského Mikuláša. Študuje na bilingválnom anglickom gymnáziu, taktiež v Liptovskom Mikuláši. Aktivizmu sa začala venovať tento rok. Vo svojom voľnom čase sa venuje hlavne powerliftingu, true crime tematike a čítaniu. V budúcnosti by sa chcela vydať cestou kriminológie alebo kriminalistiky. Dôvod, prečo sa zapája do aktivizmu a dobrovoľníctva je, že chce aktívne bojovať proti nevzdelanosti v oblasti sexuálnej výchovy, nerovnosti pohlaví, nespravodlivosti a diskriminácii. Natália je taktiež hrdou feministkou. 
 
 <div class="text-center">
-<img src="/images/Niko_Sisa_Naty.jpg" alt='Niko a Sisa a Naty' class="team-img">
+<img src="/images/Niko_Sisa_Naty.png" alt='Niko a Sisa a Naty' class="team-img">
 </div>
 
 ## Grafika a ilustrácie
@@ -44,7 +44,7 @@ Sofi sa narodili vo Wallmapu, na území Čilskej republiky (Južná Amerika). Z
 Dada študuje učiteľstvo anglického jazyka a výtvarnej výchovy na Pegagogickej fakulte Univerzity Komenského v Bratislave. Zaujíma ju umenie a vo voľnom čase sa venuje keramike, digitálnej kresbe a maľbe. Pre Prirodzene pomáha s tvorbou grafík a príspevkov na Instagram.
 
 <div class="text-center">
-<img src="/images/Ema_Sofi_Dada.jpg" alt='Ema a Sofi a Dada' class="team-img">
+<img src="/images/Ema_Sofi_Dada.png" alt='Ema a Sofi a Dada' class="team-img">
 </div>
 
 ## **Dabing**
