@@ -19,13 +19,13 @@ Niko má 21 rokov a študuje prekladateľstvo – tlmočníctvo na Filozofickej 
 
 Sisa má 23 rokov a pochádza z Prievidze. Po anglicky sa učí už odmalička, zmaturovala na bilingválnom gymnáziu v Čadci a momentálne študuje anglistiku na Univerzite Konštantína Filozofa v Nitre. Medzi jej koníčky patrí digitálna ilustrácia, kreatívne písanie a videohry. Taktiež má veľmi rada zvieratká. Aktívne ju zaujímajú témy rovnosti pohlaví, orientácií a menšín. Jej tvorbu môžete sledovať na jej instagramovom účte [@shortsuccubus](https://www.instagram.com/shortsuccubus/){:target="_blank"}.
 
-<div class="text-center">
-<img src="/images/Niko-Sisa.jpg" alt='Niko Sisa' class="team-img">
-</div>
-
 ### Natália Majdišová
 
 Natália má 17 rokov a pochádza z Liptovského Mikuláša. Študuje na bilingválnom anglickom gymnáziu, taktiež v Liptovskom Mikuláši. Aktivizmu sa začala venovať tento rok. Vo svojom voľnom čase sa venuje hlavne powerliftingu, true crime tematike a čítaniu. V budúcnosti by sa chcela vydať cestou kriminológie alebo kriminalistiky. Dôvod, prečo sa zapája do aktivizmu a dobrovoľníctva je, že chce aktívne bojovať proti nevzdelanosti v oblasti sexuálnej výchovy, nerovnosti pohlaví, nespravodlivosti a diskriminácii. Natália je taktiež hrdou feministkou. 
+
+<div class="text-center">
+<img src="/images/Niko_Sisa_Naty.jpg" alt='Niko a Sisa a Naty' class="team-img">
+</div>
 
 ## Grafika a ilustrácie
 
@@ -39,16 +39,12 @@ Ema má 18 rokov, pochádza z Rimavskej Soboty a študuje na Súkromnej škole u
 
 Sofi sa narodili vo Wallmapu, na území Čilskej republiky (Južná Amerika). Zmaturovali v Holandsku na UWC Maastricht v roku 2019. Momentálne študujú Umenie a Vedy na Univerzite Quest Canada (Kanada), pričom sa špecializujú na Vzdelanie a medziodborové oblasti. Ich vášňou je vzdelanie a rozmanitosť tohto sveta. Vo voľnom čase pracujú pre rôzne mimovládne organizácie ako koordinátor/ka rasovej spravodlivosti a vzdelávacieho obsahu. Radi fotia, sledujú videá a venujú sa horolezectvu. Hovoria po anglicky a po španielsky. (Sofi považuje za dôležité aktívne si uvedomovať, že žijú a študujú na pôvodnom území národa Skwxwú7mesh, ktoré mu bolo neprávom a násilne odobrané.) Ich umeleckú tvorbu môžete sledovať aj na ich vlastnom instagramovom profile [@sfvrgsart](https://www.instagram.com/sfvrgs/){:target="_blank"}.  
 
-<div class="text-center">
-<img src="/images/Ema-Sofi.jpg" alt='Ema a Sofi' class="team-img">
-</div>
-
 ### Daniela Bődová
 
 Dada študuje učiteľstvo anglického jazyka a výtvarnej výchovy na Pegagogickej fakulte Univerzity Komenského v Bratislave. Zaujíma ju umenie a vo voľnom čase sa venuje keramike, digitálnej kresbe a maľbe. Pre Prirodzene pomáha s tvorbou grafík a príspevkov na Instagram.
 
 <div class="text-center">
-<img src="/images/Dada_fotka%20(1).jpg" alt='Dada' class="team-img">
+<img src="/images/Ema_Sofi_Dada.jpg" alt='Ema a Sofi a Dada' class="team-img">
 </div>
 
 ## **Dabing**
