@@ -13,7 +13,7 @@ Kompetencie: jazyková korektúra, preklad rôznych dokumentov a podkladov.
 
 ### Nikoleta Nagyová
 
-Niko má 21 rokov a študuje prekladateľstvo – tlmočníctvo na Filozofickej fakulte Univerzity Komenského. Okrem toho je absolventkou Sokratovho inštitútu a zakladateľkou OZ Prirodzene. Na strednú školu chodila na United World College Maastricht (Holandsko), kde mala možnosť získať skúsenosti s dobrovoľníckymi projektmi. Pochádza zo Sikenice na juhozápade Slovenska zo zmiešanej slovensko-maďarskej rodiny. Okrem Sikenice žila v Budapešti, v Maastrichte a momentálne je v Bratislave. Posledné dva roky sa aktívne venuje seba-vzdelávaniu v oblasti sexuálneho vzdelávania.  
+Niko má 21 rokov a študuje prekladateľstvo – tlmočníctvo na Filozofickej fakulte Univerzity Komenského. Popri štúdiu pracuje v ľudskoprávnej organizácii Amnesty International Slovensko. Okrem toho je absolventkou Sokratovho inštitútu a zakladateľkou OZ Prirodzene. Na strednú školu chodila na United World College Maastricht (Holandsko), kde mala možnosť získať skúsenosti s dobrovoľníckymi projektmi. Pochádza zo Sikenice na juhozápade Slovenska zo zmiešanej slovensko-maďarskej rodiny. V januári 2022 absolvovala školenie od spoločnosti Acet UK v oblasti sexuálneho vzdelávania a momentálne je v procese lektorskej akreditácie, ktorá jej umožní učiť mladých ľudí sexuálnu výchovu. Pôsobí aj ako zástupkyňa mládeže vo výkonnom výbore Spoločnosti pre plánované rodičovstvo. 
 
 ### Silvia Koscová
 
@@ -46,6 +46,10 @@ Sofi sa narodili vo Wallmapu, na území Čilskej republiky (Južná Amerika). Z
 ### Daniela Bődová
 
 Dada študuje učiteľstvo anglického jazyka a výtvarnej výchovy na Pegagogickej fakulte Univerzity Komenského v Bratislave. Zaujíma ju umenie a vo voľnom čase sa venuje keramike, digitálnej kresbe a maľbe. Pre Prirodzene pomáha s tvorbou grafík a príspevkov na Instagram.
+
+<div class="text-center">
+<img src="/images/Dada_fotka%20(1).jpg" alt='Dada' class="team-img">
+</div>
 
 ## **Dabing**
 
