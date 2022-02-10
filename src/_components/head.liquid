@@ -22,12 +22,5 @@
 <link rel="stylesheet" href="{% webpack_path css %}" />
 <script src="{% webpack_path js %}" defer></script>
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-12Z6K5CF94"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-12Z6K5CF94');
-</script>
+<!-- Plausible.io analytics tag -->
+<script defer data-domain="prirodzeneweb.sk" src="https://plausible.io/js/plausible.js"></script>
