@@ -47,6 +47,10 @@ Sofi sa narodili vo Wallmapu, na území Čilskej republiky (Južná Amerika). Z
 
 Dada študuje učiteľstvo anglického jazyka a výtvarnej výchovy na Pegagogickej fakulte Univerzity Komenského v Bratislave. Zaujíma ju umenie a vo voľnom čase sa venuje keramike, digitálnej kresbe a maľbe. Pre Prirodzene pomáha s tvorbou grafík a príspevkov na Instagram.
 
+<div class="text-center">
+<img src="/images/Dada_fotka%20(1).jpg" alt='Dada' class="team-img">
+</div>
+
 ## **Dabing**
 
 Kompetencie: dabing videí od AMAZE do slovenského jazyka.  
