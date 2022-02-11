@@ -5,6 +5,27 @@
   text-decoration: none!important;
 }
 
+.btn-outline-yellow {
+  border: 1px solid #FDE68A;
+  color: #fff;
+}
+
+.btn-outline-yellow:hover,  {
+  background-color: #FDE68A;
+}
+
+.btn-yellow {
+  border: 1px solid #FDE68A;
+  background-color: #FDE68A;
+  color: #000;
+}
+
+.btn-yellow:hover {
+  border: 1px solid #FDE68A;
+  background-color: $orange;
+  color: #000;
+}
+
 .btn-telo {
   border: 1px solid $violet;
   color: $violet;
@@ -43,15 +64,6 @@
 .btn-zdravie:hover {
   background-color: $yellow;
   color: #fff;
-}
-
-.btn-top-bar {
-  border: 1px solid #FDE68A;
-  color: #fff;
-}
-
-.btn-top-bar:hover {
-  background-color: #FDE68A;
 }
 
 .btn-vztahy {
