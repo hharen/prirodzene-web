@@ -5,7 +5,7 @@ slug: vsetko-o-hpv
 topic: zdravie
 subtopic: infekcie
 date: 2022-02-25T15:01:02.500Z
-metadescription: Všetko čo potrebujete vedieť o HPV a prevencii jeho prenosu.
+metadescription: Všetko, čo potrebujete vedieť o HPV a prevencii jeho prenosu.
 ---
 **Tento text vznikol v spolupráci s** [International Papillomavirus Society (IPVS)](https://ipvsoc.org/){:target="_blank"} **pri príležitosti 4. marca, Medzinárodného dňa povedomia o HPV. Text je súčasťou kampaňe** [Ask About HPV](https://www.askabouthpv.org/){:target="_blank"}**.**
 
@@ -15,6 +15,8 @@ metadescription: Všetko čo potrebujete vedieť o HPV a prevencii jeho prenosu.
 <img src="/images/Logo_HPV_Day.jpg" alt="Logo HPV Day">
 <img src="/images/Logo_o_starosť_menej.png" alt="Logo O starosť menej">
 </div>
+
+<br>
 
 ## Čo je HPV?
 
@@ -44,6 +46,10 @@ Skríningové testy sú dobrovoľné, ale je naozaj dôležité, aby ste ich pra
 ### KONDÓMY
 
 Používajte kondómy vždy, keď môžete. Dôsledné používanie kondómov môže znížiť (ale nie eliminovať) riziko nákazy HPV. HPV sa totiž prenáša kontaktom s kožou. Kondómy chránia pokožku v oblasti genitálií len čiastočne. Čím dôslednejšie je používanie kondómov, tým vyššia je miera ochrany pred HPV. Dôsledné používanie kondómov pri každej sexuálnej aktivite znižuje riziko šírenia HPV približne o 70 %. Menej dôsledné používanie znamená menšiu ochranu.
+
+<div class="flex flex-wrap justify-around">
+<img src="/images/HPV_riešenia.JPG" alt="HPV riešenia">
+</div>
 
 ## Kto sa môže nakaziť HPV?
 
@@ -80,6 +86,10 @@ Niektoré krajiny v súčasnosti ponúkajú očkovanie všetkým osobám mladš�
 
 Očkovanie je najúčinnejším spôsobom ochrany vašich detí pred genitálnymi bradavicami a rakovinou súvisiacou s HPV. Očkovanie je najúčinnejšie, ak sa podá pred prvým sexuálnym kontaktom. Na Slovensku je očkovanie proti HPV plne hradené pre všetky deti v trinástom roku života – t. j. od dvanástych narodenín po 1 deň pred trinástymi narodeninami. Ak môžete, dajte svoje dieťa zaočkovať.
 
+<div class="flex flex-wrap justify-around">
+<img src="/images/HPV_vakcína.JPG" alt="HPV vakcína">
+</div>
+
 ## Ak dostanem HPV, dostanem rakovinu?
 
 Len veľmi malý počet ľudí, ktorí sa nakazia HPV, dostane rakovinu. To, že máte HPV, neznamená, že dostanete rakovinu. Väčšina infekcií HPV nespôsobuje problémy. Aj napriek tomu je však veľmi dôležité snažiť sa znížiť riziko vzniku rakoviny súvisiacej s HPV. Očkovanie môže zabrániť väčšine prípadov rakoviny spôsobenej HPV. Okrem toho, skríning krčka maternice poskytuje dôležitú ochranu pred rakovinou krčka maternice bez ohľadu na to, či ste očkovanie podstúpili alebo nie. 
@@ -88,7 +98,7 @@ Osoby s oslabeným imunitným systémom vrátane osôb žijúcich s HIV by mali 
 
 Keďže neexistujú žiadne rutinné skríningové programy na rakovinu konečníka, penisu, vulvy, vagíny alebo úst/krku súvisiacu s HPV, je dôležité, aby ste vyhľadali lekársku pomoc, ak spozorujete akékoľvek zmeny v okolí alebo na týchto častiach tela, napríklad pri výrastku, bolesti alebo krvácaní. 
 
-## Musím podstúpiť skríning aj keď mám očkovanie za sebou? 
+## Musím podstúpiť skríning aj keď mám očkovanie za sebou?
 
 Vakcína znižuje riziko vzniku rakoviny súvisiacej s HPV približne o 90 %. Aj v prípade, že už máte očkovanie za sebou, by ste však mali absolvovať skríning krčka maternice. Vakcína vás totiž neochráni pred tými typmi HPV, ktorými ste sa mohli nakaziť pred očkovaním. Okrem toho sa môžete aj po očkovaní nakaziť zriedkavejšími typmi HPV, ktoré môžu spôsobiť rakovinu, ale na ktoré sa vakcína nevzťahuje.
 
@@ -104,10 +114,20 @@ Bradavice obsahujú veľké množstvo HPV, ktoré sa môže šíriť. Ak máte s
 
 Bradavice a rakovinu spôsobujú rôzne typy HPV. Človek sa však môže nakaziť typom HPV, ktorý spôsobuje bradavice, a zároveň aj typom, ktorý môže mať závažnejšie následky, napríklad rakovinu. Takže hoci bradavice neprechádzajú do rakovinového štádia, stále môžete byť v ohrození v dôsledku iných typov HPV.
 
-## Ak mám HPV počas tehotenstva, ovplyvní to moje dieťa? 
+## Ak mám HPV počas tehotenstva, ovplyvní to moje dieťa?
 
 HPV sa nešíri ľahko z matky na dieťa. V zriedkavých prípadoch sa môžu deti narodené matkám, ktoré majú genitálne bradavice v čase pôrodu, nakaziť vírusom počas prechodu pôrodnými cestami. U bábätiek sa neskôr môžu objaviť bradavice v hrtane, ktoré si môžu vyžadovať chirurgickú liečbu. Očkovanie proti typom HPV, ktoré spôsobujú genitálne bradavice, výrazne znižuje riziko prenosu HPV z matky na dieťa.
 
 ## Nikdy som nemal/a sex – mal/a by som podstúpiť skríning na HPV?
 
 Ak ste nikdy nemali sexuálny kontakt akéhokoľvek druhu, riziko, že sa nakazíte genitálnym alebo análnym HPV, je veľmi nízke. Očkovanie a skríning však môžu byť rozumnými ochrannými opatreniami do budúcnosti. Vakcína je najúčinnejšia, ak sa podá pred prvým sexuálnym kontaktom.
+
+<br>
+
+Zapojte sa aj vy do osvetovej kampane a porazme spolu HPV! Zdieľajte informácie so svojimi blízkymi. Dajte sa zaočkovať. Zaočkujte svoje deti. Objednajte sa na skríning krčka maternice. 
+
+### Ak sa v tohtoročný Deň povedomia o HPV spojíme, všetci a všetky môžeme mať o starosť menej!
+
+<div class="flex flex-wrap justify-around">
+<img src="/images/HPV_kampaň.JPG" alt="HPV kampaň">
+</div>
