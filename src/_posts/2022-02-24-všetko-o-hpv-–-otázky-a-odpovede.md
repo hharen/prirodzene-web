@@ -4,7 +4,7 @@ title: Všetko o HPV – Otázky a odpovede
 slug: vsetko-o-hpv
 topic: zdravie
 subtopic: infekcie
-date: 2022-02-25T15:01:02.500Z
+date: 2022-02-25T15:05:25.085Z
 metadescription: Všetko, čo potrebujete vedieť o HPV a prevencii jeho prenosu.
 ---
 **Tento text vznikol v spolupráci s** [International Papillomavirus Society (IPVS)](https://ipvsoc.org/){:target="_blank"} **pri príležitosti 4. marca, Medzinárodného dňa povedomia o HPV. Text je súčasťou kampaňe** [Ask About HPV](https://www.askabouthpv.org/){:target="_blank"}**.**
