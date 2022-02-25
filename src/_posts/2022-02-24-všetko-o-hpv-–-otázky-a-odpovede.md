@@ -160,10 +160,18 @@ Ak ste nikdy nemali sexuálny kontakt akéhokoľvek druhu, riziko, že sa nakaz�
 
 <br>
 
-Zapojte sa aj vy do osvetovej kampane a porazme spolu HPV! Zdieľajte informácie so svojimi blízkymi. Dajte sa zaočkovať. Zaočkujte svoje deti. Objednajte sa na skríning krčka maternice. 
+**Zapojte sa aj vy do osvetovej kampane a porazme spolu HPV! Zdieľajte informácie so svojimi blízkymi. Dajte sa zaočkovať. Zaočkujte svoje deti. Objednajte sa na skríning krčka maternice.** 
 
 ### Ak sa v tohtoročný Deň povedomia o HPV spojíme, všetci a všetky môžeme mať o starosť menej!
+
+<br>
 
 <div class="flex flex-wrap justify-around">
 <img src="/images/HPV_kampaň.JPG" alt="HPV kampaň">
 </div>
+
+<br>
+
+<br>
+
+<br>
