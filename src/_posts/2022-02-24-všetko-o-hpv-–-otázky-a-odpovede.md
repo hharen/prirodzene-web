@@ -52,6 +52,14 @@ Ak sa môžete dať zaočkovať, urobte to! Očkovanie ešte pred prvým sexuál
 
 <br>
 
+<div class='f-zdravie box-post'>
+
+<p class="important-text"><a href="https://www.mojapeticia.sk/campaign/peticia-za-zavedenie-plne-hradeneho-ockovania-proti-hpv-pre-vsetkych-a-vsetky/580fb786-2115-44c7-82dd-88018846be1b" target="_blank"><strong>Podpíšem petíciu za zavedenie plne hradeného očkovania proti HPV pre všetkých a všetky</strong></a> </p>
+
+</div>
+
+<br>
+
 ### SKRÍNING KRČKA MATERNICE
 
 Skríning krčka maternice dokáže odhaliť HPV infekciu a zmeny v bunkách krčka maternice, ktoré by mohli viesť k vzniku rakoviny. Objednajte sa na skríningové vyšetrenie krčka maternice.
@@ -107,6 +115,14 @@ Okrem toho je dôležité vyhýbať sa fajčeniu. Fajčenie spôsobuje, že HPV 
 Na Slovensku je vakcína proti HPV plne hradená poisťovňou v trinástom roku života – t. j. od dvanástych narodenín po 1 deň pred trinástymi narodeninami. Od roku 2019 sa očkuje 2-valentnou vakcínou, ktorá chráni proti HPV typu 16 a 18. Ministerstvo zdravotníctva ohlásilo, že od mája 2022 sa bude očkovať 9-valentnou vakcínou, ktorá chráni proti viacerým typom vírusu. Niektoré poisťovne preplácajú časť očkovania aj vo vyššom veku. V ostatných prípadoch si človek musí celé očkovanie hradiť sám. Cena sa líši podľa typu vakcíny, ale väčšinou sa pohybuje v stovkách eur.
 
 Niektoré krajiny v súčasnosti ponúkajú očkovanie všetkým osobám mladším ako 45 rokov s cieľom chrániť ľudí pred vysokorizikovými kmeňmi HPV, ktoré sa spájajú s rakovinou. V niektorých krajinách majú nárok na očkovanie vo vyššom veku ľudia, ktorí majú zvýšené riziko infekcie HPV, napríklad pri ochoreniach znižujúcich imunitu, ako HIV, alebo po transplantácii orgánu.
+
+<br>
+
+<div class='f-zdravie box-post'>
+
+<p class="important-text"><a href="https://www.mojapeticia.sk/campaign/peticia-za-zavedenie-plne-hradeneho-ockovania-proti-hpv-pre-vsetkych-a-vsetky/580fb786-2115-44c7-82dd-88018846be1b" target="_blank"><strong>Podpíšem petíciu za zavedenie plne hradeného očkovania proti HPV pre všetkých a všetky</strong></a> </p>
+
+</div>
 
 <br>
 
@@ -169,6 +185,16 @@ Ak ste nikdy nemali sexuálny kontakt akéhokoľvek druhu, riziko, že sa nakaz�
 <br>
 
 **Zapojte sa aj vy do osvetovej kampane a porazme spolu HPV! Zdieľajte informácie so svojimi blízkymi. Dajte sa zaočkovať. Zaočkujte svoje deti. Objednajte sa na skríning krčka maternice.** 
+
+<br>
+
+<div class='f-zdravie box-post'>
+
+<p class="important-text"><a href="https://www.mojapeticia.sk/campaign/peticia-za-zavedenie-plne-hradeneho-ockovania-proti-hpv-pre-vsetkych-a-vsetky/580fb786-2115-44c7-82dd-88018846be1b" target="_blank"><strong>Podpíšem petíciu za zavedenie plne hradeného očkovania proti HPV pre všetkých a všetky</strong></a> </p>
+
+</div>
+
+<br>
 
 ### Ak sa v tohtoročný Deň povedomia o HPV spojíme, všetci a všetky môžeme mať o starosť menej!
 
