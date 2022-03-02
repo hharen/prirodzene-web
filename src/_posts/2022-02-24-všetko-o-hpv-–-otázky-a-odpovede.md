@@ -50,7 +50,7 @@ Ak sa môžete dať zaočkovať, urobte to! Očkovanie ešte pred prvým sexuál
 
 <br>
 
-### SKRÍNING RAKOVINY KRČKA MATERNICE
+### SKRÍNING KRČKA MATERNICE
 
 Skríning krčka maternice dokáže odhaliť HPV infekciu a zmeny v bunkách krčka maternice, ktoré by mohli viesť k vzniku rakoviny. Objednajte sa na skríningové vyšetrenie krčka maternice.
 Počas skríningového vyšetrenia, ktoré niekedy nazývame aj “PAP ster”, sa z krčka maternice odoberie (zotrie) vzorka a odošle sa do laboratória na vyšetrenie. Vyšetrenie zvyčajne nie je bolestivé a trvá niekoľko minút. Niektoré skríningové programy testujú aj prítomnosť samotného HPV. 
