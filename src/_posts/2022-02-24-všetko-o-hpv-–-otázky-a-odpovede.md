@@ -13,7 +13,7 @@ metadescription: Všetko, čo potrebujete vedieť o HPV a prevencii jeho prenosu
 
 <div class='f-zdravie box-post'>
 
-<a href="https://www.mojapeticia.sk/campaign/peticia-za-zavedenie-plne-hradeneho-ockovania-proti-hpv-pre-vsetkych-a-vsetky/580fb786-2115-44c7-82dd-88018846be1b" target="_blank"><strong>Podpíšem petíciu za zavedenie plne hradeného očkovania proti HPV pre všetkých a všetky</strong></a>
+<p class="important-text"><a href="https://www.mojapeticia.sk/campaign/peticia-za-zavedenie-plne-hradeneho-ockovania-proti-hpv-pre-vsetkych-a-vsetky/580fb786-2115-44c7-82dd-88018846be1b" target="_blank"><strong>Podpíšem petíciu za zavedenie plne hradeného očkovania proti HPV pre všetkých a všetky</strong></a> </p>
 
 </div>
 
