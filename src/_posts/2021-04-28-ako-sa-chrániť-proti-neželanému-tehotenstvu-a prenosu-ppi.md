@@ -149,9 +149,9 @@ Kondóm na prst (angl. finger condom) vyzerá veľmi podobne ako bežný kondóm
 
 <br>
 
-### **4. Dental dam** 
+### **4. Koferdam**
 
-Dental dam je štvorcový kus blany väčšinou vyrobený z latexu. Používa sa pri vulvárnom alebo análnom orálnom sexe. Pokladá sa na tú časť tela (vulvu/ análny otvor/ perineum), ktorá bude v kontakte s ústami. Zabraňuje prenosu PPI. Dental dam nie je bežne dostupná, dá sa však vyrobiť z bežného kondómu. Na internete je dostupných množstvo návodov, ktoré vysvetľujú, akým spôsobom sa to robí.
+Koferdam (dental dam) je štvorcový kus blany väčšinou vyrobený z latexu. Používa sa pri vulvárnom alebo análnom orálnom sexe. Pokladá sa na tú časť tela (vulvu/ análny otvor/ perineum), ktorá bude v kontakte s ústami. Zabraňuje prenosu PPI. Koferdam nie je na Slovensku dostupný v bežných obchodoch, dá sa však vyrobiť z bežného kondómu. Na internete je dostupných množstvo návodov, ktoré vysvetľujú, akým spôsobom sa to robí.
 
 <br>
 
