@@ -41,7 +41,7 @@ K ovulácii väčšinou dochádza okolo 14. dňa cyklu, teda v jeho polovici. 
 
 ### **4. Luteálna fáza** 
 
-Začína hneď po ovulácii, teda po uvoľnení vajíčka z vaječníka, a trvá až do konca cyklu (teda do prvého dňa začiatku novej menštruačnej fázy). Vajíčko vo vajíčkovodoch zotrvá 24 hodín, počas ktorých môže prísť k jeho oplodneniu spermiou. Ak k oplodneniu nedôjde, vajíčko sa „rozpadne“. Hormón, ktorý zabezpečoval vývin endometria sa „minie“. Dôjde k rozpadu buniek endometria, ktorý trvá niekoľko hodín až jeden deň. Telo sa potrebuje odumretého endometria a vajíčka zbaviť, nastane menštruačná fáza a cyklus sa začína odznova.
+Začína hneď po ovulácii, teda po uvoľnení vajíčka z vaječníka, a trvá až do konca cyklu (teda do prvého dňa začiatku novej menštruačnej fázy). Vajíčko vo vajíčkovodoch zotrvá 24 hodín, počas ktorých môže prísť k jeho oplodneniu spermiou. Ak k oplodneniu nedôjde, vajíčko sa „rozpadne“. Hormón, ktorý zabezpečoval vývin endometria sa „minie“. Dôjde k rozpadu buniek endometria, ktorý trvá niekoľko hodín až jeden deň. Telo sa potrebuje odumretého endometria zbaviť, nastane menštruačná fáza a cyklus sa začína odznova.
 
 <br>
 
