@@ -9,7 +9,7 @@ permalink: /partnerske-spolocnosti/
 
 inTYMYta je mimovládna, nezisková organizácia, ktorej poslaním je od jej vzniku v roku 1991 podporovať zodpovedné a kultivované sexuálne správanie mužov a žien, a obhajovať základné ľudské práva v oblasti sexuálneho a reprodukčného zdravia. inTYMYta je plnoprávnym členom Medzinárodnej federácie pre plánované rodičovstvo ([International Planned Parenthood Federation – IPPF](https://www.ippf.org/){:target="_blank"}) so sídlom v Londýne.  
 
-[https://www.intymyta.sk/](https://rodicovstvo.wordpress.com/){:target="_blank"}  
+[www.intymyta.sk](https://www.intymyta.sk/){:target="_blank"}  
 
 ## **AMAZE**
 
