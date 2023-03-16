@@ -36,7 +36,7 @@ Ak ste **zamestnanec alebo zamestnankyňa**, požiadajte svojho zamestnávateľa
 
 Ak ste **fyzická osoba, samostatne zárobkovo činná osoba alebo právnická osoba a daňové priznanie si podávate individuálne**, údaje za účelom poukázania 2 % z daní budete vpisovať do daňového priznania. Ak chcete poukázať 2 % z daní OZ Prirodzene, naše údaje nájdete nižšie.
 
-### **Údaje nášho občianskeho združenia nájdete [na tejto stránke](https://www.prirodzeneweb.sk/oz-prirodzene/){:target="_blank"}**
+### **[Údaje nášho občianskeho združenia nájdete na tejto stránke.](https://www.prirodzeneweb.sk/oz-prirodzene/){:target="_blank"}**
 
 Ďakujeme! 2 % z vašich daní nám umožní udržateľné a kontinuálne fungovanie.
 
