@@ -5,7 +5,7 @@ permalink: /o-nas/
 ---
 Prirodzene Web je nezisková platforma, ktorá prináša relevantné, veku primerané a odborné poznatky z oblasti sexuálneho vzdelávania pre dospelých a dospievajúcich ľudí.  
 
-Prirodzene Web je projekt [Občianskeho združenia Prirodzene](https://www.prirodzeneweb.sk/oz-prirodzene/){:target="_blank"}. Projekt vznikol v spolupráci so [Sokratovým inštitútom](https://www.sokratovinstitut.sk/){:target="_blank"}. Prirodzene Web je odborne zastrešený [Spoločnosťou pre plánované rodičovstvo (SPPR)](https://www.rodicovstvo.sk/){:target="_blank"}, ktorej členovia a členky sú odborníci a odborníčky na témy týkajúce sa sexuálneho vzdelávania z oblasti medicíny, gynekológie, andrológie, psychológie, pedagogiky, sociológie, sociálnych vied aj umenia. Články na Prirodzene Webe sú spoločným dielom členov a členiek SPPR.  
+Prirodzene Web je projekt [Občianskeho združenia Prirodzene](https://www.prirodzeneweb.sk/oz-prirodzene/){:target="_blank"}. Projekt vznikol v spolupráci so [Sokratovým inštitútom](https://www.sokratovinstitut.sk/){:target="_blank"}. Prirodzene Web je odborne zastrešený [organizáciou inTYMYta](https://www.intymyta.sk/){:target="_blank"}, ktorej členovia a členky sú odborníci a odborníčky na témy týkajúce sa sexuálneho vzdelávania z oblasti medicíny, gynekológie, andrológie, psychológie, pedagogiky, sociológie, sociálnych vied aj umenia. Články na Prirodzene Webe sú spoločným dielom členov a členiek inTYMYty.  
 
 ## **Vízia**
 
