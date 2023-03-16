@@ -24,7 +24,7 @@ Chcete prispieť k tomu, aby bolo viac vzdelávacích materiálov z oblasti sexu
 
 **Právna forma:** občianske združenie
 
-**Štatutárny orgán:** Nikoleta Nagyová
+**Štatutárny orgán:** Niko Nagy
 
 **Sídlo:**
 
