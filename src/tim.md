@@ -43,19 +43,3 @@ Dada študuje učiteľstvo anglického jazyka a výtvarnej výchovy na Pegagogic
 <div class="text-center">
 <img src="/images/Ema_Sofi_Dada.png" alt='Ema a Sofi a Dada' class="team-img">
 </div>
-
-## **Dabing**
-
-Kompetencie: dabing videí od AMAZE do slovenského jazyka.  
-
-### Viktória Vadovičová
-
-Viki má 20 rokov a je z Bratislavy. Vo svojom voľnom čase sa učí taliansky jazyk a chodí von so svojim psíkom. Veľmi rada chodí do divadla a snaží sa nachádzať radosť v každodennom živote. Má rada hudbu a tanec, tancovala vo folklórnom súbore a hrá na klavíri. Pre Viki je život o objavovaní seba samého, okolia a sveta. 
-
-### Pavel Ďurás
-
-Pavel má 21 rokov, pochádza z Rimavskej Soboty a momentálne študuje dejiny a teóriu umenia na Trnavskej univerzite v Trnave. Venuje sa divadlu, občasnej práci v televízií a štúdiu výtvarného umenia a módy.  
-
-<div class="text-center">
-<img src="/images/Viki-Pavel.jpg" alt='Viki a Pavel' class="team-img">
-</div>
